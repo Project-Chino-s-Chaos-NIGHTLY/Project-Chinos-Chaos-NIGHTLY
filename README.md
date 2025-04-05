@@ -15,3 +15,4 @@ If you have a nightly build installed, on the bottom left of the main menu it wi
 ### *How To Install The Nightly Build?*
 1. Download and Extract the latest build of [Codename Engine](https://github.com/CodenameCrew/CodenameEngine)
 2. Download and Install [GitHub Desktop](https://github.com/apps/desktop) (Will require you to make an account if you haven't already)
+3. Once you have installed GitHub Desktop, on this webpage near the top click on "Code" then click on "Open with GitHub Desktop."
