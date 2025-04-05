@@ -16,3 +16,5 @@ If you have a nightly build installed, on the bottom left of the main menu it wi
 1. Download and Extract the latest build of [Codename Engine](https://github.com/CodenameCrew/CodenameEngine)
 2. Download and Install [GitHub Desktop](https://github.com/apps/desktop) (Will require you to make an account if you haven't already)
 3. Once you have installed GitHub Desktop, on this webpage near the top click on "Code" then click on "Open with GitHub Desktop."
+4. After that set the "Local Path" to the mod folder of the codename engine you downloaded, it should look something like this: ![image](https://github.com/user-attachments/assets/ed7109da-f8db-4ee1-94ec-4d7efe01feb2)
+
