@@ -22,12 +22,15 @@ If you have a nightly build installed, on the bottom left of the main menu it wi
 7. Now open "CodenameEngine.exe"
 8. Once you are in the main menu press "TAB"
 9. (If Needed) Scroll down to "PROJECT CHINOS CHAOS NIGHTLY", then press enter.
+
 That's it, you're done. Enjoy the nightly build.
 
 ### *How To Update The Nightly Build?*
 1. To check for updates, open github desktop and click on "Fetch origin".
+
    ![image](https://github.com/user-attachments/assets/cf2bf972-b8e1-4563-a706-83beda6be894)
-3. If there is an update, it will say "Pull origin" click that to update the build.
+2. If there is an update, it will say "Pull origin" click that to update the build.
+
    ![image](https://github.com/user-attachments/assets/8be3d626-6669-411b-98ac-fec85b35d0aa)
 Note: If you have the game open when you update the build, you will need to restart the game for it to fully work.
 
