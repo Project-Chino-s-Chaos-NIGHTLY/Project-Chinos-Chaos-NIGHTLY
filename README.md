@@ -32,6 +32,7 @@ That's it, you're done. Enjoy the nightly build.
 2. If there is an update, it will say "Pull origin" click that to update the build.
 
    ![image](https://github.com/user-attachments/assets/8be3d626-6669-411b-98ac-fec85b35d0aa)
+
 Note: If you have the game open when you update the build, you will need to restart the game for it to fully work.
 
 
