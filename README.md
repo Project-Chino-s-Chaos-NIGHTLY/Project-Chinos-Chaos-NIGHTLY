@@ -6,5 +6,8 @@ This build is **UNFINISHED** there will be missing stuff, and there will be erro
 
 ---
 
-### *What is the Nightly build?*
-The Nightly build is a build that we will frequently update during development, typically at the end of the day. Essentially, beta versions of the next update. We recommend you stick to the stable build posted on the [GameBanana](https://gamebanana.com/mods/545648).
+### *What is The Nightly Build?*
+The Nightly build is a build that we will frequently update during development, typically at the end of the day. Essentially, beta/early access versions of the next update. We recommend you stick to the stable build posted on the [GameBanana](https://gamebanana.com/mods/545648).
+
+### *How To Install The Nightly Build?*
+Uhh, will update later.
