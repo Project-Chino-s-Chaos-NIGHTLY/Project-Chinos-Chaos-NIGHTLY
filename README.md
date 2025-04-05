@@ -10,5 +10,5 @@ This build is **UNFINISHED** there will be missing stuff, and there will be erro
 The Nightly build is a build that we will frequently update during development, typically at the end of the day. Essentially, beta/early access versions of the next update. We recommend you stick to the stable build posted on the [GameBanana](https://gamebanana.com/mods/545648).
 
 ### *How To Install The Nightly Build?*
-- First, Download the latest [CodenameEngine build](https://github.com/CodenameCrew/CodenameEngine)
+- First, Download the latest build of [Codename Engine](https://github.com/CodenameCrew/CodenameEngine)
 - Next, Download & Install [GitHub Desktop](https://github.com/apps/desktop) (Will require you to make an account if you haven't already)
