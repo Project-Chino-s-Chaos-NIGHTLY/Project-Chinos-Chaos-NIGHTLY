@@ -17,11 +17,12 @@ If you have a nightly build installed, on the bottom left of the main menu it wi
 2. Download and Install [GitHub Desktop](https://github.com/apps/desktop) (Will require you to make an account if you haven't already)
 3. Once you have installed GitHub Desktop, on this webpage near the top click on "Code" then click on "Open with GitHub Desktop"
 4. After that set the "Local Path" to the mod folder of the codename engine you downloaded, it should look something like this:
+
    ![image](https://github.com/user-attachments/assets/ed7109da-f8db-4ee1-94ec-4d7efe01feb2)
-6. Once you do that, hit "Clone"
-7. Now open "CodenameEngine.exe"
-8. Once you are in the main menu press "TAB"
-9. (If Needed) Scroll down to "PROJECT CHINOS CHAOS NIGHTLY", then press enter.
+5. Once you do that, hit "Clone"
+6. Now open "CodenameEngine.exe"
+7. Once you are in the main menu press "TAB"
+8. (If Needed) Scroll down to "PROJECT CHINOS CHAOS NIGHTLY", then press enter.
 
 That's it, you're done. Enjoy the nightly build.
 
