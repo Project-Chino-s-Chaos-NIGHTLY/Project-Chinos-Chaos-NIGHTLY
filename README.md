@@ -1,4 +1,4 @@
-# Project-Chinos-Chaos-NIGHTLY
+# Project Chino's Chaos | NIGHTLY
 Here you can access the Nightly Builds of *Project: Chino's Chaos*.
 
 ### WARNING!!
