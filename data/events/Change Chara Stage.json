@@ -1,0 +1,9 @@
+{
+	"params": [
+		{
+			"name": "What stage?",
+			"type": "DropDown('Static', 'Shaking', 'Breaking')",
+			"defaultValue": "Static"
+		}
+	]
+}

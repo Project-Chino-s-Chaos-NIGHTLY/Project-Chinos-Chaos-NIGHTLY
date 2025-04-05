@@ -1,0 +1,25 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 400,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -163584,
+	"displayName": "Deathmatch",
+	"icon": "Vs Matt/matt",
+	"name": "deathmatch",
+	"color": "#FD8100",
+	"customValues": {
+		"partText": "Vs Matt ~ Boxing Fight: Part 3",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"comingIn": "2.0",
+		"preventHealthGain": "true",
+		"charter": "unassigned",
+		"comingSoon": "true"
+	}
+}

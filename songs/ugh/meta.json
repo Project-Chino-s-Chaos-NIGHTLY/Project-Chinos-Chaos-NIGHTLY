@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 200,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": false,
+	"parsedColor": -8704,
+	"displayName": "Ugh Erect",
+	"icon": "tankman",
+	"name": "Ugh",
+	"color": "#FFDE00",
+	"customValues": {
+		"partText": "Vs Tankman ~ Extras: Gun Fight",
+		"comingIn": "?.?",
+		"comingSoon": "true"
+	}
+}

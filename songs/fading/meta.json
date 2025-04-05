@@ -1,0 +1,18 @@
+{
+	"beatsPerMeasure": 0,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 0,
+	"bpm": 0,
+	"difficulties": [],
+	"needsVoices": false,
+	"parsedColor": -14868939,
+	"displayName": "Fading",
+	"icon": "locked",
+	"name": "fading",
+	"color": "#3c3c3c",
+	"customValues": {
+		"partText": "Vs(?) ****** ~ Fire Fight: Part 3",
+		"gateKept": "true"
+	}
+}

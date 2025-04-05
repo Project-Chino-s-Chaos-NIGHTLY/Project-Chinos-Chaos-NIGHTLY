@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gf/boxin" isPlayer="false" flipX="false" isGF="true" x="100" y="275" color="#A5004D" icon="gf" interval="2">
+	<anim name="danceLeft"  anim="GF Dancing Beat instance 1"              fps="24" loop="false" x="0" y="0" indices="0..9" />
+	<anim name="danceRight" anim="GF Dancing Beat instance 1"              fps="24" loop="false" x="0" y="0" indices="10..19" />
+</character>

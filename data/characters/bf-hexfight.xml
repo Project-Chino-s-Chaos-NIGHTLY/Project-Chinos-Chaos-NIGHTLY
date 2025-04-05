@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" y="350" sprite="boyfriend/hex" flipX="true" isPlayer="true" icon="bf">
+	<anim name="idle" anim="Bf Idle Dance Glow" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="attack" anim="Bf Mic Throw" x="781" y="340" fps="24" loop="false"/>
+	<anim name="electrocuted" anim="Hit0" x="74" y="143" fps="24" loop="false"/>
+	<anim name="hit" anim="Hit 2" x="36" y="0" fps="24" loop="false"/>
+</character>

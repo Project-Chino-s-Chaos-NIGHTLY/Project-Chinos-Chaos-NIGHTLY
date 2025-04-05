@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs Chara/999/" lockCamPos="true" zoom="0.7" startCamPosX="960">
+	<sprite scrolly="0" x="-1025" sprite="bg/static" y="-258" type="none" scrollx="0" name="static"/>
+	<sprite x="-1025" scrolly="0" sprite="bg/shake" y="-258" type="loop" name="shaking" scrollx="0"/>
+	<gf x="658" alpha="0" y="536"/>
+	<bf x="891" scrolly="0" y="32" scrollx="0"/>
+	<dad x="17" scrolly="0" y="20" scrollx="0"/>
+	<combo x="1036" y="601"/>
+</stage>

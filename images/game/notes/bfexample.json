@@ -1,0 +1,30 @@
+{
+    "defaultAfterPress": true,
+    "spriteName": "fire.png",
+    "offsets": {
+        "sustains": [
+            0,
+            15
+        ],
+        "confirm": [
+            1,
+            -33
+        ],
+        "notes": [
+            -16,
+            19
+        ],
+        "statics": [
+            0,
+            0
+        ],
+        "pressed": [
+            0,
+            0
+        ]
+    },
+    "splashSkin": {
+        "overrideSongSkin": false,
+        "name": "fire"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"params": [
+		{
+			"name": "This event is meant for Glitcher, and will only work with Glitcher.",
+			"type": "DropDown('NaN')",
+			"defaultValue": "NaN"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+import funkin.backend.assets.ModsFolder;
+import funkin.editors.ui.UIState;
+import funkin.editors.ui.UISprite;
+import funkin.editors.ui.UIText;
+import funkin.editors.ui.UIButton;
+import funkin.editors.ui.UITextBox;
+import funkin.editors.ui.UIDropDown;
+import funkin.options.type.IconOption;
+
+import haxe.io.Path;
+import haxe.Json;
+import sys.io.File;
+import sys.FileSystem;
+function create() {
+	winTitle = 'Delete Note Skin';
+
+	winWidth = 330;
+	winHeight = 150;
+}
+var daName:String;
+function postCreate() {
+	titleSpr.x -= 20;
+	var splashText:UIText = new UIText(windowSpr.x + 5, windowSpr.y + 40, null, "Careful!!\nThis action CANNOT be undone,\nare you sure you want to continue?");
+    add(splashText);
+
+    var saveButton = new UIButton(windowSpr.x + windowSpr.bWidth - 10, windowSpr.y + windowSpr.bHeight - 16 - 32, "Yes, Delete", function() {
+		deleteSkin();
+        close();
+	}, (75*2)-5);
+	saveButton.frames = Paths.getFrames("editors/ui/grayscale-button");
+	saveButton.color = 0xFF00FF00;
+	saveButton.x -= saveButton.bWidth;
+    add(saveButton);
+
+    var closeButton = new UIButton(saveButton.x - 20, saveButton.y, "No, Cancel", function() {
+		close();
+	}, (75*2-5));
+	add(closeButton);
+	closeButton.frames = Paths.getFrames("editors/ui/grayscale-button");
+	closeButton.color = 0xFFFF0000;
+	closeButton.x -= closeButton.bWidth;
+}

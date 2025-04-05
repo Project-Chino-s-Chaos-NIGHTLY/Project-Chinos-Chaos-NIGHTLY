@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hex.png" width="2939" height="344">
+	<SubTexture name="Corrupted Hex Idle0000" x="3" y="3" width="303" height="308" frameX="-16" frameY="-34" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0001" x="1415" y="3" width="369" height="322" frameX="-7" frameY="-16" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0002" x="309" y="3" width="184" height="314" frameX="-90" frameY="-24" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0003" x="1787" y="3" width="395" height="332" frameX="-8" frameY="-6" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0004" x="496" y="3" width="183" height="314" frameX="-89" frameY="-24" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0005" x="2534" y="3" width="402" height="338" frameX="-3" frameY="-0" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0006" x="682" y="3" width="181" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0007" x="2185" y="3" width="346" height="336" frameX="-0" frameY="-2" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0008" x="866" y="3" width="180" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0009" x="1049" y="3" width="180" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0010" x="1232" y="3" width="180" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0011" x="1232" y="3" width="180" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0012" x="1232" y="3" width="180" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0013" x="1232" y="3" width="180" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0014" x="1232" y="3" width="180" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+	<SubTexture name="Corrupted Hex Idle0015" x="1232" y="3" width="180" height="315" frameX="-89" frameY="-23" frameWidth="410" frameHeight="346"/>
+</TextureAtlas>

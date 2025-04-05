@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="sidePanel.png" width="3637" height="4866">
+	<SubTexture name="Menu Shine0000" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0001" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0002" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0003" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0004" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0005" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0006" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0007" x="1239" y="10" width="1189" height="1219" rotated="true" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0008" x="10" y="1209" width="1189" height="1219" rotated="true" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0009" x="1209" y="1239" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0010" x="2438" y="10" width="1189" height="1219" rotated="true" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0011" x="2438" y="1239" width="1189" height="1219" rotated="true" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0012" x="10" y="2438" width="1189" height="1219" rotated="true" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0013" x="1209" y="2438" width="1189" height="1219" rotated="true" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0014" x="2408" y="2468" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0015" x="10" y="3667" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0016" x="1239" y="3667" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0017" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0018" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0019" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0020" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0021" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0022" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+	<SubTexture name="Menu Shine0023" x="10" y="10" width="1219" height="1189" frameX="-0" frameY="-0" frameWidth="1220" frameHeight="1190"/>
+</TextureAtlas>

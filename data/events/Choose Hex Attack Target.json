@@ -1,0 +1,14 @@
+{
+	"params": [
+		{
+			"name": "Who To Attack?",
+			"type": "DropDown('NaN', 'All', 'Boyfriend', 'Girlfriend', 'Carol', 'Whitty', 'Robot')",
+			"defaultValue": "NaN"
+		},
+		{
+			"name": "Who's?",
+			"type": "DropDown('NaN', 'Normal', 'Ghost', 'Both')",
+			"defaultValue": "NaN"
+		}
+	]
+}

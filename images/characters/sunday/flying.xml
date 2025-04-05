@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="flying.png" width="8190" height="7419">
+	<SubTexture name="Drone Sunday + Carol0000" x="4071" y="6764" width="863" height="654" frameX="-158" frameY="-47" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0001" x="5682" y="6181" width="837" height="599" frameX="-157" frameY="-102" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0002" x="6522" y="6186" width="836" height="599" frameX="-158" frameY="-102" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0003" x="1078" y="545" width="772" height="545" frameX="-158" frameY="-156" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0004" x="7184" y="548" width="772" height="546" frameX="-158" frameY="-155" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0005" x="1547" y="1643" width="675" height="549" frameX="-157" frameY="-155" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0006" x="3766" y="1094" width="674" height="548" frameX="-158" frameY="-156" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0007" x="4382" y="1646" width="576" height="551" frameX="-174" frameY="-153" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0008" x="4961" y="1646" width="576" height="551" frameX="-174" frameY="-153" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0009" x="5540" y="1647" width="577" height="551" frameX="-173" frameY="-153" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0010" x="7666" y="3886" width="450" height="563" frameX="-256" frameY="-150" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0011" x="3333" y="3874" width="450" height="561" frameX="-256" frameY="-152" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0012" x="6588" y="2762" width="534" height="558" frameX="-256" frameY="-155" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0013" x="3194" y="6741" width="874" height="622" frameX="-230" frameY="-161" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0014" x="1879" y="6740" width="1312" height="613" frameX="-230" frameY="-170" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0015" x="1" y="6735" width="1875" height="602" frameX="-230" frameY="-181" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0016" x="5355" y="5584" width="466" height="582" frameX="-198" frameY="-223" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0017" x="5824" y="5594" width="466" height="582" frameX="-198" frameY="-223" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0018" x="4684" y="6168" width="496" height="593" frameX="-134" frameY="-201" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0019" x="5183" y="6169" width="496" height="593" frameX="-134" frameY="-201" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0020" x="4174" y="6157" width="507" height="585" frameX="-55" frameY="-134" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0021" x="6352" y="5013" width="480" height="580" frameX="-36" frameY="-74" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0022" x="7360" y="5018" width="481" height="580" frameX="-33" frameY="-68" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0023" x="2901" y="5569" width="481" height="581" frameX="-30" frameY="-62" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0024" x="1" y="5559" width="480" height="580" frameX="-28" frameY="-57" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0025" x="484" y="5562" width="480" height="580" frameX="-25" frameY="-51" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0026" x="3385" y="5570" width="480" height="581" frameX="-22" frameY="-45" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0027" x="967" y="5563" width="481" height="580" frameX="-19" frameY="-40" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0028" x="1451" y="5565" width="480" height="580" frameX="-17" frameY="-34" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0029" x="3868" y="5571" width="480" height="581" frameX="-14" frameY="-28" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0030" x="1934" y="5566" width="480" height="580" frameX="-11" frameY="-23" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0031" x="2417" y="5568" width="481" height="580" frameX="-8" frameY="-17" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0032" x="2417" y="5568" width="481" height="580" frameX="-6" frameY="-11" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0033" x="4351" y="5573" width="480" height="581" frameX="-3" frameY="-5" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0034" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0035" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0036" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0037" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0038" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0039" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0040" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0041" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0042" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0043" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0044" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0045" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0046" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0047" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday + Carol0048" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2106" frameHeight="805"/>
+	<SubTexture name="Drone Sunday Gun throw0000" x="5431" y="3319" width="540" height="559" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0001" x="5974" y="3321" width="541" height="559" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0002" x="7125" y="2762" width="540" height="558" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0003" x="1" y="3307" width="540" height="558" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0004" x="581" y="4433" width="580" height="560" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0005" x="1164" y="4434" width="581" height="560" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0006" x="6518" y="3323" width="577" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0007" x="2173" y="3874" width="577" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0008" x="1748" y="4436" width="577" height="560" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0009" x="2328" y="4436" width="578" height="560" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0010" x="2753" y="3874" width="577" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0011" x="6506" y="3885" width="577" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0012" x="2909" y="4438" width="577" height="560" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0013" x="3489" y="4439" width="578" height="560" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0014" x="7086" y="3886" width="577" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0015" x="1" y="4431" width="577" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0016" x="4070" y="4440" width="580" height="560" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0017" x="4653" y="4441" width="581" height="560" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0018" x="7668" y="2762" width="521" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0019" x="7098" y="3323" width="528" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0020" x="1" y="541" width="530" height="545" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0021" x="1853" y="546" width="527" height="545" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0022" x="6451" y="1" width="532" height="544" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0023" x="6986" y="1" width="532" height="544" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0024" x="2383" y="546" width="526" height="545" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0025" x="5375" y="1" width="536" height="543" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0026" x="2157" y="1" width="535" height="542" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0027" x="2695" y="1" width="529" height="542" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0028" x="3227" y="1" width="538" height="542" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0029" x="3768" y="1" width="531" height="542" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0030" x="538" y="1" width="536" height="541" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0031" x="1077" y="1" width="536" height="541" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0032" x="4302" y="1" width="530" height="542" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0033" x="4835" y="1" width="537" height="542" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0034" x="1616" y="1" width="538" height="541" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0035" x="7521" y="1" width="532" height="544" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0036" x="2912" y="546" width="532" height="545" frameX="-1" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0037" x="3447" y="546" width="527" height="545" frameX="-0" frameY="-0" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0038" x="7668" y="2762" width="521" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday Gun throw0039" x="7098" y="3323" width="528" height="559" frameX="-1" frameY="-1" frameWidth="581" frameHeight="560"/>
+	<SubTexture name="Drone Sunday down0000" x="5" y="1" width="530" height="537" frameX="-1" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0001" x="534" y="545" width="541" height="544" frameX="-0" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0002" x="5914" y="1" width="534" height="543" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0003" x="3977" y="546" width="528" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0004" x="534" y="1092" width="536" height="546" frameX="-1" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0005" x="1073" y="1093" width="531" height="546" frameX="-0" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0006" x="4508" y="546" width="528" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0007" x="5039" y="547" width="536" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0008" x="1" y="1089" width="530" height="546" frameX="-1" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0009" x="1607" y="1094" width="529" height="546" frameX="-0" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0010" x="5578" y="547" width="536" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0011" x="6117" y="548" width="530" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0012" x="2139" y="1094" width="528" height="546" frameX="-1" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0013" x="2670" y="1094" width="537" height="546" frameX="-0" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0014" x="6650" y="548" width="531" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0015" x="3977" y="546" width="528" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0016" x="534" y="1092" width="536" height="546" frameX="-1" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0017" x="1073" y="1093" width="531" height="546" frameX="-0" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0018" x="4508" y="546" width="528" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0019" x="5039" y="547" width="536" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0020" x="1" y="1089" width="530" height="546" frameX="-1" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0021" x="1607" y="1094" width="529" height="546" frameX="-0" frameY="-0" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0022" x="5578" y="547" width="536" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday down0023" x="6117" y="548" width="530" height="545" frameX="-1" frameY="-1" frameWidth="541" frameHeight="546"/>
+	<SubTexture name="Drone Sunday idle0000" x="4764" y="2200" width="545" height="555" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0001" x="5312" y="2201" width="546" height="555" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0002" x="6120" y="1647" width="547" height="552" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0003" x="6670" y="1648" width="548" height="552" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0004" x="2072" y="2195" width="546" height="554" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0005" x="2621" y="2196" width="547" height="554" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0006" x="1471" y="2751" width="542" height="556" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0007" x="2016" y="2752" width="542" height="556" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0008" x="7629" y="3324" width="540" height="559" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0009" x="3786" y="3877" width="541" height="559" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0010" x="544" y="3308" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0011" x="1087" y="3310" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0012" x="1" y="3868" width="540" height="559" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0013" x="4330" y="3878" width="541" height="559" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0014" x="1630" y="3311" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0015" x="2173" y="3312" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0016" x="544" y="3869" width="540" height="559" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0017" x="5861" y="2202" width="547" height="555" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0018" x="3171" y="2197" width="545" height="554" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0019" x="7221" y="1649" width="547" height="552" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0020" x="1522" y="2195" width="547" height="553" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0021" x="3719" y="2197" width="547" height="554" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0022" x="485" y="2193" width="546" height="553" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0023" x="2561" y="2753" width="542" height="556" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0024" x="6043" y="2761" width="542" height="557" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0025" x="4874" y="3879" width="541" height="559" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0026" x="2716" y="3313" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0027" x="3259" y="3313" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0028" x="1087" y="3871" width="540" height="559" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0029" x="5418" y="3881" width="541" height="559" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0030" x="3802" y="3316" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0031" x="4345" y="3317" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0032" x="1630" y="3872" width="540" height="559" frameX="-1" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0033" x="5962" y="3883" width="541" height="559" frameX="-0" frameY="-0" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday idle0034" x="4888" y="3318" width="540" height="558" frameX="-1" frameY="-1" frameWidth="549" frameHeight="559"/>
+	<SubTexture name="Drone Sunday left0000" x="5237" y="4443" width="532" height="560" frameX="-1" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0001" x="6303" y="4447" width="529" height="563" frameX="-0" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0002" x="5772" y="4445" width="528" height="562" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0003" x="6835" y="4448" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0004" x="2117" y="4999" width="526" height="564" frameX="-1" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0005" x="2646" y="5001" width="527" height="564" frameX="-0" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0006" x="7364" y="4452" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0007" x="1" y="4993" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0008" x="3176" y="5002" width="526" height="564" frameX="-1" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0009" x="3705" y="5003" width="527" height="564" frameX="-0" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0010" x="530" y="4996" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0011" x="1059" y="4997" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0012" x="4235" y="5004" width="526" height="564" frameX="-1" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0013" x="4764" y="5006" width="527" height="564" frameX="-0" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0014" x="1588" y="4999" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0015" x="6835" y="4448" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0016" x="2117" y="4999" width="526" height="564" frameX="-1" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0017" x="2646" y="5001" width="527" height="564" frameX="-0" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0018" x="7364" y="4452" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0019" x="1" y="4993" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0020" x="3176" y="5002" width="526" height="564" frameX="-1" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0021" x="3705" y="5003" width="527" height="564" frameX="-0" frameY="-0" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0022" x="530" y="4996" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday left0023" x="1059" y="4997" width="526" height="563" frameX="-1" frameY="-1" frameWidth="533" frameHeight="564"/>
+	<SubTexture name="Drone Sunday right0000" x="5294" y="5010" width="531" height="571" frameX="-1" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0001" x="6835" y="5014" width="522" height="579" frameX="-0" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0002" x="5828" y="5013" width="521" height="578" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0003" x="4834" y="5584" width="518" height="581" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0004" x="1044" y="6148" width="519" height="583" frameX="-1" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0005" x="1566" y="6149" width="519" height="583" frameX="-0" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0006" x="6293" y="5596" width="518" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0007" x="6814" y="5596" width="519" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0008" x="2088" y="6151" width="518" height="583" frameX="-1" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0009" x="2609" y="6153" width="519" height="583" frameX="-0" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0010" x="7336" y="5601" width="518" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0011" x="1" y="6145" width="519" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0012" x="3131" y="6154" width="518" height="583" frameX="-1" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0013" x="3652" y="6155" width="519" height="583" frameX="-0" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0014" x="523" y="6146" width="518" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0015" x="4834" y="5584" width="518" height="581" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0016" x="1044" y="6148" width="519" height="583" frameX="-1" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0017" x="1566" y="6149" width="519" height="583" frameX="-0" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0018" x="6293" y="5596" width="518" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0019" x="6814" y="5596" width="519" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0020" x="2088" y="6151" width="518" height="583" frameX="-1" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0021" x="2609" y="6153" width="519" height="583" frameX="-0" frameY="-0" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0022" x="7336" y="5601" width="518" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday right0023" x="1" y="6145" width="519" height="582" frameX="-1" frameY="-1" frameWidth="532" frameHeight="583"/>
+	<SubTexture name="Drone Sunday shoot0000" x="3210" y="1094" width="553" height="547" frameX="-65" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0001" x="2225" y="1643" width="611" height="549" frameX="-12" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0002" x="4954" y="1095" width="616" height="548" frameX="-0" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0003" x="7638" y="1097" width="508" height="549" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0004" x="1" y="1638" width="516" height="549" frameX="-104" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0005" x="520" y="1641" width="511" height="549" frameX="-103" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0006" x="4443" y="1094" width="508" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0007" x="5573" y="1095" width="517" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0008" x="1034" y="1642" width="510" height="549" frameX="-104" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0009" x="2839" y="1644" width="509" height="549" frameX="-103" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0010" x="6093" y="1096" width="516" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0011" x="6612" y="1096" width="510" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0012" x="3351" y="1645" width="508" height="549" frameX="-104" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0013" x="3862" y="1645" width="517" height="549" frameX="-103" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0014" x="7125" y="1097" width="510" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0015" x="7638" y="1097" width="508" height="549" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0016" x="1" y="1638" width="516" height="549" frameX="-104" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0017" x="520" y="1641" width="511" height="549" frameX="-103" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0018" x="4443" y="1094" width="508" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0019" x="5573" y="1095" width="517" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0020" x="1034" y="1642" width="510" height="549" frameX="-104" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0021" x="2839" y="1644" width="509" height="549" frameX="-103" frameY="-0" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0022" x="6093" y="1096" width="516" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday shoot0023" x="6612" y="1096" width="510" height="548" frameX="-104" frameY="-1" frameWidth="623" frameHeight="550"/>
+	<SubTexture name="Drone Sunday up0000" x="1" y="2190" width="481" height="552" frameX="-1" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0001" x="4269" y="2200" width="492" height="554" frameX="-0" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0002" x="1034" y="2194" width="485" height="553" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0003" x="6411" y="2203" width="482" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0004" x="3106" y="2754" width="491" height="556" frameX="-1" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0005" x="3600" y="2754" width="486" height="556" frameX="-0" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0006" x="6896" y="2204" width="482" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0007" x="7381" y="2204" width="491" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0008" x="4089" y="2757" width="485" height="556" frameX="-1" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0009" x="4577" y="2758" width="483" height="556" frameX="-0" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0010" x="1" y="2749" width="491" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0011" x="495" y="2749" width="485" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0012" x="5063" y="2759" width="482" height="556" frameX="-1" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0013" x="5548" y="2760" width="492" height="556" frameX="-0" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0014" x="983" y="2750" width="485" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0015" x="6411" y="2203" width="482" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0016" x="3106" y="2754" width="491" height="556" frameX="-1" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0017" x="3600" y="2754" width="486" height="556" frameX="-0" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0018" x="6896" y="2204" width="482" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0019" x="7381" y="2204" width="491" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0020" x="4089" y="2757" width="485" height="556" frameX="-1" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0021" x="4577" y="2758" width="483" height="556" frameX="-0" frameY="-0" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0022" x="1" y="2749" width="491" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+	<SubTexture name="Drone Sunday up0023" x="495" y="2749" width="485" height="555" frameX="-1" frameY="-1" frameWidth="493" frameHeight="556"/>
+</TextureAtlas>

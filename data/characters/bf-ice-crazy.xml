@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" y="385" sprite="boyfriend/ice-crazy" flipX="true" isPlayer="true" icon="Vs Whitty/bf-ice" color="#99FFFF" gameOverChar="bf-ice-dead" splashSkin="ice" noteSkin="NOTE_assets_ice">
+	<anim name="idle" anim="BF Ballistic Ice Idle " x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF Ballistic Ice Sing Left 0" x="-30" y="42" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF Ballistic Ice Sing Down 0" x="7" y="58" fps="24" loop="false"/>
+	<anim name="singUP" anim="BF Ballistic Ice Sing Up 0" x="-25" y="82" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF Ballistic Ice Sing Right 0" x="-48" y="40" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="BF Ballistic Ice Sing Left MISS" x="57" y="92" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF Ballistic Ice Sing Down MISS" x="86" y="102" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="BF Ballistic Ice Sing Up MISS" x="9" y="188" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF Ballistic Ice Sing Right MISS" x="12" y="150" fps="24" loop="false"/>
+	<anim name="hit" anim="BF Ballistic Ice HIT" x="-37" y="43" fps="24" loop="false"/>
+	<anim name="bonk" anim="BF Ice HIt down " x="16" y="0" fps="24" loop="false"/>
+</character>

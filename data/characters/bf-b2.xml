@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="20" y="340" sprite="boyfriend/b2" flipX="true" isPlayer="true" icon="Vs Whitty/bf-b2" color="#00FF70" camx="-170" camy="-250">
+	<anim name="idle" anim="Idle0" x="10" y="90" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="-5" y="170" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="80" y="80" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="10" y="100" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="105" y="-5" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="miss_down0" x="110" y="-5" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="miss_up" x="0" y="165" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="miss_right0" x="15" y="95" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="miss_left0" x="80" y="80" fps="24" loop="false"/>
+</character>

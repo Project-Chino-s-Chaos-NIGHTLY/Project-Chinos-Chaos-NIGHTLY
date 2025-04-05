@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="burst.png" width="1873" height="1354">
+	<SubTexture name="Burst0000" x="1376" y="647" width="483" height="560" frameX="-57" frameY="-95" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0001" x="1376" y="647" width="483" height="560" frameX="-57" frameY="-95" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0002" x="1288" y="10" width="575" height="627" frameX="-28" frameY="-53" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0003" x="1288" y="10" width="575" height="627" frameX="-28" frameY="-53" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0004" x="709" y="717" width="657" height="611" rotated="true" frameX="-13" frameY="-24" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0005" x="709" y="717" width="657" height="611" rotated="true" frameX="-13" frameY="-24" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0006" x="10" y="717" width="689" height="627" rotated="true" frameX="-3" frameY="-4" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0007" x="10" y="717" width="689" height="627" rotated="true" frameX="-3" frameY="-4" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0008" x="651" y="10" width="627" height="697" frameX="-3" frameY="-0" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0009" x="651" y="10" width="627" height="697" frameX="-3" frameY="-0" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0010" x="10" y="10" width="631" height="696" frameX="-0" frameY="-1" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0011" x="10" y="10" width="631" height="696" frameX="-0" frameY="-1" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0012" x="1288" y="647" width="1" height="1" frameX="-0" frameY="-0" frameWidth="631" frameHeight="697"/>
+	<SubTexture name="Burst0013" x="1288" y="647" width="1" height="1" frameX="-0" frameY="-0" frameWidth="631" frameHeight="697"/>
+</TextureAtlas>

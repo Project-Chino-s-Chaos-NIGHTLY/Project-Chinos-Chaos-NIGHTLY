@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="crazy-weak.png" width="9979" height="4077">
+	<SubTexture name="Whitty Ballistic Kick0000" x="9142" y="1493" width="827" height="812" frameX="-110" frameY="-41" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0001" x="3687" y="2225" width="829" height="853" frameX="-0" frameY="-3" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0002" x="4526" y="2243" width="829" height="853" frameX="-0" frameY="-3" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0003" x="7589" y="2263" width="759" height="857" frameX="-26" frameY="-0" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0004" x="8358" y="2289" width="759" height="857" frameX="-26" frameY="-0" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0005" x="5365" y="2244" width="732" height="854" frameX="-28" frameY="-3" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0006" x="6107" y="2245" width="730" height="854" frameX="-30" frameY="-3" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0007" x="6847" y="2251" width="732" height="854" frameX="-28" frameY="-3" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0008" x="10" y="2203" width="729" height="849" frameX="-34" frameY="-7" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0009" x="749" y="2209" width="718" height="849" frameX="-45" frameY="-7" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0010" x="1477" y="2211" width="729" height="849" frameX="-34" frameY="-7" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0011" x="2216" y="2221" width="727" height="849" frameX="-36" frameY="-7" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0012" x="10" y="2203" width="729" height="849" frameX="-34" frameY="-7" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0013" x="749" y="2209" width="718" height="849" frameX="-45" frameY="-7" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0014" x="1477" y="2211" width="729" height="849" frameX="-34" frameY="-7" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Kick0015" x="2216" y="2221" width="727" height="849" frameX="-36" frameY="-7" frameWidth="937" frameHeight="857"/>
+	<SubTexture name="Whitty Ballistic Hit 10000" x="8403" y="1493" width="729" height="786" frameX="-0" frameY="-1" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10001" x="5670" y="1464" width="708" height="770" frameX="-61" frameY="-18" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10002" x="6388" y="1465" width="707" height="770" frameX="-61" frameY="-18" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10003" x="2908" y="1448" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10004" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10005" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10006" x="7105" y="1471" width="648" height="770" frameX="-93" frameY="-18" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10007" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10008" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10009" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10010" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10011" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10012" x="1463" y="1444" width="704" height="755" frameX="-64" frameY="-33" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10013" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10014" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10015" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 10016" x="3601" y="1450" width="683" height="763" frameX="-79" frameY="-25" frameWidth="769" frameHeight="788"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0000" x="4294" y="1451" width="700" height="764" frameX="-0" frameY="-4" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0001" x="9024" y="734" width="679" height="749" frameX="-28" frameY="-16" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0002" x="9024" y="734" width="679" height="749" frameX="-28" frameY="-16" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0003" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0004" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0005" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0006" x="7763" y="1482" width="630" height="771" frameX="-77" frameY="-0" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0007" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0008" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0009" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0010" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0011" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0012" x="10" y="1438" width="659" height="750" frameX="-66" frameY="-21" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0013" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0014" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0015" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 2 0016" x="5004" y="1464" width="656" height="769" frameX="-55" frameY="-2" frameWidth="725" frameHeight="771"/>
+	<SubTexture name="Whitty Ballistic Hit 30000" x="9127" y="2315" width="759" height="895" frameX="-0" frameY="-22" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30001" x="771" y="3070" width="769" height="909" frameX="-2" frameY="-4" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30002" x="1550" y="3080" width="769" height="909" frameX="-2" frameY="-4" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30003" x="2329" y="3084" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30004" x="2329" y="3084" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30005" x="3105" y="3088" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30006" x="3105" y="3088" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30007" x="4412" y="3106" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30008" x="10" y="3068" width="751" height="907" frameX="-3" frameY="-5" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30009" x="4412" y="3106" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30010" x="4412" y="3106" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30011" x="2329" y="3084" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30012" x="2329" y="3084" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30013" x="2329" y="3084" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30014" x="2329" y="3084" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Ballistic Hit 30015" x="2329" y="3084" width="766" height="912" frameX="-3" frameY="-0" frameWidth="771" frameHeight="917"/>
+	<SubTexture name="Whitty Headbutt0000" x="8001" y="10" width="785" height="712" frameX="-0" frameY="-4" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0001" x="1321" y="716" width="797" height="718" frameX="-0" frameY="-0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0002" x="2128" y="716" width="797" height="718" frameX="-0" frameY="-0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0003" x="5894" y="10" width="816" height="699" frameX="-0" frameY="-19" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0004" x="6720" y="10" width="816" height="699" frameX="-0" frameY="-19" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0005" x="908" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0006" x="1739" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0007" x="2570" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0008" x="3401" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0009" x="4232" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0010" x="5063" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0011" x="2570" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0012" x="3401" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0013" x="4232" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty Headbutt0014" x="5063" y="10" width="821" height="696" frameX="-0" frameY="-22" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="Whitty in eruption0000" x="5732" y="3109" width="592" height="958" frameX="-52" frameY="-22" frameWidth="739" frameHeight="980"/>
+	<SubTexture name="Whitty in eruption0001" x="3881" y="3088" width="521" height="926" frameX="-119" frameY="-46" frameWidth="739" frameHeight="980"/>
+	<SubTexture name="Whitty in eruption0002" x="5188" y="3108" width="534" height="955" frameX="-71" frameY="-14" frameWidth="739" frameHeight="980"/>
+	<SubTexture name="Whitty in eruption0003" x="2177" y="1444" width="721" height="757" frameX="-0" frameY="-107" frameWidth="739" frameHeight="980"/>
+	<SubTexture name="Whitty in eruption0004" x="2953" y="2223" width="724" height="851" frameX="-14" frameY="-34" frameWidth="739" frameHeight="980"/>
+	<SubTexture name="Whitty weak dance0000" x="7802" y="732" width="598" height="740" frameX="-9" frameY="-1" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0001" x="7802" y="732" width="598" height="740" frameX="-9" frameY="-1" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0002" x="4004" y="716" width="616" height="724" frameX="-0" frameY="-17" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0003" x="4004" y="716" width="616" height="724" frameX="-0" frameY="-17" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0004" x="698" y="716" width="613" height="717" frameX="-1" frameY="-24" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0005" x="698" y="716" width="613" height="717" frameX="-1" frameY="-24" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0006" x="2935" y="716" width="611" height="721" frameX="-2" frameY="-20" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0007" x="2935" y="716" width="611" height="721" frameX="-2" frameY="-20" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0008" x="6568" y="719" width="608" height="736" frameX="-4" frameY="-5" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0009" x="5510" y="719" width="608" height="735" frameX="-4" frameY="-6" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0010" x="7186" y="724" width="606" height="737" frameX="-5" frameY="-4" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0011" x="7186" y="724" width="606" height="737" frameX="-5" frameY="-4" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whitty weak dance0012" x="8410" y="732" width="604" height="741" frameX="-6" frameY="-0" frameWidth="616" frameHeight="742"/>
+	<SubTexture name="Whttty Ballistic slap0000" x="10" y="714" width="678" height="714" frameX="-33" frameY="-33" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0001" x="8796" y="10" width="566" height="712" frameX="-28" frameY="-31" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0002" x="10" y="10" width="433" height="691" frameX="-17" frameY="-51" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0003" x="7546" y="10" width="445" height="704" frameX="-0" frameY="-38" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0004" x="453" y="10" width="445" height="694" frameX="-0" frameY="-48" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0005" x="9372" y="10" width="438" height="714" frameX="-5" frameY="-30" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0006" x="3556" y="716" width="438" height="722" frameX="-5" frameY="-22" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0007" x="6128" y="719" width="430" height="735" frameX="-7" frameY="-12" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0008" x="4630" y="716" width="430" height="725" frameX="-7" frameY="-22" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0009" x="5070" y="716" width="430" height="727" frameX="-7" frameY="-20" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0010" x="1071" y="1444" width="382" height="751" frameX="-40" frameY="-1" frameWidth="711" frameHeight="752"/>
+	<SubTexture name="Whttty Ballistic slap0011" x="679" y="1443" width="382" height="750" frameX="-40" frameY="-2" frameWidth="711" frameHeight="752"/>
+</TextureAtlas>

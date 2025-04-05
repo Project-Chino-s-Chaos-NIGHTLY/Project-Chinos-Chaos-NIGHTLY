@@ -1,0 +1,35 @@
+{
+	"flip": false,
+	"states": [
+		{
+			"anim": "anim1",
+			"offsets": [
+				-13,
+				25
+			],
+			"indices": [],
+			"loop": false,
+			"fps": 24
+		},
+		{
+			"anim": "anim2",
+			"offsets": [
+				-13,
+				25
+			],
+			"indices": [],
+			"loop": false,
+			"fps": 24
+		},
+		{
+			"anim": "anim3",
+			"offsets": [
+				-13,
+				25
+			],
+			"indices": [],
+			"loop": false,
+			"fps": 24
+		}
+	]
+}

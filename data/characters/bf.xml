@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="boyfriend/daboi" flipX="true" isPlayer="true" icon="bf" color="#31B0D1">
+	<anim name="idle" anim="BF idle dance" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF NOTE LEFT0" x="8" y="-1" fps="24" loop="false" indices="0,1,2,3,3,3,3,3,4,5,6,7,8,9,10,11,12,13,14"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN0" x="-6" y="2" fps="24" loop="false" indices="0,1,2,3,3,3,3,3,4,5,6,7,8,9,10,11,12,13,14"/>
+	<anim name="singUP" anim="BF NOTE UP0" x="-5" y="33" fps="24" loop="false" indices="0,1,2,3,3,3,3,3,4,5,6,7,8,9,10,11,12,13,14"/>
+	<anim name="singRIGHT" anim="BF NOTE RIGHT0" x="-4" y="-1" fps="24" loop="false" indices="0,1,2,3,3,3,3,3,4,5,6,7,8,9,10,11,12,13,14"/>
+	<anim name="singLEFTmiss" anim="BF NOTE LEFT MISS" x="3" y="19" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF NOTE DOWN MISS" x="-18" y="-20" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="BF NOTE UP MISS" x="-45" y="22" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF NOTE RIGHT MISS" x="-40" y="21" fps="24" loop="false"/>
+	<anim name="hey" anim="BF HEY" x="-4" y="6" fps="24" loop="false"/>
+	<anim name="hit" anim="BF hit" x="13" y="18" fps="24" loop="false"/>
+	<anim name="pre-attack" anim="bf pre attack" fps="24" loop="false" x="-47" y="-36"/>
+	<anim name="attack" anim="boyfriend attack" fps="24" loop="false" x="289" y="270"/>
+	<anim name="dodge" anim="boyfriend dodge" fps="24" loop="false" x="-7" y="-15"/>
+</character>

@@ -1,0 +1,19 @@
+{
+    "splashSkin": "vanilla",
+    "noteSkin": {
+        "strumSpecific": [
+            {
+                "strums": "updike",
+                "notes": "updike"
+            },
+            {
+                "strums": "fire",
+                "notes": "fire"
+            },
+            {
+                "strums": "sunday",
+                "notes": "sunday"
+            }
+        ]
+    }
+}

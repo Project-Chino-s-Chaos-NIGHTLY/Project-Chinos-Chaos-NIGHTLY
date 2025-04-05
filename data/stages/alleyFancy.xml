@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs Whitty/fancy/" zoom="0.7">
+	<sprite name="sky" sprite="sky"/>
+	<gf alpha="0" x="1123" y="220"/>
+	<combo/>
+	<sprite name="cityOn" sprite="cityOn"/>
+	<sprite name="wall" sprite="wall"/>
+	<sprite name="props" sprite="props"/>
+	<sprite name="shdaows2" sprite="shadows2"/>
+	<sprite name="windows" sprite="windows"/>
+	<sprite name="wallFront" sprite="wallFront"/>
+	<bf x="1585" camxoffset="-50" y="471" camyoffset="-50"/>
+	<dad x="672" y="463"/>
+</stage>

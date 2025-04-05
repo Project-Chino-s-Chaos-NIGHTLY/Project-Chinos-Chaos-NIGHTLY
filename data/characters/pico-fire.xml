@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="-30" y="350" sprite="pico/fire" flipX="true" camx="-46" camy="-56" isPlayer="true" icon="pico" color="#CC3300" gameOverChar="bf-fire-dead">
+	<anim name="idle" anim="BF Flame Idle" x="-5" y="224" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF Flame Sing Left0" x="-2" y="226" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF Flame Sing Down0" x="34" y="225" fps="24" loop="false"/>
+	<anim name="singUP" anim="BF Flame Sing Up0" x="3" y="225" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF Flame Sing Right0" x="-36" y="241" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="BF Flame Sing Up XD" x="3" y="225" fps="24" loop="false"/>
+	<anim name="powerup" anim="BF Flame Powerup0" x="62" y="236" fps="24" loop="false"/>
+	<anim name="heatup" anim="BF Flame Powerup v2" x="62" y="236" fps="24" loop="false"/>
+	<anim name="hit" anim="BF Flame hit " x="-34" y="225" fps="24" loop="false"/>
+	<anim name="block" anim="BF Flame hit0" x="5" y="225" fps="24" loop="false"/>
+	<anim name="snap" anim="BF Flame Click" x="-24" y="226" fps="24" loop="false"/>
+</character>

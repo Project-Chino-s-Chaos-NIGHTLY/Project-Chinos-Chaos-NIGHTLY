@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character antialiasing="true" sprite="nene" isPlayer="false">
+	<anim x="305" y="40" loop="false" fps="24" anim="Nene Idle" name="idle"/>
+</character>

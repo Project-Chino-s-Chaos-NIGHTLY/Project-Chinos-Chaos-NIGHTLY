@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gf/hex" camx="-140" camy="100" icon="gf" color="#A5004D" isGF="true">
+	<anim name="idle" anim="GF Idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="GF Left0" x="56" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="GF Down0" x="-5" y="-1" fps="24" loop="false"/>
+	<anim name="singUP" anim="GF Up0" x="-3" y="27" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="GF Right0" x="-5" y="2" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="GF Left angry" x="56" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="GF Down" x="-5" y="-1" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="GF Up angry" x="-3" y="27" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="GF Right angry" x="-5" y="2" fps="24" loop="false"/>
+	<anim name="singLEFT-hit" anim="GF electrified HIT LEFT" x="75" y="17" fps="24" loop="false"/>
+	<anim name="singDOWN-hit" anim="GF electrified HIT DOWN" x="10" y="-60" fps="24" loop="false"/>
+	<anim name="singUP-hit" anim="GF electrified HIT UP" x="30" y="41" fps="24" loop="false"/>
+	<anim name="singRIGHT-hit" anim="GF electrified HIT RIGHT" x="-79" y="6" fps="24" loop="false"/>
+	<anim name="hit" anim="GF Hit" x="-5" y="9" fps="24" loop="false"/>
+	<anim name="hit-electrocuted" anim="GF electrified HIT0" x="1" y="32" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="GF Idle hurt" x="0" y="0" fps="24" loop="false"/>
+</character>

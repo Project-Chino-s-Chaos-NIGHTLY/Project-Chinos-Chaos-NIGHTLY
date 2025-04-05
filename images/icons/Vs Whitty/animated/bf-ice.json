@@ -1,0 +1,48 @@
+{
+	"flip": false,
+	"states": [
+		{
+			"anim": "anim1",
+			"offsets": [
+				-5,
+				20
+			],
+			"indices": [],
+			"loop": false,
+			"fps": 24
+		},
+		{
+			"anim": "anim2",
+			"offsets": [
+				-5,
+				20
+			],
+			"indices": [],
+			"loop": false,
+			"fps": 24
+		},
+		{
+			"anim": "anim3",
+			"offsets": [
+				-5,
+				20
+			],
+			"indices": [],
+			"loop": false,
+			"fps": 24
+		}
+	],
+	"anims": [
+		{
+			"name": "example",
+			"anim": "anim1",
+			"offsets": [
+				-5,
+				20
+			],
+			"indices": [],
+			"loop": false,
+			"fps": 24
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 180.5,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -14868939,
+	"displayName": "Overhead",
+	"icon": "Vs Whitty/whitty",
+	"name": "overhead",
+	"color": "#6A0508",
+	"customValues": {
+		"partText": "Vs Whitty ~ Fire Fight: Part 1",
+		"preventHealthGain": "true",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"charter": "Nate Anim8 (Original)"
+	}
+}

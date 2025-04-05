@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="glowin.png" width="3130" height="3375">
+	<SubTexture name="Echo Attack Down0000" x="1858" y="1968" width="446" height="302" frameX="-2" frameY="-5" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0001" x="1495" y="3032" width="303" height="324" rotated="true" frameX="-125" frameY="-4" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0002" x="1495" y="3032" width="303" height="324" rotated="true" frameX="-125" frameY="-4" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0003" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0004" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0005" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0006" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0007" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0008" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0009" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0010" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0011" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0012" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0013" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0014" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0015" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0016" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0017" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0018" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0019" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0020" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0021" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0022" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack Down0023" x="2770" y="2894" width="304" height="300" rotated="true" frameX="-152" frameY="-2" frameWidth="458" frameHeight="313"/>
+	<SubTexture name="Echo Attack FistThrow0000" x="3" y="3037" width="357" height="335" frameX="-120" frameY="-11" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0001" x="1720" y="1049" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0002" x="2741" y="1811" width="373" height="336" frameX="-107" frameY="-10" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0003" x="2789" y="1194" width="337" height="378" rotated="true" frameX="-103" frameY="-9" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0004" x="2789" y="803" width="337" height="388" rotated="true" frameX="-94" frameY="-9" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0005" x="2789" y="405" width="338" height="395" rotated="true" frameX="-89" frameY="-8" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0006" x="2789" y="3" width="338" height="399" rotated="true" frameX="-86" frameY="-8" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0007" x="1737" y="2689" width="404" height="339" frameX="-82" frameY="-7" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0008" x="450" y="2695" width="414" height="339" frameX="-74" frameY="-7" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0009" x="1316" y="2689" width="418" height="340" frameX="-70" frameY="-6" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0010" x="892" y="2689" width="421" height="340" frameX="-68" frameY="-6" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0011" x="2304" y="2273" width="340" height="425" rotated="true" frameX="-65" frameY="-6" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0012" x="2445" y="887" width="341" height="434" rotated="true" frameX="-57" frameY="-5" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0013" x="2445" y="446" width="341" height="438" rotated="true" frameX="-54" frameY="-5" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0014" x="2445" y="3" width="341" height="440" rotated="true" frameX="-53" frameY="-5" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0015" x="1858" y="2273" width="443" height="341" frameX="-51" frameY="-5" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0016" x="2100" y="917" width="342" height="450" rotated="true" frameX="-44" frameY="-4" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0017" x="2100" y="3" width="342" height="454" rotated="true" frameX="-41" frameY="-4" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0018" x="2100" y="460" width="342" height="454" rotated="true" frameX="-42" frameY="-4" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0019" x="1400" y="2017" width="455" height="342" frameX="-41" frameY="-4" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0020" x="3" y="2017" width="463" height="343" frameX="-34" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0021" x="1725" y="945" width="343" height="464" rotated="true" frameX="-33" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0022" x="935" y="2017" width="462" height="343" frameX="-35" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0023" x="1423" y="1622" width="464" height="343" frameX="-34" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0024" x="477" y="1671" width="470" height="343" frameX="-28" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0025" x="3" y="1671" width="471" height="343" frameX="-27" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0026" x="1754" y="3" width="343" height="468" rotated="true" frameX="-30" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0027" x="1754" y="474" width="343" height="468" rotated="true" frameX="-31" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0028" x="965" y="1276" width="474" height="343" frameX="-25" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0029" x="950" y="1671" width="470" height="343" frameX="-29" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0030" x="469" y="2017" width="463" height="343" frameX="-32" frameY="-3" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0031" x="2071" y="1370" width="339" height="447" rotated="true" frameX="-39" frameY="-7" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0032" x="3" y="2363" width="444" height="338" frameX="-15" frameY="-8" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack FistThrow0033" x="450" y="2363" width="439" height="329" frameX="-7" frameY="-9" frameWidth="505" frameHeight="352"/>
+	<SubTexture name="Echo Attack Left0000" x="2307" y="1820" width="431" height="316" frameX="-2" frameY="-9" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0001" x="2491" y="2894" width="276" height="319" frameX="-158" frameY="-6" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0002" x="2491" y="2894" width="276" height="319" frameX="-158" frameY="-6" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0003" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0004" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0005" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0006" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0007" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0008" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0009" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0010" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0011" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0012" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0013" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0014" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0015" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0016" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0017" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0018" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0019" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0020" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0021" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0022" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Left0023" x="1801" y="3031" width="323" height="278" rotated="true" frameX="-161" frameY="-2" frameWidth="446" frameHeight="331"/>
+	<SubTexture name="Echo Attack Right0000" x="2413" y="1370" width="342" height="438" rotated="true" frameX="-2" frameY="-5" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0001" x="867" y="3032" width="345" height="337" rotated="true" frameX="-113" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0002" x="867" y="3032" width="345" height="337" rotated="true" frameX="-113" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0003" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0004" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0005" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0006" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0007" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0008" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0009" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0010" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0011" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0012" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0013" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0014" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0015" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0016" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0017" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0018" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0019" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0020" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0021" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0022" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Right0023" x="363" y="3037" width="345" height="312" rotated="true" frameX="-140" frameY="-2" frameWidth="458" frameHeight="353"/>
+	<SubTexture name="Echo Attack Up0000" x="3" y="2704" width="423" height="330" frameX="-2" frameY="-1" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0001" x="1442" y="1049" width="275" height="326" frameX="-153" frameY="-5" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0002" x="1442" y="1049" width="275" height="326" frameX="-153" frameY="-5" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0003" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0004" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0005" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0006" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0007" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0008" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0009" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0010" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0011" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0012" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0013" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0014" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0015" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0016" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0017" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0018" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0019" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0020" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0021" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0022" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Attack Up0023" x="1215" y="3032" width="277" height="325" frameX="-154" frameY="-6" frameWidth="438" frameHeight="336"/>
+	<SubTexture name="Echo Hit0000" x="2144" y="2894" width="344" height="345" frameX="-3" frameY="-2" frameWidth="354" frameHeight="353"/>
+	<SubTexture name="Echo Shield0000" x="2647" y="2150" width="369" height="369" frameX="-2" frameY="-2" frameWidth="377" frameHeight="377"/>
+	<SubTexture name="Echo Sword Attack Down 0000" x="630" y="3" width="365" height="614" rotated="true" frameX="-3" frameY="-19" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0001" x="3" y="697" width="608" height="303" frameX="-11" frameY="-81" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0002" x="3" y="697" width="608" height="303" frameX="-11" frameY="-81" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0003" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0004" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0005" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0006" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0007" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0008" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0009" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0010" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0011" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0012" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0013" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0014" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0015" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0016" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0017" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0018" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0019" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0020" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0021" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0022" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Down 0023" x="998" y="3" width="315" height="602" rotated="true" frameX="-19" frameY="-79" frameWidth="628" frameHeight="401"/>
+	<SubTexture name="Echo Sword Attack Left0000" x="3" y="1003" width="591" height="317" frameX="-3" frameY="-8" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0001" x="614" y="953" width="529" height="320" frameX="-79" frameY="-5" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0002" x="614" y="953" width="529" height="320" frameX="-79" frameY="-5" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0003" x="892" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0004" x="892" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0005" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0006" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0007" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0008" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0009" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0010" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0011" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0012" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0013" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0014" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0015" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0016" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0017" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0018" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0019" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0020" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0021" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0022" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Left0023" x="1327" y="2363" width="432" height="323" frameX="-322" frameY="-2" frameWidth="761" frameHeight="331"/>
+	<SubTexture name="Echo Sword Attack Right 0000" x="3" y="3" width="624" height="343" frameX="-3" frameY="-5" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0001" x="3" y="349" width="624" height="345" frameX="-143" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0002" x="3" y="349" width="624" height="345" frameX="-143" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0003" x="3" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0004" x="3" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0005" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0006" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0007" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0008" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0009" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0010" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0011" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0012" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0013" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0014" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0015" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0016" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0017" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0018" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0019" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0020" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0021" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0022" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Right 0023" x="484" y="1323" width="478" height="345" frameX="-328" frameY="-3" frameWidth="813" frameHeight="354"/>
+	<SubTexture name="Echo Sword Attack Up0000" x="630" y="620" width="594" height="330" frameX="-3" frameY="-167" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0001" x="1316" y="3" width="435" height="535" rotated="true" frameX="-65" frameY="-62" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0002" x="1316" y="3" width="435" height="535" rotated="true" frameX="-65" frameY="-62" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0003" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0004" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0005" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0006" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0007" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0008" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0009" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0010" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0011" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0012" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0013" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0014" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0015" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0016" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0017" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0018" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0019" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0020" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0021" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0022" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Attack Up0023" x="1227" y="608" width="495" height="438" rotated="true" frameX="-165" frameY="-2" frameWidth="610" frameHeight="502"/>
+	<SubTexture name="Echo Sword Shield0000" x="2647" y="2522" width="369" height="369" frameX="-2" frameY="-1" frameWidth="377" frameHeight="376"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+{
+    "splashSkin": {
+        "overrideSongSkin": true,
+        "name": "robot"
+    },
+    "offsets": {
+        "sustains": [
+            0,
+            0
+        ],
+        "confirm": [
+            -2,
+            1
+        ],
+        "notes": [
+            -60,
+            62
+        ],
+        "statics": [
+            0,
+            0
+        ],
+        "pressed": [
+            0,
+            0
+        ]
+    },
+    "defaultAfterPress": true
+}

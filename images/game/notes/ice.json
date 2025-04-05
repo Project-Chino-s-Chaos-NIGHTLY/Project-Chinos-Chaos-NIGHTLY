@@ -1,0 +1,25 @@
+{
+    "splashSkin": {
+        "overrideSongSkin": true,
+        "name": "ice"
+    },
+    "offsets": {
+        "pressed": [
+            0,
+            0
+        ],
+        "confirm": [
+            0,
+            -5
+        ],
+        "notes": [
+            -3,
+            0
+        ],
+        "statics": [
+            -1,
+            1
+        ]
+    },
+    "defaultAfterPress": true
+}

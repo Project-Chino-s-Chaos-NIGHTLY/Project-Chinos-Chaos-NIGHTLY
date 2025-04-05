@@ -1,0 +1,52 @@
+[
+    {
+        "iCard": "boxingfight",
+        "songs": ["sporting", "boxing-match", "tko", "deathmatch", "king-hit"],
+        "locked": false,
+        "comingSoon": false,
+        "hasNewContent": false
+    },
+    {
+        "iCard": "firefight",
+        "songs": ["lo-fight", "overhead", "ballistic", "remorse", "accelerant", "fading"],
+        "locked": false,
+        "comingSoon": false,
+        "hasNewContent": true
+    },
+    {
+        "iCard": "electricfight",
+        "songs": ["glitcher"],
+        "locked": false,
+        "comingSoon": false,
+        "hasNewContent": false
+    },
+    {
+        "iCard": "knifefight",
+        "songs": ["megalo-strike-back"],
+        "locked": false,
+        "comingSoon": false,
+        "hasNewContent": true
+    },
+    {
+        "iCard": "blitzfight",
+        "songs": ["taste-for-blood-x"],
+        "locked": false,
+        "comingSoon": false,
+        "hasNewContent": false
+    },
+    {
+        "iCard": "unknown",
+        "songs": [],
+        "locked": true,
+        "comingSoon": true,
+        "lockMessage": "Coming soon in v2.1!",
+        "hasNewContent": false
+    },
+    {
+        "iCard": "extras",
+        "songs": ["ugh", "hark", "festive-showdown", "a-whit-christmas", "empress"],
+        "locked": false,
+        "comingSoon": false,
+        "hasNewContent": true
+    }
+]

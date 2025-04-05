@@ -1,0 +1,22 @@
+{
+    "defaultAfterPress": true,
+    "strumsLoop": false,
+    "offsets": {
+        "statics": [
+            -15,
+            -17
+        ],
+        "confirm": [
+            -14,
+            -19
+        ],
+        "notes": [
+            25,
+            -20
+        ]
+    },
+    "splashSkin": {
+        "name": "carol",
+        "overrideSongSkin": true
+    }
+}

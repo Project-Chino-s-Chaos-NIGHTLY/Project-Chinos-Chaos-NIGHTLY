@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="iceThowBreak.png" width="3806" height="489">
+	<SubTexture name="blast0000" x="780" y="10" width="366" height="382" frameX="-100" frameY="-29" frameWidth="572" frameHeight="470"/>
+	<SubTexture name="blast0001" x="1156" y="10" width="395" height="407" frameX="-87" frameY="-21" frameWidth="572" frameHeight="470"/>
+	<SubTexture name="blast0002" x="1561" y="10" width="509" height="446" frameX="-25" frameY="-3" frameWidth="572" frameHeight="470"/>
+	<SubTexture name="blast0003" x="2080" y="10" width="558" height="453" frameX="-1" frameY="-1" frameWidth="572" frameHeight="470"/>
+	<SubTexture name="blast0004" x="2648" y="10" width="569" height="466" frameX="-1" frameY="-0" frameWidth="572" frameHeight="470"/>
+	<SubTexture name="blast0005" x="3227" y="10" width="569" height="469" frameX="-3" frameY="-1" frameWidth="572" frameHeight="470"/>
+	<SubTexture name="blast0006" x="249" y="10" width="521" height="324" frameX="-0" frameY="-59" frameWidth="572" frameHeight="470"/>
+	<SubTexture name="blast0007" x="24" y="10" width="215" height="201" frameX="-226" frameY="-184" frameWidth="572" frameHeight="470"/>
+	<SubTexture name="blast0008" x="10" y="10" width="4" height="3" frameX="-437" frameY="-190" frameWidth="572" frameHeight="470"/>
+</TextureAtlas>

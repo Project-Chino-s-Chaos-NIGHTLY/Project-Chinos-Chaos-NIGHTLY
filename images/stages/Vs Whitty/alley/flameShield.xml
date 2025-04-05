@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="flameShield.png" width="9684" height="889">
+	<SubTexture name="Flame Shield0000" x="7516" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield0001" x="7516" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield0002" x="8058" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield0003" x="8058" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield0004" x="8600" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield0005" x="8600" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield0006" x="9142" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield0007" x="9142" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield BF0000" x="2096" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield BF0001" x="2096" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield BF0002" x="2638" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield BF0003" x="2638" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield BF0004" x="3180" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield BF0005" x="3180" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield BF0006" x="3722" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield BF0007" x="3722" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="533" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0000" x="549" y="10" width="529" height="507" frameX="-0" frameY="-291" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0001" x="1592" y="10" width="494" height="784" frameX="-25" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0002" x="5890" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0003" x="6432" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0004" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0005" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0006" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0007" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0008" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0009" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0010" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0011" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0012" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0013" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0014" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0015" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0016" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0017" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0018" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation0019" x="6974" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0000" x="10" y="10" width="529" height="507" frameX="-0" frameY="-291" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0001" x="1088" y="10" width="494" height="784" frameX="-25" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0002" x="4264" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0003" x="4806" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0004" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0005" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0006" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0007" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0008" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0009" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0010" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0011" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0012" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0013" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0014" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0015" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0016" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0017" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0018" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+	<SubTexture name="Flame Shield Generation BF0019" x="5348" y="10" width="532" height="869" frameX="-0" frameY="-0" frameWidth="532" frameHeight="869"/>
+</TextureAtlas>

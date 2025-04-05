@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="balls-whit.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="anim10000" x="0" y="0" width="113" height="109" frameX="-2" frameY="0" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim10001" x="123" y="0" width="115" height="107" frameX="0" frameY="-2" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim10002" x="248" y="0" width="115" height="104" frameX="-1" frameY="-5" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim10003" x="373" y="0" width="114" height="105" frameX="-2" frameY="-4" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim10004" x="497" y="0" width="116" height="108" frameX="0" frameY="-1" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim10005" x="623" y="0" width="116" height="107" frameX="0" frameY="-2" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim10006" x="749" y="0" width="119" height="104" frameX="-1" frameY="-5" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim10007" x="878" y="0" width="118" height="105" frameX="-2" frameY="-4" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim30000" x="0" y="0" width="113" height="109" frameX="-2" frameY="0" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim30001" x="123" y="0" width="115" height="107" frameX="0" frameY="-2" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim30002" x="248" y="0" width="115" height="104" frameX="-1" frameY="-5" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim30003" x="373" y="0" width="114" height="105" frameX="-2" frameY="-4" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim30004" x="497" y="0" width="116" height="108" frameX="0" frameY="-1" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim30005" x="623" y="0" width="116" height="107" frameX="0" frameY="-2" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim30006" x="749" y="0" width="119" height="104" frameX="-1" frameY="-5" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim30007" x="878" y="0" width="118" height="105" frameX="-2" frameY="-4" frameWidth="120" frameHeight="109"/>
+	<SubTexture name="anim20000" x="0" y="119" width="128" height="124"/>
+	<SubTexture name="anim20001" x="138" y="119" width="128" height="124"/>
+	<SubTexture name="anim20002" x="276" y="119" width="128" height="124"/>
+	<SubTexture name="anim20003" x="414" y="119" width="128" height="124"/>
+	<SubTexture name="anim20004" x="552" y="119" width="128" height="124"/>
+	<SubTexture name="anim20005" x="690" y="119" width="128" height="124"/>
+	<SubTexture name="anim20006" x="828" y="119" width="128" height="124"/>
+	<SubTexture name="anim20007" x="0" y="253" width="128" height="124"/>
+</TextureAtlas>

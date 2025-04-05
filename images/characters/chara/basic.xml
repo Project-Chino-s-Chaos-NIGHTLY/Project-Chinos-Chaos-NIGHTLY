@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="basic.png" width="4893" height="4618">
+	<SubTexture name="Chara Idle0000" x="4045" y="3" width="324" height="522" frameX="-4" frameY="-4" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0001" x="4045" y="3" width="324" height="522" frameX="-4" frameY="-4" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0002" x="3858" y="1401" width="321" height="521" frameX="-7" frameY="-5" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0003" x="3858" y="1401" width="321" height="521" frameX="-7" frameY="-5" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0004" x="3724" y="546" width="523" height="324" rotated="true" frameX="-4" frameY="-3" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0005" x="3724" y="546" width="523" height="324" rotated="true" frameX="-4" frameY="-3" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0006" x="3713" y="873" width="327" height="525" frameX="-1" frameY="-1" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0007" x="3713" y="873" width="327" height="525" frameX="-1" frameY="-1" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0008" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0009" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0010" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0011" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0012" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0013" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0014" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0015" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0016" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0017" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-0" frameY="-0" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0018" x="3731" y="1934" width="525" height="327" rotated="true" frameX="-1" frameY="-1" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Idle0019" x="3731" y="1934" width="525" height="327" rotated="true" frameX="-1" frameY="-1" frameWidth="328" frameHeight="526"/>
+	<SubTexture name="Chara Sing Down (sparing)0000" x="2228" y="4130" width="379" height="410" frameX="-45" frameY="-107" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0001" x="4500" y="1207" width="390" height="394" rotated="true" frameX="-46" frameY="-130" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0002" x="4372" y="409" width="390" height="396" frameX="-45" frameY="-124" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0003" x="4372" y="409" width="390" height="396" frameX="-45" frameY="-124" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0004" x="4481" y="3973" width="386" height="402" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0005" x="4481" y="3973" width="386" height="402" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0006" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0007" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0008" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0009" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0010" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0011" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0012" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0013" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0014" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0015" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0016" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0017" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0018" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0019" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0020" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0021" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0022" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0023" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0024" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0025" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0026" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0027" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0028" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0029" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0030" x="4372" y="3" width="385" height="403" frameX="-46" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0031" x="4091" y="4102" width="387" height="401" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0032" x="4091" y="4102" width="387" height="401" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0033" x="3698" y="4102" width="390" height="398" frameX="-43" frameY="-119" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0034" x="3698" y="4102" width="390" height="398" frameX="-43" frameY="-119" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0035" x="1843" y="4112" width="382" height="410" frameX="-37" frameY="-108" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0036" x="1843" y="4112" width="382" height="410" frameX="-37" frameY="-108" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0037" x="4562" y="3454" width="311" height="497" frameX="-44" frameY="-24" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0038" x="4562" y="3454" width="311" height="497" frameX="-44" frameY="-24" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0039" x="4182" y="1365" width="315" height="519" frameX="-13" frameY="-6" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0040" x="4182" y="1365" width="315" height="519" frameX="-13" frameY="-6" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0041" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0042" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0043" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0044" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0045" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0046" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0047" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0048" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0049" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0050" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0051" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0052" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0053" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0054" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0055" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0056" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0057" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0058" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0059" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0060" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0061" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0062" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down (sparing)0063" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0000" x="3316" y="4102" width="379" height="410" frameX="-45" frameY="-107" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0001" x="4494" y="2285" width="394" height="389" frameX="-46" frameY="-131" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0002" x="4385" y="808" width="390" height="396" frameX="-45" frameY="-124" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0003" x="4385" y="808" width="390" height="396" frameX="-45" frameY="-124" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0004" x="789" y="4134" width="387" height="402" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0005" x="789" y="4134" width="387" height="402" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0006" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0007" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0008" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0009" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0010" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0011" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0012" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0013" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0014" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0015" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0016" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0017" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0018" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0019" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0020" x="1179" y="4179" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0021" x="4091" y="4102" width="387" height="401" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0022" x="4091" y="4102" width="387" height="401" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0023" x="3698" y="4102" width="390" height="398" frameX="-43" frameY="-119" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0024" x="3698" y="4102" width="390" height="398" frameX="-43" frameY="-119" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0025" x="1843" y="4112" width="382" height="410" frameX="-37" frameY="-108" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0026" x="1843" y="4112" width="382" height="410" frameX="-37" frameY="-108" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0027" x="4562" y="3454" width="311" height="497" frameX="-44" frameY="-24" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0028" x="4562" y="3454" width="311" height="497" frameX="-44" frameY="-24" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0029" x="4182" y="1365" width="315" height="519" frameX="-13" frameY="-6" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0030" x="4182" y="1365" width="315" height="519" frameX="-13" frameY="-6" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0031" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0032" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0033" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0034" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0035" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0036" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0037" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0038" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0039" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0040" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0041" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0042" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0043" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0044" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0045" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0046" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0047" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0048" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0049" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0050" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0051" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0052" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down =)0053" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0000" x="1434" y="3745" width="406" height="431" frameX="-47" frameY="-126" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0001" x="402" y="4087" width="384" height="409" rotated="true" frameX="-45" frameY="-136" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0002" x="4494" y="1887" width="390" height="395" frameX="-45" frameY="-125" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0003" x="3" y="4223" width="396" height="392" rotated="true" frameX="-45" frameY="-124" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0004" x="3" y="4223" width="396" height="392" rotated="true" frameX="-45" frameY="-124" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0005" x="4172" y="3569" width="387" height="401" frameX="-45" frameY="-119" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0006" x="4172" y="3569" width="387" height="401" frameX="-45" frameY="-119" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0007" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0008" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0009" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0010" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0011" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0012" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0013" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0014" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0015" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0016" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0017" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0018" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0019" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0020" x="2927" y="4089" width="386" height="403" frameX="-45" frameY="-117" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0021" x="4438" y="3050" width="387" height="401" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0022" x="4438" y="3050" width="387" height="401" frameX="-45" frameY="-118" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0023" x="3" y="3822" width="396" height="398" frameX="-37" frameY="-119" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0024" x="3" y="3822" width="396" height="398" frameX="-37" frameY="-119" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0025" x="4100" y="2637" width="391" height="410" frameX="-27" frameY="-108" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0026" x="4100" y="2637" width="391" height="410" frameX="-27" frameY="-108" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0027" x="4562" y="3454" width="311" height="497" frameX="-44" frameY="-24" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0028" x="4562" y="3454" width="311" height="497" frameX="-44" frameY="-24" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0029" x="4182" y="1365" width="315" height="519" frameX="-13" frameY="-6" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0030" x="4182" y="1365" width="315" height="519" frameX="-13" frameY="-6" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0031" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0032" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0033" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0034" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0035" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0036" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Down Aggresssive0037" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="557"/>
+	<SubTexture name="Chara Sing Left (sparing)0000" x="471" y="3556" width="331" height="528" frameX="-131" frameY="-2" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0001" x="1485" y="3379" width="528" height="363" rotated="true" frameX="-99" frameY="-4" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0002" x="3177" y="1430" width="348" height="529" frameX="-114" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0003" x="3177" y="1430" width="348" height="529" frameX="-114" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0004" x="3366" y="873" width="344" height="529" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0005" x="3366" y="873" width="344" height="529" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0006" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0007" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0008" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0009" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0010" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0011" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0012" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0013" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0014" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0015" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0016" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0017" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0018" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0019" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0020" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0021" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0022" x="3199" y="1962" width="529" height="344" rotated="true" frameX="-118" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0023" x="1527" y="497" width="489" height="529" frameX="-0" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0024" x="1527" y="497" width="489" height="529" frameX="-0" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0025" x="2126" y="3" width="527" height="452" rotated="true" frameX="-28" frameY="-5" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0026" x="2126" y="3" width="527" height="452" rotated="true" frameX="-28" frameY="-5" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0027" x="3043" y="2870" width="525" height="343" rotated="true" frameX="-120" frameY="-0" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0028" x="3043" y="2870" width="525" height="343" rotated="true" frameX="-120" frameY="-0" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0029" x="2399" y="3797" width="525" height="330" rotated="true" frameX="-133" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0030" x="2399" y="3797" width="525" height="330" rotated="true" frameX="-133" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0031" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-135" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0032" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-135" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0033" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-135" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0034" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-135" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0035" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-135" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left (sparing)0036" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-135" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0000" x="3" y="2050" width="528" height="459" rotated="true" frameX="-56" frameY="-2" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0001" x="3" y="534" width="528" height="524" rotated="true" frameX="-1" frameY="-4" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0002" x="3" y="1061" width="529" height="494" rotated="true" frameX="-28" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0003" x="3" y="1061" width="529" height="494" rotated="true" frameX="-28" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0004" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0005" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0006" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0007" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0008" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0009" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0010" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0011" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0012" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0013" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0014" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0015" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0016" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0017" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0018" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0019" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0020" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0021" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0022" x="535" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0023" x="535" y="1066" width="529" height="489" rotated="true" frameX="-30" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0024" x="535" y="1066" width="529" height="489" rotated="true" frameX="-30" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0025" x="2461" y="458" width="452" height="527" frameX="-58" frameY="-5" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0026" x="2461" y="458" width="452" height="527" frameX="-58" frameY="-5" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0027" x="3043" y="2870" width="525" height="343" rotated="true" frameX="-150" frameY="-0" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0028" x="3043" y="2870" width="525" height="343" rotated="true" frameX="-150" frameY="-0" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0029" x="2399" y="3797" width="525" height="330" rotated="true" frameX="-163" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0030" x="2399" y="3797" width="525" height="330" rotated="true" frameX="-163" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0031" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0032" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0033" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0034" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0035" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =) (heart ref)0036" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0000" x="1595" y="3" width="528" height="459" rotated="true" frameX="-56" frameY="-2" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0001" x="536" y="3" width="524" height="528" frameX="-1" frameY="-4" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0002" x="535" y="534" width="494" height="529" frameX="-28" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0003" x="535" y="534" width="494" height="529" frameX="-28" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0004" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0005" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0006" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0007" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0008" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0009" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0010" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0011" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0012" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0013" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0014" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0015" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0016" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0017" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0018" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0019" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0020" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0021" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0022" x="1067" y="1558" width="529" height="488" rotated="true" frameX="-31" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0023" x="1067" y="1066" width="529" height="489" rotated="true" frameX="-30" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0024" x="1067" y="1066" width="529" height="489" rotated="true" frameX="-30" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0025" x="2487" y="988" width="452" height="527" frameX="-58" frameY="-5" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0026" x="2487" y="988" width="452" height="527" frameX="-58" frameY="-5" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0027" x="3043" y="2870" width="525" height="343" rotated="true" frameX="-150" frameY="-0" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0028" x="3043" y="2870" width="525" height="343" rotated="true" frameX="-150" frameY="-0" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0029" x="2399" y="3797" width="525" height="330" rotated="true" frameX="-163" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0030" x="2399" y="3797" width="525" height="330" rotated="true" frameX="-163" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0031" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0032" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0033" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0034" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0035" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left =)0036" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-165" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0000" x="3" y="3" width="530" height="528" frameX="-0" frameY="-4" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0001" x="2146" y="1566" width="528" height="454" rotated="true" frameX="-72" frameY="-2" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0002" x="1032" y="534" width="492" height="529" frameX="-44" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0003" x="1063" y="3" width="529" height="491" rotated="true" frameX="-44" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0004" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0005" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0006" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0007" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0008" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0009" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0010" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0011" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0012" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0013" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0014" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0015" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0016" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0017" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0018" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0019" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0020" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0021" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0022" x="535" y="2049" width="529" height="484" rotated="true" frameX="-47" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0023" x="3" y="1558" width="529" height="489" rotated="true" frameX="-46" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0024" x="3" y="1558" width="529" height="489" rotated="true" frameX="-46" frameY="-3" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0025" x="2177" y="2023" width="527" height="452" rotated="true" frameX="-74" frameY="-5" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0026" x="2177" y="2023" width="527" height="452" rotated="true" frameX="-74" frameY="-5" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0027" x="3043" y="2870" width="525" height="343" rotated="true" frameX="-166" frameY="-0" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0028" x="3043" y="2870" width="525" height="343" rotated="true" frameX="-166" frameY="-0" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0029" x="2399" y="3797" width="525" height="330" rotated="true" frameX="-179" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0030" x="2399" y="3797" width="525" height="330" rotated="true" frameX="-179" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0031" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-181" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0032" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-181" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0033" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-181" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0034" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-181" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0035" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-181" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Left Aggressive0036" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-181" frameY="-1" frameWidth="536" frameHeight="559"/>
+	<SubTexture name="Chara Sing Right (sparing)0000" x="2707" y="1982" width="489" height="462" frameX="-102" frameY="-70" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0001" x="2677" y="1518" width="497" height="461" frameX="-102" frameY="-71" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0002" x="2120" y="2911" width="496" height="463" frameX="-102" frameY="-69" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0003" x="2120" y="2911" width="496" height="463" frameX="-102" frameY="-69" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0004" x="1623" y="2911" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0005" x="1623" y="2911" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0006" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0007" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0008" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0009" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0010" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0011" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0012" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0013" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0014" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0015" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0016" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0017" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0018" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0019" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0020" x="988" y="2933" width="494" height="465" frameX="-102" frameY="-67" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0021" x="968" y="3401" width="463" height="412" rotated="true" frameX="-103" frameY="-69" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0022" x="968" y="3401" width="463" height="412" rotated="true" frameX="-103" frameY="-69" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0023" x="3207" y="3" width="458" height="406" rotated="true" frameX="-102" frameY="-74" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0024" x="3207" y="3" width="458" height="406" rotated="true" frameX="-102" frameY="-74" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0025" x="4043" y="873" width="339" height="489" frameX="-98" frameY="-43" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0026" x="4043" y="873" width="339" height="489" frameX="-98" frameY="-43" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0027" x="4125" y="3050" width="310" height="516" frameX="-40" frameY="-10" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0028" x="4125" y="3050" width="310" height="516" frameX="-40" frameY="-10" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0029" x="3642" y="3771" width="527" height="328" rotated="true" frameX="-5" frameY="-0" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0030" x="3642" y="3771" width="527" height="328" rotated="true" frameX="-5" frameY="-0" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0031" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0032" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0033" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0034" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right (sparing)0035" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="599" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0000" x="3203" y="2309" width="386" height="461" frameX="-102" frameY="-71" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0001" x="2942" y="965" width="421" height="462" frameX="-102" frameY="-70" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0002" x="2737" y="2447" width="463" height="420" rotated="true" frameX="-102" frameY="-69" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0003" x="2737" y="2447" width="463" height="420" rotated="true" frameX="-102" frameY="-69" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0004" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0005" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0006" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0007" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0008" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0009" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0010" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0011" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0012" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0013" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0014" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0015" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0016" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0017" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0018" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0019" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0020" x="3" y="3401" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0021" x="968" y="3401" width="463" height="412" rotated="true" frameX="-103" frameY="-69" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0022" x="968" y="3401" width="463" height="412" rotated="true" frameX="-103" frameY="-69" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0023" x="3207" y="3" width="458" height="406" rotated="true" frameX="-102" frameY="-74" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0024" x="3207" y="3" width="458" height="406" rotated="true" frameX="-102" frameY="-74" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0025" x="4043" y="873" width="339" height="489" frameX="-98" frameY="-43" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0026" x="4043" y="873" width="339" height="489" frameX="-98" frameY="-43" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0027" x="4125" y="3050" width="310" height="516" frameX="-40" frameY="-10" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0028" x="4125" y="3050" width="310" height="516" frameX="-40" frameY="-10" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0029" x="3642" y="3771" width="527" height="328" rotated="true" frameX="-5" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0030" x="3642" y="3771" width="527" height="328" rotated="true" frameX="-5" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0031" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0032" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0033" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0034" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right =)0035" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0000" x="3087" y="3216" width="386" height="461" frameX="-102" frameY="-71" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0001" x="2619" y="2911" width="421" height="462" frameX="-102" frameY="-70" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0002" x="545" y="3090" width="420" height="463" frameX="-102" frameY="-69" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0003" x="545" y="3090" width="420" height="463" frameX="-102" frameY="-69" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0004" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0005" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0006" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0007" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0008" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0009" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0010" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0011" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0012" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0013" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0014" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0015" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0016" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0017" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0018" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0019" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0020" x="2619" y="3376" width="465" height="418" rotated="true" frameX="-102" frameY="-67" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0021" x="2120" y="3377" width="463" height="414" rotated="true" frameX="-103" frameY="-69" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0022" x="2120" y="3377" width="463" height="414" rotated="true" frameX="-103" frameY="-69" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0023" x="3317" y="412" width="404" height="458" frameX="-102" frameY="-74" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0024" x="3317" y="412" width="404" height="458" frameX="-102" frameY="-74" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0025" x="4043" y="873" width="339" height="489" frameX="-98" frameY="-43" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0026" x="4043" y="873" width="339" height="489" frameX="-98" frameY="-43" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0027" x="4125" y="3050" width="310" height="516" frameX="-40" frameY="-10" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0028" x="4125" y="3050" width="310" height="516" frameX="-40" frameY="-10" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0029" x="3642" y="3771" width="527" height="328" rotated="true" frameX="-5" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0030" x="3642" y="3771" width="527" height="328" rotated="true" frameX="-5" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0031" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0032" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0033" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0034" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Right Aggressive0035" x="3794" y="3104" width="328" height="526" frameX="-0" frameY="-0" frameWidth="523" frameHeight="533"/>
+	<SubTexture name="Chara Sing Up (sparing)0000" x="3724" y="3" width="318" height="540" frameX="-111" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0001" x="805" y="3816" width="553" height="315" rotated="true" frameX="-114" frameY="-0" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0002" x="1843" y="3794" width="553" height="315" rotated="true" frameX="-114" frameY="-1" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0003" x="1843" y="3794" width="553" height="315" rotated="true" frameX="-114" frameY="-1" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0004" x="3476" y="3216" width="315" height="552" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0005" x="3476" y="3216" width="315" height="552" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0006" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0007" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0008" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0009" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0010" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0011" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0012" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0013" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0014" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0015" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0016" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0017" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0018" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0019" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0020" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0021" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0022" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0023" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0024" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0025" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0026" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0027" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0028" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0029" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0030" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0031" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0032" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0033" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0034" x="3087" y="3771" width="552" height="315" rotated="true" frameX="-114" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0035" x="3" y="2536" width="551" height="428" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0036" x="3" y="2536" width="551" height="428" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0037" x="2916" y="414" width="398" height="548" frameX="-31" frameY="-5" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0038" x="2916" y="414" width="398" height="548" frameX="-31" frameY="-5" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0039" x="3592" y="2309" width="530" height="325" rotated="true" frameX="-109" frameY="-23" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0040" x="3592" y="2309" width="530" height="325" rotated="true" frameX="-109" frameY="-23" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0041" x="3528" y="1405" width="327" height="526" frameX="-107" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0042" x="3528" y="1405" width="327" height="526" frameX="-107" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0043" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-106" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0044" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-106" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up (sparing)0045" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-106" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0000" x="3" y="2967" width="539" height="431" rotated="true" frameX="-0" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0001" x="1067" y="2501" width="553" height="429" rotated="true" frameX="-2" frameY="-0" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0002" x="1628" y="2478" width="552" height="430" rotated="true" frameX="-1" frameY="-1" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0003" x="1628" y="2478" width="552" height="430" rotated="true" frameX="-1" frameY="-1" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0004" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0005" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0006" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0007" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0008" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0009" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0010" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0011" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0012" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0013" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0014" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0015" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0016" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0017" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0018" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0019" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0020" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0021" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0022" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0023" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0024" x="2183" y="2478" width="551" height="430" rotated="true" frameX="-1" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0025" x="557" y="2536" width="428" height="551" frameX="-3" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0026" x="557" y="2536" width="428" height="551" frameX="-3" frameY="-2" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0027" x="2916" y="414" width="398" height="548" frameX="-33" frameY="-5" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0028" x="2916" y="414" width="398" height="548" frameX="-33" frameY="-5" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0029" x="3592" y="2309" width="530" height="325" rotated="true" frameX="-111" frameY="-23" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0030" x="3592" y="2309" width="530" height="325" rotated="true" frameX="-111" frameY="-23" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0031" x="3528" y="1405" width="327" height="526" frameX="-109" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0032" x="3528" y="1405" width="327" height="526" frameX="-109" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0033" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-108" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0034" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-108" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up =)0035" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-108" frameY="-27" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0000" x="1067" y="2049" width="558" height="449" rotated="true" frameX="-0" frameY="-0" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0001" x="1599" y="1029" width="440" height="550" frameX="-9" frameY="-8" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0002" x="1628" y="2027" width="546" height="440" rotated="true" frameX="-9" frameY="-12" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0003" x="1599" y="1582" width="544" height="442" rotated="true" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0004" x="1599" y="1582" width="544" height="442" rotated="true" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0005" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0006" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0007" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0008" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0009" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0010" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0011" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0012" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0013" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0014" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0015" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0016" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0017" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0018" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0019" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0020" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0021" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0022" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0023" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0024" x="2042" y="1019" width="442" height="544" frameX="-7" frameY="-14" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0025" x="2019" y="465" width="439" height="551" frameX="-10" frameY="-7" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0026" x="2019" y="465" width="439" height="551" frameX="-10" frameY="-7" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0027" x="2656" y="3" width="548" height="408" rotated="true" frameX="-41" frameY="-10" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0028" x="2656" y="3" width="548" height="408" rotated="true" frameX="-41" frameY="-10" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0029" x="3592" y="2309" width="530" height="325" rotated="true" frameX="-129" frameY="-28" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0030" x="3592" y="2309" width="530" height="325" rotated="true" frameX="-129" frameY="-28" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0031" x="3528" y="1405" width="327" height="526" frameX="-127" frameY="-32" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0032" x="3528" y="1405" width="327" height="526" frameX="-127" frameY="-32" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0033" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-126" frameY="-32" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0034" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-126" frameY="-32" frameWidth="454" frameHeight="559"/>
+	<SubTexture name="Chara Sing Up Aggressive0035" x="3571" y="2773" width="526" height="328" rotated="true" frameX="-126" frameY="-32" frameWidth="454" frameHeight="559"/>
+</TextureAtlas>

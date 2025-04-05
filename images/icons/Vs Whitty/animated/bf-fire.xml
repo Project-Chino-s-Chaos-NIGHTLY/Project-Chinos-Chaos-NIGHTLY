@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire-bf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Flame dying icon0000" x="0" y="0" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame dying icon0001" x="150" y="0" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame dying icon0002" x="300" y="0" width="143" height="92" frameX="-1" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame dying icon0003" x="300" y="0" width="143" height="92" frameX="-1" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame dying icon0004" x="453" y="0" width="144" height="92"/>
+	<SubTexture name="BF Flame dying icon0005" x="453" y="0" width="144" height="92"/>
+	<SubTexture name="BF Flame dying icon0006" x="607" y="0" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame dying icon0007" x="757" y="0" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame even icon0000" x="0" y="102" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame even icon0001" x="150" y="102" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame even icon0002" x="300" y="102" width="143" height="92" frameX="-1" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame even icon0003" x="300" y="102" width="143" height="92" frameX="-1" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame even icon0004" x="453" y="102" width="144" height="92"/>
+	<SubTexture name="BF Flame even icon0005" x="453" y="102" width="144" height="92"/>
+	<SubTexture name="BF Flame even icon0006" x="607" y="102" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame even icon0007" x="757" y="102" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame winning icon0000" x="0" y="204" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame winning icon0001" x="150" y="204" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame winning icon0002" x="300" y="204" width="143" height="92" frameX="-1" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame winning icon0003" x="300" y="204" width="143" height="92" frameX="-1" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame winning icon0004" x="453" y="204" width="144" height="92"/>
+	<SubTexture name="BF Flame winning icon0005" x="453" y="204" width="144" height="92"/>
+	<SubTexture name="BF Flame winning icon0006" x="607" y="204" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+	<SubTexture name="BF Flame winning icon0007" x="757" y="204" width="140" height="92" frameX="-4" frameY="0" frameWidth="144" frameHeight="92"/>
+</TextureAtlas>

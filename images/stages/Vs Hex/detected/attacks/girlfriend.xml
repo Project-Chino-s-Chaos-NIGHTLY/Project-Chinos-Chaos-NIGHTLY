@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="girlfriend.png" width="662" height="563">
+	<SubTexture name="GF Slash Down0000" x="139" y="140" width="124" height="271" frameX="-0" frameY="-1" frameWidth="161" frameHeight="312"/>
+	<SubTexture name="GF Slash Down0001" x="386" y="177" width="129" height="168" frameX="-13" frameY="-127" frameWidth="161" frameHeight="312"/>
+	<SubTexture name="GF Slash Down0002" x="551" y="119" width="103" height="109" frameX="-51" frameY="-197" frameWidth="161" frameHeight="312"/>
+	<SubTexture name="GF Slash Down0003" x="382" y="358" width="1" height="1" frameX="-0" frameY="-0" frameWidth="161" frameHeight="312"/>
+	<SubTexture name="GF Slash Left0000" x="3" y="3" width="283" height="134" frameX="-35" frameY="-2" frameWidth="324" frameHeight="175"/>
+	<SubTexture name="GF Slash Left0001" x="3" y="422" width="175" height="138" frameX="-12" frameY="-18" frameWidth="324" frameHeight="175"/>
+	<SubTexture name="GF Slash Left0002" x="266" y="358" width="113" height="107" frameX="-2" frameY="-62" frameWidth="324" frameHeight="175"/>
+	<SubTexture name="GF Slash Left0003" x="382" y="358" width="1" height="1" frameX="-0" frameY="-0" frameWidth="324" frameHeight="175"/>
+	<SubTexture name="GF Slash Right0000" x="289" y="3" width="259" height="171" frameX="-2" frameY="-1" frameWidth="286" frameHeight="216"/>
+	<SubTexture name="GF Slash Right0001" x="386" y="348" width="153" height="157" frameX="-121" frameY="-38" frameWidth="286" frameHeight="216"/>
+	<SubTexture name="GF Slash Right0002" x="518" y="231" width="103" height="108" frameX="-177" frameY="-102" frameWidth="286" frameHeight="216"/>
+	<SubTexture name="GF Slash Right0003" x="382" y="358" width="1" height="1" frameX="-0" frameY="-0" frameWidth="286" frameHeight="216"/>
+	<SubTexture name="GF Slash Up0000" x="3" y="140" width="133" height="279" frameX="-0" frameY="-46" frameWidth="140" frameHeight="331"/>
+	<SubTexture name="GF Slash Up0001" x="266" y="177" width="117" height="178" frameX="-5" frameY="-17" frameWidth="140" frameHeight="331"/>
+	<SubTexture name="GF Slash Up0002" x="551" y="3" width="108" height="113" frameX="-24" frameY="-2" frameWidth="140" frameHeight="331"/>
+	<SubTexture name="GF Slash Up0003" x="382" y="358" width="1" height="1" frameX="-0" frameY="-0" frameWidth="140" frameHeight="331"/>
+</TextureAtlas>

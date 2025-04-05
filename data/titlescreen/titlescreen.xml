@@ -1,0 +1,13 @@
+<!DOCTYPE codename-titlestate >
+<titlestate>
+	<sprites folder="menus/titlescreen">
+		<sprite name="bg" sprite="bg" x="0" y="0"/>
+		<sprite name="logo" sprite="logo" x="0" y="0" beatInterval="1"/>
+
+		<titleEnter sprite="titleEnter" x="-150" y="-100" />
+	</sprites>
+
+	<intro length="10000">
+
+	</intro>
+</titlestate>

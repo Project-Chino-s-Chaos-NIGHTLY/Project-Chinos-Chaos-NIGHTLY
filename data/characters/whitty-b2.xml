@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="-240" sprite="Whitty/b2" icon="Vs Whitty/whitty-b2" color="#6ED8FF">
+	<anim name="idle" anim="Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up" x="99" y="50" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left" x="350" y="-168" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right" x="-15" y="-248" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Down" x="65" y="-365" fps="24" loop="false"/>
+</character>

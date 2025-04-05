@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="matt/boxin" scale="1.1" camx="-180" icon="Vs Matt/matt" color="#FFA000">
+	<anim name="danceLeft" anim="Matt Idle" x="-5" y="0" fps="24" loop="false" indices="0..17"/>
+	<anim name="danceRight" anim="Matt Idle" x="-5" y="0" fps="24" loop="false" indices="18..35"/>
+	<anim name="singLEFT" anim="Matt Attack Left" x="2" y="-11" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Matt Attack Down" x="-13" y="-24" fps="24" loop="false"/>
+	<anim name="singUP" anim="Matt Attack Up" x="-11" y="5" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Matt Attack Right" x="3" y="-11" fps="24" loop="false"/>
+	<anim name="blockLEFT" anim="Matt Block Left" x="-16" y="-11" fps="24" loop="false"/>
+	<anim name="blockDOWN" anim="Matt Block Down" x="-18" y="-15" fps="24" loop="false"/>
+	<anim name="blockUP" anim="Matt Block Up" x="-9" y="-6" fps="24" loop="false"/>
+	<anim name="blockRIGHT" anim="Matt Block Right" x="-15" y="-8" fps="24" loop="false"/>
+	<anim name="bustsAtBF" anim="Matt Attack FistThrow" x="42" y="17" fps="24" loop="false"/>
+	<anim name="parryDOWN" anim="Matt Parry Down" x="114" y="-15" fps="24" loop="false"/>
+	<anim name="parryUP" anim="Matt Parry Up" x="144" y="-6" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="-15" y="280" sprite="gf/click" camx="-140" camy="100" icon="gf" color="#A5004D" isGF="true">
+	<anim name="notIdle" anim="GF Ballistic Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="GF Ballistic Click" x="1429" y="1290" fps="24" loop="false"/>
+</character>

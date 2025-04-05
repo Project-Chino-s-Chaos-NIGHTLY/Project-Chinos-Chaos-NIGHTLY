@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="whitty-crazy.png" width="2573" height="2413">
+	<SubTexture name="Whitty Ballistic Idle0001" x="605" y="1609" width="599" height="795" frameX="-62" frameY="-11" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0002" x="3" y="1609" width="599" height="801" frameX="-62" frameY="-5" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0003" x="1953" y="3" width="617" height="763" frameX="-53" frameY="-43" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0004" x="1896" y="778" width="653" height="769" frameX="-17" frameY="-37" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0005" x="1286" y="3" width="664" height="772" frameX="-5" frameY="-34" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0006" x="3" y="3" width="667" height="778" frameX="-2" frameY="-28" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0007" x="619" y="837" width="667" height="769" frameX="-1" frameY="-37" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0008" x="1289" y="1586" width="658" height="787" frameX="-10" frameY="-37" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0009" x="673" y="3" width="610" height="831" frameX="-57" frameY="-3" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0011" x="3" y="784" width="613" height="822" frameX="-58" frameY="-17" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0012" x="1950" y="1550" width="608" height="793" frameX="-58" frameY="-13" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty Ballistic Idle0013" x="1289" y="778" width="604" height="805" frameX="-60" frameY="-1" frameWidth="677" frameHeight="845"/>
+</TextureAtlas>

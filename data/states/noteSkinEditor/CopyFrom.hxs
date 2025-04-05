@@ -1,0 +1,48 @@
+import funkin.backend.assets.ModsFolder;
+import funkin.editors.ui.UIState;
+import funkin.editors.ui.UISprite;
+import funkin.editors.ui.UIText;
+import funkin.editors.ui.UIButton;
+import funkin.editors.ui.UITextBox;
+import funkin.editors.ui.UIDropDown;
+import funkin.options.type.IconOption;
+
+import haxe.io.Path;
+import haxe.Json;
+import sys.io.File;
+import sys.FileSystem;
+function create() {
+	winTitle = 'Copy Offsets From:';
+
+	winWidth = 230;
+	winHeight = 130;
+}
+var daName:String;
+function postCreate() {
+    trace(getNoteList(true));
+
+    var theLister = getNoteList(true);
+    if (theLister.length == 0) theLister = getNoteList(false);
+    spriteDropdown = new UIDropDown(20, windowSpr.y + 40, 190+30, 30, addExt(lowerCaseArray(theLister), 'json'), lowerCaseArray(theLister).indexOf('default'));
+	spriteDropdown.onChange = function(to) {
+        daName = spriteDropdown.options[to];
+    }
+	add(spriteDropdown);
+
+    var saveButton = new UIButton(windowSpr.x + windowSpr.bWidth - 30, windowSpr.y + windowSpr.bHeight - 16 - 32, "Copy Offsets", function() {
+        copyOffsets(daName);
+        close();
+	}, 75);
+    saveButton.frames = Paths.getFrames("editors/ui/grayscale-button");
+	saveButton.color = 0xFF00FF00;
+	saveButton.x -= saveButton.bWidth;
+    add(saveButton);
+
+    var closeButton = new UIButton(saveButton.x - 20, saveButton.y, "Cancel", function() {
+		close();
+	}, 75);
+	add(closeButton);
+	closeButton.frames = Paths.getFrames("editors/ui/grayscale-button");
+	closeButton.color = 0xFFFF0000;
+	closeButton.x -= closeButton.bWidth;
+}

@@ -1,0 +1,34 @@
+{
+	"params": [
+		{
+			"name": "Which character to appear at?",
+			"type": "StrumLine",
+			"defaultValue": 0
+		},
+		{
+			"name": "What's the popup?",
+			"type": "DropDown('NaN', 'Echo', 'Heated Up', 'Cooled Down', 'Shrapnel')",
+			"defaultValue": "NaN"
+		},
+		{
+			"name": "Pick a preset fade.",
+			"type": "DropDown('NaN', 'Fade Up', 'Fade Down', 'Fade Left', 'Fade Right', 'Fade Static')",
+			"defaultValue": "NaN"
+		},
+		{
+			"name": "Offset X (Negative goes behind, Positive goes in front.)",
+			"type": "Float(-999999, 999999, 0.0001, 10)",
+			"defaultValue": 0
+		},
+		{
+			"name": "Offset Y (Negative goes up, Positive goes down.)",
+			"type": "Float(-999999, 999999, 0.0001, 10)",
+			"defaultValue": 0
+		},
+		{
+			"name": "Popup Scale",
+			"type": "Float(-999999, 999999, 0.0001, 10)",
+			"defaultValue": 1
+		}
+	]
+}

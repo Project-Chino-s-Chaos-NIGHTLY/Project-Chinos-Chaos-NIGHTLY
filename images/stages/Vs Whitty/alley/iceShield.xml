@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="iceShield.png" width="1706" height="1643">
+	<SubTexture name="Ice Blast  10000" x="1274" y="570" width="422" height="462" frameX="-123" frameY="-34" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10001" x="676" y="1120" width="458" height="493" frameX="-107" frameY="-25" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10002" x="676" y="570" width="588" height="540" frameX="-34" frameY="-4" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10003" x="676" y="10" width="643" height="550" frameX="-5" frameY="-1" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10004" x="10" y="589" width="656" height="565" frameX="-3" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10005" x="10" y="10" width="656" height="569" frameX="-4" frameY="-1" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10006" x="10" y="1164" width="609" height="365" frameX="-0" frameY="-93" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10007" x="1329" y="10" width="271" height="224" frameX="-254" frameY="-237" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10008" x="629" y="1164" width="4" height="4" frameX="-521" frameY="-244" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10009" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10010" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10011" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10012" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10013" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10014" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10015" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10016" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10017" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10018" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10019" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10020" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10021" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10022" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="Ice Blast  10023" x="643" y="1164" width="1" height="1" frameX="-0" frameY="-0" frameWidth="660" frameHeight="570"/>
+	<SubTexture name="ice shield 10000" x="1144" y="1120" width="401" height="513" frameX="-1" frameY="-1" frameWidth="402" frameHeight="515"/>
+</TextureAtlas>

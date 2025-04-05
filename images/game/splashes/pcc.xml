@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pcc.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note impact 1 carol0000" x="811" y="10" width="189" height="271" frameX="-32" frameY="-11" frameWidth="260" frameHeight="298"/>
+	<SubTexture name="note impact 1 carol0001" x="10" y="850" width="213" height="265" frameX="-27" frameY="-21" frameWidth="260" frameHeight="298"/>
+	<SubTexture name="note impact 1 carol0002" x="550" y="10" width="251" height="291" frameX="-5" frameY="-6" frameWidth="260" frameHeight="298"/>
+	<SubTexture name="note impact 1 carol0003" x="10" y="10" width="260" height="298"/>
+	<SubTexture name="note impact 1 gf0000" x="811" y="291" width="189" height="271" frameX="-32" frameY="-11" frameWidth="260" frameHeight="298"/>
+	<SubTexture name="note impact 1 gf0001" x="519" y="612" width="213" height="265" frameX="-27" frameY="-21" frameWidth="260" frameHeight="298"/>
+	<SubTexture name="note impact 1 gf0002" x="550" y="311" width="251" height="291" frameX="-5" frameY="-6" frameWidth="260" frameHeight="298"/>
+	<SubTexture name="note impact 1 gf0003" x="280" y="10" width="260" height="298"/>
+	<SubTexture name="note impact 2 carol0000" x="742" y="860" width="169" height="202" frameX="-44" frameY="-41" frameWidth="273" frameHeight="267"/>
+	<SubTexture name="note impact 2 carol0001" x="233" y="854" width="225" height="238" frameX="-20" frameY="-20" frameWidth="273" frameHeight="267"/>
+	<SubTexture name="note impact 2 carol0002" x="10" y="318" width="265" height="256" frameX="0" frameY="-11" frameWidth="273" frameHeight="267"/>
+	<SubTexture name="note impact 2 carol0003" x="285" y="318" width="224" height="258" frameX="-49" frameY="0" frameWidth="273" frameHeight="267"/>
+	<SubTexture name="note impact 2 gf0000" x="468" y="887" width="169" height="202" frameX="-44" frameY="-41" frameWidth="273" frameHeight="267"/>
+	<SubTexture name="note impact 2 gf0001" x="742" y="612" width="225" height="238" frameX="-20" frameY="-20" frameWidth="273" frameHeight="267"/>
+	<SubTexture name="note impact 2 gf0002" x="10" y="584" width="265" height="256" frameX="0" frameY="-11" frameWidth="273" frameHeight="267"/>
+	<SubTexture name="note impact 2 gf0003" x="285" y="586" width="224" height="258" frameX="-49" frameY="0" frameWidth="273" frameHeight="267"/>
+</TextureAtlas>

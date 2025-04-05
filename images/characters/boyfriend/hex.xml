@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hex.png" width="3630" height="3312">
+	<SubTexture name="Bf Idle Dance Glow0000" x="1279" y="2451" width="418" height="405" frameX="-0" frameY="-20" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0001" x="1700" y="2451" width="418" height="405" frameX="-0" frameY="-20" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0002" x="430" y="2474" width="419" height="406" frameX="-0" frameY="-19" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0003" x="430" y="2474" width="419" height="406" frameX="-0" frameY="-19" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0004" x="2121" y="2451" width="418" height="412" frameX="-1" frameY="-13" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0005" x="2121" y="2451" width="418" height="412" frameX="-1" frameY="-13" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0006" x="1282" y="2023" width="422" height="425" frameX="-0" frameY="-0" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0007" x="1282" y="2023" width="422" height="425" frameX="-0" frameY="-0" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0008" x="1707" y="2023" width="422" height="425" frameX="-0" frameY="-0" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0009" x="2416" y="3" width="422" height="425" frameX="-0" frameY="-0" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0010" x="2416" y="431" width="422" height="425" frameX="-0" frameY="-0" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0011" x="2416" y="431" width="422" height="425" frameX="-0" frameY="-0" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0012" x="2416" y="431" width="422" height="425" frameX="-0" frameY="-0" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Idle Dance Glow0013" x="2398" y="859" width="422" height="425" frameX="-0" frameY="-0" frameWidth="425" frameHeight="428"/>
+	<SubTexture name="Bf Mic Throw0000" x="3241" y="3" width="386" height="374" frameX="-815" frameY="-391" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0001" x="3241" y="380" width="386" height="374" frameX="-815" frameY="-391" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0002" x="3241" y="757" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0003" x="3241" y="757" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0004" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0005" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0006" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0007" x="3220" y="1515" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0008" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0009" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0010" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0011" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0012" x="3175" y="1894" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0013" x="3" y="3" width="1193" height="631" frameX="-0" frameY="-137" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0014" x="3" y="637" width="1008" height="768" frameX="-185" frameY="-0" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0015" x="1199" y="3" width="725" height="690" frameX="-477" frameY="-78" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0016" x="1199" y="3" width="725" height="690" frameX="-477" frameY="-78" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0017" x="648" y="1408" width="562" height="558" frameX="-641" frameY="-210" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0018" x="3241" y="3" width="386" height="374" frameX="-815" frameY="-391" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0019" x="3241" y="380" width="386" height="374" frameX="-815" frameY="-391" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0020" x="3241" y="757" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0021" x="3241" y="757" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0022" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0023" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0024" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0025" x="3220" y="1515" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Bf Mic Throw0026" x="3239" y="1136" width="382" height="376" frameX="-817" frameY="-389" frameWidth="1207" frameHeight="771"/>
+	<SubTexture name="Hit0000" x="1709" y="1070" width="454" height="439" frameX="-49" frameY="-136" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0001" x="3" y="1408" width="642" height="633" frameX="-0" frameY="-6" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0002" x="853" y="2023" width="426" height="420" frameX="-123" frameY="-150" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0003" x="1014" y="696" width="647" height="642" frameX="-27" frameY="-0" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0004" x="2556" y="1936" width="390" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0005" x="2775" y="2869" width="397" height="408" frameX="-120" frameY="-162" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0006" x="3" y="2898" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0007" x="3" y="2898" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0008" x="399" y="2898" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0009" x="3" y="2898" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0010" x="3" y="2898" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0011" x="2841" y="845" width="395" height="415" frameX="-120" frameY="-155" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0012" x="795" y="2883" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0013" x="795" y="2883" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0014" x="1191" y="2873" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0015" x="795" y="2883" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0016" x="2823" y="1263" width="394" height="415" frameX="-120" frameY="-155" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0017" x="1587" y="2869" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0018" x="2542" y="2451" width="394" height="415" frameX="-120" frameY="-155" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0019" x="1983" y="2869" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0020" x="1587" y="2869" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0021" x="2379" y="2869" width="393" height="411" frameX="-120" frameY="-159" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0022" x="2841" y="3" width="397" height="418" frameX="-115" frameY="-152" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0023" x="2841" y="424" width="397" height="418" frameX="-115" frameY="-152" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0024" x="853" y="2446" width="423" height="424" frameX="-85" frameY="-145" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0025" x="853" y="2446" width="423" height="424" frameX="-85" frameY="-145" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0026" x="3" y="2044" width="422" height="427" frameX="-79" frameY="-142" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0027" x="3" y="2044" width="422" height="427" frameX="-79" frameY="-142" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0028" x="428" y="2044" width="422" height="427" frameX="-79" frameY="-142" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit0029" x="428" y="2044" width="422" height="427" frameX="-79" frameY="-142" frameWidth="677" frameHeight="645"/>
+	<SubTexture name="Hit 20000" x="1927" y="689" width="468" height="378" frameX="-4" frameY="-49" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20001" x="1213" y="1341" width="493" height="322" frameX="-0" frameY="-101" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20002" x="1213" y="1666" width="487" height="335" frameX="-1" frameY="-89" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20003" x="1213" y="1666" width="487" height="335" frameX="-1" frameY="-89" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20004" x="1927" y="3" width="486" height="340" frameX="-1" frameY="-85" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20005" x="1927" y="3" width="486" height="340" frameX="-1" frameY="-85" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20006" x="1927" y="3" width="486" height="340" frameX="-1" frameY="-85" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20007" x="1927" y="3" width="486" height="340" frameX="-1" frameY="-85" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20008" x="1927" y="3" width="486" height="340" frameX="-1" frameY="-85" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20009" x="1927" y="3" width="486" height="340" frameX="-1" frameY="-85" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20010" x="1927" y="346" width="486" height="340" frameX="-1" frameY="-85" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20011" x="1927" y="3" width="486" height="340" frameX="-1" frameY="-85" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20012" x="1703" y="1666" width="447" height="354" frameX="-8" frameY="-72" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20013" x="1703" y="1666" width="447" height="354" frameX="-8" frameY="-72" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20014" x="2153" y="1512" width="424" height="421" frameX="-40" frameY="-4" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20015" x="3" y="2474" width="424" height="421" frameX="-40" frameY="-4" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20016" x="2132" y="2023" width="421" height="425" frameX="-42" frameY="-0" frameWidth="496" frameHeight="430"/>
+	<SubTexture name="Hit 20017" x="2132" y="2023" width="421" height="425" frameX="-42" frameY="-0" frameWidth="496" frameHeight="430"/>
+</TextureAtlas>

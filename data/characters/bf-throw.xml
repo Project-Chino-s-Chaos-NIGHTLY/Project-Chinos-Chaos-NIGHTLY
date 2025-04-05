@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="-2" y="350" sprite="boyfriend/throw" flipX="true" camx="-154" camy="-132" isPlayer="true" icon="Vs Whitty/bf-ice" color="#99FFFF" gameOverChar="bf-ice-dead" splashSkin="ice" noteSkin="NOTE_assets_ice">
+	<anim name="notIdle" anim="BF Ice Idle" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="BF Ice Bomb Throw" x="993" y="374" fps="24" loop="false"/>
+</character>

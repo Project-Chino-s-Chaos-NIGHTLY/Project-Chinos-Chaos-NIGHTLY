@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs Whitty/hallway/" zoom="0.6">
+	<sprite scale="1.66" sprite="sample" name="sample"/>
+	<gf x="200" y="-50"/>
+	<dad x="-250" y="150"/>
+	<bf/>
+	<combo/>
+</stage>

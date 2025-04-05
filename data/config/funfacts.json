@@ -1,0 +1,216 @@
+[
+	{
+		"text": "Boyfriend gets his echo ability from Monster in week 5.",
+		"ifPerson": {
+			"chinosanimated": { // lol
+				"text": "Boyfriend gets his echo abi- wait... why am I telling you this? You wrote this shit lmao."
+			}
+		}
+	},
+	{
+		"text": "Boyfriend can only echo one power at a time.",
+		"ifPerson": {
+			"chinosanimated": { // lol
+				"text": "Boyfriend can only echo one po- wait... why am I telling you this? You wrote this shit lmao."
+			}
+		}
+	},
+	{
+		"text": "Make sure you join the discord server to get lots of updates from the get go!\n\nPress [ACCEPT] to join the community discord server!",
+		"link": "https://discord.gg/xspmVGgv4p",
+		"ifPerson": {
+			"chinosanimated": {
+				"text": "Hi Chino! :3"
+			}
+		}
+	},
+	{
+		"text": "Nebula procrastinates, a lot.",
+		"ifPerson": {
+			"nebulastellanova": {
+				"text": "You procrastinate too much."
+			}
+		}
+	},
+	{
+		"text": "Nebula procrastinates, a lot... two years man. TWO YEARS.",
+		"ifPerson": {
+			"nebulastellanova": {
+				"text": "You procrastinate too much... two years man. TWO YEARS."
+			}
+		}
+	},
+	{
+		"text": "Some specific people get early access!",
+		"ifPerson": {
+			"the___nebula___@.bakugo@aorinae@justzack12@toddathan265": {
+				"text": "\n\nBeing you {DisplayName}!",
+				"addOn": true
+			},
+			"chinosanimated": {
+				"text": "\n\nBeing yo- oh! Hi Chino :3",
+				"addOn": true
+			}
+		}
+	},
+	{
+		"text": "Nebula is also the owner of Matt Boxing Fight.\n\nWah-??    --Rodney",
+		"ifPerson": {
+			"nebulastellanova": {
+				"text": "Tf you mean you own Boxing Fight??"
+			}
+		}
+	},
+	{
+		"text": "Jam has an addiction to the Mid Fight Masses mod.",
+		"ifPerson": {
+			"jamvip": {
+				"text": "You have an addiction to Mid Fight Masses dude."
+			}
+		}
+	},
+	{
+		"text": "Rodney was absolutely devastated when Nebula didn't add him in her cover.",
+		"ifPerson": {
+			"nebulastellanova": {
+				"text": "..\n\nWHY THE FUCK NEBULA?!?!?", // I don't even remember tf this was about.
+				"addOn": true
+			}
+		}
+	},
+	{
+		"text": "Chino's Animated is nicer than you might think!",
+		"ifPerson": {
+			"chinosanimated": {
+				"text": "Stay awesome Chino!\n\n--Your Modded Dev Team"
+			}
+		}
+	},
+	{
+		"text": "Whitty and Hex are good friends, and have many stories together."
+	},
+	{
+		"text": "Nebula is a massive brony. Believe me, she made a MLP channel in Chino's discord server!\n\nPress [ACCEPT] to see for yourself!",
+		"link": "https://discord.gg/xspmVGgv4p",
+		"ifPerson": {
+			"nebulastellanova": { // I've known Nebs for 2 years so this is just a thing I do :') --Rodney
+				"text": "Hey Ja-! Excuse me, Jaso-? Sorry, I mean Jason? Sorry, I mean Jason? Sorry, Ja-?\n\nNEBULA, RODNEY, DAMMIT, IT'S NEBULA!!"
+			}
+		}
+	},
+	{
+		"text": "Coding takes a time. Wouldn't you agree {PersonName}?",
+		"ifPerson": { // How to creep someone out 101!
+			"uniquegeese": {
+				"text": "Coding takes a time. I bet you'd agree.\nYou do work on \"Indigo Park\" after all."
+			},
+			"higg399": {
+				"text": "Coding takes a time. I bet you'd agree.\nYou do work on \"Raps of Mt. Ebott.\" after all."
+			},
+			"pixel_cloud15": {
+				"text": "Coding takes a time. I bet you'd agree.\nYou do work on \"Forever Funkin\" after all."
+			},
+			"dopudioflp@theconcealedcow": { // inside joke
+				"text": "Coding takes a time. I bet you'd agree.\nYou do work on \"Funk95\" after all.\n\nLike jesus christ FUCKING FINISH!!!"
+			}
+		}
+	},
+	{ // people in the community server didn't believe it was real smh
+		"text": "What's this? An ACTUAL fucking loading screen?!\nThat ACTUALLY PREload's MID-song bullshit?!?!"
+	},
+	{ // He doesn't like this joke, why? Blame me (rondy) and nebs lmao.
+		"text": "Your mom!",
+		"ifPerson": {
+			"atlasgamer27": {
+				"text": "Your-!... nvm."
+			}
+		}
+	},
+	{ // SUPPORT HIM!!!!
+		"text": "Atlas, your awesome, don't forget that...\n\nWdym he probably won't see this? Alr then, uh...\n\n\nPress [ACCEPT] and watch this!",
+		"link": "https://www.youtube.com/watch?v=aSj-eqG8_-A",
+		"ifPerson": {
+			"atlasgamer27": {
+				"text": "Atlas, your awesome, don't forget that... please.\nI'm glad you saw this, I wasn't expecting you to download this mod honestly."
+			}
+		}
+	},
+	{ // inside jokes go brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+		"text": "3 words... Big The Cat.",
+		"ifPerson": {
+			"thedogdousky_": {
+				"text": "3 words Dex... Big The Cat."
+			}
+		}
+	},
+	{
+		"text": "Don't you love writing these when your supposed to be doing college work?",
+		"ifPerson": {
+			"rodney528@rodneythesilly": { // message to myself... this line isn't a joke btw, thats as I'm typing this
+				"text": "\n\n... Why are you cleaning this up at 2:50 am?",
+				"addOn": true
+			}
+		}
+	},
+	{
+		"text": "Shout out to SaraHUD! Your welcome Novi :3\n\nPress [ACCEPT] to go the GB page!",
+		"link": "https://gamebanana.com/mods/371851",
+		"ifPerson": {
+			"novikond": {
+				"text": "\n\n\nOh! Hi Novi... I'm surprised your here.",
+				"link": "https://gamebanana.com/mods/371851",
+				"addOn": true
+			}
+		}
+	},
+	{
+		"text": "Codename Engine might be in beta, but it's still very stable\nand everything you see in PCC is 100% SOFT-CODED."
+	},
+	{
+		"text": "Procrastination goes brrrrrrrrrrrrrr!!!"
+	},
+	{
+		"text": "If your streaming the mod, you should join us!\n\nPress [ACCEPT] to join the community discord server!",
+		"link": "https://discord.gg/xspmVGgv4p"
+	},
+	{
+		"text": "Man, imagine pulling a Nintendo! Oh... wait, S-Sock.clip did that-\n\nR.I.P. Part 3",
+		"ifPerson": {
+			"sock.wav": {
+				"text": "Man, imagine pulling a Nintendo! Oh, wait!- That's you.\n\nWhy you gotta do a Mario dammit!"
+			}
+		}
+	},
+	{ // inside joke
+		"text": "I'm in your walls.",
+		"ifPerson": {
+			"vcherrykai16": {
+				"text": "I'm in your wal- wait nvm, your in mine."
+			}
+		}
+	},
+	{
+		"text": "Rodney, your an idiot!!! --Rodney",
+		"ifPerson": {
+			"rodney528@rodneythesilly": {
+				"text": "\n\nStop being mean to yourself.", // same goes for you
+				"addOn": true
+			}
+		}
+	},
+	{
+		"text": "Please destroy us over our grammar mistakes in this mod...\n\nbut seriously please tell us what errors we made lmao.\nWe (Rodney) don't care if you make a dang essay lmao."
+	},
+	{ // this isn't true anymore :troll:
+		"text": "The loading bar to the right and below, might actually be done\na second or two before it says it is due to how it's coded!\n\nLerp's be like."
+	},
+	{
+		"text": "Check the contents of \"data/config/funfacts.json\".\nThere's some neat comments in there!",
+		"ifPerson": {
+			"nebulastellanova": {
+				"text": "\n\nWhat are you gonna do about it Nebula?? >:)",
+				"addOn": true
+			}
+		}
+	}
+]

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="-280" y="-200" sprite="whitty/whittyThrowsATantrum" icon="Vs Whitty/whitty-crazy" color="#CE002C">
+	<anim name="screaming" anim="Whitty Ballistic Scream" x="497" y="429" fps="24" loop="true"/>
+	<anim name="powerup" anim="Whitty Ballistic Powerup0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="powerup2" anim="Whitty Ballistic Powerup v2" x="27" y="429" fps="24" loop="false"/>
+</character>

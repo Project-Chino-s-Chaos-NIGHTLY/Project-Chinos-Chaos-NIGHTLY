@@ -1,0 +1,25 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 300,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -26608,
+	"displayName": "Sporting",
+	"icon": "Vs Matt/matt",
+	"name": "sporting",
+	"color": "#FF9810",
+	"customValues": {
+		"partText": "Vs Matt ~ Boxing Fight: Part 1",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"comingSoon": "false",
+		"comingIn": "1.15",
+		"preventHealthGain": "true",
+		"charter": "unassigned"
+	}
+}

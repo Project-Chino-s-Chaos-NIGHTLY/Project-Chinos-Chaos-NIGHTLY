@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 190,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": false,
+	"parsedColor": -16745217,
+	"displayName": "Empress",
+	"icon": "Vs Abby/abby",
+	"name": "empress",
+	"color": "#007CFF",
+	"customValues": {
+		"partText": "Vs Abby ~ Extras: Boxing Fight"
+	}
+
+}

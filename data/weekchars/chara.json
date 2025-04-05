@@ -1,0 +1,13 @@
+{
+    "sprite": "chara",
+    "animation": "Chara Idle",
+    "offsets": {
+        "x": -10,
+        "y": 200
+    },
+    "scale": {
+        "x": 1,
+        "y": 1
+    },
+    "framerate": 24
+}

@@ -1,0 +1,9 @@
+{
+	"params": [
+		{
+			"name": "What shield to kill?",
+			"type": "DropDown('NaN', 'Boyfriend Grid', 'Hex Grid', 'Boyfriend Fire', 'Carol Fire')",
+			"defaultValue": "NaN"
+		}
+	]
+}

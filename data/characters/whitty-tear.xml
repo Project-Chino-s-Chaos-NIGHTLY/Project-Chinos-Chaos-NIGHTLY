@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="-125" y="40" sprite="whitty/he throws his fucking tears" icon="Vs Whitty/whitty-crazy" color="#CE002C">
+	<anim name="idle" anim="Occurrence he throws his fucking tears 10" x="0" y="0" fps="24" loop="false" indices="0"/>
+	<anim name="tears" anim="Occurrence he throws his fucking tears 10" x="0" y="0" fps="24" loop="false"/>
+</character>

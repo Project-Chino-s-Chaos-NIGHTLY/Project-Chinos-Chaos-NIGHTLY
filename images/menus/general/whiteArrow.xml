@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whiteArrow.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Press0000" x="211" y="5" width="87" height="179" frameX="-2" frameY="-4" frameWidth="91" frameHeight="188"/>
+	<SubTexture name="Press0001" x="211" y="5" width="87" height="179" frameX="-2" frameY="-4" frameWidth="91" frameHeight="188"/>
+	<SubTexture name="Press0002" x="115" y="5" width="91" height="188"/>
+	<SubTexture name="Static0000" x="5" y="5" width="105" height="217"/>
+</TextureAtlas>

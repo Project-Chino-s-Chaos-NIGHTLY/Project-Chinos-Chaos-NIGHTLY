@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="-2" y="350" sprite="fireBlastsBallistic" camx="-154" camy="-132" icon="Vs Whitty/bf-ice" gameOverChar="bf-ice-dead" splashSkin="ice" noteSkin="NOTE_assets_ice">
+	<anim name="singLEFT" anim="left" x="17" y="0" fps="24" loop="false" indices="2"/>
+	<anim name="singDOWN" anim="down" x="-64" y="-4" fps="24" loop="false" indices="2"/>
+	<anim name="singUP" anim="up" x="-129" y="0" fps="24" loop="false" indices="2"/>
+	<anim name="singRIGHT" anim="right" x="-71" y="1" fps="24" loop="false" indices="2"/>
+</character>

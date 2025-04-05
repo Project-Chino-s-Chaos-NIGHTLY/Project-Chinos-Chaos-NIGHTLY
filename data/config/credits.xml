@@ -1,0 +1,67 @@
+<!DOCTYPE codename-mod-credits>
+<menu name="Chino's Chaos" desc="Bring Chino's fnf animations to life!">
+	<menu name="The Team" desc="The team that did it!">
+		<credit name="Nebula S. Nova" desc="Mod Director, Main Programmer." icon="nebulastellanova" size="100" portrait="true" color="#FF00FF"/>
+
+		<credit name="Rodney" icon="rodney" desc="Programmer, Co Director.                                                                                          Thank you Rodney. -Nebula" size="100" portrait="true" color="#00B4FF"/>
+
+		<credit name="Chino's Animated" desc="The animator himself!" icon="chino" size="100" portrait="true" color="#0000FF"/>
+
+		<credit name="ShamrockDev" desc="Made Hark cover." icon="shamrock" size="100" portrait="false" color="#8cff00"/>
+
+		<credit name="Tsaku" desc="Programmer." icon="tsaku" size="100" portrait="false"/>
+
+		<credit name="SundaySneasel" desc="Voice of Abby." icon="sunday" size="100" portrait="false"/>
+
+		<credit name="Rebbzyy" desc="Artist." icon="rebz" size="100" portrait="false"/>
+
+		<credit name="Zeddy_Xplayz" desc="Artist." icon="" size="100" portrait="true"/>
+		
+		<credit name="JustLoq" desc="Musician." icon="justloq" size="100" portrait="true"/>
+
+		<credit name="Jona_Da_Fox" desc="Musician." icon="jona" size="100" portrait="false"/>
+
+		<credit name="Real_Dodo" desc="Musician." icon="Real_Dodo" size="100" portrait="false"/>
+
+		<credit name="Jake Official" desc="Musician." icon="jake" size="100" portrait="false"/>
+
+		<credit name="TheFunny" desc="Charter, Menu Concept Designer." icon="theFunny" size="100" portrait="false"/>
+
+		<credit name="Toddathan T-star" desc="Charter." size="100" portrait="true" icon="todd"/>
+
+		<credit name="JamPC" desc="Charter." size="100" portrait="true" icon="jampc"/>
+	</menu>
+
+	<menu name="The Playtesters" desc="Thank you to all the playtesters!">
+		<credit desc="" name="Bakugo" icon="bakugo" size="100" portrait="true"/>
+
+		<credit desc="" name="JustZack" icon="itsjustzack" size="100" portrait="false"/>
+
+		<credit desc="" name="TheNebula" icon="nebula" size="100" portrait="true"/>
+
+		<credit desc="" name="Aorinae" icon="aorinae" size="100" portrait="false"/>
+	</menu>
+
+	<menu name="Special Thanks" desc="Thank you all!">
+		<github user="usb-port-2" desc="Thank you so much for helping us with optimization, and helping with coding our skin handler system!" size="100" portrait="true"/>
+
+		<github user="NeeEoo" desc="Thank's for helping us with spritesheets and atlases. And thanks for making funkin' packer." size="100" portrait="true"/>
+
+		<credit name="You" desc="You! Yes, you! Thank you for playing our mod! We hope you liked it." icon="hand"/>
+	</menu>
+
+	<menu name="The Animations" desc="Here you will find links to the animations.">
+		<credit name="Matt Boxing Fight" desc="Press ACCEPT to open url." url="https://www.youtube.com/watch?v=lEiTGPJCezI"/>
+
+		<credit name="Whitty Fire Fight" desc="Press ACCEPT to open url." url="https://www.youtube.com/watch?v=1db57MHqgPY"/>
+
+		<credit name="Hex Electric Fight" desc="Press ACCEPT to open url." url="https://www.youtube.com/watch?v=0-kOA5fmNQc"/>
+
+		<credit name="Chara Knife Fight" desc="Press ACCEPT to open url." url="https://www.youtube.com/watch?v=GkUs_3aVXNg"/>
+
+		<credit name="Dark Sonic Fight" desc="Press ACCEPT to open url." url="https://www.youtube.com/watch?v=k9XxlJNmjM0"/>
+	</menu>
+
+	<credit icon="" name="Discord" desc="Join the discord server!" url="https://discord.gg/xspmVGgv4p"/>
+	<credit icon="" name="YouTube" desc="The mod team's official YouTube channel!" url="https://youtube.com/@ChinosModded"/>
+</menu>

@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character x="210" y="-111" sprite="whitty/hex" flipX="true" camx="70" camy="50" icon="Vs Whitty/whitty-angry" color="#1D1E35">
+	<anim name="idle" anim="Idle Agro0" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="Sing Left Agro" x="231" y="-28" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Sing Down Agro" x="61" y="-22" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up Agro" x="56" y="122" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Sing Right Agro" x="-15" y="-20" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="Idle Agro hurt" x="83" y="-22" fps="24" loop="false"/>
+	<anim name="singLEFT-hit" anim="Whitty Electrocuted HIT LEFT" x="126" y="-189" fps="24" loop="false"/>
+	<anim name="singDOWN-hit" anim="Whitty Electrocuted HIT DOWN" x="101" y="-186" fps="24" loop="false"/>
+	<anim name="singUP-hit" anim="Whitty Electrocuted HIT UP" x="106" y="-8" fps="24" loop="false"/>
+	<anim name="singRIGHT-hit" anim="Whitty Electrocuted HIT RIGHT" x="215" y="-150" fps="24" loop="false"/>
+	<anim name="SpinAgro" anim="Shield Spin Agro" x="212" y="100" fps="24" loop="false"/>
+	<anim name="hit" anim="Hit Agro0" x="8" y="0" fps="24" loop="false"/>
+	<anim name="hit-hurt" anim="Whitty Agro Hit 3" x="163" y="-106" fps="24" loop="false"/>
+	<anim name="snap" anim="Click" x="140" y="-34" fps="24" loop="false"/>
+</character>

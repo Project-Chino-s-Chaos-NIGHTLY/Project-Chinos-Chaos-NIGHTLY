@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whitty-angry-labeled.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty even Icon0000" x="362" y="5" width="114" height="101"/>
+	<SubTexture name="Whitty even Icon0001" x="5" y="111" width="114" height="101"/>
+	<SubTexture name="Whitty even Icon0002" x="124" y="111" width="114" height="101"/>
+	<SubTexture name="Whitty even Icon0003" x="5" y="217" width="113" height="101" frameX="-1" frameY="0" frameWidth="114" frameHeight="101"/>
+	<SubTexture name="Whitty even Icon0004" x="362" y="5" width="114" height="101"/>
+	<SubTexture name="Whitty even Icon0005" x="5" y="111" width="114" height="101"/>
+	<SubTexture name="Whitty even Icon0006" x="124" y="111" width="114" height="101"/>
+	<SubTexture name="Whitty even Icon0007" x="123" y="217" width="113" height="101" frameX="-1" frameY="0" frameWidth="114" frameHeight="101"/>
+	<SubTexture name="Whitty losing icon0000" x="241" y="217" width="115" height="98"/>
+	<SubTexture name="Whitty losing icon0001" x="361" y="217" width="115" height="98"/>
+	<SubTexture name="Whitty losing icon0002" x="241" y="320" width="115" height="98"/>
+	<SubTexture name="Whitty losing icon0003" x="361" y="320" width="114" height="98" frameX="-1" frameY="0" frameWidth="115" frameHeight="98"/>
+	<SubTexture name="Whitty losing icon0004" x="241" y="217" width="115" height="98"/>
+	<SubTexture name="Whitty losing icon0005" x="361" y="217" width="115" height="98"/>
+	<SubTexture name="Whitty losing icon0006" x="241" y="320" width="115" height="98"/>
+	<SubTexture name="Whitty losing icon0007" x="361" y="320" width="114" height="98" frameX="-1" frameY="0" frameWidth="115" frameHeight="98"/>
+	<SubTexture name="Whitty winning Icon0000" x="5" y="5" width="114" height="101"/>
+	<SubTexture name="Whitty winning Icon0001" x="124" y="5" width="114" height="101"/>
+	<SubTexture name="Whitty winning Icon0002" x="243" y="5" width="114" height="101"/>
+	<SubTexture name="Whitty winning Icon0003" x="243" y="111" width="113" height="101" frameX="-1" frameY="0" frameWidth="114" frameHeight="101"/>
+	<SubTexture name="Whitty winning Icon0004" x="5" y="5" width="114" height="101"/>
+	<SubTexture name="Whitty winning Icon0005" x="124" y="5" width="114" height="101"/>
+	<SubTexture name="Whitty winning Icon0006" x="243" y="5" width="114" height="101"/>
+	<SubTexture name="Whitty winning Icon0007" x="361" y="111" width="113" height="101" frameX="-1" frameY="0" frameWidth="114" frameHeight="101"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="-19" y="350" camx="-46" camy="-56" sprite="boyfriend/fire" flipX="true" isPlayer="true" icon="Vs Whitty/bf-fire" color="#CC3300" gameOverChar="bf-fire-dead">
+	<anim name="idle" anim="BF Flame Idle" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF Flame Sing Left0" x="-2" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF Flame Sing Down0" x="33" y="10" fps="24" loop="false"/>
+	<anim name="singUP" anim="BF Flame Sing Up0" x="3" y="45" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF Flame Sing Right0" x="-37" y="0" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="BF Flame Sing Up XD" x="3" y="45" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="BF Flame Sing Left MISS" x="-5" y="32" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF Flame Sing Down MISS" x="31" y="33" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="BF Flame Sing Up MISS" x="-1" y="92" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF Flame Sing Right MISS" x="-32" y="30" fps="24" loop="false"/>
+	<anim name="powerup" anim="BF Flame Powerup0" x="62" y="236" fps="24" loop="false"/>
+	<anim name="heatup" anim="BF Flame Powerup v2" x="62" y="236" fps="24" loop="false"/>
+	<anim name="hit" anim="BF Flame hit " x="-34" y="8" fps="24" loop="false"/>
+	<anim name="block" anim="BF Flame hit0" x="-37" y="1" fps="24" loop="false"/>
+	<anim name="snap" anim="BF Flame Click" x="-24" y="1" fps="24" loop="false"/>
+</character>

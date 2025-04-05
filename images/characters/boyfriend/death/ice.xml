@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="ice.png" width="3592" height="3197">
+	<SubTexture name="BF Ice dead confirm0000" x="1620" y="2688" width="508" height="261" frameX="-194" frameY="-239" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0001" x="2138" y="2931" width="466" height="237" frameX="-215" frameY="-251" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0002" x="2138" y="2931" width="466" height="237" frameX="-215" frameY="-251" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0003" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0004" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0005" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0006" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0007" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0008" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0009" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0010" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0011" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0012" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0013" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0014" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0015" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0016" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0017" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0018" x="2138" y="2688" width="507" height="233" frameX="-168" frameY="-252" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0019" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0020" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0021" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0022" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0023" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0024" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0025" x="1475" y="904" width="595" height="233" frameX="-166" frameY="-252" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0026" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0027" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0028" x="2692" y="257" width="460" height="233" frameX="-218" frameY="-253" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0029" x="2614" y="2931" width="437" height="225" frameX="-210" frameY="-244" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0030" x="10" y="1404" width="655" height="337" frameX="-119" frameY="-129" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0031" x="10" y="10" width="725" height="460" frameX="-45" frameY="-75" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0032" x="745" y="10" width="720" height="457" frameX="-49" frameY="-74" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0033" x="10" y="950" width="701" height="444" frameX="-65" frameY="-75" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0034" x="1475" y="10" width="643" height="437" frameX="-98" frameY="-77" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0035" x="564" y="2685" width="518" height="398" frameX="-159" frameY="-95" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0036" x="582" y="1751" width="531" height="407" frameX="-179" frameY="-115" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0037" x="10" y="1751" width="562" height="425" frameX="-119" frameY="-76" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0038" x="10" y="1751" width="562" height="425" frameX="-119" frameY="-76" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0039" x="2128" y="10" width="554" height="471" frameX="-35" frameY="-27" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0040" x="2128" y="10" width="554" height="471" frameX="-35" frameY="-27" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0041" x="1908" y="1677" width="547" height="477" frameX="-17" frameY="-19" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0042" x="1908" y="1677" width="547" height="477" frameX="-17" frameY="-19" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0043" x="2127" y="491" width="548" height="490" frameX="-6" frameY="-5" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0044" x="2006" y="1147" width="544" height="490" frameX="-5" frameY="-5" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0045" x="2006" y="1147" width="544" height="490" frameX="-5" frameY="-5" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0046" x="10" y="2186" width="544" height="492" frameX="-3" frameY="-3" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0047" x="10" y="2186" width="544" height="492" frameX="-3" frameY="-3" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0048" x="10" y="2186" width="544" height="492" frameX="-3" frameY="-3" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0049" x="10" y="2186" width="544" height="492" frameX="-3" frameY="-3" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0050" x="582" y="2182" width="543" height="493" frameX="-3" frameY="-2" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0051" x="582" y="2182" width="543" height="493" frameX="-3" frameY="-2" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0052" x="582" y="2182" width="543" height="493" frameX="-3" frameY="-2" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0053" x="1135" y="2182" width="543" height="495" frameX="-0" frameY="-0" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0054" x="1135" y="2182" width="543" height="495" frameX="-0" frameY="-0" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0055" x="1135" y="2182" width="543" height="495" frameX="-0" frameY="-0" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0056" x="1340" y="1677" width="558" height="495" frameX="-19" frameY="-0" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0057" x="2465" y="1647" width="404" height="416" frameX="-22" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0058" x="2655" y="2073" width="373" height="416" frameX="-50" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0059" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0060" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0061" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0062" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0063" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0064" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0065" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0066" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0067" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0068" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0069" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0070" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0071" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0072" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0073" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0074" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0075" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0076" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0077" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0078" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0079" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0080" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0081" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0082" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0083" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0084" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0085" x="3166" y="10" width="416" height="415" frameX="-41" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0086" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0087" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0088" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0089" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0090" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0091" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0092" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0093" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0094" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0095" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0096" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0097" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead confirm0098" x="2655" y="2499" width="373" height="416" frameX="-49" frameY="-79" frameWidth="774" frameHeight="536"/>
+	<SubTexture name="BF Ice dead loop0000" x="3061" y="1702" width="398" height="197" frameX="-37" frameY="-23" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0001" x="2692" y="10" width="464" height="237" frameX="-4" frameY="-4" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0002" x="2685" y="500" width="452" height="230" frameX="-10" frameY="-7" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0003" x="1620" y="2959" width="440" height="222" frameX="-16" frameY="-11" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0004" x="2685" y="740" width="430" height="216" frameX="-21" frameY="-14" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0005" x="2655" y="1195" width="421" height="210" frameX="-25" frameY="-17" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0006" x="2560" y="1415" width="414" height="206" frameX="-29" frameY="-19" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0007" x="3125" y="854" width="408" height="203" frameX="-32" frameY="-21" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0008" x="3086" y="1281" width="403" height="201" frameX="-35" frameY="-21" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0009" x="3061" y="1492" width="401" height="200" frameX="-35" frameY="-22" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0010" x="3117" y="1067" width="405" height="204" frameX="-35" frameY="-22" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0011" x="3061" y="1702" width="398" height="197" frameX="-37" frameY="-23" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0012" x="3061" y="1702" width="398" height="197" frameX="-37" frameY="-23" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0013" x="3061" y="1702" width="398" height="197" frameX="-37" frameY="-23" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0014" x="3061" y="1702" width="398" height="197" frameX="-37" frameY="-23" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0015" x="3061" y="1702" width="398" height="197" frameX="-37" frameY="-23" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dead loop0016" x="3061" y="1702" width="398" height="197" frameX="-37" frameY="-23" frameWidth="475" frameHeight="248"/>
+	<SubTexture name="BF Ice dies0000" x="2241" y="2164" width="363" height="425" frameX="-70" frameY="-75" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0001" x="3162" y="435" width="415" height="409" frameX="-66" frameY="-83" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0002" x="1432" y="1147" width="564" height="520" frameX="-0" frameY="-0" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0003" x="10" y="2688" width="542" height="499" frameX="-12" frameY="-10" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0004" x="10" y="2688" width="542" height="499" frameX="-12" frameY="-10" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0005" x="1688" y="2182" width="543" height="496" frameX="-16" frameY="-11" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0006" x="1688" y="2182" width="543" height="496" frameX="-16" frameY="-11" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0007" x="1688" y="2182" width="543" height="496" frameX="-16" frameY="-11" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0008" x="1688" y="2182" width="543" height="496" frameX="-16" frameY="-11" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0009" x="582" y="2182" width="543" height="493" frameX="-19" frameY="-13" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0010" x="582" y="2182" width="543" height="493" frameX="-19" frameY="-13" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0011" x="582" y="2182" width="543" height="493" frameX="-19" frameY="-13" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0012" x="582" y="2182" width="543" height="493" frameX="-19" frameY="-13" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0013" x="582" y="2182" width="543" height="493" frameX="-19" frameY="-13" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0014" x="10" y="2186" width="544" height="492" frameX="-19" frameY="-14" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0015" x="10" y="2186" width="544" height="492" frameX="-19" frameY="-14" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0016" x="10" y="2186" width="544" height="492" frameX="-19" frameY="-14" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0017" x="10" y="2186" width="544" height="492" frameX="-19" frameY="-14" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0018" x="2006" y="1147" width="544" height="490" frameX="-21" frameY="-16" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0019" x="2006" y="1147" width="544" height="490" frameX="-21" frameY="-16" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0020" x="2006" y="1147" width="544" height="490" frameX="-21" frameY="-16" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0021" x="1908" y="1677" width="547" height="477" frameX="-33" frameY="-30" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0022" x="1908" y="1677" width="547" height="477" frameX="-33" frameY="-30" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0023" x="2128" y="10" width="554" height="471" frameX="-51" frameY="-38" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0024" x="2128" y="10" width="554" height="471" frameX="-51" frameY="-38" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0025" x="10" y="1751" width="562" height="425" frameX="-135" frameY="-88" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0026" x="10" y="1751" width="562" height="425" frameX="-135" frameY="-88" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0027" x="582" y="1751" width="531" height="407" frameX="-195" frameY="-127" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0028" x="1092" y="2687" width="518" height="399" frameX="-175" frameY="-106" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0029" x="1475" y="457" width="642" height="437" frameX="-114" frameY="-89" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0030" x="721" y="950" width="701" height="444" frameX="-81" frameY="-87" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0031" x="745" y="477" width="720" height="457" frameX="-65" frameY="-86" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0032" x="10" y="480" width="724" height="460" frameX="-61" frameY="-87" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0033" x="675" y="1404" width="655" height="337" frameX="-135" frameY="-141" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0034" x="2614" y="2931" width="437" height="225" frameX="-226" frameY="-256" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0035" x="2685" y="966" width="422" height="219" frameX="-241" frameY="-261" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0036" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0037" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0038" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0039" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0040" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0041" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0042" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0043" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0044" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0045" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0046" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0047" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0048" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0049" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0050" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0051" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0052" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0053" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0054" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0055" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0056" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0057" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0058" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0059" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0060" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0061" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0062" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0063" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0064" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0065" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0066" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0067" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0068" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0069" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0070" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0071" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0072" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0073" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0074" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0075" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0076" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0077" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0078" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0079" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0080" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0081" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0082" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0083" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0084" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0085" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0086" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0087" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0088" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+	<SubTexture name="BF Ice dies0089" x="3061" y="1702" width="398" height="197" frameX="-266" frameY="-282" frameWidth="790" frameHeight="547"/>
+</TextureAtlas>

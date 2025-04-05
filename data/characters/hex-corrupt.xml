@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="hex/default" scale="2.6" icon="Vs Hex/hex" color="#FF0000" holdTime="6.1">
+	<anim name="idle" anim="Corrupted Hex Idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="Corrupted Hex Idle (Damaged)" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Corrupted Hex Left" x="54" y="-24" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Corrupted Hex Down" x="-84" y="-24" fps="24" loop="false"/>
+	<anim name="singUP" anim="Corrupted Hex Up" x="-59" y="1" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Corrupted Hex Right" x="-17" y="-24" fps="24" loop="false"/>
+	<anim name="posses" anim="Corrupted Hex Eye open attack anim" x="5" y="-1" fps="24" loop="false"/>
+	<anim name="hit-bottom" anim="Corrupted Hex Hit (Down)" x="-66" y="-34" fps="24" loop="false"/>
+	<anim name="hit-middle" anim="Corrupted Hex Hit (Mid) " x="-59" y="-33" fps="24" loop="false"/>
+	<anim name="hit-top" anim="Corrupted Hex Hit (Top)" x="-61" y="9" fps="24" loop="false"/>
+	<anim name="posses-small" anim="Corrupted Hex Eye open attack anim" x="5" y="-1" fps="24" loop="false" indices="18,19"/>
+	<anim name="mealtdown" anim="Corrupted Hex Breakdown" x="52" y="19" fps="24" loop="true"/>
+</character>

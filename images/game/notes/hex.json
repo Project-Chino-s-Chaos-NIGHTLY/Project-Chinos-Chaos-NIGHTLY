@@ -1,0 +1,21 @@
+{
+    "defaultAfterPress": true,
+    "offsets": {
+        "confirm": [
+            -3,
+            2
+        ],
+        "statics": [
+            0,
+            0
+        ],
+        "notes": [
+            -10,
+            10
+        ]
+    },
+    "splashSkin": {
+        "overrideSongSkin": true,
+        "name": "gf"
+    }
+}

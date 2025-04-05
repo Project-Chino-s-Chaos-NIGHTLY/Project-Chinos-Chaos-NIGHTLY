@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": false,
+	"parsedColor": -65536,
+	"displayName": "Glitcher (Pico Mix)",
+	"icon": "Vs Hex/hex",
+	"name": "glitcher-pico",
+	"color": "#FF0000"
+}

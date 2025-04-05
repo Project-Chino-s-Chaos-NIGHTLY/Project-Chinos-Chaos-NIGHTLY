@@ -1,0 +1,25 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 322,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -24061,
+	"displayName": "TKO",
+	"icon": "Vs Matt/matt",
+	"name": "tko",
+	"color": "#FFA203",
+	"customValues": {
+		"partText": "Vs Matt ~ Boxing Fight: Part 3",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"comingIn": "2.0",
+		"preventHealthGain": "true",
+		"charter": "unassigned",
+		"comingSoon": "true"
+	}
+}

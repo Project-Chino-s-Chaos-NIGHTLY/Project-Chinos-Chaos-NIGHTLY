@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="skate.png" width="8114" height="6315">
+	<SubTexture name="UpSkate Idle0000" x="6188" y="3137" width="351" height="628" frameX="-12" frameY="-4" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0001" x="2959" y="4396" width="359" height="630" frameX="-4" frameY="-3" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0002" x="2502" y="1245" width="364" height="625" frameX="-1" frameY="-7" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0003" x="6074" y="1878" width="355" height="626" frameX="-10" frameY="-5" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0004" x="4589" y="622" width="361" height="623" frameX="-2" frameY="-9" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0005" x="3391" y="2503" width="363" height="627" frameX="-0" frameY="-6" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0006" x="6542" y="3137" width="352" height="628" frameX="-11" frameY="-4" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0007" x="6897" y="3138" width="360" height="628" frameX="-3" frameY="-3" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0008" x="3321" y="4396" width="363" height="630" frameX="-1" frameY="-2" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0009" x="2424" y="5027" width="353" height="633" frameX="-11" frameY="-0" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0010" x="6324" y="3768" width="361" height="629" frameX="-3" frameY="-3" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0011" x="7024" y="4401" width="363" height="631" frameX="-1" frameY="-0" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0012" x="3687" y="4396" width="353" height="630" frameX="-11" frameY="-2" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0013" x="2060" y="5026" width="361" height="632" frameX="-3" frameY="-1" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0014" x="4043" y="4397" width="363" height="630" frameX="-1" frameY="-2" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0015" x="7390" y="4401" width="353" height="631" frameX="-11" frameY="-0" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0016" x="6688" y="3769" width="361" height="629" frameX="-3" frameY="-3" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0017" x="6188" y="3137" width="351" height="628" frameX="-12" frameY="-4" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0018" x="4409" y="4399" width="359" height="630" frameX="-4" frameY="-3" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0019" x="2502" y="1245" width="364" height="625" frameX="-1" frameY="-7" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0020" x="6074" y="1878" width="355" height="626" frameX="-10" frameY="-5" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0021" x="4589" y="622" width="361" height="623" frameX="-2" frameY="-9" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0022" x="3391" y="2503" width="363" height="627" frameX="-0" frameY="-6" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0023" x="6542" y="3137" width="352" height="628" frameX="-11" frameY="-4" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0024" x="6897" y="3138" width="360" height="628" frameX="-3" frameY="-3" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0025" x="3321" y="4396" width="363" height="630" frameX="-1" frameY="-2" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0026" x="2424" y="5027" width="353" height="633" frameX="-11" frameY="-0" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0027" x="6324" y="3768" width="361" height="629" frameX="-3" frameY="-3" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0028" x="7024" y="4401" width="363" height="631" frameX="-1" frameY="-0" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0029" x="3687" y="4396" width="353" height="630" frameX="-11" frameY="-2" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0030" x="2060" y="5026" width="361" height="632" frameX="-3" frameY="-1" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0031" x="4043" y="4397" width="363" height="630" frameX="-1" frameY="-2" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0032" x="7390" y="4401" width="353" height="631" frameX="-11" frameY="-0" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0033" x="6688" y="3769" width="361" height="629" frameX="-3" frameY="-3" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle0034" x="2780" y="5029" width="363" height="633" frameX="-1" frameY="-0" frameWidth="365" frameHeight="633"/>
+	<SubTexture name="UpSkate Idle (confident)0000" x="3950" y="1876" width="353" height="626" frameX="-11" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0001" x="1" y="2498" width="350" height="627" frameX="-4" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0002" x="3171" y="621" width="351" height="622" frameX="-1" frameY="-7" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0003" x="3879" y="621" width="352" height="623" frameX="-10" frameY="-5" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0004" x="7764" y="1" width="349" height="620" frameX="-2" frameY="-9" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0005" x="5837" y="623" width="351" height="624" frameX="-0" frameY="-6" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0006" x="1084" y="1244" width="353" height="625" frameX="-10" frameY="-4" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0007" x="1440" y="1245" width="350" height="625" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0008" x="1268" y="2501" width="350" height="627" frameX="-2" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0009" x="7759" y="3769" width="352" height="630" frameX="-11" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0010" x="4306" y="1876" width="350" height="626" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0011" x="4419" y="3135" width="350" height="628" frameX="-2" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0012" x="1621" y="2501" width="352" height="627" frameX="-11" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0013" x="4711" y="3767" width="349" height="629" frameX="-4" frameY="-1" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0014" x="1976" y="2501" width="350" height="627" frameX="-2" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0015" x="4772" y="3136" width="352" height="628" frameX="-11" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0016" x="4659" y="1876" width="350" height="626" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0017" x="3950" y="1876" width="353" height="626" frameX="-11" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0018" x="1" y="2498" width="350" height="627" frameX="-4" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0019" x="3171" y="621" width="351" height="622" frameX="-1" frameY="-7" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0020" x="3879" y="621" width="352" height="623" frameX="-10" frameY="-5" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0021" x="7764" y="1" width="349" height="620" frameX="-2" frameY="-9" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0022" x="5837" y="623" width="351" height="624" frameX="-0" frameY="-6" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0023" x="1084" y="1244" width="353" height="625" frameX="-10" frameY="-4" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0024" x="1440" y="1245" width="350" height="625" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0025" x="1268" y="2501" width="350" height="627" frameX="-2" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0026" x="7759" y="3769" width="352" height="630" frameX="-11" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0027" x="4306" y="1876" width="350" height="626" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0028" x="4419" y="3135" width="350" height="628" frameX="-2" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0029" x="1621" y="2501" width="352" height="627" frameX="-11" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0030" x="4711" y="3767" width="349" height="629" frameX="-4" frameY="-1" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0031" x="1976" y="2501" width="350" height="627" frameX="-2" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0032" x="4772" y="3136" width="352" height="628" frameX="-11" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0033" x="4659" y="1876" width="350" height="626" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confident)0034" x="1898" y="4392" width="350" height="630" frameX="-2" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0000" x="5012" y="1877" width="353" height="626" frameX="-11" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0001" x="5127" y="3137" width="350" height="628" frameX="-4" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0002" x="3525" y="621" width="351" height="622" frameX="-1" frameY="-7" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0003" x="4234" y="621" width="352" height="623" frameX="-10" frameY="-5" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0004" x="1" y="620" width="349" height="620" frameX="-2" frameY="-9" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0005" x="6191" y="623" width="351" height="624" frameX="-0" frameY="-6" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0006" x="1793" y="1245" width="353" height="625" frameX="-10" frameY="-4" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0007" x="2149" y="1245" width="350" height="625" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0008" x="2329" y="2501" width="350" height="627" frameX="-2" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0009" x="2251" y="4393" width="352" height="630" frameX="-11" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0010" x="5368" y="1878" width="350" height="626" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0011" x="5480" y="3137" width="350" height="628" frameX="-2" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0012" x="2682" y="2502" width="353" height="627" frameX="-11" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0013" x="5972" y="3768" width="349" height="629" frameX="-4" frameY="-1" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0014" x="3038" y="2502" width="350" height="627" frameX="-2" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0015" x="5833" y="3137" width="352" height="628" frameX="-11" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0016" x="5721" y="1878" width="350" height="626" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0017" x="5012" y="1877" width="353" height="626" frameX="-11" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0018" x="5127" y="3137" width="350" height="628" frameX="-4" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0019" x="3525" y="621" width="351" height="622" frameX="-1" frameY="-7" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0020" x="4234" y="621" width="352" height="623" frameX="-10" frameY="-5" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0021" x="1" y="620" width="349" height="620" frameX="-2" frameY="-9" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0022" x="6191" y="623" width="351" height="624" frameX="-0" frameY="-6" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0023" x="1793" y="1245" width="353" height="625" frameX="-10" frameY="-4" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0024" x="2149" y="1245" width="350" height="625" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0025" x="2329" y="2501" width="350" height="627" frameX="-2" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0026" x="2251" y="4393" width="352" height="630" frameX="-11" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0027" x="5368" y="1878" width="350" height="626" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0028" x="5480" y="3137" width="350" height="628" frameX="-2" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0029" x="2682" y="2502" width="353" height="627" frameX="-11" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0030" x="5972" y="3768" width="349" height="629" frameX="-4" frameY="-1" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0031" x="3038" y="2502" width="350" height="627" frameX="-2" frameY="-2" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0032" x="5833" y="3137" width="352" height="628" frameX="-11" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0033" x="5721" y="1878" width="350" height="626" frameX="-3" frameY="-3" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate Idle (confused)0034" x="2606" y="4394" width="350" height="630" frameX="-2" frameY="-0" frameWidth="364" frameHeight="630"/>
+	<SubTexture name="UpSkate down0000" x="355" y="1" width="351" height="616" frameX="-7" frameY="-4" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0001" x="1057" y="621" width="349" height="620" frameX="-1" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0002" x="2823" y="1" width="347" height="617" frameX="-0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0003" x="6701" y="1" width="352" height="619" frameX="-8" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0004" x="3173" y="1" width="349" height="617" frameX="-1" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0005" x="2466" y="621" width="347" height="621" frameX="-0" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0006" x="3525" y="1" width="352" height="617" frameX="-8" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0007" x="5289" y="1" width="349" height="618" frameX="-1" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0008" x="3880" y="1" width="347" height="617" frameX="-0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0009" x="2816" y="621" width="352" height="621" frameX="-8" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0010" x="4230" y="1" width="349" height="617" frameX="-1" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0011" x="7056" y="1" width="347" height="619" frameX="-0" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0012" x="4582" y="1" width="352" height="617" frameX="-8" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0013" x="1409" y="621" width="349" height="620" frameX="-1" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0014" x="2823" y="1" width="347" height="617" frameX="-0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0015" x="6701" y="1" width="352" height="619" frameX="-8" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0016" x="3173" y="1" width="349" height="617" frameX="-1" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0017" x="2466" y="621" width="347" height="621" frameX="-0" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0018" x="3525" y="1" width="352" height="617" frameX="-8" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0019" x="5289" y="1" width="349" height="618" frameX="-1" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0020" x="3880" y="1" width="347" height="617" frameX="-0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0021" x="2816" y="621" width="352" height="621" frameX="-8" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0022" x="4230" y="1" width="349" height="617" frameX="-1" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down0023" x="7056" y="1" width="347" height="619" frameX="-0" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0000" x="1" y="1" width="351" height="616" frameX="-7" frameY="-4" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0001" x="353" y="620" width="349" height="620" frameX="-1" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0002" x="709" y="1" width="347" height="617" frameX="-0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0003" x="5641" y="1" width="352" height="619" frameX="-8" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0004" x="1059" y="1" width="349" height="617" frameX="-1" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0005" x="1761" y="621" width="347" height="621" frameX="-0" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0006" x="1411" y="1" width="352" height="617" frameX="-8" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0007" x="4937" y="1" width="349" height="618" frameX="-1" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0008" x="1766" y="1" width="347" height="617" frameX="-0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0009" x="2111" y="621" width="352" height="621" frameX="-8" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0010" x="2116" y="1" width="349" height="617" frameX="-1" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0011" x="5996" y="1" width="347" height="619" frameX="-0" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0012" x="2468" y="1" width="352" height="617" frameX="-8" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0013" x="705" y="621" width="349" height="620" frameX="-1" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0014" x="709" y="1" width="347" height="617" frameX="-0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0015" x="6346" y="1" width="352" height="619" frameX="-8" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0016" x="1059" y="1" width="349" height="617" frameX="-1" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0017" x="1761" y="621" width="347" height="621" frameX="-0" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0018" x="1411" y="1" width="352" height="617" frameX="-8" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0019" x="4937" y="1" width="349" height="618" frameX="-1" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0020" x="1766" y="1" width="347" height="617" frameX="-0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0021" x="2111" y="621" width="352" height="621" frameX="-8" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0022" x="2116" y="1" width="349" height="617" frameX="-1" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate down (confident)0023" x="5996" y="1" width="347" height="619" frameX="-0" frameY="-0" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="UpSkate left0000" x="5481" y="623" width="353" height="623" frameX="-7" frameY="-4" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0001" x="5898" y="2507" width="360" height="627" frameX="-0" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0002" x="3407" y="1246" width="352" height="625" frameX="-9" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0003" x="5356" y="1249" width="358" height="625" frameX="-2" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0004" x="7325" y="1251" width="360" height="625" frameX="-0" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0005" x="6261" y="2507" width="352" height="627" frameX="-9" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0006" x="7618" y="624" width="358" height="624" frameX="-2" frameY="-3" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0007" x="7688" y="1251" width="360" height="625" frameX="-0" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0008" x="1" y="1870" width="352" height="625" frameX="-9" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0009" x="6969" y="2508" width="358" height="627" frameX="-2" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0010" x="356" y="1871" width="360" height="625" frameX="-0" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0011" x="719" y="1871" width="352" height="625" frameX="-9" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0012" x="1" y="1243" width="358" height="624" frameX="-2" frameY="-3" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0013" x="7330" y="2508" width="360" height="627" frameX="-0" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0014" x="3407" y="1246" width="352" height="625" frameX="-9" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0015" x="5356" y="1249" width="358" height="625" frameX="-2" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0016" x="7325" y="1251" width="360" height="625" frameX="-0" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0017" x="6261" y="2507" width="352" height="627" frameX="-9" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0018" x="7618" y="624" width="358" height="624" frameX="-2" frameY="-3" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0019" x="7688" y="1251" width="360" height="625" frameX="-0" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0020" x="1" y="1870" width="352" height="625" frameX="-9" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0021" x="6969" y="2508" width="358" height="627" frameX="-2" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0022" x="356" y="1871" width="360" height="625" frameX="-0" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left0023" x="719" y="1871" width="352" height="625" frameX="-9" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0000" x="4953" y="622" width="525" height="623" frameX="-7" frameY="-4" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0001" x="3757" y="2505" width="534" height="627" frameX="-2" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0002" x="2869" y="1246" width="535" height="625" frameX="-0" frameY="-2" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0003" x="3762" y="1247" width="526" height="625" frameX="-9" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0004" x="6545" y="623" width="534" height="624" frameX="-2" frameY="-3" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0005" x="4294" y="2505" width="536" height="627" frameX="-0" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0006" x="4291" y="1248" width="526" height="625" frameX="-9" frameY="-2" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0007" x="4820" y="1248" width="533" height="625" frameX="-2" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0008" x="5717" y="1250" width="536" height="625" frameX="-0" frameY="-2" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0009" x="4833" y="2506" width="526" height="627" frameX="-9" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0010" x="7082" y="623" width="533" height="624" frameX="-2" frameY="-3" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0011" x="6256" y="1250" width="536" height="625" frameX="-0" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0012" x="6795" y="1250" width="527" height="625" frameX="-9" frameY="-2" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0013" x="5362" y="2507" width="533" height="627" frameX="-2" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0014" x="2869" y="1246" width="535" height="625" frameX="-0" frameY="-2" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0015" x="3762" y="1247" width="526" height="625" frameX="-9" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0016" x="6545" y="623" width="534" height="624" frameX="-2" frameY="-3" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0017" x="4294" y="2505" width="536" height="627" frameX="-0" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0018" x="4291" y="1248" width="526" height="625" frameX="-9" frameY="-2" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0019" x="4820" y="1248" width="533" height="625" frameX="-2" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0020" x="5717" y="1250" width="536" height="625" frameX="-0" frameY="-2" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0021" x="4833" y="2506" width="526" height="627" frameX="-9" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0022" x="7082" y="623" width="533" height="624" frameX="-2" frameY="-3" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate left (confident)0023" x="6256" y="1250" width="536" height="625" frameX="-0" frameY="-1" frameWidth="536" frameHeight="628"/>
+	<SubTexture name="UpSkate right0000" x="1413" y="3761" width="463" height="628" frameX="-3" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0001" x="708" y="5024" width="449" height="631" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0002" x="1879" y="3761" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0003" x="1" y="4389" width="447" height="629" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0004" x="2338" y="3762" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0005" x="1160" y="5024" width="447" height="631" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0006" x="2797" y="3763" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0007" x="1" y="4389" width="447" height="629" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0008" x="2338" y="3762" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0009" x="1160" y="5024" width="447" height="631" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0010" x="2797" y="3763" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0011" x="1" y="4389" width="447" height="629" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0012" x="3256" y="3765" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0013" x="1610" y="5025" width="447" height="631" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0014" x="3715" y="3765" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0015" x="451" y="4390" width="447" height="629" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0016" x="2338" y="3762" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0017" x="1160" y="5024" width="447" height="631" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0018" x="2797" y="3763" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0019" x="1" y="4389" width="447" height="629" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0020" x="2338" y="3762" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0021" x="1160" y="5024" width="447" height="631" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0022" x="2797" y="3763" width="456" height="628" frameX="-0" frameY="-2" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right0023" x="1" y="4389" width="447" height="629" frameX="-9" frameY="-0" frameWidth="466" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0000" x="7260" y="3138" width="349" height="628" frameX="-7" frameY="-2" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0001" x="7746" y="4402" width="352" height="631" frameX="-9" frameY="-0" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0002" x="6616" y="2507" width="350" height="627" frameX="-1" frameY="-3" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0003" x="7052" y="3769" width="349" height="629" frameX="-0" frameY="-0" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0004" x="7612" y="3138" width="352" height="628" frameX="-9" frameY="-2" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0005" x="4771" y="4399" width="350" height="630" frameX="-1" frameY="-1" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0006" x="1" y="3758" width="349" height="628" frameX="-0" frameY="-2" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0007" x="7404" y="3769" width="352" height="629" frameX="-9" frameY="-0" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0008" x="7693" y="2508" width="350" height="627" frameX="-1" frameY="-3" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0009" x="1" y="5021" width="349" height="631" frameX="-0" frameY="-0" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0010" x="353" y="3758" width="352" height="628" frameX="-9" frameY="-2" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0011" x="708" y="3759" width="350" height="628" frameX="-1" frameY="-1" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0012" x="1061" y="3761" width="349" height="628" frameX="-0" frameY="-2" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0013" x="353" y="5022" width="352" height="631" frameX="-9" frameY="-0" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0014" x="6616" y="2507" width="350" height="627" frameX="-1" frameY="-3" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0015" x="7052" y="3769" width="349" height="629" frameX="-0" frameY="-0" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0016" x="7612" y="3138" width="352" height="628" frameX="-9" frameY="-2" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0017" x="4771" y="4399" width="350" height="630" frameX="-1" frameY="-1" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0018" x="1" y="3758" width="349" height="628" frameX="-0" frameY="-2" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0019" x="7404" y="3769" width="352" height="629" frameX="-9" frameY="-0" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0020" x="7693" y="2508" width="350" height="627" frameX="-1" frameY="-3" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0021" x="1" y="5021" width="349" height="631" frameX="-0" frameY="-0" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0022" x="353" y="3758" width="352" height="628" frameX="-9" frameY="-2" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate right (confident)0023" x="708" y="3759" width="350" height="628" frameX="-1" frameY="-1" frameWidth="361" frameHeight="631"/>
+	<SubTexture name="UpSkate shook0000" x="7406" y="1" width="355" height="619" frameX="-5" frameY="-8" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0001" x="1074" y="1872" width="358" height="625" frameX="-2" frameY="-3" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0002" x="1435" y="1873" width="352" height="625" frameX="-9" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0003" x="1790" y="1873" width="358" height="625" frameX="-2" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0004" x="2151" y="1873" width="360" height="625" frameX="-0" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0005" x="1" y="3128" width="352" height="627" frameX="-9" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0006" x="362" y="1244" width="358" height="624" frameX="-2" frameY="-3" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0007" x="2869" y="1874" width="360" height="625" frameX="-0" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0008" x="2514" y="1873" width="352" height="625" frameX="-9" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0009" x="356" y="3128" width="358" height="627" frameX="-2" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0010" x="3232" y="1874" width="360" height="625" frameX="-0" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0011" x="3595" y="1875" width="352" height="625" frameX="-9" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0012" x="723" y="1244" width="358" height="624" frameX="-2" frameY="-3" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0013" x="717" y="3129" width="360" height="627" frameX="-0" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0014" x="1435" y="1873" width="352" height="625" frameX="-9" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0015" x="1790" y="1873" width="358" height="625" frameX="-2" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0016" x="2151" y="1873" width="360" height="625" frameX="-0" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0017" x="1" y="3128" width="352" height="627" frameX="-9" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0018" x="362" y="1244" width="358" height="624" frameX="-2" frameY="-3" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0019" x="2869" y="1874" width="360" height="625" frameX="-0" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0020" x="2514" y="1873" width="352" height="625" frameX="-9" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0021" x="356" y="3128" width="358" height="627" frameX="-2" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0022" x="3232" y="1874" width="360" height="625" frameX="-0" frameY="-2" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shook0023" x="3595" y="1875" width="352" height="625" frameX="-9" frameY="-1" frameWidth="361" frameHeight="628"/>
+	<SubTexture name="UpSkate shoot0000" x="1080" y="3131" width="518" height="627" frameX="-2" frameY="-2" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0001" x="901" y="4392" width="537" height="629" frameX="-2" frameY="-1" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0002" x="1601" y="3131" width="540" height="627" frameX="-0" frameY="-2" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0003" x="4174" y="3766" width="534" height="628" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0004" x="6432" y="1878" width="541" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0005" x="5124" y="4399" width="533" height="630" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0006" x="6976" y="1879" width="542" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0007" x="4174" y="3766" width="534" height="628" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0008" x="6432" y="1878" width="541" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0009" x="5124" y="4399" width="533" height="630" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0010" x="6976" y="1879" width="542" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0011" x="4174" y="3766" width="534" height="628" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0012" x="6432" y="1878" width="541" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0013" x="5124" y="4399" width="533" height="630" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0014" x="6976" y="1879" width="542" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0015" x="4174" y="3766" width="534" height="628" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0016" x="6432" y="1878" width="541" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0017" x="5124" y="4399" width="533" height="630" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0018" x="6976" y="1879" width="542" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0019" x="4174" y="3766" width="534" height="628" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0020" x="6432" y="1878" width="541" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0021" x="5124" y="4399" width="533" height="630" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0022" x="6976" y="1879" width="542" height="626" frameX="-6" frameY="-3" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate shoot0023" x="4174" y="3766" width="534" height="628" frameX="-14" frameY="-0" frameWidth="548" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0000" x="7521" y="1879" width="473" height="626" frameX="-6" frameY="-3" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0001" x="5660" y="4400" width="452" height="630" frameX="-9" frameY="-0" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0002" x="354" y="2499" width="454" height="626" frameX="-2" frameY="-3" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0003" x="5063" y="3768" width="456" height="628" frameX="-0" frameY="-0" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0004" x="2144" y="3131" width="447" height="627" frameX="-9" frameY="-2" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0005" x="1441" y="4392" width="454" height="629" frameX="-2" frameY="-1" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0006" x="2594" y="3132" width="456" height="627" frameX="-0" frameY="-2" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0007" x="5522" y="3768" width="447" height="628" frameX="-9" frameY="-0" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0008" x="811" y="2500" width="454" height="626" frameX="-2" frameY="-3" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0009" x="6115" y="4400" width="456" height="630" frameX="-0" frameY="-0" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0010" x="3053" y="3133" width="447" height="627" frameX="-9" frameY="-2" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0011" x="3503" y="3135" width="454" height="627" frameX="-2" frameY="-1" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0012" x="3960" y="3135" width="456" height="627" frameX="-0" frameY="-2" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0013" x="6574" y="4401" width="447" height="630" frameX="-9" frameY="-0" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0014" x="354" y="2499" width="454" height="626" frameX="-2" frameY="-3" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0015" x="5063" y="3768" width="456" height="628" frameX="-0" frameY="-0" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0016" x="2144" y="3131" width="447" height="627" frameX="-9" frameY="-2" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0017" x="1441" y="4392" width="454" height="629" frameX="-2" frameY="-1" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0018" x="2594" y="3132" width="456" height="627" frameX="-0" frameY="-2" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0019" x="5522" y="3768" width="447" height="628" frameX="-9" frameY="-0" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0020" x="811" y="2500" width="454" height="626" frameX="-2" frameY="-3" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0021" x="6115" y="4400" width="456" height="630" frameX="-0" frameY="-0" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0022" x="3053" y="3133" width="447" height="627" frameX="-9" frameY="-2" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate surprised0023" x="3503" y="3135" width="454" height="627" frameX="-2" frameY="-1" frameWidth="479" frameHeight="630"/>
+	<SubTexture name="UpSkate up0000" x="6223" y="5672" width="355" height="642" frameX="-1" frameY="-0" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0001" x="3156" y="5665" width="351" height="636" frameX="-10" frameY="-7" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0002" x="7020" y="5035" width="354" height="635" frameX="-2" frameY="-7" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0003" x="3614" y="5029" width="356" height="633" frameX="-0" frameY="-8" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0004" x="3510" y="5665" width="351" height="636" frameX="-10" frameY="-6" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0005" x="7377" y="5035" width="354" height="635" frameX="-2" frameY="-8" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0006" x="3864" y="5666" width="356" height="636" frameX="-0" frameY="-6" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0007" x="5262" y="5032" width="351" height="634" frameX="-10" frameY="-7" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0008" x="7734" y="5036" width="354" height="635" frameX="-2" frameY="-7" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0009" x="1" y="5656" width="356" height="635" frameX="-0" frameY="-8" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0010" x="4223" y="5669" width="351" height="636" frameX="-10" frameY="-6" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0011" x="3973" y="5030" width="354" height="633" frameX="-2" frameY="-8" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0012" x="4577" y="5669" width="356" height="636" frameX="-0" frameY="-6" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0013" x="4936" y="5669" width="351" height="636" frameX="-10" frameY="-7" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0014" x="7020" y="5035" width="354" height="635" frameX="-2" frameY="-7" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0015" x="3614" y="5029" width="356" height="633" frameX="-0" frameY="-8" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0016" x="3510" y="5665" width="351" height="636" frameX="-10" frameY="-6" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0017" x="7377" y="5035" width="354" height="635" frameX="-2" frameY="-8" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0018" x="3864" y="5666" width="356" height="636" frameX="-0" frameY="-6" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0019" x="5262" y="5032" width="351" height="634" frameX="-10" frameY="-7" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0020" x="7734" y="5036" width="354" height="635" frameX="-2" frameY="-7" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up0021" x="1" y="5656" width="356" height="635" frameX="-0" frameY="-8" frameWidth="361" frameHeight="643"/>
+	<SubTexture name="UpSkate up (confident)0000" x="5753" y="5671" width="467" height="641" frameX="-0" frameY="-0" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0001" x="5290" y="5671" width="460" height="639" frameX="-9" frameY="-3" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0002" x="5616" y="5033" width="465" height="635" frameX="-4" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0003" x="4330" y="5032" width="467" height="634" frameX="-2" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0004" x="360" y="5658" width="459" height="636" frameX="-10" frameY="-5" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0005" x="6084" y="5033" width="465" height="635" frameX="-4" frameY="-7" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0006" x="822" y="5658" width="467" height="636" frameX="-2" frameY="-5" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0007" x="4800" y="5032" width="459" height="634" frameX="-10" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0008" x="6552" y="5034" width="465" height="635" frameX="-4" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0009" x="1292" y="5659" width="467" height="636" frameX="-2" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0010" x="1762" y="5661" width="459" height="636" frameX="-10" frameY="-5" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0011" x="3146" y="5029" width="465" height="633" frameX="-4" frameY="-7" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0012" x="2224" y="5663" width="467" height="636" frameX="-2" frameY="-5" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0013" x="2694" y="5665" width="459" height="636" frameX="-10" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0014" x="5616" y="5033" width="465" height="635" frameX="-4" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0015" x="4330" y="5032" width="467" height="634" frameX="-2" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0016" x="360" y="5658" width="459" height="636" frameX="-10" frameY="-5" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0017" x="6084" y="5033" width="465" height="635" frameX="-4" frameY="-7" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0018" x="822" y="5658" width="467" height="636" frameX="-2" frameY="-5" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0019" x="4800" y="5032" width="459" height="634" frameX="-10" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0020" x="6552" y="5034" width="465" height="635" frameX="-4" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="UpSkate up (confident)0021" x="1292" y="5659" width="467" height="636" frameX="-2" frameY="-6" frameWidth="469" frameHeight="642"/>
+</TextureAtlas>

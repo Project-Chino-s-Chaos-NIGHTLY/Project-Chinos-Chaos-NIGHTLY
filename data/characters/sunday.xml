@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="sunday/flying" icon="face">
+	<anim name="idle" anim="Drone Sunday idle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="Drone Sunday up" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Drone Sunday down" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Drone Sunday left" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Drone Sunday right" x="0" y="0" fps="24" loop="false"/>
+	<anim name="shoot" anim="Drone Sunday shoot" x="103" y="0" fps="24" loop="false"/>
+	<anim name="throw" anim="Drone Sunday Gun throw" x="0" y="0" fps="24" loop="false"/>
+	<anim name="carol" anim="Drone Sunday + Carol" x="157" y="155" fps="24" loop="false"/>
+</character>

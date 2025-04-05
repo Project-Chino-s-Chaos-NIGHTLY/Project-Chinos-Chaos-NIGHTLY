@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-260" y="-100" sprite="Whitty/whittySmack" icon="Vs Whitty/whitty-angry" color="#1D1E35">
+	<anim name="hit" anim="Hit Final" x="0" y="0" fps="24" loop="false"/>
+</character>

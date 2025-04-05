@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whitty-mads.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="anim20000" x="0" y="0" width="119" height="105"/>
+	<SubTexture name="anim20001" x="129" y="0" width="119" height="105"/>
+	<SubTexture name="anim20002" x="258" y="0" width="119" height="105"/>
+	<SubTexture name="anim20003" x="387" y="0" width="118" height="105" frameX="-1" frameY="0" frameWidth="119" frameHeight="105"/>
+	<SubTexture name="anim20004" x="0" y="0" width="119" height="105"/>
+	<SubTexture name="anim20005" x="129" y="0" width="119" height="105"/>
+	<SubTexture name="anim20006" x="258" y="0" width="119" height="105"/>
+	<SubTexture name="anim20007" x="387" y="0" width="118" height="105" frameX="-1" frameY="0" frameWidth="119" frameHeight="105"/>
+	<SubTexture name="anim10000" x="0" y="115" width="114" height="101"/>
+	<SubTexture name="anim10001" x="124" y="115" width="114" height="101"/>
+	<SubTexture name="anim10002" x="248" y="115" width="114" height="101"/>
+	<SubTexture name="anim10003" x="372" y="115" width="113" height="101" frameX="-1" frameY="0" frameWidth="114" frameHeight="101"/>
+	<SubTexture name="anim10004" x="0" y="115" width="114" height="101"/>
+	<SubTexture name="anim10005" x="124" y="115" width="114" height="101"/>
+	<SubTexture name="anim10006" x="248" y="115" width="114" height="101"/>
+	<SubTexture name="anim10007" x="0" y="226" width="113" height="101" frameX="-1" frameY="0" frameWidth="114" frameHeight="101"/>
+	<SubTexture name="anim20000" x="0" y="115" width="114" height="101"/>
+	<SubTexture name="anim20001" x="124" y="115" width="114" height="101"/>
+	<SubTexture name="anim20002" x="248" y="115" width="114" height="101"/>
+	<SubTexture name="anim20003" x="372" y="115" width="113" height="101" frameX="-1" frameY="0" frameWidth="114" frameHeight="101"/>
+	<SubTexture name="anim20004" x="0" y="115" width="114" height="101"/>
+	<SubTexture name="anim20005" x="124" y="115" width="114" height="101"/>
+	<SubTexture name="anim20006" x="248" y="115" width="114" height="101"/>
+	<SubTexture name="anim20007" x="0" y="226" width="113" height="101" frameX="-1" frameY="0" frameWidth="114" frameHeight="101"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 210,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -3276775,
+	"displayName": "Ballistic",
+	"icon": "Vs Whitty/whitty-crazy",
+	"name": "ballistic",
+	"color": "#CE0019",
+	"customValues": {
+		"partText": "Vs Whitty ~ Fire Fight: Part 2",
+		"preventHealthGain": "true",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"charter": "Rodney"
+	}
+}

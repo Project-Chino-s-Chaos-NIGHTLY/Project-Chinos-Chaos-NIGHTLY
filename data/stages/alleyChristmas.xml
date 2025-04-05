@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Extras/hark/" zoom="0.6">
+	<sprite x="0" sprite="bg" y="0" type="loop" name="bg"/>
+	<gf scrolly="1" x="1060" scrollx="1" y="230"/>
+	<dad x="721" y="256"/>
+	<sprite x="1479" y="893" sprite="sheet" name="sheet"/>
+	<bf x="1780" y="260"/>
+	<combo x="1192" y="62"/>
+	<sprite sprite="lights" name="lightsTop"/>
+</stage>

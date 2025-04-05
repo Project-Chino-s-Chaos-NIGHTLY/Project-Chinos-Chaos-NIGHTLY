@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-week>
+<week name="Fire Fight: Part 1" chars="whitty" sprite="fight1">
+	<difficulty name="HARD"/>
+
+	<song>lo-fight</song>
+
+	<song>overhead</song>
+</week>

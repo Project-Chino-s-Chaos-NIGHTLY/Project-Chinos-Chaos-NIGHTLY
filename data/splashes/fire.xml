@@ -1,0 +1,26 @@
+<!DOCTYPE codename-engine-splashes>
+<splashes sprite="game/splashes/fire" alpha="1">
+	<strum id="0"> <!-- LEFT -->
+		<anim name="splashleft1" anim="purple1" fps="24" x="-5" y="-80" />
+
+		<anim name="splashleft2" anim="purple2" fps="24" x="7" y="-80" />
+	</strum>
+
+	<strum id="1"> <!-- DOWN -->
+		<anim name="splashdown1" anim="blue1" fps="24" x="-5" y="-80" />
+
+		<anim name="splashdown2" anim="blue2" fps="24" x="7" y="-80" />
+	</strum>
+
+	<strum id="2"> <!-- UP -->
+		<anim name="splashup1" anim="green1" fps="24" x="-5" y="-80" />
+
+		<anim name="splashup2" anim="green2" fps="24" x="7" y="-80" />
+	</strum>
+
+	<strum id="3"> <!-- RIGHT -->
+		<anim name="splashright1" anim="red1" fps="24" x="-5" y="-80" />
+
+		<anim name="splashright2" anim="red2" fps="24" x="7" y="-80" />
+	</strum>
+</splashes>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="fireWalls.png" width="4047" height="3634">
+	<SubTexture name="Flame wall instance 10000" x="10" y="1054" width="2470" height="502" frameX="-28" frameY="-10" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10001" x="3003" y="10" width="512" height="2443" rotated="true" frameX="-28" frameY="-0" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10002" x="10" y="10" width="2471" height="512" frameX="-0" frameY="-0" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10003" x="10" y="10" width="2471" height="512" frameX="-0" frameY="-0" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10004" x="10" y="532" width="2471" height="512" frameX="-0" frameY="-0" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10005" x="10" y="2078" width="2461" height="502" frameX="-21" frameY="-10" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10006" x="10" y="2078" width="2461" height="502" frameX="-21" frameY="-10" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10007" x="2491" y="10" width="502" height="2461" rotated="true" frameX="-21" frameY="-10" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10008" x="10" y="1566" width="2468" height="502" frameX="-25" frameY="-10" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10009" x="10" y="1566" width="2468" height="502" frameX="-25" frameY="-10" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10010" x="10" y="2590" width="2450" height="512" frameX="-25" frameY="-0" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10011" x="10" y="3112" width="2440" height="512" frameX="-35" frameY="-0" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10012" x="10" y="3112" width="2440" height="512" frameX="-35" frameY="-0" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Flame wall instance 10013" x="3525" y="10" width="512" height="2440" rotated="true" frameX="-35" frameY="-0" frameWidth="2498" frameHeight="512"/>
+	<SubTexture name="Small flame instance 10000" x="2460" y="3112" width="586" height="348" rotated="true" frameX="-2" frameY="-0" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10001" x="2460" y="3112" width="586" height="348" rotated="true" frameX="-2" frameY="-0" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10002" x="3525" y="2460" width="507" height="347" rotated="true" frameX="-0" frameY="-71" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10003" x="3525" y="2460" width="507" height="347" rotated="true" frameX="-0" frameY="-71" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10004" x="2470" y="2590" width="351" height="404" frameX="-2" frameY="-182" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10005" x="2470" y="2590" width="351" height="404" frameX="-2" frameY="-182" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10006" x="3523" y="2817" width="353" height="336" frameX="-5" frameY="-241" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10007" x="3523" y="2817" width="353" height="336" frameX="-5" frameY="-241" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10008" x="3056" y="2463" width="457" height="346" rotated="true" frameX="-9" frameY="-122" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 10009" x="3056" y="2463" width="457" height="346" rotated="true" frameX="-9" frameY="-122" frameWidth="358" frameHeight="586"/>
+	<SubTexture name="Small flame instance 20000" x="2831" y="2819" width="210" height="171" rotated="true" frameX="-4" frameY="-0" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20001" x="2831" y="2819" width="210" height="171" rotated="true" frameX="-4" frameY="-0" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20002" x="3051" y="2819" width="182" height="170" rotated="true" frameX="-6" frameY="-25" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20003" x="3051" y="2819" width="182" height="170" rotated="true" frameX="-6" frameY="-25" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20004" x="2831" y="2481" width="172" height="145" frameX="-3" frameY="-65" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20005" x="2831" y="2481" width="172" height="145" frameX="-3" frameY="-65" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20006" x="2756" y="3470" width="174" height="121" frameX="-0" frameY="-86" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20007" x="2756" y="3470" width="174" height="121" frameX="-0" frameY="-86" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20008" x="2831" y="2636" width="164" height="170" rotated="true" frameX="-2" frameY="-43" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 20009" x="2831" y="2636" width="164" height="170" rotated="true" frameX="-2" frameY="-43" frameWidth="176" frameHeight="211"/>
+	<SubTexture name="Small flame instance 30000" x="3399" y="3410" width="163" height="210" rotated="true" frameX="-4" frameY="-0" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30001" x="3399" y="3410" width="163" height="210" rotated="true" frameX="-4" frameY="-0" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30002" x="3710" y="3410" width="141" height="209" rotated="true" frameX="-6" frameY="-19" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30003" x="3710" y="3410" width="141" height="209" rotated="true" frameX="-6" frameY="-19" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30004" x="3056" y="3410" width="113" height="212" rotated="true" frameX="-2" frameY="-50" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30005" x="3056" y="3410" width="113" height="212" rotated="true" frameX="-2" frameY="-50" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30006" x="3179" y="3410" width="93" height="212" rotated="true" frameX="-0" frameY="-67" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30007" x="3179" y="3410" width="93" height="212" rotated="true" frameX="-0" frameY="-67" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30008" x="3572" y="3410" width="128" height="210" rotated="true" frameX="-0" frameY="-33" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 30009" x="3572" y="3410" width="128" height="210" rotated="true" frameX="-0" frameY="-33" frameWidth="216" frameHeight="163"/>
+	<SubTexture name="Small flame instance 40000" x="3282" y="3410" width="107" height="211" frameX="-2" frameY="-0" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40001" x="3282" y="3410" width="107" height="211" frameX="-2" frameY="-0" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40002" x="3861" y="3410" width="106" height="182" frameX="-4" frameY="-26" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40003" x="3861" y="3410" width="106" height="182" frameX="-4" frameY="-26" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40004" x="3071" y="2999" width="107" height="145" frameX="-2" frameY="-66" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40005" x="3071" y="2999" width="107" height="145" frameX="-2" frameY="-66" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40006" x="3172" y="3163" width="108" height="121" frameX="-0" frameY="-87" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40007" x="3172" y="3163" width="108" height="121" frameX="-0" frameY="-87" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40008" x="3056" y="3163" width="106" height="165" frameX="-1" frameY="-44" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 40009" x="3056" y="3163" width="106" height="165" frameX="-1" frameY="-44" frameWidth="110" frameHeight="211"/>
+	<SubTexture name="Small flame instance 50000" x="3886" y="2817" width="140" height="287" rotated="true" frameX="-2" frameY="-0" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50001" x="3886" y="2817" width="140" height="287" rotated="true" frameX="-2" frameY="-0" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50002" x="3886" y="3114" width="121" height="286" rotated="true" frameX="-0" frameY="-17" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50003" x="3886" y="3114" width="121" height="286" rotated="true" frameX="-0" frameY="-17" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50004" x="2772" y="3004" width="289" height="96" frameX="-2" frameY="-44" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50005" x="2772" y="3004" width="289" height="96" frameX="-2" frameY="-44" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50006" x="2470" y="3004" width="292" height="80" frameX="-4" frameY="-58" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50007" x="2470" y="3004" width="292" height="80" frameX="-4" frameY="-58" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50008" x="2460" y="3470" width="286" height="108" frameX="-8" frameY="-30" frameWidth="296" frameHeight="140"/>
+	<SubTexture name="Small flame instance 50009" x="2460" y="3470" width="286" height="108" frameX="-8" frameY="-30" frameWidth="296" frameHeight="140"/>
+</TextureAtlas>

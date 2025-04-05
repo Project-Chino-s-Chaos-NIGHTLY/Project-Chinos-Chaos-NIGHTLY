@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="whittyFall.png" width="358" height="3411">
+	<SubTexture name="Whitty Shake Fall0000" x="10" y="3124" width="316" height="277" frameX="-139" frameY="-3" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0001" x="10" y="1484" width="327" height="318" frameX="-71" frameY="-31" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0002" x="10" y="1812" width="327" height="318" frameX="-77" frameY="-23" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0003" x="10" y="2140" width="327" height="318" frameX="-59" frameY="-32" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0004" x="10" y="2468" width="327" height="318" frameX="-72" frameY="-21" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0005" x="10" y="2796" width="327" height="318" frameX="-62" frameY="-23" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0006" x="10" y="2796" width="327" height="318" frameX="-66" frameY="-28" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0007" x="10" y="2796" width="327" height="318" frameX="-66" frameY="-23" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0008" x="10" y="2796" width="327" height="318" frameX="-66" frameY="-23" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0009" x="10" y="2796" width="327" height="318" frameX="-66" frameY="-23" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0010" x="10" y="1147" width="328" height="327" frameX="-56" frameY="-32" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0011" x="10" y="1147" width="328" height="327" frameX="-56" frameY="-32" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0012" x="10" y="782" width="328" height="355" frameX="-26" frameY="-164" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0013" x="10" y="782" width="328" height="355" frameX="-26" frameY="-164" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0014" x="10" y="400" width="334" height="372" frameX="-2" frameY="-321" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0015" x="10" y="400" width="334" height="372" frameX="-2" frameY="-321" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0016" x="10" y="10" width="338" height="380" frameX="-2" frameY="-447" frameWidth="457" frameHeight="835"/>
+	<SubTexture name="Whitty Shake Fall0017" x="10" y="10" width="338" height="380" frameX="-2" frameY="-447" frameWidth="457" frameHeight="835"/>
+</TextureAtlas>

@@ -1,0 +1,114 @@
+import haxe.io.Path;
+
+import funkin.backend.system.framerate.Framerate;
+import funkin.options.type.TextOption;
+import funkin.options.type.PortraitOption;
+import funkin.options.type.IconOption;
+import funkin.options.type.NewOption;
+import funkin.options.OptionsScreen;
+import funkin.editors.ui.UISubstateWindow;
+import funkin.editors.ui.UIState;
+
+import sys.io.File;
+
+static var SkinEditor_noteSkin = "<NONE>";
+static var noteSkinList;
+
+var timerVar:Int = -1;
+var skinToMake:String;
+
+bgType = "charter";
+
+function create() {
+	persistentUpdate = true;
+	Framerate.offset.y = 60;
+
+	var modsList = getNoteList(true);
+
+	noteSkinList = [
+	];
+	for (skin in (modsList.length == 0 ? getNoteList(false) : modsList)) {
+		if (skin == 'default') {
+			noteSkinList.insert(0, new IconOption(skin, "Press ACCEPT to edit this Note Skin.", "bf",
+			function() {
+				//SkinEditor_noteSkin = skin;
+				FlxG.switchState(new UIState(true, "noteSkinEditor/SkinEditor"));
+			}));
+		} else {
+			noteSkinList.push(new IconOption(skin, "Press ACCEPT to edit this Note Skin.", "bf",
+			function() {
+				//SkinEditor_noteSkin = skin;
+				FlxG.switchState(new UIState(true, "noteSkinEditor/SkinEditor"));
+			}));
+		}
+	}
+	for (i=>skin in noteSkinList) {
+		//skin.iconSpr = new FlxSprite(skin.iconSpr.x, skin.iconSpr.y);
+		skin.iconSpr.setHealthSteps([[-1, -1]]);
+		var daPos = {x: skin.iconSpr.x + 90, y: skin.iconSpr.y + 90};
+
+		var skinJson = Json.parse(Assets.getText('images/game/notes/' + skin.get_text() + '.json'));
+		skin.iconSpr.frames = Paths.getSparrowAtlas('game/notes/' + (skinJson.spriteName != null ? Path.withoutExtension(skinJson.spriteName) : skin.get_text()));
+		//skin.iconSpr.frames = Paths.getSparrowAtlas('game/notes/' + skin.get_text());
+		skin.iconSpr.animation.addByPrefix('static', 'green0', 24, true);
+		skin.iconSpr.animation.play('static', true);
+		skin.iconSpr.scale.set(0.7, 0.7);
+		skin.iconSpr.updateHitbox();
+		skin.iconSpr.centerOffsets();
+		skin.iconSpr.centerOrigin();
+		skin.iconSpr.x = daPos.x - (skin.iconSpr.width/2);
+		skin.iconSpr.y = daPos.y - (skin.iconSpr.height/2);
+		//skin.portrait.updateHitbox();
+		//skin.portrait.setPosition(90 - skin.portrait.width, 0);
+		//add(skin.portrait);
+	}
+
+	noteSkinList.insert(0, new NewOption("New Note Skin", "Press ACCEPT to create a new Note Skin.", function() {
+		openSubState(new UISubstateWindow(true, "noteSkinEditor/selector/NewSkin"));
+	}));
+	main = new OptionsScreen("Note Skin Editor", "Select a note skin to modify. - Note Skin Editor By: NebulaStellaNova", noteSkinList);
+}
+
+static function getNoteList(mods) {
+	return [
+		for (path in Paths.getFolderContent('images/game/notes/', true, mods ? false : null)) // BOTH: null | MODS: false
+			if (Path.extension(path) == "json") Path.withoutDirectory(Path.withoutExtension(path))
+	];
+}
+static function getNoteListImages(mods) {
+	return [
+		for (path in Paths.getFolderContent('images/game/notes/', true, mods ? false : null)) // BOTH: null | MODS: false
+			if (Path.extension(path) == "png") path
+	];
+}
+
+static function newSkin(skin:String, skinJson) {
+	trace('Ran');
+	if (skin == null) return;
+	var daOption = new IconOption(skin, "Press ACCEPT to edit this Note Skin.", "bf", ()->{
+		FlxG.switchState(new UIState(true, "noteSkinEditor/SkinEditor"));
+	});
+	daOption.iconSpr.setHealthSteps([[-1, -1]]);
+	var daPos = {x: daOption.iconSpr.x + 90, y: daOption.iconSpr.y + 90};
+	//var skinJson = Json.parse(Assets.getText('images/game/notes/' + daOption.get_text() + '.json'));
+	daOption.iconSpr.frames = Paths.getSparrowAtlas('game/notes/' + (skinJson.spriteName != null ? Path.withoutExtension(skinJson.spriteName) : daOption.get_text()));
+	daOption.iconSpr.animation.addByPrefix('static', 'green0', 24, true);
+	daOption.iconSpr.animation.play('static', true);
+	daOption.iconSpr.scale.set(0.7, 0.7);
+	daOption.iconSpr.updateHitbox();
+	daOption.iconSpr.centerOffsets();
+	daOption.iconSpr.centerOrigin();
+	daOption.iconSpr.x = daPos.x - (daOption.iconSpr.width/2);
+	daOption.iconSpr.y = daPos.y - (daOption.iconSpr.height/2);
+	main.curSelected = noteSkinList.length;
+	noteSkinList.push(daOption);
+	main.add(daOption);
+	//trace(Paths.image('game/notes/' + skin, null, false, 'json'));
+
+}
+
+function postUpdate() {
+	if (main.curSelected == 0) return;
+	SkinEditor_noteSkin = main.members[main.curSelected].get_text();
+	//trace(SkinEditor_noteSkin);
+}

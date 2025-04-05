@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-980" y="-190" sprite="Whitty/nightmare" icon="sprite-icon" color="#FBFBFB">
+	<anim name="idle" anim="Whitty idle dance" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="Whitty Sing Note UP" x="47" y="175" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="whitty sing note right" x="-108" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Whitty Sing Note LEFT" x="185" y="-44" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Whitty Sing Note DOWN" x="-100" y="-9" fps="24" loop="false"/>
+</character>

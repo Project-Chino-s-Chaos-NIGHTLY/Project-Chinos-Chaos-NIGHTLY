@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs Matt/festive-showdown/" zoom="0.7">
+	<sprite x="-1573" y="-599" sprite="boxing" scale="0.7" name="bg"/>
+	<dad x="428" y="460"/>
+	<bf x="677" y="491"/>
+	<combo/>
+</stage>

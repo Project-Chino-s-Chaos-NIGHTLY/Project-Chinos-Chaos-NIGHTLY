@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="shrapnelIcons.png" width="673" height="730">
+	<SubTexture name="Agro Shrapnel bop0000" x="10" y="493" width="127" height="116" frameX="-0" frameY="-4" frameWidth="129" frameHeight="122"/>
+	<SubTexture name="Agro Shrapnel bop0001" x="147" y="493" width="105" height="115" rotated="true" frameX="-6" frameY="-10" frameWidth="129" frameHeight="122"/>
+	<SubTexture name="Agro Shrapnel bop0002" x="559" y="10" width="104" height="112" rotated="true" frameX="-8" frameY="-10" frameWidth="129" frameHeight="122"/>
+	<SubTexture name="Agro Shrapnel bop0003" x="552" y="376" width="111" height="102" frameX="-9" frameY="-11" frameWidth="129" frameHeight="122"/>
+	<SubTexture name="Agro Shrapnel bop0004" x="559" y="132" width="102" height="112" rotated="true" frameX="-8" frameY="-11" frameWidth="129" frameHeight="122"/>
+	<SubTexture name="Agro Shrapnel bop0005" x="552" y="254" width="102" height="112" rotated="true" frameX="-8" frameY="-11" frameWidth="129" frameHeight="122"/>
+	<SubTexture name="Agro Shrapnel bop0006" x="537" y="488" width="102" height="111" rotated="true" frameX="-9" frameY="-11" frameWidth="129" frameHeight="122"/>
+	<SubTexture name="Agro Shrapnel bop0007" x="552" y="376" width="111" height="102" frameX="-9" frameY="-11" frameWidth="129" frameHeight="122"/>
+	<SubTexture name="Agro Shrapnel dark0000" x="414" y="306" width="128" height="117" frameX="-0" frameY="-3" frameWidth="132" frameHeight="124"/>
+	<SubTexture name="Agro Shrapnel dark0001" x="262" y="493" width="105" height="115" rotated="true" frameX="-6" frameY="-10" frameWidth="132" frameHeight="124"/>
+	<SubTexture name="Agro Shrapnel dark0002" x="414" y="433" width="113" height="103" frameX="-7" frameY="-11" frameWidth="132" frameHeight="124"/>
+	<SubTexture name="Agro Shrapnel dark0003" x="131" y="619" width="110" height="101" frameX="-9" frameY="-12" frameWidth="132" frameHeight="124"/>
+	<SubTexture name="Agro Shrapnel dark0004" x="377" y="609" width="101" height="111" rotated="true" frameX="-8" frameY="-12" frameWidth="132" frameHeight="124"/>
+	<SubTexture name="Agro Shrapnel dark0005" x="488" y="609" width="101" height="111" rotated="true" frameX="-8" frameY="-12" frameWidth="132" frameHeight="124"/>
+	<SubTexture name="Agro Shrapnel dark0006" x="10" y="619" width="111" height="101" frameX="-8" frameY="-12" frameWidth="132" frameHeight="124"/>
+	<SubTexture name="Agro Shrapnel dark0007" x="131" y="619" width="110" height="101" frameX="-9" frameY="-12" frameWidth="132" frameHeight="124"/>
+	<SubTexture name="BF flame Shrapnel bop0000" x="10" y="10" width="149" height="90" frameX="-2" frameY="-4" frameWidth="151" frameHeight="101"/>
+	<SubTexture name="BF flame Shrapnel bop0001" x="10" y="305" width="143" height="85" frameX="-4" frameY="-8" frameWidth="151" frameHeight="101"/>
+	<SubTexture name="BF flame Shrapnel bop0002" x="169" y="10" width="84" height="145" rotated="true" frameX="-1" frameY="-9" frameWidth="151" frameHeight="101"/>
+	<SubTexture name="BF flame Shrapnel bop0003" x="263" y="10" width="88" height="144" rotated="true" frameX="-0" frameY="-4" frameWidth="151" frameHeight="101"/>
+	<SubTexture name="BF flame Shrapnel bop0004" x="263" y="10" width="88" height="144" rotated="true" frameX="-0" frameY="-4" frameWidth="151" frameHeight="101"/>
+	<SubTexture name="BF flame Shrapnel bop0005" x="316" y="306" width="88" height="137" rotated="true" frameX="-7" frameY="-4" frameWidth="151" frameHeight="101"/>
+	<SubTexture name="BF flame Shrapnel bop0006" x="461" y="10" width="88" height="137" rotated="true" frameX="-7" frameY="-4" frameWidth="151" frameHeight="101"/>
+	<SubTexture name="BF flame Shrapnel bop0007" x="158" y="400" width="137" height="83" frameX="-7" frameY="-9" frameWidth="151" frameHeight="101"/>
+	<SubTexture name="BF flame Shrapnel dark0000" x="10" y="110" width="149" height="91" frameX="-3" frameY="-5" frameWidth="156" frameHeight="106"/>
+	<SubTexture name="BF flame Shrapnel dark0001" x="163" y="305" width="143" height="85" frameX="-4" frameY="-10" frameWidth="156" frameHeight="106"/>
+	<SubTexture name="BF flame Shrapnel dark0002" x="10" y="211" width="145" height="84" frameX="-1" frameY="-11" frameWidth="156" frameHeight="106"/>
+	<SubTexture name="BF flame Shrapnel dark0003" x="169" y="165" width="144" height="88" frameX="-1" frameY="-6" frameWidth="156" frameHeight="106"/>
+	<SubTexture name="BF flame Shrapnel dark0004" x="169" y="165" width="144" height="88" frameX="-1" frameY="-6" frameWidth="156" frameHeight="106"/>
+	<SubTexture name="BF flame Shrapnel dark0005" x="361" y="10" width="90" height="138" rotated="true" frameX="-7" frameY="-4" frameWidth="156" frameHeight="106"/>
+	<SubTexture name="BF flame Shrapnel dark0006" x="361" y="158" width="90" height="138" rotated="true" frameX="-7" frameY="-4" frameWidth="156" frameHeight="106"/>
+	<SubTexture name="BF flame Shrapnel dark0007" x="10" y="400" width="138" height="83" frameX="-7" frameY="-11" frameWidth="156" frameHeight="106"/>
+</TextureAtlas>

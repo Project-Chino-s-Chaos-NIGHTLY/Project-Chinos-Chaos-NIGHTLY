@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-180" y="-25" sprite="whitty/crazy" icon="Vs Whitty/whitty-crazy" color="#CE002C">
+	<anim name="idle" anim="Whitty Ballistic Idle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="Whitty Ballistic Left" x="137" y="60" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Whitty Ballistic Down" x="41" y="-55" fps="24" loop="false"/>
+	<anim name="singUP" anim="Whitty Ballistic Up" x="52" y="101" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Whitty Ballistic Right" x="77" y="-70" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="Whitty Agro Left" x="145" y="-45" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="Whitty Agro Down" x="-90" y="-55" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="Whitty Agro Up" x="-20" y="155" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="Whitty Agro Right" x="-81" y="-70" fps="24" loop="false"/>
+</character>

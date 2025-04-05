@@ -1,0 +1,97 @@
+import funkin.backend.assets.ModsFolder;
+import funkin.editors.ui.UIState;
+import funkin.editors.ui.UISprite;
+import funkin.editors.ui.UIText;
+import funkin.editors.ui.UIButton;
+import funkin.editors.ui.UITextBox;
+import funkin.editors.ui.UIDropDown;
+import funkin.options.type.IconOption;
+
+import haxe.io.Path;
+import haxe.Json;
+import sys.io.File;
+import sys.FileSystem;
+function getKeybindOBJ(desc:String, bind:String) {
+	return {description: desc, keybind: bind};
+}
+function getKeybindSecOBJ(t:String) {
+	return {title: t};
+}
+var titles:Int = 0;
+public var keyBinds = [
+	getKeybindSecOBJ("File"),
+	getKeybindOBJ("Save Note Skin", "Ctrl + S"),
+	getKeybindSecOBJ("JSON"),
+	getKeybindOBJ("Reload Note Skin", "Ctrl + R"),
+	getKeybindSecOBJ("Offsets"),
+	getKeybindOBJ("Move Offset Up 1", "UpArrow"),
+	getKeybindOBJ("Move Offset Down 1", "DownArrow"),
+	getKeybindOBJ("Move Offset Left 1", "LeftArrow"),
+	getKeybindOBJ("Move Offset Right 1", "RightArrow"),
+	getKeybindOBJ("Move Offset Up 5", "Shift + UpArrow"),
+	getKeybindOBJ("Move Offset Down 5", "Shift + DownArrow"),
+	getKeybindOBJ("Move Offset Left 5", "Shift + LeftArrow"),
+	getKeybindOBJ("Move Offset Right 5", "Shift + RightArrow"),
+	getKeybindSecOBJ('Animations'),
+	getKeybindOBJ("Play Animation", "SPACE"),
+	getKeybindOBJ("Next Animation", "S"),
+	getKeybindOBJ("Previous Animation", "W"),
+	getKeybindSecOBJ('Camera'),
+	getKeybindOBJ("Move Camera Up 5", "I"),
+	getKeybindOBJ("Move Camera Down 5", "K"),
+	getKeybindOBJ("Move Camera Left 5", "J"),
+	getKeybindOBJ("Move Camera Right 5", "L"),
+	getKeybindOBJ("Zoom Camera In 5", "O"),
+	getKeybindOBJ("Zoom Camera Out 5", "U")
+	getKeybindOBJ("Move Camera Up 1", "Shift + I"),
+	getKeybindOBJ("Move Camera Down 1", "Shift + K"),
+	getKeybindOBJ("Move Camera Left 1", "Shift + J"),
+	getKeybindOBJ("Move Camera Right 1", "Shift + L"),
+	getKeybindOBJ("Zoom Camera In 1", "Shift + O"),
+	getKeybindOBJ("Zoom Camera Out 1", "Shift + U"),
+];
+
+function create() {
+	for (bind in keyBinds) {
+		if (bind.title != null) titles++;
+	}
+	winTitle = 'Keybinds';
+
+	winWidth = 400;
+	winHeight = 80 + (16*keyBinds.length) + (16*titles);
+}
+var daName:String;
+
+function postCreate() {
+	titleSpr.x -= 20;
+	var text:String = "";
+
+	var splashText:UIText = new UIText(windowSpr.x + 5, windowSpr.y + 40, null, text);
+	for (i=>bind in keyBinds) {
+
+		if (bind.title != null) {
+			var texter:UIText = new UIText(splashText.x, splashText.y, windowSpr.bWidth-10, "-" + bind.title + "-");
+			texter.alignment = 'center';
+			add(texter);
+		} else {
+			//text += bind.description + ": " + bind.keybind + "\n";
+			var texter:UIText = new UIText(splashText.x, splashText.y, null, bind.description + ":");
+			add(texter);
+			var texter2:UIText = new UIText(splashText.x, splashText.y, windowSpr.bWidth-10, bind.keybind);
+			texter2.updateHitbox();
+			//texter2.x = (windowSpr.x + windowSpr.bWidth) - 10;
+			texter2.alignment = 'right';
+			add(texter2);
+		}
+		splashText.y += 16 * (keyBinds[i+1] != null && keyBinds[i+1].title != null ? 2 : 1);
+	}
+
+
+    var saveButton = new UIButton(windowSpr.x + windowSpr.bWidth - 10, windowSpr.y + windowSpr.bHeight - 16 - 32, "Close", function() {
+        close();
+	}, 75);
+	saveButton.frames = Paths.getFrames("editors/ui/grayscale-button");
+	saveButton.color = 0xFF00FF00;
+	saveButton.x -= saveButton.bWidth;
+    add(saveButton);
+}

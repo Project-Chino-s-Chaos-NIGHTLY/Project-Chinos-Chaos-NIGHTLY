@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Whitty/flying" flipX="true" isPlayer="true" icon="Vs Whitty/whitty" color="#1D1D35">
+	<anim name="idle" anim="Flying Whitty0" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="Flying Whitty up" x="-85" y="180" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Flying Whitty left" x="56" y="-15" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Flying Whitty right" x="-80" y="250" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Flying Whitty down" x="57" y="0" fps="24" loop="false"/>
+	<anim name="catch" anim="Flying Whitty gun catch" x="-3" y="30" fps="24" loop="false"/>
+	<anim name="enter" anim="Flying Whitty Enter" x="-10" y="-10" fps="24" loop="false"/>
+	<anim name="hit" anim="Flying Whitty hit" x="1" y="40" fps="24" loop="false"/>
+	<anim name="scream" anim="Flying Whitty scream" x="2299" y="1695" fps="24" loop="false"/>
+	<anim name="shoot" anim="Flying Whitty shoot" x="525" y="5" fps="24" loop="false"/>
+</character>

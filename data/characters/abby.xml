@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="abby/boxin" icon="Vs Abby/abby" color="#FFDFBC" camx="-175">
+	<anim name="blockRIGHT" anim="Abby Block Right" x="26" y="3" fps="24" loop="false"/>
+	<anim name="blockUP" anim="Abby Block Up" x="24" y="-1" fps="24" loop="false"/>
+	<anim name="blockDOWN" anim="Abby Block Down" x="25" y="0" fps="24" loop="false"/>
+	<anim name="blockLEFT" anim="Abby Block Left" x="25" y="-2" fps="24" loop="false"/>
+	<anim name="idle" anim="Abby Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Abby Attack Up" x="193" y="5" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Abby Attack Left" x="201" y="-10" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Abby Attack Right" x="180" y="-1" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Abby Attack Down" x="191" y="-5" fps="24" loop="false"/>
+</character>

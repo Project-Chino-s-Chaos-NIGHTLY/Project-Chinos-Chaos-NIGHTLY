@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage lockCamPos="true" startCamPosX="750" startCamPosY="450" folder="stages/Vs Whitty/alley/" zoom="0.7" name="alley">
+	<sprite x="-606" y="-123" sprite="alleyCrazy" type="none" name="wall">
+		<anim x="0" loop="false" y="0" fps="24" anim="Background Whitty Start0" type="none" name="normal"/>
+
+		<anim x="0" loop="false" y="0" fps="24" anim="Background Whitty Startup" type="none" name="uhoh"/>
+
+		<anim x="0" loop="false" y="0" fps="24" anim="Background Whitty Moving" type="loop" indices="0, 1, 2, 3, 4, 5" name="broken"/>
+	</sprite>
+
+	<gf scrolly="1" x="586" scrollx="1" y="43"/>
+
+	<boyfriend x="1130" y="160"/>
+
+	<dad x="20" y="160"/>
+
+	<combo x="656" y="105"/>
+</stage>

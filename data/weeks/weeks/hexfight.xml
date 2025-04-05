@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-week>
+<week name="Electric Fight" chars="hex" sprite="fight3">
+	<difficulty name="HARD"/>
+
+	<song>glitcher</song>
+</week>

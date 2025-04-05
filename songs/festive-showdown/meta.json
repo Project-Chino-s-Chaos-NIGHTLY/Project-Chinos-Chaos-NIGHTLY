@@ -1,0 +1,29 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 190,
+	"difficulties": [
+		"TheFunny",
+		"SSF2008"
+	],
+	"needsVoices": false,
+	"parsedColor": -195066,
+	"displayName": "Festive Showdown",
+	"icon": "Vs Matt/Matt",
+	"name": "festive-showdown",
+	"color": "#FD0606",
+	"customValues": {
+		"partText": "Vs Matt ~ Extras: Holiday Update",
+		"decoration": {
+			"file": "snowfall",
+			"animation": "Snow Falling",
+			"position": {
+				"x": "center",
+				"y": "center"
+			},
+			"scale": 0.5
+		}
+	}
+}

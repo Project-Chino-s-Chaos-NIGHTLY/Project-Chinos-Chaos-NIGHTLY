@@ -1,0 +1,181 @@
+import funkin.backend.assets.ModsFolder;
+import funkin.editors.ui.UIState;
+import funkin.editors.ui.UISprite;
+import funkin.editors.ui.UIText;
+import funkin.editors.ui.UIButton;
+import funkin.editors.ui.UITextBox;
+import funkin.editors.ui.UIDropDown;
+import funkin.options.type.IconOption;
+
+import haxe.io.Path;
+import haxe.Json;
+import sys.io.File;
+import sys.FileSystem;
+function create() {
+	winTitle = 'New Note Skin';
+
+	winWidth = 330;
+	winHeight = 300;
+}
+var prevText:String = 'default';
+var nameTextBox:UITextBox;
+var warning:UIText;
+var noteSprite:UISprite;
+var theList:Array<String>;
+var theListNoPath:Array<String> = [];
+var exists:Bool = true;
+var spriteDropdown;
+var jsonData;
+function checkNoteSkinExists() {
+	var list = [
+		for (skin in (getNoteList(true).length == 0 ? getNoteList(false) : getNoteList(true)))
+			skin.toLowerCase()
+	];
+	trace(list);
+	return list.contains(nameTextBox.label.text.toLowerCase());
+}
+function getListLower() {
+	var list = [
+		for (skin in (getNoteList(true).length == 0 ? getNoteList(false) : getNoteList(true)))
+			skin.toLowerCase()
+	];
+	return list;
+}
+function getImageListLower() {
+	var list = [
+		for (sprite in theListNoPath)
+			sprite.toLowerCase()
+	];
+	return list;
+}
+
+function addExt(array:Array, ?ext:String) {
+	var list = [
+		for (item in array)
+			item + '.' + ext
+	];
+	return list;
+}
+function postCreate() {
+	jsonData = Json.parse(Assets.getText('images/game/notes/default.json'));
+	function addLabelOn(ui, text:String, ?assignVar) {
+		if (assignVar != null) {
+			return new UIText(ui.x, ui.y - 24, 0, text);
+		} else {
+			add(new UIText(ui.x, ui.y - 24, 0, text));
+		}
+	}
+
+	nameTextBox = new UITextBox(windowSpr.x + 20, windowSpr.y + 60, "default", 190);
+
+	trace(nameTextBox.onChange);
+	add(nameTextBox);
+
+
+	addLabelOn(nameTextBox, "Skin Name");
+
+	var saveButton = new UIButton(windowSpr.x + windowSpr.bWidth - 20, windowSpr.y + windowSpr.bHeight - 16 - 32, "Create", function() {
+		var list = [
+			for (skin in (getNoteList(true).length == 0 ? getNoteList(false) : getNoteList(true)))
+				skin.toLowerCase()
+		];
+		if (list.contains(nameTextBox.label.text.toLowerCase())) {
+			trace('already exists pal');
+			warning.text = "Error:\n\"" + nameTextBox.label.text + "\" already exists.";
+		} else if (!exists) {
+			warning.text = "Error:\nNo sprite \"" + jsonData.spriteName.toLowerCase() + "\" exists.";
+		} else {
+			newSkin(nameTextBox.label.text, jsonData);
+			var modRoot = StringTools.replace(Paths.getAssetsRoot(), "./", "") + "/";
+			File.saveContent(modRoot + 'images/game/notes/' + nameTextBox.label.text.toLowerCase() + '.json', Json.stringify(jsonData, null, '    '));
+			close();
+		}
+	}, 75);
+
+
+	var modList = getNoteListImages(true);
+	theList = (modList.length > 0 ? modList : getNoteListImages(false));
+
+	for (i=>asset in theList) {
+		theListNoPath.push(Path.withoutDirectory(Path.withoutExtension(asset)));
+		var tempSprite = new UISprite(0, 0).loadGraphic(asset);
+		tempSprite.canBeHovered = false;
+		if (Path.withoutDirectory(Path.withoutExtension(asset)) == 'default') {
+			noteSprite = tempSprite;
+			noteSprite.scale.set(0.5, 0.5);
+			noteSprite.frames = Paths.getSparrowAtlas('game/notes/' + Path.withoutDirectory(Path.withoutExtension(asset)));
+			noteSprite.animation.addByPrefix('static', 'green0', 24, true);
+			noteSprite.animation.play('static', true);
+			noteSprite.updateHitbox();
+			noteSprite.x = winWidth - noteSprite.width - 20;
+			noteSprite.y = 55;
+		}
+		//add(tempSprite);
+		//trace(Paths.image('game/notes/' + asset));
+	}
+	add(noteSprite);
+	spriteDropdown = new UIDropDown(20, nameTextBox.y+40, 190+30, 30, addExt(getImageListLower(), 'png'), getImageListLower().indexOf('default'));
+	spriteDropdown.onChange = function(to) {
+        jsonData.spriteName = spriteDropdown.options[to];
+		updateSprite();
+    }
+	add(spriteDropdown);
+	warning = addLabelOn(spriteDropdown, "");
+	warning.y += 65;
+	add(warning);
+
+
+
+	add(saveButton);
+	saveButton.frames = Paths.getFrames("editors/ui/grayscale-button");
+	saveButton.color = 0xFF00FF00;
+	saveButton.x -= saveButton.bWidth;
+
+	var closeButton = new UIButton(saveButton.x - 20, saveButton.y, "Cancel", function() {
+		close();
+	}, 75);
+	add(closeButton);
+	closeButton.frames = Paths.getFrames("editors/ui/grayscale-button");
+	closeButton.color = 0xFFFF0000;
+	closeButton.x -= closeButton.bWidth;
+	trace(parent);
+}
+function updateSprite() {
+	if (getListLower().contains(Path.withoutExtension(jsonData.spriteName.toLowerCase()))) {
+		//trace(text);
+		noteSprite.frames = Paths.getSparrowAtlas('game/notes/' + Path.withoutExtension(jsonData.spriteName.toLowerCase()));
+		noteSprite.animation.addByPrefix('static', 'green0', 24, true);
+		noteSprite.animation.play('static', true);
+		noteSprite.updateHitbox();
+		noteSprite.x = (winWidth - ((78.5/2) + (noteSprite.width/2)) - 20) ;
+		noteSprite.y = 55;
+		exists = true;
+	} else {
+		noteSprite.frames = Paths.getSparrowAtlas('game/notes/default');
+		noteSprite.animation.addByPrefix('static', 'green0', 24, true);
+		noteSprite.animation.play('static', true);
+		noteSprite.updateHitbox();
+		noteSprite.x = winWidth - noteSprite.width - 20;
+		noteSprite.y = 55;
+		exists = false;
+	}
+}
+function onChangeText(text) {
+	//trace(theListNoPath);
+
+	if (checkNoteSkinExists()) {
+		warning.text = "Warning:\n\"" + nameTextBox.label.text + "\" already exists.";
+	} else {
+		warning.text = '';
+	}
+}
+function update() {
+	if (prevText != nameTextBox.label.text) {
+		prevText = nameTextBox.label.text;
+		onChangeText(nameTextBox.label.text);
+		//trace(getNoteListImages(true) != null ? getNoteListImages(true) : getNoteListImages(false));
+	}
+	if (controls.BACK && !nameTextBox.__wasFocused) {
+		close();
+	}
+}

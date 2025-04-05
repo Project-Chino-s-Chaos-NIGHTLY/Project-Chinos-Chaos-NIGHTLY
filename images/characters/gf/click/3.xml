@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture-2.png" width="8187" height="7868">
+	<SubTexture name="GF Ballistic Click0001" x="7225" y="6978" width="303" height="429" frameX="-1440" frameY="-1346" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0002" x="7225" y="7410" width="303" height="429" frameX="-1440" frameY="-1346" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0005" x="6004" y="6978" width="297" height="462" frameX="-1450" frameY="-1311" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0006" x="6304" y="6978" width="297" height="462" frameX="-1450" frameY="-1311" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0007" x="7531" y="6978" width="303" height="429" frameX="-1440" frameY="-1346" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0008" x="7531" y="7410" width="303" height="429" frameX="-1440" frameY="-1346" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0011" x="6604" y="6978" width="318" height="462" frameX="-1433" frameY="-1311" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0012" x="6925" y="6978" width="297" height="462" frameX="-1454" frameY="-1311" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0013" x="7837" y="6978" width="325" height="429" frameX="-1428" frameY="-1346" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0014" x="7837" y="7410" width="322" height="429" frameX="-1431" frameY="-1346" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0022" x="3" y="3" width="2862" height="2719" frameX="-119" frameY="-46" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0023" x="3" y="2725" width="2837" height="2696" frameX="-131" frameY="-58" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0024" x="2868" y="3" width="2809" height="2669" frameX="-145" frameY="-72" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0027" x="2868" y="2675" width="2701" height="2566" frameX="-198" frameY="-125" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0030" x="2575" y="5424" width="2559" height="2431" frameX="-268" frameY="-195" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0031" x="5680" y="3" width="2504" height="2379" frameX="-295" frameY="-222" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0032" x="5680" y="2385" width="2445" height="2323" frameX="-324" frameY="-250" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0033" x="5572" y="4711" width="2382" height="2264" frameX="-355" frameY="-281" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0049" x="5137" y="6978" width="864" height="822" frameX="-1103" frameY="-1025" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0058" x="6623" y="7443" width="310" height="412" frameX="-1431" frameY="-1358" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0061" x="3" y="5424" width="2569" height="2441" frameX="-231" frameY="-220" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0083" x="6004" y="7443" width="323" height="415" frameX="-1469" frameY="-1355" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Click0084" x="6330" y="7443" width="290" height="415" frameX="-1469" frameY="-1355" frameWidth="3025" frameHeight="2875"/>
+	<SubTexture name="GF Ballistic Idle0006" x="5137" y="5244" width="297" height="463" frameX="-22" frameY="-19" frameWidth="319" frameHeight="484"/>
+	<SubTexture name="GF Ballistic Idle0011" x="5137" y="5710" width="314" height="463" frameX="-5" frameY="-19" frameWidth="319" frameHeight="484"/>
+	<SubTexture name="GF Ballistic Idle0012" x="5137" y="6176" width="297" height="463" frameX="-22" frameY="-19" frameWidth="319" frameHeight="484"/>
+</TextureAtlas>

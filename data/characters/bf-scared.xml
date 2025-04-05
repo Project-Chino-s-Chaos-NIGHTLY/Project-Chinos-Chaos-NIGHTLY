@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="boyfriend/scared" flipX="true" isPlayer="true" icon="bf" color="#31B0D1">
+	<anim name="idle" anim="BF idle shaking" x="-4" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="BF NOTE LEFT concerned" x="12" y="-6" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN concerned" x="-10" y="-50" fps="24" loop="false"/>
+	<anim name="singUP" anim="BF NOTE UP concerned" x="-29" y="27" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF NOTE RIGHT concerned" x="-38" y="-7" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="BF NOTE LEFT MISS" x="12" y="24" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF NOTE DOWN MISS" x="-11" y="-19" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="BF NOTE UP MISS" x="-29" y="27" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF NOTE RIGHT MISS" x="-30" y="21" fps="24" loop="false"/>
+</character>

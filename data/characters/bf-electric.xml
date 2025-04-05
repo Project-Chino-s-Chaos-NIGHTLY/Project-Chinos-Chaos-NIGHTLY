@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="boyfriend/electric" flipX="true" camx="-50" camy="50" isPlayer="true" icon="Vs Hex/bf-electric" color="#FFED00">
+	<anim name="idle" anim="BF Electric Idle0" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF Electric Left0" x="21" y="3" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF Electric Sing Down0" x="44" y="2" fps="24" loop="false"/>
+	<anim name="singUP" anim="BF Electric Sing Up0" x="-10" y="38" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF Electric Right0" x="24" y="9" fps="24" loop="false"/>
+	<anim name="hurt" anim="BF Electric hit0" x="-9" y="1" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="BF Electric Idle hurt" x="38" y="-47" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="BF Electric Left angry" x="19" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="BF Electric Sing Down" x="42" y="0" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="BF Electric Sing Up" x="-12" y="40" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="BF Electric Right angry" x="22" y="10" fps="24" loop="false"/>
+	<anim name="hurt-electric" anim="BF Electric hit electrified" x="11" y="35" fps="24" loop="false"/>
+	<anim name="singLEFT-hit" anim="BF Electric electrified HIT LEFT" x="73" y="15" fps="24" loop="false"/>
+	<anim name="singDOWN-hit" anim="BF Electric electrified HIT DOWN" x="55" y="-70" fps="24" loop="false"/>
+	<anim name="singUP-hit" anim="BF Electric electrified HIT UP" x="-5" y="35" fps="24" loop="false"/>
+	<anim name="singRIGHT-hit" anim="BF Electric electrified HIT RIGHT" x="-8" y="27" fps="24" loop="false"/>
+</character>

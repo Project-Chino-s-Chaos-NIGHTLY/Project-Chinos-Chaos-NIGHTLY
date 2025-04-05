@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="whittySmack.png" width="5722" height="885">
+	<SubTexture name="Hit Final0000" x="4770" y="10" width="456" height="863" frameX="-217" frameY="-20" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0001" x="10" y="10" width="483" height="830" frameX="-186" frameY="-17" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0002" x="503" y="10" width="487" height="833" frameX="-186" frameY="-14" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0003" x="2143" y="10" width="555" height="842" frameX="-118" frameY="-4" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0004" x="2708" y="10" width="559" height="842" frameX="-118" frameY="-4" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0005" x="1000" y="10" width="561" height="837" frameX="-117" frameY="-9" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0006" x="1571" y="10" width="562" height="838" frameX="-117" frameY="-8" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0007" x="3277" y="10" width="556" height="859" frameX="-72" frameY="-0" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0008" x="3843" y="10" width="431" height="859" frameX="-72" frameY="-0" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0009" x="5236" y="10" width="476" height="865" frameX="-3" frameY="-6" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0010" x="5236" y="10" width="476" height="865" frameX="-3" frameY="-6" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0011" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0012" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0013" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0014" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0015" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0016" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0017" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0018" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0019" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0020" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0021" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0022" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0023" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0024" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0025" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0026" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0027" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0028" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0029" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0030" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0031" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0032" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0033" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0034" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0035" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0036" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0037" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0038" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0039" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0040" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0041" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0042" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0043" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0044" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0045" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0046" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0047" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0048" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0049" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0050" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0051" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0052" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0053" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0054" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0055" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0056" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0057" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0058" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+	<SubTexture name="Hit Final0059" x="4284" y="10" width="476" height="861" frameX="-0" frameY="-10" frameWidth="680" frameHeight="883"/>
+</TextureAtlas>

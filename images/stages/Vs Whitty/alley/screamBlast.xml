@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="screamBlast.png" width="5053" height="6161">
+	<SubTexture name="blast0000" x="4455" y="10" width="529" height="539" frameX="-2031" frameY="-1694" frameWidth="4440" frameHeight="3682"/>
+	<SubTexture name="blast0001" x="3207" y="3697" width="1836" height="1493" frameX="-1365" frameY="-1223" frameWidth="4440" frameHeight="3682"/>
+	<SubTexture name="blast0002" x="10" y="3697" width="3187" height="2454" frameX="-751" frameY="-806" frameWidth="4440" frameHeight="3682"/>
+	<SubTexture name="blast0003" x="10" y="10" width="4435" height="3677" frameX="-0" frameY="-0" frameWidth="4440" frameHeight="3682"/>
+</TextureAtlas>

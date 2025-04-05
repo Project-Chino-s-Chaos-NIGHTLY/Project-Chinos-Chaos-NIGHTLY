@@ -1,0 +1,1981 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-10-07 14:43:07
+count workspace : c:\Users\Nebula Nova\Downloads\Codename Engine\mods\FNF-Project-Chinos-Chaos
+total files : 635
+total code lines : 144522
+total comment lines : 1136
+total blank lines : 1164
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .hx|           7771|            599|            804|    5.4|
+   |          .json|         124038|             11|            150|     86|
+   |          .frag|            259|            111|             86|   0.18|
+   |           .ini|              1|              3|              0|0.00069|
+   |           .xml|          12365|            411|            122|    8.6|
+   |           .txt|             86|              0|              2|  0.060|
+   |           .lua|              0|              0|              0|    0.0|
+   |               |              2|              1|              0| 0.0014|
+   -------------------------------------------------------------------------
+.gitignore, code is 2, comment is 1, blank is 0.
+data\alphabet.xml, code is 129, comment is 4, blank is 2.
+data\characters\bf-electric.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-electric.xml, code is 19, comment is 0, blank is 0.
+data\characters\bf-fire-dead.hx, code is 21, comment is 0, blank is 1.
+data\characters\bf-fire-dead.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-fire.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-fire.xml, code is 18, comment is 0, blank is 0.
+data\characters\bf-hexfight.xml, code is 7, comment is 0, blank is 0.
+data\characters\bf-ice-crazy.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-ice-crazy.xml, code is 14, comment is 0, blank is 0.
+data\characters\bf-ice-dead.hx, code is 19, comment is 0, blank is 0.
+data\characters\bf-ice-dead.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-ice-hammer.xml, code is 5, comment is 0, blank is 0.
+data\characters\bf-ice-scream.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-ice.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-ice.xml, code is 24, comment is 0, blank is 0.
+data\characters\bf-iceTired.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-iceTired.xml, code is 11, comment is 0, blank is 0.
+data\characters\bf-scared.hx, code is 5, comment is 0, blank is 0.
+data\characters\bf-scared.xml, code is 12, comment is 0, blank is 0.
+data\characters\bf-shake.xml, code is 4, comment is 0, blank is 0.
+data\characters\bf-throw.xml, code is 5, comment is 0, blank is 0.
+data\characters\bf.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf.xml, code is 17, comment is 0, blank is 0.
+data\characters\blastsTEMP.xml, code is 7, comment is 0, blank is 0.
+data\characters\carol.hx, code is 15, comment is 0, blank is 1.
+data\characters\carol.xml, code is 20, comment is 0, blank is 0.
+data\characters\chara.xml, code is 8, comment is 0, blank is 0.
+data\characters\gf-demon-snap.xml, code is 5, comment is 0, blank is 0.
+data\characters\gf-demon.hx, code is 19, comment is 0, blank is 2.
+data\characters\gf-demon.xml, code is 7, comment is 0, blank is 0.
+data\characters\gf-hex.xml, code is 19, comment is 0, blank is 0.
+data\characters\gf-standing.xml, code is 16, comment is 0, blank is 0.
+data\characters\hex-corrupt.hx, code is 15, comment is 0, blank is 1.
+data\characters\hex-corrupt.xml, code is 12, comment is 0, blank is 0.
+data\characters\pico-fire.xml, code is 14, comment is 0, blank is 0.
+data\characters\pico.xml, code is 12, comment is 2, blank is 2.
+data\characters\robot.hx, code is 4, comment is 0, blank is 0.
+data\characters\robot.xml, code is 8, comment is 0, blank is 0.
+data\characters\tankman.xml, code is 10, comment is 0, blank is 0.
+data\characters\whitty-angry.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-angry.xml, code is 14, comment is 0, blank is 0.
+data\characters\whitty-crazy-weak.hx, code is 22, comment is 0, blank is 3.
+data\characters\whitty-crazy-weak.xml, code is 11, comment is 0, blank is 0.
+data\characters\whitty-crazy.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-crazy.xml, code is 12, comment is 0, blank is 0.
+data\characters\whitty-freeze-pop.xml, code is 6, comment is 0, blank is 0.
+data\characters\whitty-hexfight.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-hexfight.xml, code is 17, comment is 0, blank is 0.
+data\characters\whitty-smack.xml, code is 4, comment is 0, blank is 0.
+data\characters\whitty-tantrum.xml, code is 6, comment is 0, blank is 0.
+data\characters\whitty-tear.xml, code is 5, comment is 0, blank is 0.
+data\characters\whitty-tweaking.xml, code is 4, comment is 0, blank is 0.
+data\characters\whitty.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty.xml, code is 9, comment is 0, blank is 0.
+data\config\credits.xml, code is 32, comment is 0, blank is 20.
+data\config\discord.json, code is 4, comment is 0, blank is 0.
+data\config\freeplaySectors.json, code is 45, comment is 0, blank is 0.
+data\config\funfacts.json, code is 210, comment is 11, blank is 0.
+data\config\menuchars.json, code is 103, comment is 0, blank is 0.
+data\config\menuItems.txt, code is 5, comment is 0, blank is 0.
+data\config\menusplashtext.txt, code is 8, comment is 0, blank is 0.
+data\config\options.xml, code is 25, comment is 0, blank is 11.
+data\events\Change Character.hx, code is 87, comment is 18, blank is 16.
+data\events\Change Character.json, code is 24, comment is 0, blank is 0.
+data\events\Choose Hex Attack Target.hx, code is 14, comment is 0, blank is 2.
+data\events\Choose Hex Attack Target.json, code is 14, comment is 0, blank is 0.
+data\events\Kill Shield.hx, code is 8, comment is 0, blank is 1.
+data\events\Kill Shield.json, code is 9, comment is 0, blank is 0.
+data\events\Popups.hx, code is 66, comment is 9, blank is 9.
+data\events\Popups.json, code is 34, comment is 0, blank is 0.
+data\events\Spawn Shield.hx, code is 8, comment is 0, blank is 1.
+data\events\Spawn Shield.json, code is 9, comment is 0, blank is 0.
+data\freeplaySonglist.txt, code is 11, comment is 0, blank is 0.
+data\global.hx, code is 46, comment is 10, blank is 13.
+data\libraries\novalua\Converter.hx, code is 77, comment is 3, blank is 0.
+data\libraries\novalua\LuaPath.hx, code is 8, comment is 0, blank is 0.
+data\libraries\novalua\LuaSprite.hx, code is 54, comment is 0, blank is 2.
+data\notes\Attack Crit.hx, code is 9, comment is 0, blank is 0.
+data\notes\Attack.hx, code is 9, comment is 0, blank is 0.
+data\notes\Click.hx, code is 9, comment is 0, blank is 0.
+data\notes\Ghost Note.hx, code is 0, comment is 0, blank is 0.
+data\notes\Mind Control.hx, code is 6, comment is 0, blank is 1.
+data\notes\Scream.hx, code is 9, comment is 0, blank is 0.
+data\scripts\classes\blurShader.hx, code is 60, comment is 3, blank is 13.
+data\scripts\classes\blurShaderWhite.hx, code is 60, comment is 3, blank is 13.
+data\scripts\classes\CharIcon.hx, code is 101, comment is 8, blank is 10.
+data\scripts\classes\GaussianBlur.hx, code is 26, comment is 1, blank is 6.
+data\scripts\classes\NovaAnimSystem\Animation.hx, code is 92, comment is 2, blank is 16.
+data\scripts\classes\NovaAnimSystem\Keyframe.hx, code is 24, comment is 0, blank is 4.
+data\scripts\classes\RTXLighting.hx, code is 80, comment is 1, blank is 9.
+data\scripts\pausemenu.hx, code is 12, comment is 12, blank is 6.
+data\splashes\carol.xml, code is 19, comment is 0, blank is 7.
+data\splashes\default.xml, code is 19, comment is 0, blank is 7.
+data\splashes\fire.xml, code is 19, comment is 0, blank is 7.
+data\splashes\gf.xml, code is 19, comment is 0, blank is 7.
+data\splashes\ice.xml, code is 15, comment is 0, blank is 3.
+data\stages\999999.xml, code is 8, comment is 0, blank is 4.
+data\stages\alley.hx, code is 3, comment is 0, blank is 0.
+data\stages\alley.xml, code is 12, comment is 0, blank is 6.
+data\stages\alleyCrazy.hx, code is 15, comment is 0, blank is 1.
+data\stages\alleyCrazy.xml, code is 43, comment is 0, blank is 19.
+data\stages\character offseting bullshit.xml, code is 12, comment is 0, blank is 0.
+data\stages\detected.hx, code is 54, comment is 3, blank is 8.
+data\stages\detected.xml, code is 22, comment is 0, blank is 14.
+data\states\FreeplaySelectionState.hx, code is 183, comment is 23, blank is 25.
+data\states\FreeplayState.hx, code is 336, comment is 12, blank is 42.
+data\states\GalleryMenuState.hx, code is 127, comment is 6, blank is 10.
+data\states\LolState.hx, code is 114, comment is 6, blank is 9.
+data\states\MainMenuState.hx, code is 285, comment is 7, blank is 45.
+data\states\MusicBeatState.hx, code is 6, comment is 0, blank is 1.
+data\states\PlayState.hx, code is 3, comment is 0, blank is 0.
+data\states\StoryMenuState.hx, code is 82, comment is 1, blank is 8.
+data\states\TitleState.hx, code is 27, comment is 1, blank is 4.
+data\titlescreen\introText.txt, code is 55, comment is 0, blank is 1.
+data\titlescreen\titlescreen.xml, code is 13, comment is 0, blank is 4.
+data\weekchars\hex.json, code is 13, comment is 0, blank is 0.
+data\weekchars\whitty-crazy.json, code is 13, comment is 0, blank is 0.
+data\weekchars\whitty.json, code is 13, comment is 0, blank is 0.
+data\weeks\weeks.txt, code is 6, comment is 0, blank is 1.
+data\weeks\weeks\firefight.xml, code is 6, comment is 0, blank is 2.
+data\weeks\weeks\firefight2.xml, code is 5, comment is 0, blank is 1.
+data\weeks\weeks\hexfight.xml, code is 5, comment is 0, blank is 1.
+fonts\COOLINE.otf, it is a binary file.
+fonts\ErasBoldITC.ttf, it is a binary file.
+fonts\Lucida Sans Typewriter Regular.ttf, it is a binary file.
+fonts\monofonto rg.otf, it is a binary file.
+fonts\SourceCodePro-Regular.ttf, it is a binary file.
+images\characters\boyfriend\daboi.png, it is a binary file.
+images\characters\boyfriend\daboi.xml, code is 319, comment is 2, blank is 0.
+images\characters\boyfriend\death\fire.png, it is a binary file.
+images\characters\boyfriend\death\fire.xml, code is 213, comment is 3, blank is 0.
+images\characters\boyfriend\death\ice.png, it is a binary file.
+images\characters\boyfriend\death\ice.xml, code is 209, comment is 3, blank is 0.
+images\characters\boyfriend\electric.png, it is a binary file.
+images\characters\boyfriend\electric.xml, code is 281, comment is 3, blank is 0.
+images\characters\boyfriend\fire.png, it is a binary file.
+images\characters\boyfriend\fire.xml, code is 333, comment is 3, blank is 0.
+images\characters\boyfriend\hammer.png, it is a binary file.
+images\characters\boyfriend\hammer.xml, code is 61, comment is 3, blank is 0.
+images\characters\boyfriend\hex.png, it is a binary file.
+images\characters\boyfriend\hex.xml, code is 92, comment is 3, blank is 0.
+images\characters\boyfriend\ice-crazy.png, it is a binary file.
+images\characters\boyfriend\ice-crazy.xml, code is 263, comment is 3, blank is 0.
+images\characters\boyfriend\ice-tired.png, it is a binary file.
+images\characters\boyfriend\ice-tired.xml, code is 136, comment is 3, blank is 0.
+images\characters\boyfriend\ice.png, it is a binary file.
+images\characters\boyfriend\ice.xml, code is 532, comment is 3, blank is 0.
+images\characters\boyfriend\jic\fire.png, it is a binary file.
+images\characters\boyfriend\jic\fire.xml, code is 201, comment is 3, blank is 0.
+images\characters\boyfriend\jic\ice-crazy.png, it is a binary file.
+images\characters\boyfriend\jic\ice-crazy.xml, code is 116, comment is 3, blank is 0.
+images\characters\boyfriend\jic\ice.png, it is a binary file.
+images\characters\boyfriend\jic\ice.xml, code is 236, comment is 3, blank is 0.
+images\characters\boyfriend\miss\fire.png, it is a binary file.
+images\characters\boyfriend\miss\fire.xml, code is 135, comment is 2, blank is 0.
+images\characters\boyfriend\miss\ice-crazy.png, it is a binary file.
+images\characters\boyfriend\miss\ice-crazy.xml, code is 150, comment is 2, blank is 0.
+images\characters\boyfriend\miss\ice.png, it is a binary file.
+images\characters\boyfriend\miss\ice.xml, code is 299, comment is 2, blank is 0.
+images\characters\boyfriend\scared.png, it is a binary file.
+images\characters\boyfriend\scared.xml, code is 63, comment is 3, blank is 0.
+images\characters\boyfriend\scream\1.png, it is a binary file.
+images\characters\boyfriend\scream\1.xml, code is 33, comment is 3, blank is 0.
+images\characters\boyfriend\scream\2.png, it is a binary file.
+images\characters\boyfriend\scream\2.xml, code is 8, comment is 3, blank is 0.
+images\characters\boyfriend\scream\3.png, it is a binary file.
+images\characters\boyfriend\scream\3.xml, code is 4, comment is 3, blank is 0.
+images\characters\boyfriend\shake.png, it is a binary file.
+images\characters\boyfriend\shake.xml, code is 35, comment is 2, blank is 0.
+images\characters\boyfriend\throw.png, it is a binary file.
+images\characters\boyfriend\throw.xml, code is 44, comment is 3, blank is 0.
+images\characters\carol.png, it is a binary file.
+images\characters\carol.xml, code is 452, comment is 3, blank is 0.
+images\characters\chara\basic.png, it is a binary file.
+images\characters\chara\basic.xml, code is 186, comment is 2, blank is 0.
+images\characters\fireBlastsBallistic.png, it is a binary file.
+images\characters\fireBlastsBallistic.xml, code is 36, comment is 3, blank is 0.
+images\characters\gf\click\1.png, it is a binary file.
+images\characters\gf\click\1.xml, code is 20, comment is 3, blank is 0.
+images\characters\gf\click\2.png, it is a binary file.
+images\characters\gf\click\2.xml, code is 41, comment is 3, blank is 0.
+images\characters\gf\click\3.png, it is a binary file.
+images\characters\gf\click\3.xml, code is 29, comment is 3, blank is 0.
+images\characters\gf\click\4.png, it is a binary file.
+images\characters\gf\click\4.xml, code is 20, comment is 3, blank is 0.
+images\characters\gf\demon.png, it is a binary file.
+images\characters\gf\demon.xml, code is 76, comment is 3, blank is 0.
+images\characters\gf\hex.png, it is a binary file.
+images\characters\gf\hex.xml, code is 331, comment is 3, blank is 0.
+images\characters\gf\standing.png, it is a binary file.
+images\characters\gf\standing.xml, code is 110, comment is 3, blank is 0.
+images\characters\hex\default.png, it is a binary file.
+images\characters\hex\default.xml, code is 263, comment is 2, blank is 0.
+images\characters\pico\fire.png, it is a binary file.
+images\characters\pico\fire.xml, code is 200, comment is 2, blank is 0.
+images\characters\readme.txt, code is 1, comment is 0, blank is 0.
+images\characters\robot.png, it is a binary file.
+images\characters\robot.xml, code is 152, comment is 2, blank is 0.
+images\characters\tankman\Tankman Gun.png, it is a binary file.
+images\characters\tankman\Tankman Gun.xml, code is 85, comment is 2, blank is 0.
+images\characters\Whitty\angry.png, it is a binary file.
+images\characters\Whitty\angry.xml, code is 263, comment is 3, blank is 0.
+images\characters\Whitty\crazy-weak.png, it is a binary file.
+images\characters\Whitty\crazy-weak.xml, code is 114, comment is 3, blank is 0.
+images\characters\Whitty\crazy\1.png, it is a binary file.
+images\characters\Whitty\crazy\1.xml, code is 106, comment is 3, blank is 0.
+images\characters\Whitty\crazy\2.png, it is a binary file.
+images\characters\Whitty\crazy\2.xml, code is 77, comment is 3, blank is 0.
+images\characters\Whitty\dabomb.png, it is a binary file.
+images\characters\Whitty\dabomb.xml, code is 96, comment is 3, blank is 0.
+images\characters\Whitty\he throws his fucking tears.png, it is a binary file.
+images\characters\Whitty\he throws his fucking tears.xml, code is 29, comment is 3, blank is 0.
+images\characters\Whitty\hex\1.png, it is a binary file.
+images\characters\Whitty\hex\1.xml, code is 242, comment is 3, blank is 0.
+images\characters\Whitty\hex\2.png, it is a binary file.
+images\characters\Whitty\hex\2.xml, code is 44, comment is 3, blank is 0.
+images\characters\Whitty\iced.png, it is a binary file.
+images\characters\Whitty\iced.xml, code is 22, comment is 2, blank is 0.
+images\characters\Whitty\old\crazy.png, it is a binary file.
+images\characters\Whitty\old\crazy.xml, code is 131, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\1.png, it is a binary file.
+images\characters\Whitty\tweaking\1.xml, code is 108, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\2.png, it is a binary file.
+images\characters\Whitty\tweaking\2.xml, code is 23, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\3.png, it is a binary file.
+images\characters\Whitty\tweaking\3.xml, code is 4, comment is 2, blank is 0.
+images\characters\Whitty\whittySmack.png, it is a binary file.
+images\characters\Whitty\whittySmack.xml, code is 63, comment is 3, blank is 0.
+images\characters\Whitty\whittyThrowsATantrum.png, it is a binary file.
+images\characters\Whitty\whittyThrowsATantrum.xml, code is 44, comment is 3, blank is 0.
+images\credits\discord.png, it is a binary file.
+images\credits\hand.png, it is a binary file.
+images\credits\justloq.png, it is a binary file.
+images\credits\Real_Dodo.png, it is a binary file.
+images\credits\todd.png, it is a binary file.
+images\editors\character\WOAH.png, it is a binary file.
+images\editors\ui\button.png, it is a binary file.
+images\editors\ui\button.xml, code is 30, comment is 1, blank is 2.
+images\editors\ui\grayscale-popup.png, it is a binary file.
+images\gallery\alphaMenu.json, code is 4, comment is 0, blank is 0.
+images\gallery\alphaMenu.png, it is a binary file.
+images\gallery\betaMenu.json, code is 4, comment is 0, blank is 0.
+images\gallery\betaMenu.png, it is a binary file.
+images\gallery\coverArt.json, code is 4, comment is 0, blank is 0.
+images\gallery\coverArt.png, it is a binary file.
+images\gallery\itsPicover.json, code is 4, comment is 0, blank is 0.
+images\gallery\itsPicover.png, it is a binary file.
+images\gallery\uhhhh.json, code is 4, comment is 0, blank is 0.
+images\gallery\uhhhh.png, it is a binary file.
+images\game\crazyhealthbaroverlay.png, it is a binary file.
+images\game\crazyhealthbaroverlay.xml, code is 23, comment is 3, blank is 0.
+images\game\notes\Attack.json, code is 21, comment is 0, blank is 0.
+images\game\notes\Attack.png, it is a binary file.
+images\game\notes\Attack.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\carol.json, code is 22, comment is 0, blank is 0.
+images\game\notes\carol.png, it is a binary file.
+images\game\notes\carol.xml, code is 114, comment is 3, blank is 0.
+images\game\notes\default.json, code is 21, comment is 0, blank is 0.
+images\game\notes\default.png, it is a binary file.
+images\game\notes\default.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\default\2.png, it is a binary file.
+images\game\notes\default\2.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\electric.json, code is 17, comment is 0, blank is 0.
+images\game\notes\electric.png, it is a binary file.
+images\game\notes\electric.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\fire-crazy.json, code is 17, comment is 0, blank is 0.
+images\game\notes\fire-crazy.png, it is a binary file.
+images\game\notes\fire-crazy.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\fire.json, code is 25, comment is 0, blank is 0.
+images\game\notes\fire.png, it is a binary file.
+images\game\notes\fire.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\gf.json, code is 21, comment is 0, blank is 0.
+images\game\notes\gf.png, it is a binary file.
+images\game\notes\gf.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\hex.json, code is 17, comment is 0, blank is 0.
+images\game\notes\hex.png, it is a binary file.
+images\game\notes\hex.xml, code is 15, comment is 2, blank is 0.
+images\game\notes\ice.json, code is 21, comment is 0, blank is 0.
+images\game\notes\ice.png, it is a binary file.
+images\game\notes\ice.xml, code is 68, comment is 2, blank is 0.
+images\game\notes\placeholders\Carol Shield.png, it is a binary file.
+images\game\notes\placeholders\Carol Shield.xml, code is 15, comment is 2, blank is 3.
+images\game\notes\placeholders\Carol Skin.png, it is a binary file.
+images\game\notes\placeholders\Carol Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Drone.png, it is a binary file.
+images\game\notes\placeholders\Drone.xml, code is 15, comment is 2, blank is 0.
+images\game\notes\placeholders\Electric Note.png, it is a binary file.
+images\game\notes\placeholders\Electric Note.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\GF Skin.png, it is a binary file.
+images\game\notes\placeholders\GF Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Eye.png, it is a binary file.
+images\game\notes\placeholders\Hex Eye.xml, code is 15, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Fizz.png, it is a binary file.
+images\game\notes\placeholders\Hex Fizz.xml, code is 43, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Ghost Note.png, it is a binary file.
+images\game\notes\placeholders\Hex Ghost Note.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Skin.png, it is a binary file.
+images\game\notes\placeholders\Hex Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Spark Note.png, it is a binary file.
+images\game\notes\placeholders\Spark Note.xml, code is 43, comment is 2, blank is 0.
+images\game\notes\placeholders\Whitty Skin.png, it is a binary file.
+images\game\notes\placeholders\Whitty Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\Scream.json, code is 21, comment is 0, blank is 0.
+images\game\notes\Scream.png, it is a binary file.
+images\game\notes\Scream.xml, code is 166, comment is 2, blank is 0.
+images\game\popups\Cooled Down.png, it is a binary file.
+images\game\popups\Echo.png, it is a binary file.
+images\game\popups\Heated Up.png, it is a binary file.
+images\game\popups\Shield Break.png, it is a binary file.
+images\game\popups\Shrapnel.png, it is a binary file.
+images\game\splashes\fire.png, it is a binary file.
+images\game\splashes\fire.xml, code is 67, comment is 2, blank is 0.
+images\game\splashes\ice.png, it is a binary file.
+images\game\splashes\ice.xml, code is 11, comment is 3, blank is 0.
+images\game\splashes\pcc.png, it is a binary file.
+images\game\splashes\pcc.xml, code is 19, comment is 2, blank is 0.
+images\game\splashes\placeholders\Carol Splash.png, it is a binary file.
+images\game\splashes\placeholders\Carol Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\Electric Splash.png, it is a binary file.
+images\game\splashes\placeholders\Electric Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\GF Splash.png, it is a binary file.
+images\game\splashes\placeholders\GF Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\Whitty Splash.png, it is a binary file.
+images\game\splashes\placeholders\Whitty Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\vanilla.png, it is a binary file.
+images\game\splashes\vanilla.xml, code is 35, comment is 2, blank is 0.
+images\game\wall of heads.png, it is a binary file.
+images\hehehehehe\I fw this guy - NebulaStellaNova.png, it is a binary file.
+images\hehehehehe\It's Picover.jpg, it is a binary file.
+images\icons\locked.png, it is a binary file.
+images\icons\Vs Chara\chara.png, it is a binary file.
+images\icons\Vs Dark Sonic\sonic.png, it is a binary file.
+images\icons\Vs Hex\bf-electric.png, it is a binary file.
+images\icons\Vs Hex\carol.png, it is a binary file.
+images\icons\Vs Hex\Hex.png, it is a binary file.
+images\icons\Vs Matt\matt.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-fire.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\bf-fire.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-fire.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\bf-ice.json, code is 48, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\bf-ice.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-ice.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry-labeled.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-angry-labeled.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-angry.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-crazy.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\whitty-crazy.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-crazy.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\bf-fire.png, it is a binary file.
+images\icons\Vs Whitty\bf-ice.png, it is a binary file.
+images\icons\Vs Whitty\whitty-angry.png, it is a binary file.
+images\icons\Vs Whitty\whitty-crazy.png, it is a binary file.
+images\icons\Vs Whitty\whitty.png, it is a binary file.
+images\menus\alphabet-bold.png, it is a binary file.
+images\menus\alphabet-bold.xml, code is 179, comment is 3, blank is 0.
+images\menus\freeplaymenu\randomButton.png, it is a binary file.
+images\menus\freeplaymenu\randomButton.xml, code is 11, comment is 3, blank is 0.
+images\menus\freeplayselection\blitzfight.png, it is a binary file.
+images\menus\freeplayselection\boxingfight.png, it is a binary file.
+images\menus\freeplayselection\electricfight.png, it is a binary file.
+images\menus\freeplayselection\extras.png, it is a binary file.
+images\menus\freeplayselection\firefight.png, it is a binary file.
+images\menus\freeplayselection\knifefight.png, it is a binary file.
+images\menus\freeplayselection\unknown.png, it is a binary file.
+images\menus\gallerymenu\background.png, it is a binary file.
+images\menus\gallerymenu\click.png, it is a binary file.
+images\menus\gallerymenu\graphic.png, it is a binary file.
+images\menus\general\mainChecker.png, it is a binary file.
+images\menus\general\whiteArrow.png, it is a binary file.
+images\menus\general\whiteArrow.xml, code is 7, comment is 2, blank is 0.
+images\menus\loadingscreen\loadingArea.png, it is a binary file.
+images\menus\loadingscreen\loadingBar.png, it is a binary file.
+images\menus\loadingscreen\loadingBarFilled.png, it is a binary file.
+images\menus\mainmenu\bf.png, it is a binary file.
+images\menus\mainmenu\bfAgro.png, it is a binary file.
+images\menus\mainmenu\bfAgro.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\bfIce.png, it is a binary file.
+images\menus\mainmenu\bfIce.xml, code is 17, comment is 3, blank is 0.
+images\menus\mainmenu\charabf.png, it is a binary file.
+images\menus\mainmenu\charabf.xml, code is 123, comment is 3, blank is 0.
+images\menus\mainmenu\chino.png, it is a binary file.
+images\menus\mainmenu\credits.png, it is a binary file.
+images\menus\mainmenu\credits.xml, code is 15, comment is 3, blank is 0.
+images\menus\mainmenu\gallery.png, it is a binary file.
+images\menus\mainmenu\gallery.xml, code is 15, comment is 3, blank is 0.
+images\menus\mainmenu\gf.png, it is a binary file.
+images\menus\mainmenu\gfStandHappy.png, it is a binary file.
+images\menus\mainmenu\gfStandHappy.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\gfStandNerve.png, it is a binary file.
+images\menus\mainmenu\gfStandNerve.xml, code is 17, comment is 3, blank is 0.
+images\menus\mainmenu\jusALilGuy.png, it is a binary file.
+images\menus\mainmenu\jusALilGuy.xml, code is 81, comment is 3, blank is 0.
+images\menus\mainmenu\shadow.png, it is a binary file.
+images\menus\mainmenu\sidePanel.png, it is a binary file.
+images\menus\mainmenu\sidePanel.xml, code is 27, comment is 3, blank is 0.
+images\menus\mainmenu\sonic.png, it is a binary file.
+images\menus\mainmenu\tiles.png, it is a binary file.
+images\menus\mainmenu\whittyAgro.png, it is a binary file.
+images\menus\mainmenu\whittyAgro.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\whittyBallistic.png, it is a binary file.
+images\menus\mainmenu\whittyBallistic.xml, code is 16, comment is 3, blank is 0.
+images\menus\storymenu\panel.png, it is a binary file.
+images\menus\titlescreen\gf.png, it is a binary file.
+images\menus\titlescreen\gf.xml, code is 33, comment is 3, blank is 0.
+images\menus\titlescreen\logo.png, it is a binary file.
+images\menus\titlescreen\logo.xml, code is 18, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\boyfriend.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\boyfriend.xml, code is 22, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\carol.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\carol.xml, code is 13, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\girlfriend.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\girlfriend.xml, code is 19, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\hex.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\hex.xml, code is 83, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\robot.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\robot.xml, code is 23, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\whitty.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\whitty.xml, code is 44, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\crowd.png, it is a binary file.
+images\stages\Vs Hex\detected\crowd.xml, code is 11, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\hexBack.png, it is a binary file.
+images\stages\Vs Hex\detected\hexFront.png, it is a binary file.
+images\stages\Vs Hex\detected\speaker.png, it is a binary file.
+images\stages\Vs Hex\detected\topOverlay.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\electricity.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\electricity.xml, code is 8, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\lightningGridBf.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\lightningGridBf.xml, code is 9, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\lightningGridHex.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\lightningGridHex.xml, code is 9, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\shield.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\shield.xml, code is 15, comment is 3, blank is 0.
+images\stages\Vs Tankman\gunfight\early.png, it is a binary file.
+images\stages\Vs Tankman\gunfight\late.png, it is a binary file.
+images\stages\Vs Tankman\gunfight\warning.png, it is a binary file.
+images\stages\Vs Whitty\alley\alleyCrazy.png, it is a binary file.
+images\stages\Vs Whitty\alley\alleyCrazy.xml, code is 18, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\bfIceExplode.png, it is a binary file.
+images\stages\Vs Whitty\alley\bfIceExplode.xml, code is 15, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\bombDodge.png, it is a binary file.
+images\stages\Vs Whitty\alley\bombDodge.xml, code is 67, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\burst.png, it is a binary file.
+images\stages\Vs Whitty\alley\burst.xml, code is 17, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\circle.png, it is a binary file.
+images\stages\Vs Whitty\alley\circle.xml, code is 10, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\circleLong.png, it is a binary file.
+images\stages\Vs Whitty\alley\circleLong.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\textBox.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\textBox.xml, code is 96, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\textBoxBurn.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\textBoxBurn.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\whittyFall.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\whittyFall.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBlasts.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBlasts.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBlastsBallistic.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBlastsBallistic.xml, code is 36, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBullets.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBullets.xml, code is 5, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireWalls.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireWalls.xml, code is 67, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\flameShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\flameShield.xml, code is 59, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfBlast.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfBlast.xml, code is 10, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfBullets.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfBullets.xml, code is 7, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfShield.xml, code is 63, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceBullet.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceGround.png, it is a binary file.
+images\stages\Vs Whitty\alley\icePed.png, it is a binary file.
+images\stages\Vs Whitty\alley\icePed.xml, code is 17, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShield.xml, code is 28, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShieldCrazy.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShieldCrazy.xml, code is 104, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShields.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShields.xml, code is 38, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceThowBreak.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceThowBreak.xml, code is 12, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\oilExplosion.png, it is a binary file.
+images\stages\Vs Whitty\alley\oilExplosion.xml, code is 5, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\screamBlast.png, it is a binary file.
+images\stages\Vs Whitty\alley\screamBlast.xml, code is 7, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\shrapnelBig.png, it is a binary file.
+images\stages\Vs Whitty\alley\shrapnelBig.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\shrapnelIcons.png, it is a binary file.
+images\stages\Vs Whitty\alley\shrapnelIcons.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\slash.png, it is a binary file.
+images\stages\Vs Whitty\alley\slash.xml, code is 6, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\snowfall.png, it is a binary file.
+images\stages\Vs Whitty\alley\snowfall.xml, code is 68, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\thefunnyeffect.png, it is a binary file.
+images\stages\Vs Whitty\alley\vignette.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBack.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBusts.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBusts.xml, code is 11, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyFront.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyGetsHead.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyGetsHead.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWall.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWall.xml, code is 39, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWallSheets\1.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWallSheets\1.xml, code is 46, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWallSheets\2.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWallSheets\2.xml, code is 9, comment is 3, blank is 0.
+images\weekchars\hex.png, it is a binary file.
+images\weekchars\hex.xml, code is 19, comment is 3, blank is 0.
+images\weekchars\whitty-crazy.png, it is a binary file.
+images\weekchars\whitty-crazy.xml, code is 15, comment is 3, blank is 0.
+images\weekchars\whitty.png, it is a binary file.
+images\weekchars\whitty.xml, code is 19, comment is 3, blank is 0.
+music\freakyMenu.ini, code is 1, comment is 3, blank is 0.
+music\freakyMenu.ogg, it is a binary file.
+music\galleryMenu.ogg, it is a binary file.
+shaders\blur-colored.frag, code is 50, comment is 43, blank is 24.
+shaders\blur.frag, code is 50, comment is 42, blank is 24.
+shaders\GaussianBlur.frag, code is 65, comment is 14, blank is 11.
+shaders\Outline.frag, code is 19, comment is 0, blank is 4.
+shaders\RGBPallete.frag, code is 8, comment is 0, blank is 2.
+shaders\RTXLighting.frag, code is 67, comment is 12, blank is 21.
+songs\0traceNew.hx, code is 6, comment is 1, blank is 1.
+songs\accelerant\meta.json, code is 18, comment is 0, blank is 0.
+songs\animationSystem.hx, code is 213, comment is 35, blank is 27.
+songs\ballistic\charts\hard.json, code is 10036, comment is 0, blank is 14.
+songs\ballistic\cutscene.mp4, it is a binary file.
+songs\ballistic\end-cutscene.mp4, it is a binary file.
+songs\ballistic\meta.json, code is 22, comment is 0, blank is 1.
+songs\ballistic\noteskin.json, code is 15, comment is 0, blank is 0.
+songs\ballistic\scripts\script.hx, code is 803, comment is 52, blank is 59.
+songs\ballistic\scripts\script.lua, code is 0, comment is 0, blank is 0.
+songs\ballistic\scripts\Tsaku script.hx, code is 17, comment is 1, blank is 0.
+songs\ballistic\song\Inst.ogg, it is a binary file.
+songs\ballistic\song\Voices.ogg, it is a binary file.
+songs\bigBeat.hx, code is 0, comment is 1, blank is 0.
+songs\boxing-match\charts\hard.json, code is 14205, comment is 0, blank is 3.
+songs\boxing-match\meta.json, code is 23, comment is 0, blank is 1.
+songs\boxing-match\song\Inst.ogg, it is a binary file.
+songs\boxing-match\song\Voices.ogg, it is a binary file.
+songs\camLock.hx, code is 31, comment is 2, blank is 5.
+songs\deathmatch\charts\hard.json, code is 8126, comment is 0, blank is 3.
+songs\deathmatch\meta.json, code is 23, comment is 0, blank is 1.
+songs\deathmatch\song\Inst.ogg, it is a binary file.
+songs\deathmatch\song\Voices.ogg, it is a binary file.
+songs\debugPrint.hx, code is 51, comment is 2, blank is 8.
+songs\extras.hx, code is 24, comment is 1, blank is 6.
+songs\fading\meta.json, code is 18, comment is 0, blank is 0.
+songs\glitcher\charts\hard.json, code is 8307, comment is 0, blank is 45.
+songs\glitcher\meta.json, code is 22, comment is 0, blank is 1.
+songs\glitcher\noteskin.json, code is 27, comment is 0, blank is 0.
+songs\glitcher\scripts\mainEvents.hx, code is 500, comment is 23, blank is 51.
+songs\glitcher\scripts\modChart.hx, code is 16, comment is 7, blank is 2.
+songs\glitcher\song\Inst.ogg, it is a binary file.
+songs\glitcher\song\Voices.ogg, it is a binary file.
+songs\glitcher\song\VoicesBoyfriend.ogg, it is a binary file.
+songs\glitcher\song\VoicesCarol.ogg, it is a binary file.
+songs\glitcher\song\VoicesGirlfriend.ogg, it is a binary file.
+songs\glitcher\song\VoicesHex.ogg, it is a binary file.
+songs\glitcher\song\VoicesLaserBlasts.ogg, it is a binary file.
+songs\glitcher\song\VoicesWhitty.ogg, it is a binary file.
+songs\iconSystem.hx, code is 30, comment is 0, blank is 3.
+songs\king-hit\charts\hard.json, code is 18952, comment is 0, blank is 3.
+songs\king-hit\meta.json, code is 23, comment is 0, blank is 1.
+songs\king-hit\song\Inst.ogg, it is a binary file.
+songs\king-hit\song\Voices.ogg, it is a binary file.
+songs\lo-fight-pico\charts\hard.json, code is 2585, comment is 0, blank is 3.
+songs\lo-fight-pico\meta.json, code is 22, comment is 0, blank is 1.
+songs\lo-fight-pico\scripts\camMoveOnPress.hx, code is 132, comment is 50, blank is 29.
+songs\lo-fight-pico\scripts\script.hx, code is 6, comment is 0, blank is 0.
+songs\lo-fight-pico\song\Inst.ogg, it is a binary file.
+songs\lo-fight-pico\song\Voices.ogg, it is a binary file.
+songs\lo-fight\charts\hard.json, code is 2585, comment is 0, blank is 3.
+songs\lo-fight\cutscene.mp4, it is a binary file.
+songs\lo-fight\meta.json, code is 22, comment is 0, blank is 1.
+songs\lo-fight\scripts\camMoveOnPress.hx, code is 132, comment is 50, blank is 29.
+songs\lo-fight\scripts\script.hx, code is 6, comment is 0, blank is 0.
+songs\lo-fight\song\Inst.ogg, it is a binary file.
+songs\lo-fight\song\Voices.ogg, it is a binary file.
+songs\loadingScreen.hx, code is 281, comment is 27, blank is 44.
+songs\LUA - ImportFuncs.hx, code is 13, comment is 17, blank is 5.
+songs\LUA - LuaParser.hx, code is 316, comment is 3, blank is 13.
+songs\megalo-strike-back\charts\hard.json, code is 12203, comment is 0, blank is 2.
+songs\megalo-strike-back\events.psych.json, code is 292, comment is 0, blank is 34.
+songs\megalo-strike-back\meta.json, code is 24, comment is 0, blank is 1.
+songs\megalo-strike-back\song\Inst.ogg, it is a binary file.
+songs\megalo-strike-back\song\VoicesBoyfriend.ogg, it is a binary file.
+songs\megalo-strike-back\song\VoicesChara.ogg, it is a binary file.
+songs\NovaSkinHandler.hx, code is 208, comment is 23, blank is 20.
+songs\overhead-pico\charts\hard.json, code is 5761, comment is 0, blank is 4.
+songs\overhead-pico\meta.json, code is 22, comment is 0, blank is 1.
+songs\overhead-pico\scripts\fireBlasts.hx, code is 1056, comment is 73, blank is 86.
+songs\overhead-pico\scripts\script.hx, code is 173, comment is 13, blank is 13.
+songs\overhead-pico\song\Inst.ogg, it is a binary file.
+songs\overhead-pico\song\Voices-pico.ogg, it is a binary file.
+songs\overhead-pico\song\Voices-whitty.ogg, it is a binary file.
+songs\overhead\charts\hard.json, code is 4830, comment is 0, blank is 9.
+songs\overhead\cutscene.mp4, it is a binary file.
+songs\overhead\meta.json, code is 22, comment is 0, blank is 1.
+songs\overhead\scripts\fireBlasts.hx, code is 1056, comment is 73, blank is 86.
+songs\overhead\scripts\script.hx, code is 173, comment is 13, blank is 13.
+songs\overhead\song\Inst.ogg, it is a binary file.
+songs\overhead\song\Voices.ogg, it is a binary file.
+songs\prevention.hx, code is 19, comment is 1, blank is 1.
+songs\remorse\meta.json, code is 18, comment is 0, blank is 0.
+songs\sporting\charts\hard.json, code is 13901, comment is 0, blank is 4.
+songs\sporting\meta.json, code is 24, comment is 0, blank is 1.
+songs\sporting\song\Inst.ogg, it is a binary file.
+songs\sporting\song\Voices.ogg, it is a binary file.
+songs\taste-for-blood-x\charts\hard.json, code is 10795, comment is 0, blank is 2.
+songs\taste-for-blood-x\meta.json, code is 24, comment is 0, blank is 1.
+songs\taste-for-blood-x\song\Inst.ogg, it is a binary file.
+songs\tko\charts\hard.json, code is 6928, comment is 0, blank is 3.
+songs\tko\meta.json, code is 23, comment is 0, blank is 1.
+songs\tko\song\Inst.ogg, it is a binary file.
+songs\tko\song\Voices.ogg, it is a binary file.
+songs\ugh\charts\hard.json, code is 3255, comment is 0, blank is 4.
+songs\ugh\meta.json, code is 18, comment is 0, blank is 1.
+songs\ugh\scripts\gunfight.hx, code is 139, comment is 2, blank is 10.
+songs\ugh\song\Inst.ogg, it is a binary file.
+songs\ugh\song\Voices-Boyfriend.ogg, it is a binary file.
+songs\ugh\song\Voices-Tankman.ogg, it is a binary file.
+songs\ugh\song\Voices-TankTime.ogg, it is a binary file.
+sounds\CountTick0.ogg, it is a binary file.
+sounds\CountTick1.ogg, it is a binary file.
+sounds\Freeze.ogg, it is a binary file.
+sounds\Freeze2.ogg, it is a binary file.
+sounds\Gun.ogg, it is a binary file.
+sounds\Smoke.ogg, it is a binary file.
+sounds\Smoke2.ogg, it is a binary file.
+videos\startAnimation.mp4, it is a binary file.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-10-07 14:43:32
+count workspace : c:\Users\Nebula Nova\Downloads\Codename Engine\mods\FNF-Project-Chinos-Chaos
+total files : 635
+total code lines : 144522
+total comment lines : 1136
+total blank lines : 1164
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .hx|           7771|            599|            804|    5.4|
+   |          .json|         124038|             11|            150|     86|
+   |          .frag|            259|            111|             86|   0.18|
+   |           .lua|              0|              0|              0|    0.0|
+   |           .xml|          12365|            411|            122|    8.6|
+   |           .ini|              1|              3|              0|0.00069|
+   |           .txt|             86|              0|              2|  0.060|
+   |               |              2|              1|              0| 0.0014|
+   -------------------------------------------------------------------------
+.gitignore, code is 2, comment is 1, blank is 0.
+data\alphabet.xml, code is 129, comment is 4, blank is 2.
+data\characters\bf-electric.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-electric.xml, code is 19, comment is 0, blank is 0.
+data\characters\bf-fire-dead.hx, code is 21, comment is 0, blank is 1.
+data\characters\bf-fire-dead.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-fire.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-fire.xml, code is 18, comment is 0, blank is 0.
+data\characters\bf-hexfight.xml, code is 7, comment is 0, blank is 0.
+data\characters\bf-ice-crazy.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-ice-crazy.xml, code is 14, comment is 0, blank is 0.
+data\characters\bf-ice-dead.hx, code is 19, comment is 0, blank is 0.
+data\characters\bf-ice-dead.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-ice-hammer.xml, code is 5, comment is 0, blank is 0.
+data\characters\bf-ice-scream.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-ice.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-ice.xml, code is 24, comment is 0, blank is 0.
+data\characters\bf-iceTired.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-iceTired.xml, code is 11, comment is 0, blank is 0.
+data\characters\bf-scared.hx, code is 5, comment is 0, blank is 0.
+data\characters\bf-scared.xml, code is 12, comment is 0, blank is 0.
+data\characters\bf-shake.xml, code is 4, comment is 0, blank is 0.
+data\characters\bf-throw.xml, code is 5, comment is 0, blank is 0.
+data\characters\bf.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf.xml, code is 17, comment is 0, blank is 0.
+data\characters\blastsTEMP.xml, code is 7, comment is 0, blank is 0.
+data\characters\carol.hx, code is 15, comment is 0, blank is 1.
+data\characters\carol.xml, code is 20, comment is 0, blank is 0.
+data\characters\chara.xml, code is 8, comment is 0, blank is 0.
+data\characters\gf-demon-snap.xml, code is 5, comment is 0, blank is 0.
+data\characters\gf-demon.hx, code is 19, comment is 0, blank is 2.
+data\characters\gf-demon.xml, code is 7, comment is 0, blank is 0.
+data\characters\gf-hex.xml, code is 19, comment is 0, blank is 0.
+data\characters\gf-standing.xml, code is 16, comment is 0, blank is 0.
+data\characters\hex-corrupt.hx, code is 15, comment is 0, blank is 1.
+data\characters\hex-corrupt.xml, code is 12, comment is 0, blank is 0.
+data\characters\pico-fire.xml, code is 14, comment is 0, blank is 0.
+data\characters\pico.xml, code is 12, comment is 2, blank is 2.
+data\characters\robot.hx, code is 4, comment is 0, blank is 0.
+data\characters\robot.xml, code is 8, comment is 0, blank is 0.
+data\characters\tankman.xml, code is 10, comment is 0, blank is 0.
+data\characters\whitty-angry.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-angry.xml, code is 14, comment is 0, blank is 0.
+data\characters\whitty-crazy-weak.hx, code is 22, comment is 0, blank is 3.
+data\characters\whitty-crazy-weak.xml, code is 11, comment is 0, blank is 0.
+data\characters\whitty-crazy.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-crazy.xml, code is 12, comment is 0, blank is 0.
+data\characters\whitty-freeze-pop.xml, code is 6, comment is 0, blank is 0.
+data\characters\whitty-hexfight.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-hexfight.xml, code is 17, comment is 0, blank is 0.
+data\characters\whitty-smack.xml, code is 4, comment is 0, blank is 0.
+data\characters\whitty-tantrum.xml, code is 6, comment is 0, blank is 0.
+data\characters\whitty-tear.xml, code is 5, comment is 0, blank is 0.
+data\characters\whitty-tweaking.xml, code is 4, comment is 0, blank is 0.
+data\characters\whitty.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty.xml, code is 9, comment is 0, blank is 0.
+data\config\credits.xml, code is 32, comment is 0, blank is 20.
+data\config\discord.json, code is 4, comment is 0, blank is 0.
+data\config\freeplaySectors.json, code is 45, comment is 0, blank is 0.
+data\config\funfacts.json, code is 210, comment is 11, blank is 0.
+data\config\menuchars.json, code is 103, comment is 0, blank is 0.
+data\config\menuItems.txt, code is 5, comment is 0, blank is 0.
+data\config\menusplashtext.txt, code is 8, comment is 0, blank is 0.
+data\config\options.xml, code is 25, comment is 0, blank is 11.
+data\events\Change Character.hx, code is 87, comment is 18, blank is 16.
+data\events\Change Character.json, code is 24, comment is 0, blank is 0.
+data\events\Choose Hex Attack Target.hx, code is 14, comment is 0, blank is 2.
+data\events\Choose Hex Attack Target.json, code is 14, comment is 0, blank is 0.
+data\events\Kill Shield.hx, code is 8, comment is 0, blank is 1.
+data\events\Kill Shield.json, code is 9, comment is 0, blank is 0.
+data\events\Popups.hx, code is 66, comment is 9, blank is 9.
+data\events\Popups.json, code is 34, comment is 0, blank is 0.
+data\events\Spawn Shield.hx, code is 8, comment is 0, blank is 1.
+data\events\Spawn Shield.json, code is 9, comment is 0, blank is 0.
+data\freeplaySonglist.txt, code is 11, comment is 0, blank is 0.
+data\global.hx, code is 46, comment is 10, blank is 13.
+data\libraries\novalua\Converter.hx, code is 77, comment is 3, blank is 0.
+data\libraries\novalua\LuaPath.hx, code is 8, comment is 0, blank is 0.
+data\libraries\novalua\LuaSprite.hx, code is 54, comment is 0, blank is 2.
+data\notes\Attack Crit.hx, code is 9, comment is 0, blank is 0.
+data\notes\Attack.hx, code is 9, comment is 0, blank is 0.
+data\notes\Click.hx, code is 9, comment is 0, blank is 0.
+data\notes\Ghost Note.hx, code is 0, comment is 0, blank is 0.
+data\notes\Mind Control.hx, code is 6, comment is 0, blank is 1.
+data\notes\Scream.hx, code is 9, comment is 0, blank is 0.
+data\scripts\classes\blurShader.hx, code is 60, comment is 3, blank is 13.
+data\scripts\classes\blurShaderWhite.hx, code is 60, comment is 3, blank is 13.
+data\scripts\classes\CharIcon.hx, code is 101, comment is 8, blank is 10.
+data\scripts\classes\GaussianBlur.hx, code is 26, comment is 1, blank is 6.
+data\scripts\classes\NovaAnimSystem\Animation.hx, code is 92, comment is 2, blank is 16.
+data\scripts\classes\NovaAnimSystem\Keyframe.hx, code is 24, comment is 0, blank is 4.
+data\scripts\classes\RTXLighting.hx, code is 80, comment is 1, blank is 9.
+data\scripts\pausemenu.hx, code is 12, comment is 12, blank is 6.
+data\splashes\carol.xml, code is 19, comment is 0, blank is 7.
+data\splashes\default.xml, code is 19, comment is 0, blank is 7.
+data\splashes\fire.xml, code is 19, comment is 0, blank is 7.
+data\splashes\gf.xml, code is 19, comment is 0, blank is 7.
+data\splashes\ice.xml, code is 15, comment is 0, blank is 3.
+data\stages\999999.xml, code is 8, comment is 0, blank is 4.
+data\stages\alley.hx, code is 3, comment is 0, blank is 0.
+data\stages\alley.xml, code is 12, comment is 0, blank is 6.
+data\stages\alleyCrazy.hx, code is 15, comment is 0, blank is 1.
+data\stages\alleyCrazy.xml, code is 43, comment is 0, blank is 19.
+data\stages\character offseting bullshit.xml, code is 12, comment is 0, blank is 0.
+data\stages\detected.hx, code is 54, comment is 3, blank is 8.
+data\stages\detected.xml, code is 22, comment is 0, blank is 14.
+data\states\FreeplaySelectionState.hx, code is 183, comment is 23, blank is 25.
+data\states\FreeplayState.hx, code is 336, comment is 12, blank is 42.
+data\states\GalleryMenuState.hx, code is 127, comment is 6, blank is 10.
+data\states\LolState.hx, code is 114, comment is 6, blank is 9.
+data\states\MainMenuState.hx, code is 285, comment is 7, blank is 45.
+data\states\MusicBeatState.hx, code is 6, comment is 0, blank is 1.
+data\states\PlayState.hx, code is 3, comment is 0, blank is 0.
+data\states\StoryMenuState.hx, code is 82, comment is 1, blank is 8.
+data\states\TitleState.hx, code is 27, comment is 1, blank is 4.
+data\titlescreen\introText.txt, code is 55, comment is 0, blank is 1.
+data\titlescreen\titlescreen.xml, code is 13, comment is 0, blank is 4.
+data\weekchars\hex.json, code is 13, comment is 0, blank is 0.
+data\weekchars\whitty-crazy.json, code is 13, comment is 0, blank is 0.
+data\weekchars\whitty.json, code is 13, comment is 0, blank is 0.
+data\weeks\weeks.txt, code is 6, comment is 0, blank is 1.
+data\weeks\weeks\firefight.xml, code is 6, comment is 0, blank is 2.
+data\weeks\weeks\firefight2.xml, code is 5, comment is 0, blank is 1.
+data\weeks\weeks\hexfight.xml, code is 5, comment is 0, blank is 1.
+fonts\COOLINE.otf, it is a binary file.
+fonts\ErasBoldITC.ttf, it is a binary file.
+fonts\Lucida Sans Typewriter Regular.ttf, it is a binary file.
+fonts\monofonto rg.otf, it is a binary file.
+fonts\SourceCodePro-Regular.ttf, it is a binary file.
+images\characters\boyfriend\daboi.png, it is a binary file.
+images\characters\boyfriend\daboi.xml, code is 319, comment is 2, blank is 0.
+images\characters\boyfriend\death\fire.png, it is a binary file.
+images\characters\boyfriend\death\fire.xml, code is 213, comment is 3, blank is 0.
+images\characters\boyfriend\death\ice.png, it is a binary file.
+images\characters\boyfriend\death\ice.xml, code is 209, comment is 3, blank is 0.
+images\characters\boyfriend\electric.png, it is a binary file.
+images\characters\boyfriend\electric.xml, code is 281, comment is 3, blank is 0.
+images\characters\boyfriend\fire.png, it is a binary file.
+images\characters\boyfriend\fire.xml, code is 333, comment is 3, blank is 0.
+images\characters\boyfriend\hammer.png, it is a binary file.
+images\characters\boyfriend\hammer.xml, code is 61, comment is 3, blank is 0.
+images\characters\boyfriend\hex.png, it is a binary file.
+images\characters\boyfriend\hex.xml, code is 92, comment is 3, blank is 0.
+images\characters\boyfriend\ice-crazy.png, it is a binary file.
+images\characters\boyfriend\ice-crazy.xml, code is 263, comment is 3, blank is 0.
+images\characters\boyfriend\ice-tired.png, it is a binary file.
+images\characters\boyfriend\ice-tired.xml, code is 136, comment is 3, blank is 0.
+images\characters\boyfriend\ice.png, it is a binary file.
+images\characters\boyfriend\ice.xml, code is 532, comment is 3, blank is 0.
+images\characters\boyfriend\jic\fire.png, it is a binary file.
+images\characters\boyfriend\jic\fire.xml, code is 201, comment is 3, blank is 0.
+images\characters\boyfriend\jic\ice-crazy.png, it is a binary file.
+images\characters\boyfriend\jic\ice-crazy.xml, code is 116, comment is 3, blank is 0.
+images\characters\boyfriend\jic\ice.png, it is a binary file.
+images\characters\boyfriend\jic\ice.xml, code is 236, comment is 3, blank is 0.
+images\characters\boyfriend\miss\fire.png, it is a binary file.
+images\characters\boyfriend\miss\fire.xml, code is 135, comment is 2, blank is 0.
+images\characters\boyfriend\miss\ice-crazy.png, it is a binary file.
+images\characters\boyfriend\miss\ice-crazy.xml, code is 150, comment is 2, blank is 0.
+images\characters\boyfriend\miss\ice.png, it is a binary file.
+images\characters\boyfriend\miss\ice.xml, code is 299, comment is 2, blank is 0.
+images\characters\boyfriend\scared.png, it is a binary file.
+images\characters\boyfriend\scared.xml, code is 63, comment is 3, blank is 0.
+images\characters\boyfriend\scream\1.png, it is a binary file.
+images\characters\boyfriend\scream\1.xml, code is 33, comment is 3, blank is 0.
+images\characters\boyfriend\scream\2.png, it is a binary file.
+images\characters\boyfriend\scream\2.xml, code is 8, comment is 3, blank is 0.
+images\characters\boyfriend\scream\3.png, it is a binary file.
+images\characters\boyfriend\scream\3.xml, code is 4, comment is 3, blank is 0.
+images\characters\boyfriend\shake.png, it is a binary file.
+images\characters\boyfriend\shake.xml, code is 35, comment is 2, blank is 0.
+images\characters\boyfriend\throw.png, it is a binary file.
+images\characters\boyfriend\throw.xml, code is 44, comment is 3, blank is 0.
+images\characters\carol.png, it is a binary file.
+images\characters\carol.xml, code is 452, comment is 3, blank is 0.
+images\characters\chara\basic.png, it is a binary file.
+images\characters\chara\basic.xml, code is 186, comment is 2, blank is 0.
+images\characters\fireBlastsBallistic.png, it is a binary file.
+images\characters\fireBlastsBallistic.xml, code is 36, comment is 3, blank is 0.
+images\characters\gf\click\1.png, it is a binary file.
+images\characters\gf\click\1.xml, code is 20, comment is 3, blank is 0.
+images\characters\gf\click\2.png, it is a binary file.
+images\characters\gf\click\2.xml, code is 41, comment is 3, blank is 0.
+images\characters\gf\click\3.png, it is a binary file.
+images\characters\gf\click\3.xml, code is 29, comment is 3, blank is 0.
+images\characters\gf\click\4.png, it is a binary file.
+images\characters\gf\click\4.xml, code is 20, comment is 3, blank is 0.
+images\characters\gf\demon.png, it is a binary file.
+images\characters\gf\demon.xml, code is 76, comment is 3, blank is 0.
+images\characters\gf\hex.png, it is a binary file.
+images\characters\gf\hex.xml, code is 331, comment is 3, blank is 0.
+images\characters\gf\standing.png, it is a binary file.
+images\characters\gf\standing.xml, code is 110, comment is 3, blank is 0.
+images\characters\hex\default.png, it is a binary file.
+images\characters\hex\default.xml, code is 263, comment is 2, blank is 0.
+images\characters\pico\fire.png, it is a binary file.
+images\characters\pico\fire.xml, code is 200, comment is 2, blank is 0.
+images\characters\readme.txt, code is 1, comment is 0, blank is 0.
+images\characters\robot.png, it is a binary file.
+images\characters\robot.xml, code is 152, comment is 2, blank is 0.
+images\characters\tankman\Tankman Gun.png, it is a binary file.
+images\characters\tankman\Tankman Gun.xml, code is 85, comment is 2, blank is 0.
+images\characters\Whitty\angry.png, it is a binary file.
+images\characters\Whitty\angry.xml, code is 263, comment is 3, blank is 0.
+images\characters\Whitty\crazy-weak.png, it is a binary file.
+images\characters\Whitty\crazy-weak.xml, code is 114, comment is 3, blank is 0.
+images\characters\Whitty\crazy\1.png, it is a binary file.
+images\characters\Whitty\crazy\1.xml, code is 106, comment is 3, blank is 0.
+images\characters\Whitty\crazy\2.png, it is a binary file.
+images\characters\Whitty\crazy\2.xml, code is 77, comment is 3, blank is 0.
+images\characters\Whitty\dabomb.png, it is a binary file.
+images\characters\Whitty\dabomb.xml, code is 96, comment is 3, blank is 0.
+images\characters\Whitty\he throws his fucking tears.png, it is a binary file.
+images\characters\Whitty\he throws his fucking tears.xml, code is 29, comment is 3, blank is 0.
+images\characters\Whitty\hex\1.png, it is a binary file.
+images\characters\Whitty\hex\1.xml, code is 242, comment is 3, blank is 0.
+images\characters\Whitty\hex\2.png, it is a binary file.
+images\characters\Whitty\hex\2.xml, code is 44, comment is 3, blank is 0.
+images\characters\Whitty\iced.png, it is a binary file.
+images\characters\Whitty\iced.xml, code is 22, comment is 2, blank is 0.
+images\characters\Whitty\old\crazy.png, it is a binary file.
+images\characters\Whitty\old\crazy.xml, code is 131, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\1.png, it is a binary file.
+images\characters\Whitty\tweaking\1.xml, code is 108, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\2.png, it is a binary file.
+images\characters\Whitty\tweaking\2.xml, code is 23, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\3.png, it is a binary file.
+images\characters\Whitty\tweaking\3.xml, code is 4, comment is 2, blank is 0.
+images\characters\Whitty\whittySmack.png, it is a binary file.
+images\characters\Whitty\whittySmack.xml, code is 63, comment is 3, blank is 0.
+images\characters\Whitty\whittyThrowsATantrum.png, it is a binary file.
+images\characters\Whitty\whittyThrowsATantrum.xml, code is 44, comment is 3, blank is 0.
+images\credits\discord.png, it is a binary file.
+images\credits\hand.png, it is a binary file.
+images\credits\justloq.png, it is a binary file.
+images\credits\Real_Dodo.png, it is a binary file.
+images\credits\todd.png, it is a binary file.
+images\editors\character\WOAH.png, it is a binary file.
+images\editors\ui\button.png, it is a binary file.
+images\editors\ui\button.xml, code is 30, comment is 1, blank is 2.
+images\editors\ui\grayscale-popup.png, it is a binary file.
+images\gallery\alphaMenu.json, code is 4, comment is 0, blank is 0.
+images\gallery\alphaMenu.png, it is a binary file.
+images\gallery\betaMenu.json, code is 4, comment is 0, blank is 0.
+images\gallery\betaMenu.png, it is a binary file.
+images\gallery\coverArt.json, code is 4, comment is 0, blank is 0.
+images\gallery\coverArt.png, it is a binary file.
+images\gallery\itsPicover.json, code is 4, comment is 0, blank is 0.
+images\gallery\itsPicover.png, it is a binary file.
+images\gallery\uhhhh.json, code is 4, comment is 0, blank is 0.
+images\gallery\uhhhh.png, it is a binary file.
+images\game\crazyhealthbaroverlay.png, it is a binary file.
+images\game\crazyhealthbaroverlay.xml, code is 23, comment is 3, blank is 0.
+images\game\notes\Attack.json, code is 21, comment is 0, blank is 0.
+images\game\notes\Attack.png, it is a binary file.
+images\game\notes\Attack.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\carol.json, code is 22, comment is 0, blank is 0.
+images\game\notes\carol.png, it is a binary file.
+images\game\notes\carol.xml, code is 114, comment is 3, blank is 0.
+images\game\notes\default.json, code is 21, comment is 0, blank is 0.
+images\game\notes\default.png, it is a binary file.
+images\game\notes\default.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\default\2.png, it is a binary file.
+images\game\notes\default\2.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\electric.json, code is 17, comment is 0, blank is 0.
+images\game\notes\electric.png, it is a binary file.
+images\game\notes\electric.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\fire-crazy.json, code is 17, comment is 0, blank is 0.
+images\game\notes\fire-crazy.png, it is a binary file.
+images\game\notes\fire-crazy.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\fire.json, code is 25, comment is 0, blank is 0.
+images\game\notes\fire.png, it is a binary file.
+images\game\notes\fire.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\gf.json, code is 21, comment is 0, blank is 0.
+images\game\notes\gf.png, it is a binary file.
+images\game\notes\gf.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\hex.json, code is 17, comment is 0, blank is 0.
+images\game\notes\hex.png, it is a binary file.
+images\game\notes\hex.xml, code is 15, comment is 2, blank is 0.
+images\game\notes\ice.json, code is 21, comment is 0, blank is 0.
+images\game\notes\ice.png, it is a binary file.
+images\game\notes\ice.xml, code is 68, comment is 2, blank is 0.
+images\game\notes\placeholders\Carol Shield.png, it is a binary file.
+images\game\notes\placeholders\Carol Shield.xml, code is 15, comment is 2, blank is 3.
+images\game\notes\placeholders\Carol Skin.png, it is a binary file.
+images\game\notes\placeholders\Carol Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Drone.png, it is a binary file.
+images\game\notes\placeholders\Drone.xml, code is 15, comment is 2, blank is 0.
+images\game\notes\placeholders\Electric Note.png, it is a binary file.
+images\game\notes\placeholders\Electric Note.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\GF Skin.png, it is a binary file.
+images\game\notes\placeholders\GF Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Eye.png, it is a binary file.
+images\game\notes\placeholders\Hex Eye.xml, code is 15, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Fizz.png, it is a binary file.
+images\game\notes\placeholders\Hex Fizz.xml, code is 43, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Ghost Note.png, it is a binary file.
+images\game\notes\placeholders\Hex Ghost Note.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Skin.png, it is a binary file.
+images\game\notes\placeholders\Hex Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Spark Note.png, it is a binary file.
+images\game\notes\placeholders\Spark Note.xml, code is 43, comment is 2, blank is 0.
+images\game\notes\placeholders\Whitty Skin.png, it is a binary file.
+images\game\notes\placeholders\Whitty Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\Scream.json, code is 21, comment is 0, blank is 0.
+images\game\notes\Scream.png, it is a binary file.
+images\game\notes\Scream.xml, code is 166, comment is 2, blank is 0.
+images\game\popups\Cooled Down.png, it is a binary file.
+images\game\popups\Echo.png, it is a binary file.
+images\game\popups\Heated Up.png, it is a binary file.
+images\game\popups\Shield Break.png, it is a binary file.
+images\game\popups\Shrapnel.png, it is a binary file.
+images\game\splashes\fire.png, it is a binary file.
+images\game\splashes\fire.xml, code is 67, comment is 2, blank is 0.
+images\game\splashes\ice.png, it is a binary file.
+images\game\splashes\ice.xml, code is 11, comment is 3, blank is 0.
+images\game\splashes\pcc.png, it is a binary file.
+images\game\splashes\pcc.xml, code is 19, comment is 2, blank is 0.
+images\game\splashes\placeholders\Carol Splash.png, it is a binary file.
+images\game\splashes\placeholders\Carol Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\Electric Splash.png, it is a binary file.
+images\game\splashes\placeholders\Electric Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\GF Splash.png, it is a binary file.
+images\game\splashes\placeholders\GF Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\Whitty Splash.png, it is a binary file.
+images\game\splashes\placeholders\Whitty Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\vanilla.png, it is a binary file.
+images\game\splashes\vanilla.xml, code is 35, comment is 2, blank is 0.
+images\game\wall of heads.png, it is a binary file.
+images\hehehehehe\I fw this guy - NebulaStellaNova.png, it is a binary file.
+images\hehehehehe\It's Picover.jpg, it is a binary file.
+images\icons\locked.png, it is a binary file.
+images\icons\Vs Chara\chara.png, it is a binary file.
+images\icons\Vs Dark Sonic\sonic.png, it is a binary file.
+images\icons\Vs Hex\bf-electric.png, it is a binary file.
+images\icons\Vs Hex\carol.png, it is a binary file.
+images\icons\Vs Hex\Hex.png, it is a binary file.
+images\icons\Vs Matt\matt.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-fire.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\bf-fire.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-fire.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\bf-ice.json, code is 48, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\bf-ice.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-ice.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry-labeled.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-angry-labeled.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-angry.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-crazy.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\whitty-crazy.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-crazy.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\bf-fire.png, it is a binary file.
+images\icons\Vs Whitty\bf-ice.png, it is a binary file.
+images\icons\Vs Whitty\whitty-angry.png, it is a binary file.
+images\icons\Vs Whitty\whitty-crazy.png, it is a binary file.
+images\icons\Vs Whitty\whitty.png, it is a binary file.
+images\menus\alphabet-bold.png, it is a binary file.
+images\menus\alphabet-bold.xml, code is 179, comment is 3, blank is 0.
+images\menus\freeplaymenu\randomButton.png, it is a binary file.
+images\menus\freeplaymenu\randomButton.xml, code is 11, comment is 3, blank is 0.
+images\menus\freeplayselection\blitzfight.png, it is a binary file.
+images\menus\freeplayselection\boxingfight.png, it is a binary file.
+images\menus\freeplayselection\electricfight.png, it is a binary file.
+images\menus\freeplayselection\extras.png, it is a binary file.
+images\menus\freeplayselection\firefight.png, it is a binary file.
+images\menus\freeplayselection\knifefight.png, it is a binary file.
+images\menus\freeplayselection\unknown.png, it is a binary file.
+images\menus\gallerymenu\background.png, it is a binary file.
+images\menus\gallerymenu\click.png, it is a binary file.
+images\menus\gallerymenu\graphic.png, it is a binary file.
+images\menus\general\mainChecker.png, it is a binary file.
+images\menus\general\whiteArrow.png, it is a binary file.
+images\menus\general\whiteArrow.xml, code is 7, comment is 2, blank is 0.
+images\menus\loadingscreen\loadingArea.png, it is a binary file.
+images\menus\loadingscreen\loadingBar.png, it is a binary file.
+images\menus\loadingscreen\loadingBarFilled.png, it is a binary file.
+images\menus\mainmenu\bf.png, it is a binary file.
+images\menus\mainmenu\bfAgro.png, it is a binary file.
+images\menus\mainmenu\bfAgro.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\bfIce.png, it is a binary file.
+images\menus\mainmenu\bfIce.xml, code is 17, comment is 3, blank is 0.
+images\menus\mainmenu\charabf.png, it is a binary file.
+images\menus\mainmenu\charabf.xml, code is 123, comment is 3, blank is 0.
+images\menus\mainmenu\chino.png, it is a binary file.
+images\menus\mainmenu\credits.png, it is a binary file.
+images\menus\mainmenu\credits.xml, code is 15, comment is 3, blank is 0.
+images\menus\mainmenu\gallery.png, it is a binary file.
+images\menus\mainmenu\gallery.xml, code is 15, comment is 3, blank is 0.
+images\menus\mainmenu\gf.png, it is a binary file.
+images\menus\mainmenu\gfStandHappy.png, it is a binary file.
+images\menus\mainmenu\gfStandHappy.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\gfStandNerve.png, it is a binary file.
+images\menus\mainmenu\gfStandNerve.xml, code is 17, comment is 3, blank is 0.
+images\menus\mainmenu\jusALilGuy.png, it is a binary file.
+images\menus\mainmenu\jusALilGuy.xml, code is 81, comment is 3, blank is 0.
+images\menus\mainmenu\shadow.png, it is a binary file.
+images\menus\mainmenu\sidePanel.png, it is a binary file.
+images\menus\mainmenu\sidePanel.xml, code is 27, comment is 3, blank is 0.
+images\menus\mainmenu\sonic.png, it is a binary file.
+images\menus\mainmenu\tiles.png, it is a binary file.
+images\menus\mainmenu\whittyAgro.png, it is a binary file.
+images\menus\mainmenu\whittyAgro.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\whittyBallistic.png, it is a binary file.
+images\menus\mainmenu\whittyBallistic.xml, code is 16, comment is 3, blank is 0.
+images\menus\storymenu\panel.png, it is a binary file.
+images\menus\titlescreen\gf.png, it is a binary file.
+images\menus\titlescreen\gf.xml, code is 33, comment is 3, blank is 0.
+images\menus\titlescreen\logo.png, it is a binary file.
+images\menus\titlescreen\logo.xml, code is 18, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\boyfriend.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\boyfriend.xml, code is 22, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\carol.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\carol.xml, code is 13, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\girlfriend.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\girlfriend.xml, code is 19, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\hex.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\hex.xml, code is 83, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\robot.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\robot.xml, code is 23, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\whitty.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\whitty.xml, code is 44, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\crowd.png, it is a binary file.
+images\stages\Vs Hex\detected\crowd.xml, code is 11, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\hexBack.png, it is a binary file.
+images\stages\Vs Hex\detected\hexFront.png, it is a binary file.
+images\stages\Vs Hex\detected\speaker.png, it is a binary file.
+images\stages\Vs Hex\detected\topOverlay.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\electricity.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\electricity.xml, code is 8, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\lightningGridBf.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\lightningGridBf.xml, code is 9, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\lightningGridHex.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\lightningGridHex.xml, code is 9, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\shield.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\shield.xml, code is 15, comment is 3, blank is 0.
+images\stages\Vs Tankman\gunfight\early.png, it is a binary file.
+images\stages\Vs Tankman\gunfight\late.png, it is a binary file.
+images\stages\Vs Tankman\gunfight\warning.png, it is a binary file.
+images\stages\Vs Whitty\alley\alleyCrazy.png, it is a binary file.
+images\stages\Vs Whitty\alley\alleyCrazy.xml, code is 18, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\bfIceExplode.png, it is a binary file.
+images\stages\Vs Whitty\alley\bfIceExplode.xml, code is 15, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\bombDodge.png, it is a binary file.
+images\stages\Vs Whitty\alley\bombDodge.xml, code is 67, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\burst.png, it is a binary file.
+images\stages\Vs Whitty\alley\burst.xml, code is 17, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\circle.png, it is a binary file.
+images\stages\Vs Whitty\alley\circle.xml, code is 10, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\circleLong.png, it is a binary file.
+images\stages\Vs Whitty\alley\circleLong.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\textBox.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\textBox.xml, code is 96, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\textBoxBurn.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\textBoxBurn.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\whittyFall.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\whittyFall.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBlasts.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBlasts.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBlastsBallistic.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBlastsBallistic.xml, code is 36, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBullets.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBullets.xml, code is 5, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireWalls.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireWalls.xml, code is 67, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\flameShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\flameShield.xml, code is 59, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfBlast.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfBlast.xml, code is 10, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfBullets.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfBullets.xml, code is 7, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfShield.xml, code is 63, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceBullet.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceGround.png, it is a binary file.
+images\stages\Vs Whitty\alley\icePed.png, it is a binary file.
+images\stages\Vs Whitty\alley\icePed.xml, code is 17, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShield.xml, code is 28, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShieldCrazy.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShieldCrazy.xml, code is 104, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShields.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShields.xml, code is 38, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceThowBreak.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceThowBreak.xml, code is 12, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\oilExplosion.png, it is a binary file.
+images\stages\Vs Whitty\alley\oilExplosion.xml, code is 5, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\screamBlast.png, it is a binary file.
+images\stages\Vs Whitty\alley\screamBlast.xml, code is 7, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\shrapnelBig.png, it is a binary file.
+images\stages\Vs Whitty\alley\shrapnelBig.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\shrapnelIcons.png, it is a binary file.
+images\stages\Vs Whitty\alley\shrapnelIcons.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\slash.png, it is a binary file.
+images\stages\Vs Whitty\alley\slash.xml, code is 6, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\snowfall.png, it is a binary file.
+images\stages\Vs Whitty\alley\snowfall.xml, code is 68, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\thefunnyeffect.png, it is a binary file.
+images\stages\Vs Whitty\alley\vignette.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBack.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBusts.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBusts.xml, code is 11, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyFront.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyGetsHead.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyGetsHead.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWall.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWall.xml, code is 39, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWallSheets\1.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWallSheets\1.xml, code is 46, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWallSheets\2.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWallSheets\2.xml, code is 9, comment is 3, blank is 0.
+images\weekchars\hex.png, it is a binary file.
+images\weekchars\hex.xml, code is 19, comment is 3, blank is 0.
+images\weekchars\whitty-crazy.png, it is a binary file.
+images\weekchars\whitty-crazy.xml, code is 15, comment is 3, blank is 0.
+images\weekchars\whitty.png, it is a binary file.
+images\weekchars\whitty.xml, code is 19, comment is 3, blank is 0.
+music\freakyMenu.ini, code is 1, comment is 3, blank is 0.
+music\freakyMenu.ogg, it is a binary file.
+music\galleryMenu.ogg, it is a binary file.
+shaders\blur-colored.frag, code is 50, comment is 43, blank is 24.
+shaders\blur.frag, code is 50, comment is 42, blank is 24.
+shaders\GaussianBlur.frag, code is 65, comment is 14, blank is 11.
+shaders\Outline.frag, code is 19, comment is 0, blank is 4.
+shaders\RGBPallete.frag, code is 8, comment is 0, blank is 2.
+shaders\RTXLighting.frag, code is 67, comment is 12, blank is 21.
+songs\0traceNew.hx, code is 6, comment is 1, blank is 1.
+songs\accelerant\meta.json, code is 18, comment is 0, blank is 0.
+songs\animationSystem.hx, code is 213, comment is 35, blank is 27.
+songs\ballistic\charts\hard.json, code is 10036, comment is 0, blank is 14.
+songs\ballistic\cutscene.mp4, it is a binary file.
+songs\ballistic\end-cutscene.mp4, it is a binary file.
+songs\ballistic\meta.json, code is 22, comment is 0, blank is 1.
+songs\ballistic\noteskin.json, code is 15, comment is 0, blank is 0.
+songs\ballistic\scripts\script.hx, code is 803, comment is 52, blank is 59.
+songs\ballistic\scripts\script.lua, code is 0, comment is 0, blank is 0.
+songs\ballistic\scripts\Tsaku script.hx, code is 17, comment is 1, blank is 0.
+songs\ballistic\song\Inst.ogg, it is a binary file.
+songs\ballistic\song\Voices.ogg, it is a binary file.
+songs\bigBeat.hx, code is 0, comment is 1, blank is 0.
+songs\boxing-match\charts\hard.json, code is 14205, comment is 0, blank is 3.
+songs\boxing-match\meta.json, code is 23, comment is 0, blank is 1.
+songs\boxing-match\song\Inst.ogg, it is a binary file.
+songs\boxing-match\song\Voices.ogg, it is a binary file.
+songs\camLock.hx, code is 31, comment is 2, blank is 5.
+songs\deathmatch\charts\hard.json, code is 8126, comment is 0, blank is 3.
+songs\deathmatch\meta.json, code is 23, comment is 0, blank is 1.
+songs\deathmatch\song\Inst.ogg, it is a binary file.
+songs\deathmatch\song\Voices.ogg, it is a binary file.
+songs\debugPrint.hx, code is 51, comment is 2, blank is 8.
+songs\extras.hx, code is 24, comment is 1, blank is 6.
+songs\fading\meta.json, code is 18, comment is 0, blank is 0.
+songs\glitcher\charts\hard.json, code is 8307, comment is 0, blank is 45.
+songs\glitcher\meta.json, code is 22, comment is 0, blank is 1.
+songs\glitcher\noteskin.json, code is 27, comment is 0, blank is 0.
+songs\glitcher\scripts\mainEvents.hx, code is 500, comment is 23, blank is 51.
+songs\glitcher\scripts\modChart.hx, code is 16, comment is 7, blank is 2.
+songs\glitcher\song\Inst.ogg, it is a binary file.
+songs\glitcher\song\Voices.ogg, it is a binary file.
+songs\glitcher\song\VoicesBoyfriend.ogg, it is a binary file.
+songs\glitcher\song\VoicesCarol.ogg, it is a binary file.
+songs\glitcher\song\VoicesGirlfriend.ogg, it is a binary file.
+songs\glitcher\song\VoicesHex.ogg, it is a binary file.
+songs\glitcher\song\VoicesLaserBlasts.ogg, it is a binary file.
+songs\glitcher\song\VoicesWhitty.ogg, it is a binary file.
+songs\iconSystem.hx, code is 30, comment is 0, blank is 3.
+songs\king-hit\charts\hard.json, code is 18952, comment is 0, blank is 3.
+songs\king-hit\meta.json, code is 23, comment is 0, blank is 1.
+songs\king-hit\song\Inst.ogg, it is a binary file.
+songs\king-hit\song\Voices.ogg, it is a binary file.
+songs\lo-fight-pico\charts\hard.json, code is 2585, comment is 0, blank is 3.
+songs\lo-fight-pico\meta.json, code is 22, comment is 0, blank is 1.
+songs\lo-fight-pico\scripts\camMoveOnPress.hx, code is 132, comment is 50, blank is 29.
+songs\lo-fight-pico\scripts\script.hx, code is 6, comment is 0, blank is 0.
+songs\lo-fight-pico\song\Inst.ogg, it is a binary file.
+songs\lo-fight-pico\song\Voices.ogg, it is a binary file.
+songs\lo-fight\charts\hard.json, code is 2585, comment is 0, blank is 3.
+songs\lo-fight\cutscene.mp4, it is a binary file.
+songs\lo-fight\meta.json, code is 22, comment is 0, blank is 1.
+songs\lo-fight\scripts\camMoveOnPress.hx, code is 132, comment is 50, blank is 29.
+songs\lo-fight\scripts\script.hx, code is 6, comment is 0, blank is 0.
+songs\lo-fight\song\Inst.ogg, it is a binary file.
+songs\lo-fight\song\Voices.ogg, it is a binary file.
+songs\loadingScreen.hx, code is 281, comment is 27, blank is 44.
+songs\LUA - ImportFuncs.hx, code is 13, comment is 17, blank is 5.
+songs\LUA - LuaParser.hx, code is 316, comment is 3, blank is 13.
+songs\megalo-strike-back\charts\hard.json, code is 12203, comment is 0, blank is 2.
+songs\megalo-strike-back\events.psych.json, code is 292, comment is 0, blank is 34.
+songs\megalo-strike-back\meta.json, code is 24, comment is 0, blank is 1.
+songs\megalo-strike-back\song\Inst.ogg, it is a binary file.
+songs\megalo-strike-back\song\VoicesBoyfriend.ogg, it is a binary file.
+songs\megalo-strike-back\song\VoicesChara.ogg, it is a binary file.
+songs\NovaSkinHandler.hx, code is 208, comment is 23, blank is 20.
+songs\overhead-pico\charts\hard.json, code is 5761, comment is 0, blank is 4.
+songs\overhead-pico\meta.json, code is 22, comment is 0, blank is 1.
+songs\overhead-pico\scripts\fireBlasts.hx, code is 1056, comment is 73, blank is 86.
+songs\overhead-pico\scripts\script.hx, code is 173, comment is 13, blank is 13.
+songs\overhead-pico\song\Inst.ogg, it is a binary file.
+songs\overhead-pico\song\Voices-pico.ogg, it is a binary file.
+songs\overhead-pico\song\Voices-whitty.ogg, it is a binary file.
+songs\overhead\charts\hard.json, code is 4830, comment is 0, blank is 9.
+songs\overhead\cutscene.mp4, it is a binary file.
+songs\overhead\meta.json, code is 22, comment is 0, blank is 1.
+songs\overhead\scripts\fireBlasts.hx, code is 1056, comment is 73, blank is 86.
+songs\overhead\scripts\script.hx, code is 173, comment is 13, blank is 13.
+songs\overhead\song\Inst.ogg, it is a binary file.
+songs\overhead\song\Voices.ogg, it is a binary file.
+songs\prevention.hx, code is 19, comment is 1, blank is 1.
+songs\remorse\meta.json, code is 18, comment is 0, blank is 0.
+songs\sporting\charts\hard.json, code is 13901, comment is 0, blank is 4.
+songs\sporting\meta.json, code is 24, comment is 0, blank is 1.
+songs\sporting\song\Inst.ogg, it is a binary file.
+songs\sporting\song\Voices.ogg, it is a binary file.
+songs\taste-for-blood-x\charts\hard.json, code is 10795, comment is 0, blank is 2.
+songs\taste-for-blood-x\meta.json, code is 24, comment is 0, blank is 1.
+songs\taste-for-blood-x\song\Inst.ogg, it is a binary file.
+songs\tko\charts\hard.json, code is 6928, comment is 0, blank is 3.
+songs\tko\meta.json, code is 23, comment is 0, blank is 1.
+songs\tko\song\Inst.ogg, it is a binary file.
+songs\tko\song\Voices.ogg, it is a binary file.
+songs\ugh\charts\hard.json, code is 3255, comment is 0, blank is 4.
+songs\ugh\meta.json, code is 18, comment is 0, blank is 1.
+songs\ugh\scripts\gunfight.hx, code is 139, comment is 2, blank is 10.
+songs\ugh\song\Inst.ogg, it is a binary file.
+songs\ugh\song\Voices-Boyfriend.ogg, it is a binary file.
+songs\ugh\song\Voices-Tankman.ogg, it is a binary file.
+songs\ugh\song\Voices-TankTime.ogg, it is a binary file.
+sounds\CountTick0.ogg, it is a binary file.
+sounds\CountTick1.ogg, it is a binary file.
+sounds\Freeze.ogg, it is a binary file.
+sounds\Freeze2.ogg, it is a binary file.
+sounds\Gun.ogg, it is a binary file.
+sounds\Smoke.ogg, it is a binary file.
+sounds\Smoke2.ogg, it is a binary file.
+videos\startAnimation.mp4, it is a binary file.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-10-08 18:49:47
+count workspace : c:\Users\Nebula Nova\Downloads\Codename Engine\mods\FNF-Project-Chinos-Chaos
+total files : 639
+total code lines : 145401
+total comment lines : 1153
+total blank lines : 1173
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |           .xml|          12537|            415|            122|    8.6|
+   |           .txt|             86|              0|              2|  0.059|
+   |          .json|         124566|             11|            150|     86|
+   |            .hx|           7950|            609|            813|    5.5|
+   |           .lua|              0|              0|              0|    0.0|
+   |          .frag|            259|            111|             86|   0.18|
+   |           .ini|              1|              3|              0|0.00069|
+   |               |              2|              4|              0| 0.0014|
+   -------------------------------------------------------------------------
+.gitignore, code is 2, comment is 4, blank is 0.
+data\alphabet.xml, code is 129, comment is 4, blank is 2.
+data\characters\bf-electric.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-electric.xml, code is 19, comment is 0, blank is 0.
+data\characters\bf-fire-dead.hx, code is 21, comment is 0, blank is 1.
+data\characters\bf-fire-dead.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-fire.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-fire.xml, code is 18, comment is 0, blank is 0.
+data\characters\bf-hexfight.xml, code is 7, comment is 0, blank is 0.
+data\characters\bf-ice-crazy.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-ice-crazy.xml, code is 14, comment is 0, blank is 0.
+data\characters\bf-ice-dead.hx, code is 19, comment is 0, blank is 0.
+data\characters\bf-ice-dead.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-ice-hammer.xml, code is 5, comment is 0, blank is 0.
+data\characters\bf-ice-scream.xml, code is 6, comment is 0, blank is 0.
+data\characters\bf-ice.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-ice.xml, code is 24, comment is 0, blank is 0.
+data\characters\bf-iceTired.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf-iceTired.xml, code is 11, comment is 0, blank is 0.
+data\characters\bf-scared.hx, code is 5, comment is 0, blank is 0.
+data\characters\bf-scared.xml, code is 12, comment is 0, blank is 0.
+data\characters\bf-shake.xml, code is 4, comment is 0, blank is 0.
+data\characters\bf-throw.xml, code is 5, comment is 0, blank is 0.
+data\characters\bf.hx, code is 15, comment is 0, blank is 1.
+data\characters\bf.xml, code is 17, comment is 0, blank is 0.
+data\characters\blastsTEMP.xml, code is 7, comment is 0, blank is 0.
+data\characters\carol.hx, code is 15, comment is 0, blank is 1.
+data\characters\carol.xml, code is 20, comment is 0, blank is 0.
+data\characters\chara.xml, code is 8, comment is 0, blank is 0.
+data\characters\gf-demon-snap.xml, code is 5, comment is 0, blank is 0.
+data\characters\gf-demon.hx, code is 19, comment is 0, blank is 2.
+data\characters\gf-demon.xml, code is 7, comment is 0, blank is 0.
+data\characters\gf-hex.xml, code is 19, comment is 0, blank is 0.
+data\characters\gf-standing.xml, code is 16, comment is 0, blank is 0.
+data\characters\hex-corrupt.hx, code is 15, comment is 0, blank is 1.
+data\characters\hex-corrupt.xml, code is 13, comment is 0, blank is 0.
+data\characters\pico-fire.xml, code is 14, comment is 0, blank is 0.
+data\characters\pico.xml, code is 12, comment is 2, blank is 2.
+data\characters\robot.hx, code is 4, comment is 0, blank is 0.
+data\characters\robot.xml, code is 8, comment is 0, blank is 0.
+data\characters\tankman.xml, code is 10, comment is 0, blank is 0.
+data\characters\whitty-angry.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-angry.xml, code is 14, comment is 0, blank is 0.
+data\characters\whitty-crazy-weak.hx, code is 22, comment is 0, blank is 3.
+data\characters\whitty-crazy-weak.xml, code is 11, comment is 0, blank is 0.
+data\characters\whitty-crazy.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-crazy.xml, code is 12, comment is 0, blank is 0.
+data\characters\whitty-freeze-pop.xml, code is 6, comment is 0, blank is 0.
+data\characters\whitty-hexfight.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty-hexfight.xml, code is 17, comment is 0, blank is 0.
+data\characters\whitty-smack.xml, code is 4, comment is 0, blank is 0.
+data\characters\whitty-tantrum.xml, code is 6, comment is 0, blank is 0.
+data\characters\whitty-tear.xml, code is 5, comment is 0, blank is 0.
+data\characters\whitty-tweaking.xml, code is 4, comment is 0, blank is 0.
+data\characters\whitty.hx, code is 15, comment is 0, blank is 1.
+data\characters\whitty.xml, code is 9, comment is 0, blank is 0.
+data\config\credits.xml, code is 32, comment is 0, blank is 20.
+data\config\discord.json, code is 4, comment is 0, blank is 0.
+data\config\freeplaySectors.json, code is 45, comment is 0, blank is 0.
+data\config\funfacts.json, code is 210, comment is 11, blank is 0.
+data\config\menuchars.json, code is 103, comment is 0, blank is 0.
+data\config\menuItems.txt, code is 5, comment is 0, blank is 0.
+data\config\menusplashtext.txt, code is 8, comment is 0, blank is 0.
+data\config\options.xml, code is 25, comment is 0, blank is 11.
+data\events\Change Character.hx, code is 87, comment is 18, blank is 16.
+data\events\Change Character.json, code is 24, comment is 0, blank is 0.
+data\events\Choose Hex Attack Target.hx, code is 14, comment is 0, blank is 2.
+data\events\Choose Hex Attack Target.json, code is 14, comment is 0, blank is 0.
+data\events\Kill Shield.hx, code is 8, comment is 0, blank is 1.
+data\events\Kill Shield.json, code is 9, comment is 0, blank is 0.
+data\events\Popups.hx, code is 66, comment is 9, blank is 9.
+data\events\Popups.json, code is 34, comment is 0, blank is 0.
+data\events\Spawn Shield.hx, code is 8, comment is 0, blank is 1.
+data\events\Spawn Shield.json, code is 9, comment is 0, blank is 0.
+data\freeplaySonglist.txt, code is 11, comment is 0, blank is 0.
+data\global.hx, code is 46, comment is 10, blank is 13.
+data\libraries\novalua\Converter.hx, code is 77, comment is 3, blank is 0.
+data\libraries\novalua\LuaPath.hx, code is 8, comment is 0, blank is 0.
+data\libraries\novalua\LuaSprite.hx, code is 54, comment is 0, blank is 2.
+data\notes\Attack Crit.hx, code is 9, comment is 0, blank is 0.
+data\notes\Attack.hx, code is 9, comment is 0, blank is 0.
+data\notes\Click.hx, code is 9, comment is 0, blank is 0.
+data\notes\Fakeout.hx, code is 0, comment is 0, blank is 0.
+data\notes\Ghost Note.hx, code is 0, comment is 0, blank is 0.
+data\notes\Mind Control.hx, code is 6, comment is 0, blank is 1.
+data\notes\Scream.hx, code is 9, comment is 0, blank is 0.
+data\scripts\classes\blurShader.hx, code is 60, comment is 3, blank is 13.
+data\scripts\classes\blurShaderWhite.hx, code is 60, comment is 3, blank is 13.
+data\scripts\classes\CharIcon.hx, code is 101, comment is 8, blank is 10.
+data\scripts\classes\GaussianBlur.hx, code is 26, comment is 1, blank is 6.
+data\scripts\classes\NovaAnimSystem\Animation.hx, code is 92, comment is 2, blank is 16.
+data\scripts\classes\NovaAnimSystem\Keyframe.hx, code is 24, comment is 0, blank is 4.
+data\scripts\classes\RTXLighting.hx, code is 80, comment is 1, blank is 9.
+data\scripts\pausemenu.hx, code is 12, comment is 12, blank is 6.
+data\splashes\carol.xml, code is 19, comment is 0, blank is 7.
+data\splashes\default.xml, code is 19, comment is 0, blank is 7.
+data\splashes\fire.xml, code is 19, comment is 0, blank is 7.
+data\splashes\gf.xml, code is 19, comment is 0, blank is 7.
+data\splashes\ice.xml, code is 15, comment is 0, blank is 3.
+data\stages\999999.xml, code is 8, comment is 0, blank is 4.
+data\stages\alley.hx, code is 3, comment is 0, blank is 0.
+data\stages\alley.xml, code is 12, comment is 0, blank is 6.
+data\stages\alleyCrazy.hx, code is 15, comment is 0, blank is 1.
+data\stages\alleyCrazy.xml, code is 43, comment is 0, blank is 19.
+data\stages\character offseting bullshit.xml, code is 12, comment is 0, blank is 0.
+data\stages\detected.hx, code is 54, comment is 3, blank is 8.
+data\stages\detected.xml, code is 22, comment is 0, blank is 14.
+data\states\FreeplaySelectionState.hx, code is 207, comment is 26, blank is 27.
+data\states\FreeplayState.hx, code is 340, comment is 12, blank is 41.
+data\states\GalleryMenuState.hx, code is 127, comment is 6, blank is 10.
+data\states\LolState.hx, code is 114, comment is 6, blank is 9.
+data\states\MainMenuState.hx, code is 298, comment is 8, blank is 43.
+data\states\MusicBeatState.hx, code is 6, comment is 0, blank is 1.
+data\states\PlayState.hx, code is 3, comment is 0, blank is 0.
+data\states\StoryMenuState.hx, code is 82, comment is 1, blank is 8.
+data\states\TitleState.hx, code is 27, comment is 1, blank is 4.
+data\titlescreen\introText.txt, code is 55, comment is 0, blank is 1.
+data\titlescreen\titlescreen.xml, code is 13, comment is 0, blank is 4.
+data\weekchars\hex.json, code is 13, comment is 0, blank is 0.
+data\weekchars\whitty-crazy.json, code is 13, comment is 0, blank is 0.
+data\weekchars\whitty.json, code is 13, comment is 0, blank is 0.
+data\weeks\weeks.txt, code is 6, comment is 0, blank is 1.
+data\weeks\weeks\firefight.xml, code is 6, comment is 0, blank is 2.
+data\weeks\weeks\firefight2.xml, code is 5, comment is 0, blank is 1.
+data\weeks\weeks\hexfight.xml, code is 5, comment is 0, blank is 1.
+fonts\COOLINE.otf, it is a binary file.
+fonts\ErasBoldITC.ttf, it is a binary file.
+fonts\Lucida Sans Typewriter Regular.ttf, it is a binary file.
+fonts\monofonto rg.otf, it is a binary file.
+fonts\SourceCodePro-Regular.ttf, it is a binary file.
+images\characters\boyfriend\daboi.png, it is a binary file.
+images\characters\boyfriend\daboi.png, it is a binary file.
+images\characters\boyfriend\daboi.xml, code is 319, comment is 2, blank is 0.
+images\characters\boyfriend\death\fire.png, it is a binary file.
+images\characters\boyfriend\death\fire.png, it is a binary file.
+images\characters\boyfriend\death\fire.xml, code is 213, comment is 3, blank is 0.
+images\characters\boyfriend\death\ice.png, it is a binary file.
+images\characters\boyfriend\death\ice.png, it is a binary file.
+images\characters\boyfriend\death\ice.xml, code is 209, comment is 3, blank is 0.
+images\characters\boyfriend\electric.xml, code is 281, comment is 3, blank is 0.
+images\characters\boyfriend\fire.xml, code is 333, comment is 3, blank is 0.
+images\characters\boyfriend\hammer.png, it is a binary file.
+images\characters\boyfriend\hammer.xml, code is 61, comment is 3, blank is 0.
+images\characters\boyfriend\hex.png, it is a binary file.
+images\characters\boyfriend\hex.xml, code is 92, comment is 3, blank is 0.
+images\characters\boyfriend\ice-crazy.png, it is a binary file.
+images\characters\boyfriend\ice-crazy.xml, code is 263, comment is 3, blank is 0.
+images\characters\boyfriend\ice-tired.png, it is a binary file.
+images\characters\boyfriend\ice-tired.xml, code is 136, comment is 3, blank is 0.
+images\characters\boyfriend\ice.png, it is a binary file.
+images\characters\boyfriend\ice.xml, code is 532, comment is 3, blank is 0.
+images\characters\boyfriend\jic\fire.png, it is a binary file.
+images\characters\boyfriend\jic\fire.xml, code is 201, comment is 3, blank is 0.
+images\characters\boyfriend\jic\ice-crazy.png, it is a binary file.
+images\characters\boyfriend\jic\ice-crazy.xml, code is 116, comment is 3, blank is 0.
+images\characters\boyfriend\jic\ice.xml, code is 236, comment is 3, blank is 0.
+images\characters\boyfriend\miss\fire.png, it is a binary file.
+images\characters\boyfriend\miss\fire.xml, code is 135, comment is 2, blank is 0.
+images\characters\boyfriend\miss\ice-crazy.xml, code is 150, comment is 2, blank is 0.
+images\characters\boyfriend\miss\ice.png, it is a binary file.
+images\characters\boyfriend\miss\ice.xml, code is 299, comment is 2, blank is 0.
+images\characters\boyfriend\scared.png, it is a binary file.
+images\characters\boyfriend\scared.xml, code is 63, comment is 3, blank is 0.
+images\characters\boyfriend\scream\1.png, it is a binary file.
+images\characters\boyfriend\scream\1.xml, code is 33, comment is 3, blank is 0.
+images\characters\boyfriend\scream\2.png, it is a binary file.
+images\characters\boyfriend\scream\2.png, it is a binary file.
+images\characters\boyfriend\scream\2.xml, code is 8, comment is 3, blank is 0.
+images\characters\boyfriend\scream\3.png, it is a binary file.
+images\characters\boyfriend\scream\3.xml, code is 4, comment is 3, blank is 0.
+images\characters\boyfriend\shake.png, it is a binary file.
+images\characters\boyfriend\shake.xml, code is 35, comment is 2, blank is 0.
+images\characters\boyfriend\throw.png, it is a binary file.
+images\characters\boyfriend\throw.xml, code is 44, comment is 3, blank is 0.
+images\characters\carol.xml, code is 452, comment is 3, blank is 0.
+images\characters\chara\basic.png, it is a binary file.
+images\characters\chara\basic.xml, code is 186, comment is 2, blank is 0.
+images\characters\fireBlastsBallistic.png, it is a binary file.
+images\characters\fireBlastsBallistic.xml, code is 36, comment is 3, blank is 0.
+images\characters\gf\click\1.png, it is a binary file.
+images\characters\gf\click\1.xml, code is 20, comment is 3, blank is 0.
+images\characters\gf\click\2.png, it is a binary file.
+images\characters\gf\click\2.xml, code is 41, comment is 3, blank is 0.
+images\characters\gf\click\3.png, it is a binary file.
+images\characters\gf\click\3.xml, code is 29, comment is 3, blank is 0.
+images\characters\gf\click\4.png, it is a binary file.
+images\characters\gf\click\4.png, it is a binary file.
+images\characters\gf\click\4.xml, code is 20, comment is 3, blank is 0.
+images\characters\gf\demon.png, it is a binary file.
+images\characters\gf\demon.png, it is a binary file.
+images\characters\gf\demon.xml, code is 76, comment is 3, blank is 0.
+images\characters\gf\hex.xml, code is 331, comment is 3, blank is 0.
+images\characters\gf\standing.png, it is a binary file.
+images\characters\gf\standing.png, it is a binary file.
+images\characters\gf\standing.xml, code is 110, comment is 3, blank is 0.
+images\characters\hex\default.png, it is a binary file.
+images\characters\hex\default.xml, code is 263, comment is 2, blank is 0.
+images\characters\pico\fire.xml, code is 200, comment is 2, blank is 0.
+images\characters\readme.txt, code is 1, comment is 0, blank is 0.
+images\characters\robot.png, it is a binary file.
+images\characters\robot.xml, code is 152, comment is 2, blank is 0.
+images\characters\tankman\Tankman Gun.png, it is a binary file.
+images\characters\tankman\Tankman Gun.xml, code is 85, comment is 2, blank is 0.
+images\characters\Whitty\angry.png, it is a binary file.
+images\characters\Whitty\angry.xml, code is 263, comment is 3, blank is 0.
+images\characters\Whitty\crazy-weak.png, it is a binary file.
+images\characters\Whitty\crazy-weak.xml, code is 114, comment is 3, blank is 0.
+images\characters\Whitty\crazy\1.png, it is a binary file.
+images\characters\Whitty\crazy\1.xml, code is 106, comment is 3, blank is 0.
+images\characters\Whitty\crazy\2.png, it is a binary file.
+images\characters\Whitty\crazy\2.xml, code is 77, comment is 3, blank is 0.
+images\characters\Whitty\dabomb.png, it is a binary file.
+images\characters\Whitty\dabomb.png, it is a binary file.
+images\characters\Whitty\dabomb.xml, code is 96, comment is 3, blank is 0.
+images\characters\Whitty\he throws his fucking tears.png, it is a binary file.
+images\characters\Whitty\he throws his fucking tears.xml, code is 29, comment is 3, blank is 0.
+images\characters\Whitty\hex\1.png, it is a binary file.
+images\characters\Whitty\hex\1.xml, code is 242, comment is 3, blank is 0.
+images\characters\Whitty\hex\2.png, it is a binary file.
+images\characters\Whitty\hex\2.xml, code is 44, comment is 3, blank is 0.
+images\characters\Whitty\iced.png, it is a binary file.
+images\characters\Whitty\iced.xml, code is 22, comment is 2, blank is 0.
+images\characters\Whitty\old\crazy.png, it is a binary file.
+images\characters\Whitty\old\crazy.xml, code is 131, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\1.xml, code is 108, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\2.png, it is a binary file.
+images\characters\Whitty\tweaking\2.xml, code is 23, comment is 3, blank is 0.
+images\characters\Whitty\tweaking\3.png, it is a binary file.
+images\characters\Whitty\tweaking\3.xml, code is 4, comment is 2, blank is 0.
+images\characters\Whitty\whittySmack.png, it is a binary file.
+images\characters\Whitty\whittySmack.xml, code is 63, comment is 3, blank is 0.
+images\characters\Whitty\whittyThrowsATantrum.png, it is a binary file.
+images\characters\Whitty\whittyThrowsATantrum.xml, code is 44, comment is 3, blank is 0.
+images\credits\discord.png, it is a binary file.
+images\credits\hand.png, it is a binary file.
+images\credits\justloq.png, it is a binary file.
+images\credits\Real_Dodo.png, it is a binary file.
+images\credits\todd.png, it is a binary file.
+images\editors\character\WOAH.png, it is a binary file.
+images\editors\ui\button.png, it is a binary file.
+images\editors\ui\button.xml, code is 30, comment is 1, blank is 2.
+images\editors\ui\grayscale-popup.png, it is a binary file.
+images\gallery\alphaMenu.json, code is 4, comment is 0, blank is 0.
+images\gallery\alphaMenu.png, it is a binary file.
+images\gallery\betaMenu.json, code is 4, comment is 0, blank is 0.
+images\gallery\betaMenu.png, it is a binary file.
+images\gallery\coverArt.json, code is 4, comment is 0, blank is 0.
+images\gallery\coverArt.png, it is a binary file.
+images\gallery\coverArt.png, it is a binary file.
+images\gallery\itsPicover.json, code is 4, comment is 0, blank is 0.
+images\gallery\itsPicover.png, it is a binary file.
+images\gallery\uhhhh.json, code is 4, comment is 0, blank is 0.
+images\gallery\uhhhh.png, it is a binary file.
+images\game\crazyhealthbaroverlay.png, it is a binary file.
+images\game\crazyhealthbaroverlay.xml, code is 23, comment is 3, blank is 0.
+images\game\notes\Attack.json, code is 21, comment is 0, blank is 0.
+images\game\notes\Attack.png, it is a binary file.
+images\game\notes\Attack.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\carol.json, code is 22, comment is 0, blank is 0.
+images\game\notes\carol.png, it is a binary file.
+images\game\notes\carol.xml, code is 114, comment is 3, blank is 0.
+images\game\notes\default.json, code is 21, comment is 0, blank is 0.
+images\game\notes\default.png, it is a binary file.
+images\game\notes\default.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\default\2.png, it is a binary file.
+images\game\notes\default\2.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\electric.json, code is 21, comment is 0, blank is 0.
+images\game\notes\electric.png, it is a binary file.
+images\game\notes\electric.xml, code is 94, comment is 3, blank is 0.
+images\game\notes\fire-crazy.json, code is 17, comment is 0, blank is 0.
+images\game\notes\fire-crazy.png, it is a binary file.
+images\game\notes\fire-crazy.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\fire.json, code is 25, comment is 0, blank is 0.
+images\game\notes\fire.png, it is a binary file.
+images\game\notes\fire.xml, code is 166, comment is 2, blank is 0.
+images\game\notes\gf.json, code is 21, comment is 0, blank is 0.
+images\game\notes\gf.png, it is a binary file.
+images\game\notes\gf.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\hex.json, code is 17, comment is 0, blank is 0.
+images\game\notes\hex.png, it is a binary file.
+images\game\notes\hex.xml, code is 35, comment is 3, blank is 0.
+images\game\notes\ice.json, code is 21, comment is 0, blank is 0.
+images\game\notes\ice.png, it is a binary file.
+images\game\notes\ice.xml, code is 68, comment is 2, blank is 0.
+images\game\notes\placeholders\Carol Shield.png, it is a binary file.
+images\game\notes\placeholders\Carol Shield.xml, code is 15, comment is 2, blank is 3.
+images\game\notes\placeholders\Carol Skin.png, it is a binary file.
+images\game\notes\placeholders\Carol Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Drone.png, it is a binary file.
+images\game\notes\placeholders\Drone.xml, code is 15, comment is 2, blank is 0.
+images\game\notes\placeholders\Electric Note.png, it is a binary file.
+images\game\notes\placeholders\Electric Note.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\GF Skin.png, it is a binary file.
+images\game\notes\placeholders\GF Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Eye.png, it is a binary file.
+images\game\notes\placeholders\Hex Eye.xml, code is 15, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Fizz.png, it is a binary file.
+images\game\notes\placeholders\Hex Fizz.xml, code is 43, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Ghost Note.png, it is a binary file.
+images\game\notes\placeholders\Hex Ghost Note.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Hex Skin.png, it is a binary file.
+images\game\notes\placeholders\Hex Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\placeholders\Spark Note.png, it is a binary file.
+images\game\notes\placeholders\Spark Note.xml, code is 43, comment is 2, blank is 0.
+images\game\notes\placeholders\Whitty Skin.png, it is a binary file.
+images\game\notes\placeholders\Whitty Skin.xml, code is 94, comment is 2, blank is 0.
+images\game\notes\robot.json, code is 21, comment is 0, blank is 0.
+images\game\notes\robot.png, it is a binary file.
+images\game\notes\robot.xml, code is 106, comment is 2, blank is 0.
+images\game\notes\Scream.json, code is 21, comment is 0, blank is 0.
+images\game\notes\Scream.png, it is a binary file.
+images\game\notes\Scream.xml, code is 166, comment is 2, blank is 0.
+images\game\popups\Cooled Down.png, it is a binary file.
+images\game\popups\Echo.png, it is a binary file.
+images\game\popups\Heated Up.png, it is a binary file.
+images\game\popups\Shield Break.png, it is a binary file.
+images\game\popups\Shrapnel.png, it is a binary file.
+images\game\splashes\fire.png, it is a binary file.
+images\game\splashes\fire.xml, code is 67, comment is 2, blank is 0.
+images\game\splashes\ice.png, it is a binary file.
+images\game\splashes\ice.xml, code is 11, comment is 3, blank is 0.
+images\game\splashes\pcc.png, it is a binary file.
+images\game\splashes\pcc.xml, code is 19, comment is 2, blank is 0.
+images\game\splashes\placeholders\Carol Splash.png, it is a binary file.
+images\game\splashes\placeholders\Carol Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\Electric Splash.png, it is a binary file.
+images\game\splashes\placeholders\Electric Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\GF Splash.png, it is a binary file.
+images\game\splashes\placeholders\GF Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\placeholders\Whitty Splash.png, it is a binary file.
+images\game\splashes\placeholders\Whitty Splash.xml, code is 35, comment is 2, blank is 0.
+images\game\splashes\vanilla.png, it is a binary file.
+images\game\splashes\vanilla.xml, code is 35, comment is 2, blank is 0.
+images\hehehehehe\It's Picover.jpg, it is a binary file.
+images\icons\locked.png, it is a binary file.
+images\icons\Vs Chara\chara.png, it is a binary file.
+images\icons\Vs Dark Sonic\sonic.png, it is a binary file.
+images\icons\Vs Hex\bf-electric.png, it is a binary file.
+images\icons\Vs Hex\carol.png, it is a binary file.
+images\icons\Vs Hex\Hex.png, it is a binary file.
+images\icons\Vs Matt\matt.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-fire.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\bf-fire.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-fire.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\bf-ice.json, code is 48, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\bf-ice.png, it is a binary file.
+images\icons\Vs Whitty\animated\bf-ice.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry-labeled.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-angry-labeled.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\whitty-angry.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-angry.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\animated\whitty-crazy.json, code is 35, comment is 0, blank is 0.
+images\icons\Vs Whitty\animated\whitty-crazy.png, it is a binary file.
+images\icons\Vs Whitty\animated\whitty-crazy.xml, code is 27, comment is 2, blank is 0.
+images\icons\Vs Whitty\bf-fire.png, it is a binary file.
+images\icons\Vs Whitty\bf-ice.png, it is a binary file.
+images\icons\Vs Whitty\whitty-angry.png, it is a binary file.
+images\icons\Vs Whitty\whitty-crazy.png, it is a binary file.
+images\icons\Vs Whitty\whitty.png, it is a binary file.
+images\menus\alphabet-bold.png, it is a binary file.
+images\menus\alphabet-bold.xml, code is 179, comment is 3, blank is 0.
+images\menus\freeplaymenu\randomButton.png, it is a binary file.
+images\menus\freeplaymenu\randomButton.xml, code is 11, comment is 3, blank is 0.
+images\menus\freeplayselection\blitzfight.png, it is a binary file.
+images\menus\freeplayselection\boxingfight.png, it is a binary file.
+images\menus\freeplayselection\electricfight.png, it is a binary file.
+images\menus\freeplayselection\extras.png, it is a binary file.
+images\menus\freeplayselection\firefight.png, it is a binary file.
+images\menus\freeplayselection\knifefight.png, it is a binary file.
+images\menus\freeplayselection\unknown.png, it is a binary file.
+images\menus\gallerymenu\background.png, it is a binary file.
+images\menus\gallerymenu\click.png, it is a binary file.
+images\menus\gallerymenu\graphic.png, it is a binary file.
+images\menus\general\mainChecker.png, it is a binary file.
+images\menus\general\whiteArrow.png, it is a binary file.
+images\menus\general\whiteArrow.xml, code is 7, comment is 2, blank is 0.
+images\menus\loadingscreen\loadingArea.png, it is a binary file.
+images\menus\loadingscreen\loadingBar.png, it is a binary file.
+images\menus\loadingscreen\loadingBarFilled.png, it is a binary file.
+images\menus\mainmenu\bf.png, it is a binary file.
+images\menus\mainmenu\bfAgro.png, it is a binary file.
+images\menus\mainmenu\bfAgro.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\bfIce.png, it is a binary file.
+images\menus\mainmenu\bfIce.xml, code is 17, comment is 3, blank is 0.
+images\menus\mainmenu\charabf.png, it is a binary file.
+images\menus\mainmenu\charabf.xml, code is 123, comment is 3, blank is 0.
+images\menus\mainmenu\chino.png, it is a binary file.
+images\menus\mainmenu\credits.png, it is a binary file.
+images\menus\mainmenu\credits.xml, code is 15, comment is 3, blank is 0.
+images\menus\mainmenu\gallery.png, it is a binary file.
+images\menus\mainmenu\gallery.xml, code is 15, comment is 3, blank is 0.
+images\menus\mainmenu\gf.png, it is a binary file.
+images\menus\mainmenu\gfStandHappy.png, it is a binary file.
+images\menus\mainmenu\gfStandHappy.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\gfStandNerve.png, it is a binary file.
+images\menus\mainmenu\gfStandNerve.xml, code is 17, comment is 3, blank is 0.
+images\menus\mainmenu\jusALilGuy.xml, code is 81, comment is 3, blank is 0.
+images\menus\mainmenu\shadow.png, it is a binary file.
+images\menus\mainmenu\sidePanel.png, it is a binary file.
+images\menus\mainmenu\sidePanel.xml, code is 27, comment is 3, blank is 0.
+images\menus\mainmenu\sonic.png, it is a binary file.
+images\menus\mainmenu\tiles.png, it is a binary file.
+images\menus\mainmenu\whittyAgro.png, it is a binary file.
+images\menus\mainmenu\whittyAgro.xml, code is 19, comment is 3, blank is 0.
+images\menus\mainmenu\whittyBallistic.png, it is a binary file.
+images\menus\mainmenu\whittyBallistic.xml, code is 16, comment is 3, blank is 0.
+images\menus\storymenu\panel.png, it is a binary file.
+images\menus\titlescreen\gf.png, it is a binary file.
+images\menus\titlescreen\gf.xml, code is 33, comment is 3, blank is 0.
+images\menus\titlescreen\logo.png, it is a binary file.
+images\menus\titlescreen\logo.xml, code is 18, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\boyfriend.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\boyfriend.xml, code is 22, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\carol.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\carol.xml, code is 13, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\girlfriend.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\girlfriend.xml, code is 19, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\hex.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\hex.xml, code is 128, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\robot.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\robot.xml, code is 23, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\attacks\whitty.png, it is a binary file.
+images\stages\Vs Hex\detected\attacks\whitty.xml, code is 44, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\crowd.png, it is a binary file.
+images\stages\Vs Hex\detected\crowd.xml, code is 11, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\hexBack.png, it is a binary file.
+images\stages\Vs Hex\detected\hexFront.png, it is a binary file.
+images\stages\Vs Hex\detected\speaker.png, it is a binary file.
+images\stages\Vs Hex\detected\topOverlay.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\electricity.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\electricity.xml, code is 8, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\lightningGridBf.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\lightningGridBf.xml, code is 9, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\lightningGridHex.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\lightningGridHex.xml, code is 9, comment is 3, blank is 0.
+images\stages\Vs Hex\detected\visuals\shield.png, it is a binary file.
+images\stages\Vs Hex\detected\visuals\shield.xml, code is 15, comment is 3, blank is 0.
+images\stages\Vs Tankman\gunfight\early.png, it is a binary file.
+images\stages\Vs Tankman\gunfight\late.png, it is a binary file.
+images\stages\Vs Tankman\gunfight\warning.png, it is a binary file.
+images\stages\Vs Whitty\alley\alleyCrazy.xml, code is 18, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\bfIceExplode.png, it is a binary file.
+images\stages\Vs Whitty\alley\bfIceExplode.xml, code is 15, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\bombDodge.png, it is a binary file.
+images\stages\Vs Whitty\alley\bombDodge.png, it is a binary file.
+images\stages\Vs Whitty\alley\bombDodge.xml, code is 67, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\burst.png, it is a binary file.
+images\stages\Vs Whitty\alley\burst.xml, code is 17, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\circle.png, it is a binary file.
+images\stages\Vs Whitty\alley\circle.xml, code is 10, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\circleLong.png, it is a binary file.
+images\stages\Vs Whitty\alley\circleLong.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\textBox.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\textBox.xml, code is 96, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\textBoxBurn.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\textBoxBurn.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\Dialogue\whittyFall.png, it is a binary file.
+images\stages\Vs Whitty\alley\Dialogue\whittyFall.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBlasts.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBlasts.xml, code is 21, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBlastsBallistic.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBlastsBallistic.xml, code is 36, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireBullets.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireBullets.xml, code is 5, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\fireWalls.png, it is a binary file.
+images\stages\Vs Whitty\alley\fireWalls.xml, code is 67, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\flameShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\flameShield.xml, code is 59, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfBlast.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfBlast.xml, code is 10, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfBullets.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfBullets.xml, code is 7, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\gfShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\gfShield.xml, code is 63, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceBullet.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceGround.png, it is a binary file.
+images\stages\Vs Whitty\alley\icePed.png, it is a binary file.
+images\stages\Vs Whitty\alley\icePed.xml, code is 17, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShield.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShield.xml, code is 28, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShieldCrazy.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShieldCrazy.xml, code is 104, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceShields.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceShields.xml, code is 38, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\iceThowBreak.png, it is a binary file.
+images\stages\Vs Whitty\alley\iceThowBreak.xml, code is 12, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\oilExplosion.png, it is a binary file.
+images\stages\Vs Whitty\alley\oilExplosion.xml, code is 5, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\screamBlast.png, it is a binary file.
+images\stages\Vs Whitty\alley\screamBlast.xml, code is 7, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\shrapnelBig.png, it is a binary file.
+images\stages\Vs Whitty\alley\shrapnelBig.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\shrapnelIcons.png, it is a binary file.
+images\stages\Vs Whitty\alley\shrapnelIcons.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\slash.png, it is a binary file.
+images\stages\Vs Whitty\alley\slash.xml, code is 6, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\snowfall.png, it is a binary file.
+images\stages\Vs Whitty\alley\snowfall.xml, code is 68, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\thefunnyeffect.png, it is a binary file.
+images\stages\Vs Whitty\alley\vignette.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBack.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBusts.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyBusts.xml, code is 11, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyFront.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyGetsHead.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyGetsHead.xml, code is 35, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWall.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWall.xml, code is 39, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWallSheets\1.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWallSheets\1.xml, code is 46, comment is 3, blank is 0.
+images\stages\Vs Whitty\alley\whittyWallSheets\2.png, it is a binary file.
+images\stages\Vs Whitty\alley\whittyWallSheets\2.xml, code is 9, comment is 3, blank is 0.
+images\weekchars\hex.png, it is a binary file.
+images\weekchars\hex.xml, code is 19, comment is 3, blank is 0.
+images\weekchars\whitty-crazy.png, it is a binary file.
+images\weekchars\whitty-crazy.xml, code is 15, comment is 3, blank is 0.
+images\weekchars\whitty.png, it is a binary file.
+images\weekchars\whitty.xml, code is 19, comment is 3, blank is 0.
+music\freakyMenu.ini, code is 1, comment is 3, blank is 0.
+music\freakyMenu.ogg, it is a binary file.
+music\galleryMenu.ogg, it is a binary file.
+music\galleryMenu.ogg, it is a binary file.
+shaders\blur-colored.frag, code is 50, comment is 43, blank is 24.
+shaders\blur.frag, code is 50, comment is 42, blank is 24.
+shaders\GaussianBlur.frag, code is 65, comment is 14, blank is 11.
+shaders\Outline.frag, code is 19, comment is 0, blank is 4.
+shaders\RGBPallete.frag, code is 8, comment is 0, blank is 2.
+shaders\RTXLighting.frag, code is 67, comment is 12, blank is 21.
+songs\0traceNew.hx, code is 6, comment is 1, blank is 1.
+songs\accelerant\meta.json, code is 18, comment is 0, blank is 0.
+songs\animationSystem.hx, code is 213, comment is 35, blank is 27.
+songs\ballistic\charts\hard.json, code is 10036, comment is 0, blank is 14.
+songs\ballistic\meta.json, code is 22, comment is 0, blank is 1.
+songs\ballistic\noteskin.json, code is 15, comment is 0, blank is 0.
+songs\ballistic\scripts\script.hx, code is 803, comment is 52, blank is 59.
+songs\ballistic\scripts\script.lua, code is 0, comment is 0, blank is 0.
+songs\ballistic\scripts\Tsaku script.hx, code is 17, comment is 1, blank is 0.
+songs\ballistic\song\Inst.ogg, it is a binary file.
+songs\ballistic\song\Inst.ogg, it is a binary file.
+songs\ballistic\song\Voices.ogg, it is a binary file.
+songs\ballistic\song\Voices.ogg, it is a binary file.
+songs\bigBeat.hx, code is 0, comment is 1, blank is 0.
+songs\boxing-match\charts\hard.json, code is 14205, comment is 0, blank is 3.
+songs\boxing-match\meta.json, code is 23, comment is 0, blank is 1.
+songs\boxing-match\song\Inst.ogg, it is a binary file.
+songs\boxing-match\song\Voices.ogg, it is a binary file.
+songs\camLock.hx, code is 31, comment is 2, blank is 5.
+songs\deathmatch\charts\hard.json, code is 8126, comment is 0, blank is 3.
+songs\deathmatch\meta.json, code is 23, comment is 0, blank is 1.
+songs\deathmatch\song\Inst.ogg, it is a binary file.
+songs\deathmatch\song\Voices.ogg, it is a binary file.
+songs\debugPrint.hx, code is 51, comment is 2, blank is 8.
+songs\extras.hx, code is 24, comment is 1, blank is 6.
+songs\fading\meta.json, code is 18, comment is 0, blank is 0.
+songs\glitcher\charts\hard.json, code is 8296, comment is 0, blank is 45.
+songs\glitcher\meta.json, code is 22, comment is 0, blank is 1.
+songs\glitcher\noteskin.json, code is 31, comment is 0, blank is 0.
+songs\glitcher\scripts\fakeOutNotes.hx, code is 76, comment is 6, blank is 1.
+songs\glitcher\scripts\mainEvents.hx, code is 562, comment is 23, blank is 60.
+songs\glitcher\scripts\modChart.hx, code is 16, comment is 7, blank is 2.
+songs\glitcher\song\Inst.ogg, it is a binary file.
+songs\glitcher\song\Inst.ogg, it is a binary file.
+songs\glitcher\song\Voices.ogg, it is a binary file.
+songs\glitcher\song\VoicesBoyfriend.ogg, it is a binary file.
+songs\glitcher\song\VoicesCarol.ogg, it is a binary file.
+songs\glitcher\song\VoicesGirlfriend.ogg, it is a binary file.
+songs\glitcher\song\VoicesHex.ogg, it is a binary file.
+songs\glitcher\song\VoicesLaserBlasts.ogg, it is a binary file.
+songs\glitcher\song\VoicesWhitty.ogg, it is a binary file.
+songs\iconSystem.hx, code is 30, comment is 0, blank is 3.
+songs\king-hit\charts\hard.json, code is 18952, comment is 0, blank is 3.
+songs\king-hit\meta.json, code is 23, comment is 0, blank is 1.
+songs\king-hit\song\Inst.ogg, it is a binary file.
+songs\king-hit\song\Voices.ogg, it is a binary file.
+songs\lo-fight-pico\charts\hard.json, code is 2585, comment is 0, blank is 3.
+songs\lo-fight-pico\meta.json, code is 22, comment is 0, blank is 1.
+songs\lo-fight-pico\scripts\camMoveOnPress.hx, code is 132, comment is 50, blank is 29.
+songs\lo-fight-pico\scripts\script.hx, code is 6, comment is 0, blank is 0.
+songs\lo-fight-pico\song\Inst.ogg, it is a binary file.
+songs\lo-fight-pico\song\Voices.ogg, it is a binary file.
+songs\lo-fight\charts\hard.json, code is 2585, comment is 0, blank is 3.
+songs\lo-fight\meta.json, code is 22, comment is 0, blank is 1.
+songs\lo-fight\scripts\camMoveOnPress.hx, code is 132, comment is 50, blank is 29.
+songs\lo-fight\scripts\script.hx, code is 6, comment is 0, blank is 0.
+songs\lo-fight\song\Inst.ogg, it is a binary file.
+songs\lo-fight\song\Voices.ogg, it is a binary file.
+songs\loadingScreen.hx, code is 281, comment is 27, blank is 44.
+songs\LUA - ImportFuncs.hx, code is 13, comment is 17, blank is 5.
+songs\LUA - LuaParser.hx, code is 316, comment is 3, blank is 13.
+songs\megalo-strike-back\charts\hard.json, code is 12203, comment is 0, blank is 2.
+songs\megalo-strike-back\events.psych.json, code is 292, comment is 0, blank is 34.
+songs\megalo-strike-back\meta.json, code is 24, comment is 0, blank is 1.
+songs\megalo-strike-back\song\Inst.ogg, it is a binary file.
+songs\megalo-strike-back\song\VoicesBoyfriend.ogg, it is a binary file.
+songs\megalo-strike-back\song\VoicesChara.ogg, it is a binary file.
+songs\NovaSkinHandler.hx, code is 208, comment is 23, blank is 20.
+songs\overhead-pico\charts\hard.json, code is 5761, comment is 0, blank is 4.
+songs\overhead-pico\meta.json, code is 22, comment is 0, blank is 1.
+songs\overhead-pico\scripts\fireBlasts.hx, code is 1056, comment is 73, blank is 86.
+songs\overhead-pico\scripts\script.hx, code is 173, comment is 13, blank is 13.
+songs\overhead-pico\song\Inst.ogg, it is a binary file.
+songs\overhead-pico\song\Voices-pico.ogg, it is a binary file.
+songs\overhead-pico\song\Voices-whitty.ogg, it is a binary file.
+songs\overhead\charts\hard.json, code is 4830, comment is 0, blank is 9.
+songs\overhead\meta.json, code is 22, comment is 0, blank is 1.
+songs\overhead\scripts\fireBlasts.hx, code is 1056, comment is 73, blank is 86.
+songs\overhead\scripts\script.hx, code is 173, comment is 13, blank is 13.
+songs\overhead\song\Inst.ogg, it is a binary file.
+songs\overhead\song\Voices.ogg, it is a binary file.
+songs\prevention.hx, code is 19, comment is 1, blank is 1.
+songs\remorse\meta.json, code is 18, comment is 0, blank is 0.
+songs\sporting\charts\hard.json, code is 13901, comment is 0, blank is 4.
+songs\sporting\meta.json, code is 24, comment is 0, blank is 1.
+songs\sporting\song\Inst.ogg, it is a binary file.
+songs\sporting\song\Voices.ogg, it is a binary file.
+songs\taste-for-blood-x\charts\hard.json, code is 10795, comment is 0, blank is 2.
+songs\taste-for-blood-x\meta.json, code is 24, comment is 0, blank is 1.
+songs\taste-for-blood-x\song\Inst.ogg, it is a binary file.
+songs\tko\charts\hard.json, code is 6928, comment is 0, blank is 3.
+songs\tko\meta.json, code is 23, comment is 0, blank is 1.
+songs\tko\song\Inst.ogg, it is a binary file.
+songs\tko\song\Voices.ogg, it is a binary file.
+songs\tko\song\Voices.ogg, it is a binary file.
+songs\ugh\charts\hard.json, code is 3765, comment is 0, blank is 4.
+songs\ugh\meta.json, code is 18, comment is 0, blank is 1.
+songs\ugh\scripts\gunfight.hx, code is 139, comment is 2, blank is 10.
+songs\ugh\song\Inst.ogg, it is a binary file.
+songs\ugh\song\Voices-Boyfriend.ogg, it is a binary file.
+songs\ugh\song\Voices-Tankman.ogg, it is a binary file.
+songs\ugh\song\Voices-TankTime.ogg, it is a binary file.
+sounds\CountTick0.ogg, it is a binary file.
+sounds\CountTick1.ogg, it is a binary file.
+sounds\Freeze.ogg, it is a binary file.
+sounds\Freeze2.ogg, it is a binary file.
+sounds\Gun.ogg, it is a binary file.
+sounds\Smoke.ogg, it is a binary file.
+sounds\Smoke2.ogg, it is a binary file.
+videos\startAnimation.mp4, it is a binary file.
+===============================================================================

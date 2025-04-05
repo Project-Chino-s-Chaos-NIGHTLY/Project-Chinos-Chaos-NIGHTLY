@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="boyfriend/death/ice" flipX="true" isPlayer="true" icon="Vs Whitty/bf-ice" color="#99FFFF">
+	<anim name="firstDeath" anim="BF Ice dies" x="0" y="0" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="BF Ice dead loop" x="-229" y="-259" fps="24" loop="false"/>
+	<anim name="deathConfirm" anim="BF Ice dead confirm" x="-16" y="-14" fps="24" loop="false"/>
+</character>

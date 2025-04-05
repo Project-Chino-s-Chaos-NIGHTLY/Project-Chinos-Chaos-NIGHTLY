@@ -1,0 +1,5 @@
+story mode
+freeplay
+options
+credits
+gallery

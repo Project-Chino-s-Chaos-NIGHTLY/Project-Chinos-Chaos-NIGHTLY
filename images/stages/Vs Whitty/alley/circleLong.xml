@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="circleLong.png" width="4245" height="4669">
+	<SubTexture name="Circle Tweener Long0000" x="10" y="10" width="1190" height="1190" frameX="-0" frameY="-0" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0001" x="1210" y="10" width="1155" height="1155" frameX="-17" frameY="-17" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0002" x="10" y="1210" width="1120" height="1120" frameX="-35" frameY="-35" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0003" x="1140" y="1210" width="1084" height="1084" frameX="-53" frameY="-53" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0004" x="10" y="2340" width="1049" height="1049" frameX="-70" frameY="-70" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0005" x="1069" y="2340" width="1014" height="1013" frameX="-88" frameY="-88" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0006" x="2375" y="10" width="978" height="978" frameX="-106" frameY="-106" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0007" x="2375" y="998" width="943" height="943" frameX="-123" frameY="-123" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0008" x="2093" y="2304" width="907" height="907" frameX="-141" frameY="-141" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0009" x="3363" y="10" width="872" height="872" frameX="-159" frameY="-159" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0010" x="3363" y="892" width="837" height="837" frameX="-176" frameY="-176" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0011" x="3328" y="1739" width="801" height="802" frameX="-194" frameY="-194" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0012" x="3010" y="2551" width="767" height="766" frameX="-211" frameY="-212" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0013" x="10" y="3399" width="731" height="731" frameX="-229" frameY="-229" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0014" x="751" y="3399" width="695" height="695" frameX="-247" frameY="-247" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0015" x="1456" y="3363" width="661" height="660" frameX="-264" frameY="-265" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0016" x="2127" y="3327" width="625" height="625" frameX="-282" frameY="-282" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0017" x="2762" y="3327" width="590" height="589" frameX="-300" frameY="-300" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0018" x="3362" y="3327" width="555" height="554" frameX="-317" frameY="-318" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0019" x="10" y="4140" width="519" height="519" frameX="-335" frameY="-335" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0020" x="539" y="4140" width="484" height="483" frameX="-353" frameY="-353" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0021" x="1033" y="4104" width="449" height="448" frameX="-370" frameY="-371" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0022" x="3787" y="2551" width="413" height="413" frameX="-388" frameY="-388" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0023" x="1492" y="4033" width="377" height="378" frameX="-406" frameY="-406" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0024" x="2234" y="1951" width="343" height="342" frameX="-423" frameY="-424" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0025" x="3010" y="1951" width="307" height="307" frameX="-441" frameY="-441" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0026" x="3010" y="2268" width="271" height="271" frameX="-459" frameY="-459" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0027" x="1492" y="4421" width="237" height="236" frameX="-476" frameY="-477" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0028" x="1739" y="4421" width="201" height="201" frameX="-494" frameY="-494" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0029" x="3927" y="2974" width="166" height="165" frameX="-512" frameY="-512" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0030" x="2234" y="1175" width="131" height="130" frameX="-529" frameY="-530" frameWidth="1190" frameHeight="1190"/>
+	<SubTexture name="Circle Tweener Long0031" x="2093" y="3221" width="95" height="95" frameX="-547" frameY="-547" frameWidth="1190" frameHeight="1190"/>
+</TextureAtlas>

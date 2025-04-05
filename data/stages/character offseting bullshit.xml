@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7">
+	<combo x="0" y="0"/>
+	<gf x="0" scrolly="1" y="0" alpha="0.5" scrollx="1"/>
+	<bf alpha="0.5" x="0" y="0"/>
+	<solid x="-5000" y="-5000" width="10000" height="10000" name="bg box" color="#6A6A6A">
+		<property type="float" value="0" name="scrollFactor.x"/>
+		<property type="float" value="0" name="scrollFactor.y"/>
+	</solid>
+	<dad x="0" alpha="0.5" y="0"/>
+	<char name="Placement"/>
+</stage>

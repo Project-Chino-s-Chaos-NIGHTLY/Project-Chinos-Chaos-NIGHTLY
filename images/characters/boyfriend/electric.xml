@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="electric.png" width="8192" height="5834">
+	<SubTexture name="BF Electric Idle0000" x="6298" y="1109" width="384" height="407" frameX="-0" frameY="-11" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0001" x="6685" y="1110" width="384" height="407" frameX="-0" frameY="-11" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0002" x="4673" y="1079" width="384" height="406" frameX="-0" frameY="-12" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0003" x="5060" y="1096" width="384" height="406" frameX="-0" frameY="-12" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0004" x="7072" y="1110" width="382" height="407" frameX="-2" frameY="-11" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0005" x="7457" y="1112" width="382" height="407" frameX="-2" frameY="-11" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0006" x="2994" y="1468" width="380" height="411" frameX="-4" frameY="-7" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0007" x="4653" y="1488" width="380" height="411" frameX="-4" frameY="-7" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0008" x="4252" y="1888" width="378" height="417" frameX="-4" frameY="-2" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0009" x="4633" y="1902" width="378" height="417" frameX="-4" frameY="-2" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0010" x="6738" y="2346" width="379" height="419" frameX="-4" frameY="-0" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0011" x="7120" y="2354" width="379" height="419" frameX="-4" frameY="-0" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0012" x="878" y="2684" width="379" height="419" frameX="-4" frameY="-0" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0013" x="3024" y="2709" width="379" height="419" frameX="-4" frameY="-0" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0014" x="3406" y="2709" width="378" height="419" frameX="-4" frameY="-0" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle0015" x="3787" y="2715" width="378" height="419" frameX="-4" frameY="-0" frameWidth="387" frameHeight="426"/>
+	<SubTexture name="BF Electric Idle hurt0000" x="7232" y="3" width="448" height="350" frameX="-0" frameY="-18" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0001" x="6332" y="355" width="444" height="362" frameX="-0" frameY="-7" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0002" x="6779" y="355" width="444" height="362" frameX="-0" frameY="-7" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0003" x="4865" y="704" width="439" height="372" frameX="-0" frameY="-0" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0004" x="7665" y="356" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0005" x="3" y="686" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0006" x="445" y="687" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0007" x="4423" y="697" width="439" height="370" frameX="-0" frameY="-3" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0008" x="887" y="693" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0009" x="1329" y="693" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0010" x="1771" y="697" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0011" x="2213" y="697" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0012" x="2655" y="697" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0013" x="3097" y="697" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0014" x="3539" y="697" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Idle hurt0015" x="3981" y="697" width="439" height="364" frameX="-0" frameY="-6" frameWidth="451" frameHeight="379"/>
+	<SubTexture name="BF Electric Left0000" x="1260" y="2690" width="440" height="413" frameX="-0" frameY="-6" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0001" x="6725" y="1933" width="427" height="410" frameX="-5" frameY="-9" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0002" x="7536" y="1955" width="427" height="410" frameX="-5" frameY="-9" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0003" x="3802" y="1471" width="423" height="408" frameX="-6" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0004" x="4228" y="1477" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0005" x="5036" y="1509" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0006" x="5842" y="1518" width="423" height="408" frameX="-6" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0007" x="6682" y="1520" width="429" height="408" frameX="-0" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0008" x="7114" y="1522" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0009" x="2531" y="1879" width="425" height="409" frameX="-6" frameY="-10" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0010" x="6682" y="1520" width="429" height="408" frameX="-0" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0011" x="2959" y="1882" width="434" height="409" frameX="-3" frameY="-10" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0012" x="7539" y="1544" width="429" height="408" frameX="-0" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0013" x="3" y="1853" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0014" x="853" y="1860" width="429" height="408" frameX="-0" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0015" x="428" y="1854" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0016" x="3" y="2264" width="419" height="410" frameX="-10" frameY="-9" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0017" x="852" y="2271" width="426" height="410" frameX="-3" frameY="-9" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0018" x="4249" y="2308" width="378" height="418" frameX="-27" frameY="-1" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0019" x="4630" y="2322" width="378" height="418" frameX="-27" frameY="-1" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0020" x="5696" y="2759" width="379" height="419" frameX="-28" frameY="-0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0021" x="6078" y="2761" width="379" height="419" frameX="-28" frameY="-0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0022" x="6460" y="2768" width="379" height="419" frameX="-28" frameY="-0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left0023" x="6842" y="2776" width="379" height="419" frameX="-28" frameY="-0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0000" x="435" y="2684" width="440" height="413" frameX="-0" frameY="-6" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0001" x="5014" y="1920" width="427" height="410" frameX="-5" frameY="-9" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0002" x="5444" y="1929" width="427" height="410" frameX="-5" frameY="-9" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0003" x="3" y="1442" width="423" height="408" frameX="-6" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0004" x="429" y="1443" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0005" x="854" y="1449" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0006" x="1279" y="1449" width="423" height="408" frameX="-6" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0007" x="1705" y="1453" width="429" height="408" frameX="-0" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0008" x="2137" y="1453" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0009" x="1285" y="1864" width="425" height="409" frameX="-6" frameY="-10" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0010" x="1705" y="1453" width="429" height="408" frameX="-0" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0011" x="1713" y="1864" width="434" height="409" frameX="-3" frameY="-10" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0012" x="1705" y="1453" width="429" height="408" frameX="-0" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0013" x="2137" y="1453" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0014" x="2562" y="1468" width="429" height="408" frameX="-0" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0015" x="3377" y="1471" width="422" height="408" frameX="-7" frameY="-11" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0016" x="5874" y="1930" width="419" height="410" frameX="-10" frameY="-9" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0017" x="6296" y="1931" width="426" height="410" frameX="-3" frameY="-9" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0018" x="7155" y="1933" width="378" height="418" frameX="-27" frameY="-1" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0019" x="2140" y="2281" width="378" height="418" frameX="-27" frameY="-1" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0020" x="4168" y="2729" width="379" height="419" frameX="-28" frameY="-0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0021" x="4550" y="2743" width="379" height="419" frameX="-28" frameY="-0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0022" x="4932" y="2748" width="379" height="419" frameX="-28" frameY="-0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Left angry0023" x="5314" y="2758" width="379" height="419" frameX="-28" frameY="-0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="BF Electric Right0000" x="4876" y="4888" width="455" height="429" frameX="-0" frameY="-0" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0001" x="3555" y="4431" width="444" height="427" frameX="-10" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0002" x="4002" y="4442" width="444" height="427" frameX="-10" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0003" x="4799" y="4457" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0004" x="5243" y="4458" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0005" x="6037" y="4468" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0006" x="6481" y="4483" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0007" x="6925" y="4484" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0008" x="2466" y="3978" width="447" height="425" frameX="-10" frameY="-4" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0009" x="7369" y="4487" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0010" x="3" y="4807" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0011" x="447" y="4809" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0012" x="891" y="4819" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0013" x="1335" y="4827" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0014" x="1779" y="4832" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0015" x="2223" y="4835" width="441" height="427" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0016" x="2026" y="3975" width="437" height="425" frameX="-14" frameY="-3" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0017" x="3266" y="3985" width="437" height="425" frameX="-14" frameY="-3" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0018" x="6949" y="3628" width="385" height="423" frameX="-33" frameY="-5" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0019" x="7337" y="3628" width="385" height="423" frameX="-33" frameY="-5" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0020" x="5045" y="3180" width="379" height="420" frameX="-34" frameY="-8" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0021" x="5427" y="3181" width="378" height="420" frameX="-34" frameY="-8" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0022" x="5808" y="3183" width="378" height="420" frameX="-34" frameY="-8" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right0023" x="6189" y="3190" width="378" height="420" frameX="-34" frameY="-8" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0000" x="4417" y="4887" width="456" height="428" frameX="-0" frameY="-0" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0001" x="4056" y="4013" width="444" height="426" frameX="-10" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0002" x="4853" y="4028" width="444" height="426" frameX="-10" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0003" x="5300" y="4029" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0004" x="6094" y="4039" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0005" x="6888" y="4054" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0006" x="7332" y="4055" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0007" x="3" y="4378" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0008" x="7725" y="3628" width="446" height="424" frameX="-10" frameY="-4" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0009" x="447" y="4380" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0010" x="891" y="4390" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0011" x="1335" y="4398" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0012" x="1779" y="4403" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0013" x="2223" y="4406" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0014" x="2667" y="4410" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0015" x="3111" y="4413" width="441" height="426" frameX="-12" frameY="-2" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0016" x="796" y="3952" width="437" height="425" frameX="-14" frameY="-3" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0017" x="1586" y="3970" width="437" height="425" frameX="-14" frameY="-3" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0018" x="6173" y="3613" width="385" height="423" frameX="-33" frameY="-5" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0019" x="6561" y="3621" width="385" height="423" frameX="-33" frameY="-5" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0020" x="3521" y="3137" width="378" height="420" frameX="-34" frameY="-8" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0021" x="3902" y="3151" width="378" height="420" frameX="-34" frameY="-8" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0022" x="4283" y="3165" width="378" height="420" frameX="-34" frameY="-8" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Right angry0023" x="4664" y="3170" width="378" height="420" frameX="-34" frameY="-8" frameWidth="466" frameHeight="436"/>
+	<SubTexture name="BF Electric Sing Down0000" x="5398" y="3" width="448" height="343" frameX="-0" frameY="-69" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0001" x="5849" y="3" width="447" height="349" frameX="-0" frameY="-64" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0002" x="6299" y="3" width="447" height="349" frameX="-0" frameY="-64" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0003" x="3" y="331" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0004" x="453" y="332" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0005" x="903" y="338" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0006" x="1353" y="338" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0007" x="1803" y="342" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0008" x="2253" y="342" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0009" x="2703" y="342" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0010" x="3153" y="342" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0011" x="3603" y="342" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0012" x="4053" y="342" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0013" x="4503" y="342" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0014" x="4953" y="349" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0015" x="5403" y="355" width="447" height="352" frameX="-0" frameY="-62" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0016" x="7226" y="356" width="436" height="362" frameX="-16" frameY="-53" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0017" x="7226" y="356" width="436" height="362" frameX="-16" frameY="-53" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0018" x="5461" y="1509" width="378" height="414" frameX="-54" frameY="-4" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0019" x="2150" y="1864" width="378" height="414" frameX="-54" frameY="-4" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0020" x="7224" y="2783" width="379" height="419" frameX="-54" frameY="-0" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0021" x="7606" y="2783" width="379" height="419" frameX="-54" frameY="-0" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0022" x="3" y="3094" width="379" height="419" frameX="-54" frameY="-0" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Down0023" x="385" y="3100" width="379" height="419" frameX="-54" frameY="-0" frameWidth="455" frameHeight="427"/>
+	<SubTexture name="BF Electric Sing Up0000" x="7463" y="5370" width="404" height="461" frameX="-0" frameY="-0" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0001" x="6651" y="5359" width="403" height="457" frameX="-1" frameY="-2" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0002" x="7057" y="5364" width="403" height="457" frameX="-1" frameY="-2" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0003" x="2997" y="5274" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0004" x="3403" y="5293" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0005" x="3809" y="5308" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0006" x="4215" y="5318" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0007" x="2590" y="5269" width="404" height="454" frameX="-1" frameY="-5" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0008" x="4621" y="5320" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0009" x="5027" y="5327" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0010" x="5433" y="5339" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0011" x="5839" y="5355" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0012" x="819" y="5249" width="406" height="450" frameX="-1" frameY="-9" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0013" x="5839" y="5355" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0014" x="6245" y="5355" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0015" x="5433" y="5339" width="403" height="455" frameX="-1" frameY="-4" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0016" x="3" y="5237" width="405" height="449" frameX="-0" frameY="-9" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0017" x="411" y="5239" width="405" height="449" frameX="-0" frameY="-9" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0018" x="882" y="3528" width="382" height="421" frameX="-0" frameY="-36" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0019" x="1267" y="3534" width="382" height="421" frameX="-0" frameY="-36" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0020" x="6570" y="3198" width="379" height="420" frameX="-0" frameY="-38" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0021" x="6952" y="3205" width="379" height="420" frameX="-0" frameY="-38" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0022" x="7334" y="3205" width="379" height="420" frameX="-0" frameY="-38" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric Sing Up0023" x="7716" y="3205" width="379" height="420" frameX="-0" frameY="-38" frameWidth="417" frameHeight="469"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0000" x="473" y="3" width="467" height="326" frameX="-18" frameY="-30" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0001" x="943" y="3" width="438" height="332" frameX="-42" frameY="-18" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0002" x="1384" y="3" width="475" height="332" frameX="-5" frameY="-18" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0003" x="5853" y="355" width="476" height="356" frameX="-4" frameY="-8" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0004" x="1862" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0005" x="6749" y="3" width="480" height="349" frameX="-0" frameY="-1" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0006" x="2304" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0007" x="7683" y="3" width="480" height="350" frameX="-0" frameY="-0" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0008" x="2746" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0009" x="3188" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0010" x="3630" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0011" x="4072" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0012" x="4072" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0013" x="4514" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0014" x="4956" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0015" x="4072" y="3" width="439" height="336" frameX="-41" frameY="-14" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT DOWN0016" x="3" y="3" width="467" height="325" frameX="-18" frameY="-30" frameWidth="489" frameHeight="371"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0000" x="767" y="3106" width="459" height="419" frameX="-0" frameY="-7" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0001" x="5307" y="710" width="433" height="383" frameX="-11" frameY="-43" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0002" x="5743" y="714" width="440" height="383" frameX="-10" frameY="-43" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0003" x="2667" y="4839" width="441" height="427" frameX="-12" frameY="-0" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0004" x="3403" y="1064" width="427" height="404" frameX="-13" frameY="-23" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0005" x="2136" y="2706" width="440" height="414" frameX="-13" frameY="-21" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0006" x="6186" y="720" width="428" height="386" frameX="-12" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0007" x="2579" y="2709" width="442" height="416" frameX="-13" frameY="-21" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0008" x="6617" y="720" width="427" height="386" frameX="-13" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0009" x="7047" y="721" width="428" height="386" frameX="-12" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0010" x="7478" y="723" width="427" height="386" frameX="-13" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0011" x="3" y="1053" width="427" height="386" frameX="-13" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0012" x="433" y="1054" width="428" height="386" frameX="-12" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0013" x="864" y="1060" width="429" height="386" frameX="-11" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0014" x="1296" y="1060" width="427" height="386" frameX="-13" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0015" x="1726" y="1064" width="427" height="386" frameX="-13" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT LEFT0016" x="2156" y="1064" width="428" height="386" frameX="-12" frameY="-41" frameWidth="462" frameHeight="444"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0000" x="353" y="3951" width="440" height="424" frameX="-3" frameY="-19" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0001" x="5443" y="2342" width="428" height="413" frameX="-2" frameY="-31" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0002" x="5787" y="4898" width="428" height="438" frameX="-2" frameY="-6" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0003" x="6218" y="4913" width="435" height="439" frameX="-2" frameY="-5" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0004" x="1708" y="2276" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0005" x="6656" y="4914" width="430" height="442" frameX="-1" frameY="-2" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0006" x="2521" y="2291" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0007" x="7089" y="4917" width="431" height="444" frameX="-0" frameY="-0" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0008" x="2953" y="2294" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0009" x="3385" y="2294" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0010" x="3817" y="2300" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0011" x="5011" y="2333" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0012" x="5874" y="2344" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0013" x="3817" y="2300" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0014" x="6306" y="2346" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0015" x="7502" y="2368" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT RIGHT0016" x="3" y="2679" width="429" height="412" frameX="-2" frameY="-32" frameWidth="461" frameHeight="452"/>
+	<SubTexture name="BF Electric electrified HIT UP0000" x="1228" y="5257" width="401" height="450" frameX="-0" frameY="-0" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0001" x="7813" y="4487" width="348" height="433" frameX="-3" frameY="-16" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0002" x="4002" y="4872" width="412" height="433" frameX="-3" frameY="-16" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0003" x="3111" y="4842" width="438" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0004" x="7842" y="1112" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0005" x="3552" y="4861" width="447" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0006" x="3" y="3945" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0007" x="5334" y="4895" width="450" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0008" x="1236" y="3958" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0009" x="2916" y="3978" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0010" x="3706" y="3999" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0011" x="4503" y="4018" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0012" x="5744" y="4031" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0013" x="6538" y="4047" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0014" x="7776" y="4055" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0015" x="4449" y="4450" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric electrified HIT UP0016" x="5687" y="4463" width="347" height="429" frameX="-3" frameY="-19" frameWidth="461" frameHeight="458"/>
+	<SubTexture name="BF Electric hit0000" x="6268" y="1519" width="411" height="408" frameX="-1" frameY="-9" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0001" x="425" y="2265" width="424" height="411" frameX="-2" frameY="-5" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0002" x="1281" y="2276" width="424" height="411" frameX="-2" frameY="-5" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0003" x="3396" y="1882" width="425" height="409" frameX="-2" frameY="-7" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0004" x="3824" y="1888" width="425" height="409" frameX="-2" frameY="-7" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0005" x="5447" y="1100" width="422" height="406" frameX="-2" frameY="-13" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0006" x="5872" y="1109" width="423" height="406" frameX="-1" frameY="-13" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0007" x="3833" y="1064" width="417" height="404" frameX="-1" frameY="-15" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0008" x="4253" y="1070" width="417" height="404" frameX="-1" frameY="-15" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0009" x="2587" y="1064" width="405" height="401" frameX="-0" frameY="-18" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0010" x="2995" y="1064" width="405" height="401" frameX="-0" frameY="-18" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0011" x="1229" y="3106" width="379" height="419" frameX="-0" frameY="-0" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0012" x="1611" y="3112" width="379" height="419" frameX="-0" frameY="-0" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0013" x="1993" y="3123" width="379" height="419" frameX="-0" frameY="-0" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0014" x="2375" y="3128" width="379" height="419" frameX="-0" frameY="-0" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0015" x="2757" y="3131" width="379" height="419" frameX="-0" frameY="-0" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit0016" x="3139" y="3131" width="379" height="419" frameX="-0" frameY="-0" frameWidth="430" frameHeight="426"/>
+	<SubTexture name="BF Electric hit electrified0000" x="1703" y="2691" width="430" height="418" frameX="-26" frameY="-34" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0001" x="3" y="3522" width="411" height="420" frameX="-25" frameY="-32" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0002" x="417" y="3528" width="462" height="420" frameX="-6" frameY="-32" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0003" x="7523" y="4923" width="472" height="444" frameX="-0" frameY="-11" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0004" x="1652" y="3545" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0005" x="1632" y="5262" width="473" height="451" frameX="-4" frameY="-1" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0006" x="2063" y="3550" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0007" x="2108" y="5265" width="479" height="452" frameX="-0" frameY="-0" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0008" x="2474" y="3553" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0009" x="2885" y="3553" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0010" x="3296" y="3560" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0011" x="3707" y="3574" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0012" x="4118" y="3588" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0013" x="4529" y="3593" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0014" x="4940" y="3603" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0015" x="5351" y="3604" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="BF Electric hit electrified0016" x="5762" y="3606" width="408" height="422" frameX="-25" frameY="-30" frameWidth="485" frameHeight="462"/>
+</TextureAtlas>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hammer.png" width="6887" height="6542">
+	<SubTexture name="BF Ice Hammer0000" x="6221" y="2905" width="573" height="412" frameX="-4017" frameY="-678" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0001" x="6221" y="2478" width="591" height="424" frameX="-4012" frameY="-666" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0002" x="913" y="5946" width="631" height="591" frameX="-3944" frameY="-499" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0003" x="3927" y="5645" width="737" height="867" frameX="-3838" frameY="-223" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0004" x="4270" y="4763" width="737" height="845" frameX="-3838" frameY="-245" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0005" x="3" y="5497" width="907" height="879" frameX="-3668" frameY="-211" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0006" x="3361" y="4763" width="906" height="879" frameX="-3669" frameY="-211" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0007" x="5296" y="2840" width="922" height="975" frameX="-3653" frameY="-115" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0008" x="5296" y="2840" width="922" height="975" frameX="-3653" frameY="-115" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0009" x="2289" y="4726" width="1069" height="992" frameX="-3506" frameY="-98" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0010" x="2289" y="4726" width="1069" height="992" frameX="-3506" frameY="-98" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0011" x="2289" y="4726" width="1069" height="992" frameX="-3506" frameY="-98" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0012" x="3" y="4513" width="1098" height="981" frameX="-3477" frameY="-109" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0013" x="3" y="4513" width="1098" height="981" frameX="-3477" frameY="-109" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0014" x="3" y="4513" width="1098" height="981" frameX="-3477" frameY="-109" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0015" x="3014" y="2766" width="1142" height="988" frameX="-3433" frameY="-102" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0016" x="1651" y="3073" width="1142" height="988" frameX="-3433" frameY="-102" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0017" x="3" y="3529" width="1134" height="981" frameX="-3441" frameY="-109" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0018" x="3" y="3529" width="1134" height="981" frameX="-3441" frameY="-109" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0019" x="4159" y="2840" width="1134" height="981" frameX="-3441" frameY="-109" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0020" x="2796" y="3757" width="1146" height="966" frameX="-3429" frameY="-124" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0021" x="2796" y="3757" width="1146" height="966" frameX="-3429" frameY="-124" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0022" x="1140" y="4064" width="1146" height="966" frameX="-3429" frameY="-124" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0023" x="3945" y="3824" width="1159" height="936" frameX="-3416" frameY="-154" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0024" x="3945" y="3824" width="1159" height="936" frameX="-3416" frameY="-154" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0025" x="5107" y="3824" width="1159" height="936" frameX="-3416" frameY="-154" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0026" x="1104" y="5033" width="1158" height="910" frameX="-3417" frameY="-180" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0027" x="1104" y="5033" width="1158" height="910" frameX="-3417" frameY="-180" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0028" x="1784" y="1980" width="1227" height="1090" frameX="-3348" frameY="-0" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0029" x="2265" y="5721" width="1659" height="624" frameX="-2916" frameY="-466" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0030" x="3" y="1039" width="2754" height="776" frameX="-1821" frameY="-314" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0031" x="3" y="3" width="6336" height="1033" frameX="-0" frameY="-230" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0032" x="4490" y="1942" width="1699" height="895" frameX="-2962" frameY="-195" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0033" x="4490" y="1039" width="1763" height="900" frameX="-2961" frameY="-191" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0034" x="3" y="1818" width="1778" height="922" frameX="-2962" frameY="-189" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0035" x="2760" y="1039" width="1727" height="938" frameX="-3022" frameY="-184" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0036" x="3" y="2743" width="1645" height="783" frameX="-3115" frameY="-307" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0037" x="3014" y="1980" width="1459" height="783" frameX="-3116" frameY="-307" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0038" x="4667" y="5611" width="652" height="696" frameX="-3923" frameY="-394" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0039" x="5010" y="4763" width="652" height="696" frameX="-3923" frameY="-394" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0040" x="5322" y="5462" width="587" height="540" frameX="-3988" frameY="-550" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0041" x="5322" y="5462" width="587" height="540" frameX="-3988" frameY="-550" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0042" x="6259" y="4763" width="554" height="489" frameX="-4021" frameY="-601" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0043" x="6259" y="4763" width="554" height="489" frameX="-4021" frameY="-601" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0044" x="5899" y="6005" width="542" height="534" frameX="-4033" frameY="-556" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0045" x="5899" y="6005" width="542" height="534" frameX="-4033" frameY="-556" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0046" x="6192" y="1942" width="542" height="533" frameX="-4033" frameY="-557" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0047" x="6192" y="1942" width="542" height="533" frameX="-4033" frameY="-557" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0048" x="6342" y="3" width="542" height="515" frameX="-4033" frameY="-575" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0049" x="6342" y="3" width="542" height="515" frameX="-4033" frameY="-575" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0050" x="6256" y="1039" width="542" height="517" frameX="-4033" frameY="-573" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0051" x="5912" y="5279" width="542" height="512" frameX="-4033" frameY="-578" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0052" x="5912" y="5279" width="542" height="512" frameX="-4033" frameY="-578" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0053" x="6342" y="521" width="542" height="514" frameX="-4033" frameY="-576" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0054" x="5322" y="6005" width="574" height="514" frameX="-4033" frameY="-576" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0055" x="5665" y="4763" width="591" height="513" frameX="-4033" frameY="-577" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Hammer0056" x="1547" y="5946" width="675" height="528" frameX="-4033" frameY="-577" frameWidth="6336" frameHeight="1263"/>
+	<SubTexture name="BF Ice Idle0000" x="1140" y="3529" width="434" height="403" frameX="-0" frameY="-12" frameWidth="440" frameHeight="416"/>
+</TextureAtlas>

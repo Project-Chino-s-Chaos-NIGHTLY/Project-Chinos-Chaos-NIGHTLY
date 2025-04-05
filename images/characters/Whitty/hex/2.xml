@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hex-1.png" width="1332" height="5573">
+	<SubTexture name="Shield Spin Agro0001" x="3" y="1418" width="643" height="701" frameX="-77" frameY="-254" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Sing Right Agro0001" x="3" y="2122" width="644" height="697" rotated="true" frameX="-199" frameY="-192" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0001" x="3" y="4892" width="656" height="678" rotated="true" frameX="-36" frameY="-0" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0005" x="3" y="711" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0007" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0009" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0010" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0011" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0012" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0013" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0014" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0015" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0016" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0017" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0018" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0019" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0020" x="655" y="3" width="674" height="704" rotated="true" frameX="-58" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0001" x="3" y="3" width="649" height="705" frameX="-7" frameY="-0" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0002" x="680" y="710" width="625" height="689" frameX="-0" frameY="-15" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0003" x="3" y="2822" width="625" height="689" frameX="-0" frameY="-15" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0004" x="649" y="1418" width="624" height="690" frameX="-1" frameY="-14" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0005" x="3" y="4206" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0006" x="604" y="3514" width="621" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0007" x="3" y="3514" width="598" height="689" frameX="-0" frameY="-15" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0008" x="631" y="2822" width="623" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0009" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0010" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0011" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0012" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0013" x="615" y="4200" width="623" height="676" frameX="-0" frameY="-28" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0014" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0015" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0016" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0017" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0018" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0019" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0020" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0021" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0022" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0023" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+	<SubTexture name="Whitty Electrocuted HIT RIGHT0024" x="650" y="2111" width="609" height="683" frameX="-1" frameY="-21" frameWidth="660" frameHeight="708"/>
+</TextureAtlas>

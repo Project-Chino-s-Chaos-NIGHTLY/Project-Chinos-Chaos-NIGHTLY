@@ -1,0 +1,23 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 175,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": false,
+	"parsedColor": -1768960,
+	"displayName": "Glitcher",
+	"icon": "Vs Hex/hex",
+	"name": "glitcher",
+	"color": "#E50200",
+	"customValues": {
+		"partText": "Vs Hex(?) ~ Electric Fight",
+		"preventHealthGain": "false",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"charter": "Rodney"
+	}
+}

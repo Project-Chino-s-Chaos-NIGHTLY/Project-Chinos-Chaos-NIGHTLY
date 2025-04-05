@@ -1,0 +1,24 @@
+<!DOCTYPE codename-engine-character>
+<character x="-2" y="350" camx="-154" camy="-132" sprite="boyfriend/ice" flipX="true" isPlayer="true" icon="Vs Whitty/bf-ice" color="#99FFFF" gameOverChar="bf-ice-dead" splashSkin="ice" noteSkin="NOTE_assets_ice">
+	<anim name="idle" anim="BF Ice Idle" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF Ice Sing Left0" x="17" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF Ice Sing Down 0" x="53" y="57" fps="24" loop="false" indices="0,1,2,3,4,5,6,16"/>
+	<anim name="singUP" anim="BF Ice Sing Up 0" x="21" y="46" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF Ice Sing Right 0" x="-18" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="BF Ice Sing Left Tired0" x="17" y="1" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="BF Ice Sing Down Tired0" x="53" y="57" fps="24" loop="false" indices="0,1,2,3,4,5,6,16"/>
+	<anim name="singUP-alt" anim="BF Ice Sing Up Tired0" x="21" y="46" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="BF Ice Sing Right Tired0" x="-18" y="1" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="BF Ice Sing Left MISS" x="102" y="48" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF Ice Sing Down MISS" x="132" y="57" fps="24" loop="false" indices="0,1,2,3,4,5,6,7,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36"/>
+	<anim name="singUPmiss" anim="BF Ice Sing Up MISS" x="55" y="141" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF Ice Sing Right MISS" x="58" y="106" fps="24" loop="false"/>
+	<anim name="singLEFTmiss-alt" anim="BF Ice Sing Left Tired MISS" x="102" y="48" fps="24" loop="false"/>
+	<anim name="singDOWNmiss-alt" anim="BF Ice Sing Down Tired MISS" x="132" y="58" fps="24" loop="false" indices="0,1,2,3,4,5,6,7,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36"/>
+	<anim name="singUPmiss-alt" anim="BF Ice Sing Up Tired MISS" x="55" y="142" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss-alt" anim="BF Ice Sing Right Tired MISS" x="59" y="105" fps="24" loop="false"/>
+	<anim name="hit" anim="BF Ice HIT" x="-19" y="9" fps="24" loop="false"/>
+	<anim name="block" anim="BF Ice hit " x="-16" y="0" fps="24" loop="false"/>
+	<anim name="throw" anim="BF Ice Bomb Throw" x="60" y="8" fps="24" loop="false"/>
+	<anim name="hey" anim="BF Ice HEY!! " x="-47" y="5" fps="24" loop="false"/>
+</character>

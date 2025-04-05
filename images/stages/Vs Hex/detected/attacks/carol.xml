@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="carol.png" width="1838" height="2114">
+	<SubTexture name="blast0000" x="3" y="2014" width="469" height="97" frameX="-982" frameY="-230" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0001" x="644" y="1444" width="502" height="575" frameX="-151" frameY="-78" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0002" x="1260" y="1429" width="575" height="667" frameX="-78" frameY="-32" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0003" x="3" y="755" width="638" height="728" frameX="-17" frameY="-10" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0004" x="3" y="3" width="655" height="749" frameX="-1" frameY="-0" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0005" x="661" y="3" width="634" height="733" frameX="-0" frameY="-20" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0006" x="661" y="739" width="596" height="702" frameX="-5" frameY="-43" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0007" x="1260" y="739" width="571" height="687" frameX="-22" frameY="-44" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0008" x="1298" y="3" width="479" height="650" frameX="-97" frameY="-56" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="blast0009" x="186" y="2008" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1453" frameHeight="753"/>
+	<SubTexture name="smoke0000" x="475" y="1722" width="153" height="220" frameX="-5" frameY="-26" frameWidth="184" frameHeight="264"/>
+	<SubTexture name="smoke0001" x="362" y="1486" width="162" height="233" frameX="-3" frameY="-19" frameWidth="184" frameHeight="264"/>
+	<SubTexture name="smoke0002" x="190" y="1486" width="169" height="244" frameX="-2" frameY="-12" frameWidth="184" frameHeight="264"/>
+	<SubTexture name="smoke0003" x="186" y="1753" width="175" height="252" frameX="-2" frameY="-7" frameWidth="184" frameHeight="264"/>
+	<SubTexture name="smoke0004" x="3" y="1753" width="180" height="258" frameX="-1" frameY="-3" frameWidth="184" frameHeight="264"/>
+	<SubTexture name="smoke0005" x="3" y="1486" width="184" height="264" frameX="-0" frameY="-0" frameWidth="184" frameHeight="264"/>
+	<SubTexture name="smoke0006" x="186" y="2008" width="1" height="1" frameX="-0" frameY="-0" frameWidth="184" frameHeight="264"/>
+</TextureAtlas>

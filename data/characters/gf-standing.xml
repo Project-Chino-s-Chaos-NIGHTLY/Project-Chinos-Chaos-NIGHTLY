@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character x="30" y="340" sprite="gf/standing" camx="-140" camy="50" icon="gf" color="#A5004D" interval="1" isGF="true">
+	<anim name="danceLeft" anim="GF bop happy copy" x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7"/>
+	<anim name="danceRight" anim="GF bop happy copy" x="0" y="0" fps="24" loop="false" indices="7,8,9,10,11,12,13,14,15"/>
+	<anim name="danceLeft-left" anim="GF bop look left" x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7"/>
+	<anim name="danceRight-left" anim="GF bop look left" x="0" y="0" fps="24" loop="false" indices="7,8,9,10,11,12,13,14,15"/>
+	<anim name="danceLeft-leftnerve" anim="GF bop look left concerned" x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7"/>
+	<anim name="danceRight-leftnerve" anim="GF bop look left concerned" x="0" y="0" fps="24" loop="false" indices="7,8,9,10,11,12,13,14,15"/>
+	<anim name="danceLeft-right" anim="GF bop look right" x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7"/>
+	<anim name="danceRight-right" anim="GF bop look right" x="0" y="0" fps="24" loop="false" indices="7,8,9,10,11,12,13,14,15"/>
+	<anim name="danceLeft-rightnerve" anim="GF bop look right nervouse b speed " x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7"/>
+	<anim name="danceRight-rightnerve" anim="GF bop look right nervouse b speed " x="0" y="0" fps="24" loop="false" indices="7,8,9,10,11,12,13,14,15"/>
+	<anim name="danceLeft-scared" anim="GF bop look up O_O" x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7"/>
+	<anim name="danceRight-scared" anim="GF bop look up O_O" x="0" y="0" fps="24" loop="false" indices="7,8,9,10,11,12,13,14,15"/>
+	<anim name="shock" anim="GF Shock" x="-43" y="10" fps="24" loop="false"/>
+</character>

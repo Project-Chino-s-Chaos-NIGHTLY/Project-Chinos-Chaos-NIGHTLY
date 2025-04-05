@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" y="200" sprite="carol" flipX="true" camx="-50" camy="100" icon="Vs Hex/carol" color="#666699">
+	<anim name="idle" anim="carol idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="carol left0" x="27" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="carol down" x="0" y="-2" fps="24" loop="false"/>
+	<anim name="singUP" anim="carol up0" x="0" y="30" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="carol right0" x="0" y="-1" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="carol idle hurt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="carol left angry" x="27" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="carol down" x="0" y="-2" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="carol up angry" x="0" y="30" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="carol right angry" x="0" y="-1" fps="24" loop="false"/>
+	<anim name="hit" anim="carol hit" x="78" y="59" fps="24" loop="false"/>
+	<anim name="singLEFT-hit" anim="carol elecrified HIT LEFT" x="-113" y="-25" fps="24" loop="false"/>
+	<anim name="singDOWN-hit" anim="carol electrified HIT DOWN" x="-19" y="-73" fps="24" loop="false"/>
+	<anim name="singUP-hit" anim="carol electrified HIT UP" x="-20" y="35" fps="24" loop="false"/>
+	<anim name="singRIGHT-hit" anim="carol elecrified HIT RIGHT" x="45" y="-16" fps="24" loop="false"/>
+	<anim name="powerdown" anim="carol powerdown" x="0" y="9" fps="24" loop="false"/>
+	<anim name="block" anim="carol shield" x="0" y="15" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,88 @@
+<!DOCTYPE codename-mod-options>
+<menu name="Chinos Options" desc="Modify PCC mod options here!">
+	<menu name="Main Options" desc="Some options to improve experience.">
+		<checkbox id="hideComboGroup" name="Hide Combo Sprites" desc="Make it so the Rating/Combo sprites don't show up."/>
+
+		<checkbox id="disableMechanics" name="Disable Mechanics" desc="There aren't a lot of mechanics, but for the ones that are there, this exists."/>
+
+		<choice id="menuTrack" name="Menu Track">
+			<value name="Cool n Fire" value="chaosMenu"/>
+
+			<value name="Fury Theme" value="galleryMenu"/>
+
+			<value name="Festive Showdown" value="festiveShowdown"/>
+
+			<value name="Stars In The Sky" value="starsInTheSky"/>
+
+			<value name="Shooting Stars" value="shootingStars"/>
+
+			<value name="Shy Guy Falls" value="shyGuyFalls"/>
+
+			<value name="Bad Piggies Theme" value="badPiggies"/>
+
+			<value name="Wii Sports" value="wiiSportsTheme"/>
+
+			<value name="Green Hill Zone" value="greenHillZone"/>
+
+			<value name="Stay Funky" value="stayFunky"/>
+
+			<value name="Lo Fight" value="loFight"/>
+
+			<value name="Last Christmas" value="lastChristmas"/>
+
+			<value name="Gettin Freaky" value="freakyMenu"/>
+
+			<value name="Random" value="random"/>
+
+			<value name="Thick of It" value="thickOfIt"/>
+		</choice>
+	</menu>
+
+	<menu name="Extra Options" desc="Some extra features">
+		<menu name="Lane Underlay Options" desc="Options for lane underlays">
+			<number id="underlayOpacity" name="Underlay Opacity" desc="Transparency of lane underlay. (50% is best, 0% is off)" min="0" max="100" change="5"/>
+
+			<checkbox id="laneTint" name="Tinted Lanes" desc="Will make the lanes slightly tinted to the note color."/>
+
+			<checkbox id="responsiveLanes" name="Responsive Lanes" desc="Will make lanes react to note press, if tint enabled, they will glow."/>
+		</menu>
+
+		<checkbox id="noteSquish" name="Squishy Notes" desc="When you press a note, the arrows will squish."/>
+
+		<checkbox id="comboNotes" name="Combo Notes" desc="Will do a cool note press thing if high combo."/>
+
+		<checkbox id="glitcherModchart" name="Enable Glitcher Modchart" desc="(NOT IMPLEMENTED) Self explanatory, enable's Glitcher's modchart."/>
+
+		<menu name="Time Bar" desc="Settings for Rodney's TimeBar Addon.">
+			<checkbox id="tbEnable" name="Enable TimeBar" desc="Do you wish to enable the timebar?"/>
+
+			<checkbox id="tbSongName" name="Show Song Name" desc="Should the timebar text show the song display name?"/>
+
+			<choice id="tbTimeType" name="Time Type" desc="How should it show the time?">
+				<value name="Elapsed" value="elapsed"/>
+
+				<value name="Remaining" value="remainder"/>
+
+				<value name="Dont Show" value="nothing"/>
+
+				<value name="How about Both?" value="both"/>
+			</choice>
+
+			<checkbox id="tbShowEndTime" name="Show End Time" desc="Should the timebar text show the end time?"/>
+
+			<checkbox id="tbTimeMS" name="Show Milliseconds" desc="Should the timebar text show milliseconds?                                                                                                   Note: This won't show on end time if the song has a perfect length."/>
+		</menu>
+	</menu>
+
+	<menu name="Potato Options" desc="mess with this shiz if your pc garbage af">
+		<checkbox id="basicGameplay" name="Have basic gameplay" desc="(NOT IMPLEMENTED) Have basic gameplay instead of the cool gameplay we coded just in case it's too much for you. Note that this removes most of the effects, so you won't get as authentic of an experience. The game will run better though."/>
+
+		<checkbox id="ghostingDisabled" name="Disable Ghosting" desc="No, unfortunately this won't stop you from getting ghosted by you ex-girlfriend. But it will turn off the ghosting effect when pressing a lot of notes in quick succession in ballistic. If you are having any performance issues, it is recommended you turn this setting on."/>
+
+		<checkbox id="playOgAnim" name="Play the og animation" desc="(NOT IMPLEMENTED) Play the original animation's video over the gameplay if you want an authentic experience. Note that some animations won't look right, and won't respond to misses. This also means it will disable any resource intensive assets, so it's great for performance"/>
+	</menu>
+
+	<menu name="Joke Options" desc="hehehaha">
+		<checkbox id="wallOfHeads" name="Wall of Heads" desc="It's a wall of heads!"/>
+	</menu>
+</menu>

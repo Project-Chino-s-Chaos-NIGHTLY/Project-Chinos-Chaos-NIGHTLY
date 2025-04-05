@@ -1,0 +1,62 @@
+<!DOCTYPE codename-engine-stage>
+<stage lockCamPos="true" startCamPosX="700" startCamPosY="500" folder="stages/Vs Whitty/alley/" name="alley" zoom="0.6">
+	<sprite x="-606" sprite="whittyWallSheets" y="-123" type="none" name="wall">
+		<anim loop="true" x="0" anim="stage 1" fps="24" y="0" type="none" name="stage 1"/>
+
+		<anim loop="true" x="0" anim="stage 2" fps="24" y="0" type="none" name="stage 2"/>
+
+		<anim loop="true" x="0" anim="stage 3" fps="24" y="0" type="none" name="stage 3"/>
+
+		<anim loop="false" x="0" anim="stage close" fps="24" y="0" type="none" name="stage close"/>
+	</sprite>
+
+	<sprite x="900" sprite="fireWalls" y="615" type="none" alpha="0.0001" name="smallFire5">
+		<anim loop="true" x="0" anim="Small flame instance 5" fps="24" y="0" type="loop" name="fire"/>
+	</sprite>
+
+	<gf x="586" scrolly="1" y="43" scrollx="1"/>
+
+	<sprite x="565" y="342" sprite="gfShield" type="none" name="gfShield">
+		<anim x="0" loop="false" y="0" fps="24" anim="Occurrence GF Shield 1" type="loop" name="shine"/>
+	</sprite>
+
+	<sprite x="544" sprite="fireWalls" y="678" type="none" alpha="0.0001" name="smallFire3">
+		<anim loop="true" x="0" anim="Small flame instance 3" fps="24" y="0" type="loop" name="fire"/>
+	</sprite>
+
+	<sprite x="1593" sprite="fireWalls" y="626" type="none" alpha="0.0001" name="smallFire4">
+		<anim loop="true" x="0" anim="Small flame instance 4" fps="24" y="0" type="loop" name="fire"/>
+	</sprite>
+
+	<sprite x="1100" sprite="iceGround" y="765" type="none" name="iceGround"/>
+
+	<sprite x="967" sprite="icePed" y="497" type="none" name="icePed" alpha="0.0001">
+		<anim loop="false" x="-131" anim="spawn" fps="24" y="-65" type="none" name="spawn"/>
+
+		<anim loop="false" x="0" anim="destroy" fps="24" y="0" type="none" name="destroy"/>
+	</sprite>
+
+	<boyfriend x="1110.5" y="114"/>
+
+	<sprite x="867" y="370" sprite="iceShield" type="none" name="iceShield">
+		<anim x="0" loop="false" y="0" fps="24" anim="Ice Blast  10" type="none" name="blast"/>
+
+		<anim x="0" loop="false" y="0" fps="24" anim="ice shield 1" type="none" name="shield"/>
+	</sprite>
+
+	<sprite x="-572" sprite="fireWalls" y="271" type="none" alpha="0.0001" name="smallFire1">
+		<anim loop="true" x="0" anim="Small flame instance 1" fps="24" y="0" type="loop" name="fire"/>
+	</sprite>
+
+	<sprite x="44" sprite="fireWalls" y="631" type="none" alpha="0.0001" name="smallFire2">
+		<anim loop="true" x="0" anim="Small flame instance 2" fps="24" y="0" type="loop" name="fire"/>
+	</sprite>
+
+	<dad x="-50" y="129.5"/>
+
+	<sprite x="-518" sprite="fireWalls" y="804" type="none" alpha="0.0001" name="fireWall">
+		<anim loop="true" x="0" anim="Flame wall instance 1" fps="24" y="0" type="loop" name="fire"/>
+	</sprite>
+
+	<combo x="656" y="105"/>
+</stage>

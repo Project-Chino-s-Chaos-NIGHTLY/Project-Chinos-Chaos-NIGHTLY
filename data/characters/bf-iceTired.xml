@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character x="-2" y="350" sprite="boyfriend/ice-tired" flipX="true" camx="-154" camy="-132" isPlayer="true" icon="Vs Whitty/bf-ice" color="#99FFFF" gameOverChar="bf-ice-dead" splashSkin="ice" noteSkin="NOTE_assets_ice">
+	<anim name="idle" anim="BF Ice Idle Tired" x="-43" y="-27" fps="24" loop="true"/>
+	<anim name="idleDefault" anim="BF Ice Idle0" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF Ice Sing Left Tired0" x="17" y="1" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF Ice Sing Down Tired0" x="53" y="57" fps="24" loop="false" indices="0..6,16"/>
+	<anim name="singUP" anim="BF Ice Sing Up Tired0" x="21" y="46" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF Ice Sing Right  Tired0" x="-18" y="1" fps="24" loop="false"/>
+	<anim name="hit" anim="BF Ice HIT" x="-17" y="8" fps="24" loop="false"/>
+	<anim name="bonk" anim="BF Ice HIt down " x="69" y="-40" fps="24" loop="false"/>
+</character>

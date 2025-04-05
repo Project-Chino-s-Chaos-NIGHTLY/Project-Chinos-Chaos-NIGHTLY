@@ -1,0 +1,31 @@
+{
+    "noteSkin": {
+        "strumSpecific": [
+            {
+                "strums": "hex",
+                "notes": "hex"
+            },
+            {
+                "strums": "electric",
+                "notes": "electric"
+            },
+            {
+                "strums": "gf",
+                "notes": "gf"
+            },
+            {
+                "strums": "fire",
+                "notes": "fire"
+            },
+            {
+                "strums": "carol",
+                "notes": "carol"
+            },
+            {
+                "strums": "robot",
+                "notes": "robot"
+            }
+        ]
+    },
+    "splashSkin": "vanilla"
+}

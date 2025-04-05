@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bf vs Whitty Sprites (Part 1 and 2).png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="anim10000" x="2" y="2" width="138" height="104"/>
+	<SubTexture name="anim10001" x="2" y="2" width="138" height="104"/>
+	<SubTexture name="anim10002" x="2" y="2" width="138" height="104"/>
+	<SubTexture name="anim10003" x="2" y="2" width="138" height="104"/>
+	<SubTexture name="anim10004" x="2" y="2" width="138" height="104"/>
+	<SubTexture name="anim10005" x="2" y="2" width="138" height="104"/>
+	<SubTexture name="anim10006" x="2" y="2" width="138" height="104"/>
+	<SubTexture name="anim10007" x="2" y="2" width="138" height="104"/>
+	<SubTexture name="anim20008" x="2" y="108" width="138" height="104"/>
+	<SubTexture name="anim20009" x="2" y="214" width="138" height="104"/>
+	<SubTexture name="anim20010" x="2" y="320" width="138" height="104"/>
+	<SubTexture name="anim20011" x="2" y="320" width="138" height="104"/>
+	<SubTexture name="anim20012" x="142" y="2" width="138" height="104"/>
+	<SubTexture name="anim20013" x="142" y="2" width="138" height="104"/>
+	<SubTexture name="anim20014" x="142" y="108" width="138" height="104"/>
+	<SubTexture name="anim20015" x="142" y="108" width="138" height="104"/>
+	<SubTexture name="anim30016" x="142" y="214" width="138" height="104"/>
+	<SubTexture name="anim30017" x="142" y="214" width="138" height="104"/>
+	<SubTexture name="anim30018" x="142" y="214" width="138" height="104"/>
+	<SubTexture name="anim30019" x="142" y="214" width="138" height="104"/>
+	<SubTexture name="anim30020" x="142" y="214" width="138" height="104"/>
+	<SubTexture name="anim3021" x="142" y="214" width="138" height="104"/>
+	<SubTexture name="anim3022" x="142" y="214" width="138" height="104"/>
+	<SubTexture name="anim3023" x="142" y="214" width="138" height="104"/>
+</TextureAtlas>

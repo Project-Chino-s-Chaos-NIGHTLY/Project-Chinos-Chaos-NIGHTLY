@@ -1,0 +1,13 @@
+{
+    "sprite": "hex",
+    "animation": "Corrupted Hex Idle",
+    "offsets": {
+        "x": 50,
+        "y": 100
+    },
+    "scale": {
+        "x": 2.6,
+        "y": 2.6
+    },
+    "framerate": 24
+}

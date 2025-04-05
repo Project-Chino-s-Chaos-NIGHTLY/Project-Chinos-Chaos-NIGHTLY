@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" y="385" sprite="boyfriend/scream" flipX="true" isPlayer="true" icon="Vs Whitty/bf-ice" color="#99FFFF" gameOverChar="bf-ice-dead" splashSkin="ice" noteSkin="NOTE_assets_ice">
+	<anim name="idle" anim="BF Ballistic Idle" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="scream" anim="BF Ballistic Scream" x="2700" y="2200" fps="24" loop="true"/>
+	<anim name="powerup" anim="BF Ballistic Powerup" x="60" y="605" fps="24" loop="false"/>
+</character>

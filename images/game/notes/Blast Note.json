@@ -1,0 +1,30 @@
+{
+    "spriteName": "robot",
+    "splashSkin": {
+        "overrideSongSkin": true,
+        "name": "default"
+    },
+    "offsets": {
+        "sustains": [
+            0,
+            0
+        ],
+        "confirm": [
+            -2,
+            1
+        ],
+        "notes": [
+            -45,
+            42
+        ],
+        "statics": [
+            0,
+            0
+        ],
+        "pressed": [
+            0,
+            0
+        ]
+    },
+    "defaultAfterPress": true
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="robot.png" width="1001" height="892">
+	<SubTexture name="Laser Bottom Full0000" x="3" y="173" width="993" height="130" frameX="-0" frameY="-0" frameWidth="993" frameHeight="130"/>
+	<SubTexture name="Laser Bottom Full0001" x="3" y="306" width="993" height="119" frameX="-0" frameY="-4" frameWidth="993" frameHeight="130"/>
+	<SubTexture name="Laser Bottom Full0002" x="3" y="567" width="988" height="106" frameX="-3" frameY="-9" frameWidth="993" frameHeight="130"/>
+	<SubTexture name="Laser Bottom Full0003" x="3" y="748" width="941" height="100" frameX="-22" frameY="-13" frameWidth="993" frameHeight="130"/>
+	<SubTexture name="Laser Bottom Full0004" x="337" y="888" width="1" height="1" frameX="-0" frameY="-0" frameWidth="993" frameHeight="130"/>
+	<SubTexture name="Laser Mid Full0000" x="3" y="428" width="993" height="34" frameX="-0" frameY="-0" frameWidth="993" frameHeight="34"/>
+	<SubTexture name="Laser Mid Full0001" x="3" y="465" width="993" height="21" frameX="-0" frameY="-6" frameWidth="993" frameHeight="34"/>
+	<SubTexture name="Laser Mid Full0002" x="3" y="559" width="990" height="5" frameX="-2" frameY="-15" frameWidth="993" frameHeight="34"/>
+	<SubTexture name="Laser Mid Full0003" x="3" y="741" width="943" height="4" frameX="-20" frameY="-17" frameWidth="993" frameHeight="34"/>
+	<SubTexture name="Laser Mid Full0004" x="337" y="888" width="1" height="1" frameX="-0" frameY="-0" frameWidth="993" frameHeight="34"/>
+	<SubTexture name="Laser Mid Half0000" x="3" y="851" width="331" height="38" frameX="-0" frameY="-0" frameWidth="332" frameHeight="38"/>
+	<SubTexture name="Laser Mid Half0001" x="337" y="851" width="331" height="24" frameX="-0" frameY="-7" frameWidth="332" frameHeight="38"/>
+	<SubTexture name="Laser Mid Half0002" x="337" y="878" width="331" height="7" frameX="-0" frameY="-16" frameWidth="332" frameHeight="38"/>
+	<SubTexture name="Laser Mid Half0003" x="671" y="851" width="315" height="6" frameX="-7" frameY="-18" frameWidth="332" frameHeight="38"/>
+	<SubTexture name="Laser Mid Half0004" x="337" y="888" width="1" height="1" frameX="-0" frameY="-0" frameWidth="332" frameHeight="38"/>
+	<SubTexture name="Laser Top Full0000" x="3" y="3" width="995" height="87" frameX="-0" frameY="-0" frameWidth="995" frameHeight="87"/>
+	<SubTexture name="Laser Top Full0001" x="3" y="93" width="995" height="77" frameX="-0" frameY="-5" frameWidth="995" frameHeight="87"/>
+	<SubTexture name="Laser Top Full0002" x="3" y="489" width="992" height="67" frameX="-2" frameY="-12" frameWidth="995" frameHeight="87"/>
+	<SubTexture name="Laser Top Full0003" x="3" y="676" width="944" height="62" frameX="-21" frameY="-15" frameWidth="995" frameHeight="87"/>
+	<SubTexture name="Laser Top Full0004" x="337" y="888" width="1" height="1" frameX="-0" frameY="-0" frameWidth="995" frameHeight="87"/>
+</TextureAtlas>

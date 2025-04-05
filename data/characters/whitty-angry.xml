@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character y="-90" sprite="whitty/angry" icon="Vs Whitty/whitty-angry" color="#1D1E35">
+	<anim name="idle" anim="Idle Agro" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="Sing Left Agro" x="235" y="-23" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Sing Down Agro " x="64" y="-18" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up Agro" x="61" y="123" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Sing Right Agro" x="-10" y="-20" fps="24" loop="false"/>
+	<anim name="spin" anim="Shield Spin Agro" x="216" y="102" fps="24" loop="false"/>
+	<anim name="heatup" anim="Heated Up Agro copy" x="-11" y="-28" fps="24" loop="false"/>
+	<anim name="cooleddown" anim="Cold Down Agro" x="-11" y="-27" fps="24" loop="false"/>
+	<anim name="snap" anim="Click Agro" x="136" y="-32" fps="24" loop="false"/>
+	<anim name="hit" anim="Hit Agro " x="8" y="2" fps="24" loop="false"/>
+	<anim name="scream" anim="Whitty scream Agro" x="25" y="-152" fps="24" loop="false"/>
+</character>

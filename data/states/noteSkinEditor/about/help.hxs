@@ -1,0 +1,33 @@
+import funkin.backend.assets.ModsFolder;
+import funkin.editors.ui.UIState;
+import funkin.editors.ui.UISprite;
+import funkin.editors.ui.UIText;
+import funkin.editors.ui.UIButton;
+import funkin.editors.ui.UITextBox;
+import funkin.editors.ui.UIDropDown;
+import funkin.options.type.IconOption;
+
+import haxe.io.Path;
+import haxe.Json;
+import sys.io.File;
+import sys.FileSystem;
+function create() {
+	winTitle = 'Help';
+
+	winWidth = 330;
+	winHeight = 150;
+}
+var daName:String;
+function postCreate() {
+	titleSpr.x -= 20;
+	var splashText:UIText = new UIText(windowSpr.x + 5, windowSpr.y + 40, null, "If you have questions or concerns\nDM me on discord: @NebulaStellaNova");
+    add(splashText);
+
+    var saveButton = new UIButton(windowSpr.x + windowSpr.bWidth - 10, windowSpr.y + windowSpr.bHeight - 16 - 32, "Ok", function() {
+        close();
+	}, 75);
+	saveButton.frames = Paths.getFrames("editors/ui/grayscale-button");
+	saveButton.color = 0xFF00FF00;
+	saveButton.x -= saveButton.bWidth;
+    add(saveButton);
+}

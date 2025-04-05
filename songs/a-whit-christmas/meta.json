@@ -1,0 +1,28 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 165,
+	"difficulties": [
+		"Hard"
+	],
+	"needsVoices": false,
+	"parsedColor": -16711936,
+	"displayName": "A Whit Christmas",
+	"icon": "Vs Whitty/whitty",
+	"name": "a-whit-christmas",
+	"color": "#00FF00",
+	"customValues": {
+		"partText": "Vs Whitty ~ Extras: Holiday Update",
+		"decoration": {
+			"file": "snowfall",
+			"animation": "Snow Falling",
+			"position": {
+				"x": "center",
+				"y": "center"
+			},
+			"scale": 0.5
+		}
+	}
+}

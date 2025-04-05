@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="-15" y="280" sprite="gf/demon" camx="-140" camy="100" icon="gf" color="#A5004D" isGF="true">
+	<anim name="idle" anim="GF Ballistic Idle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singDOWN" anim="GF Ballistic Down" x="-9" y="-83" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="GF Ballistic Right" x="-28" y="-71" fps="24" loop="false"/>
+	<anim name="demon time" anim="GF Ballistic Hit" x="0" y="-57" fps="24" loop="false"/>
+</character>

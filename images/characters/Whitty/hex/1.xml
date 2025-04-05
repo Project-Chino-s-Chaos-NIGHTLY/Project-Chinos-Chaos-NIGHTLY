@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hex-0.png" width="8192" height="8195">
+	<SubTexture name="Click0000" x="4445" y="824" width="485" height="816" frameX="-69" frameY="-17" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0001" x="3958" y="834" width="484" height="819" frameX="-72" frameY="-14" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0002" x="3958" y="834" width="484" height="819" frameX="-72" frameY="-14" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0003" x="4591" y="3" width="484" height="816" frameX="-70" frameY="-17" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0004" x="5241" y="2460" width="570" height="802" frameX="-36" frameY="-31" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0005" x="4797" y="3294" width="600" height="804" frameX="-11" frameY="-29" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0006" x="4844" y="1643" width="627" height="814" frameX="-1" frameY="-19" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0007" x="4933" y="822" width="628" height="814" frameX="-0" frameY="-19" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0008" x="2697" y="6800" width="548" height="816" frameX="-0" frameY="-17" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0009" x="2697" y="7619" width="816" height="504" rotated="true" frameX="-44" frameY="-17" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0010" x="3095" y="5907" width="505" height="816" frameX="-43" frameY="-17" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0011" x="3495" y="5060" width="488" height="816" frameX="-61" frameY="-17" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0012" x="5474" y="1639" width="474" height="801" frameX="-56" frameY="-32" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0013" x="5474" y="1639" width="474" height="801" frameX="-56" frameY="-32" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0014" x="3451" y="3" width="371" height="833" frameX="-110" frameY="-0" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Click0015" x="3451" y="3" width="371" height="833" frameX="-110" frameY="-0" frameWidth="633" frameHeight="836"/>
+	<SubTexture name="Hit Agro0001" x="3986" y="4996" width="390" height="807" frameX="-30" frameY="-62" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0002" x="3248" y="6726" width="372" height="809" frameX="-31" frameY="-60" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0003" x="3603" y="5879" width="372" height="809" frameX="-31" frameY="-60" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0004" x="3516" y="7538" width="808" height="372" rotated="true" frameX="-31" frameY="-61" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0005" x="3623" y="6691" width="372" height="808" frameX="-31" frameY="-61" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0006" x="3978" y="5879" width="372" height="808" frameX="-31" frameY="-61" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0007" x="3998" y="6690" width="372" height="808" frameX="-31" frameY="-61" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0008" x="4216" y="3" width="372" height="818" frameX="-31" frameY="-51" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0009" x="4216" y="3" width="372" height="818" frameX="-31" frameY="-51" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0010" x="3825" y="3" width="388" height="828" frameX="-15" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0011" x="3825" y="3" width="388" height="828" frameX="-15" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0012" x="2280" y="6119" width="403" height="828" frameX="-0" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0013" x="2280" y="6119" width="403" height="828" frameX="-0" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0014" x="2280" y="6119" width="403" height="828" frameX="-0" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0015" x="2280" y="6119" width="403" height="828" frameX="-0" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0016" x="2280" y="6119" width="403" height="828" frameX="-0" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0017" x="2280" y="6119" width="403" height="828" frameX="-0" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0018" x="2680" y="5140" width="403" height="828" frameX="-0" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0019" x="2274" y="5284" width="403" height="832" frameX="-0" frameY="-37" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0020" x="866" y="6439" width="403" height="846" frameX="-0" frameY="-23" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0021" x="460" y="6580" width="403" height="864" frameX="-0" frameY="-5" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0022" x="3" y="5714" width="403" height="869" frameX="-0" frameY="-0" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0023" x="394" y="4838" width="403" height="869" frameX="-0" frameY="-0" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Hit Agro0024" x="2280" y="6119" width="403" height="828" frameX="-0" frameY="-41" frameWidth="424" frameHeight="872"/>
+	<SubTexture name="Idle Agro hurt0001" x="3890" y="4178" width="557" height="815" frameX="-51" frameY="-29" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0002" x="2618" y="4307" width="452" height="830" frameX="-114" frameY="-14" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0003" x="1987" y="4443" width="628" height="838" frameX="-1" frameY="-6" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0004" x="2619" y="3414" width="606" height="830" frameX="-43" frameY="-14" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0005" x="3321" y="2522" width="428" height="826" frameX="-153" frameY="-18" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0006" x="1678" y="6436" width="599" height="842" frameX="-32" frameY="-2" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0007" x="1868" y="5563" width="403" height="842" frameX="-156" frameY="-2" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0008" x="1272" y="5589" width="593" height="844" frameX="-38" frameY="-0" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0009" x="3073" y="4247" width="403" height="828" frameX="-156" frameY="-16" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0010" x="1345" y="7283" width="403" height="843" frameX="-156" frameY="-1" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0011" x="1868" y="5563" width="403" height="842" frameX="-156" frameY="-2" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0012" x="1272" y="6436" width="403" height="844" frameX="-156" frameY="-0" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0013" x="3073" y="4247" width="403" height="828" frameX="-156" frameY="-16" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0014" x="1345" y="7283" width="403" height="843" frameX="-156" frameY="-1" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0015" x="1868" y="5563" width="403" height="842" frameX="-156" frameY="-2" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro hurt0016" x="1581" y="4716" width="403" height="844" frameX="-156" frameY="-0" frameWidth="658" frameHeight="848"/>
+	<SubTexture name="Idle Agro0001" x="2051" y="2622" width="437" height="841" frameX="-14" frameY="-26" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0002" x="1061" y="2744" width="452" height="858" frameX="-1" frameY="-9" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0003" x="3" y="6586" width="454" height="867" frameX="-0" frameY="-0" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0004" x="409" y="5710" width="454" height="867" frameX="-0" frameY="-0" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0005" x="2686" y="5971" width="406" height="826" frameX="-40" frameY="-41" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0006" x="3086" y="5078" width="406" height="826" frameX="-40" frameY="-41" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0007" x="2280" y="6119" width="403" height="828" frameX="-43" frameY="-39" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0008" x="2280" y="6119" width="403" height="828" frameX="-43" frameY="-39" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0009" x="2280" y="6119" width="403" height="828" frameX="-43" frameY="-39" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0010" x="2280" y="6119" width="403" height="828" frameX="-43" frameY="-39" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0011" x="2280" y="6119" width="403" height="828" frameX="-43" frameY="-39" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0012" x="3479" y="4233" width="408" height="824" frameX="-38" frameY="-43" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0013" x="3479" y="4233" width="408" height="824" frameX="-38" frameY="-43" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0014" x="4367" y="3347" width="427" height="815" frameX="-22" frameY="-52" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0015" x="2906" y="2570" width="412" height="829" frameX="-37" frameY="-38" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Idle Agro0016" x="2491" y="2575" width="412" height="836" frameX="-37" frameY="-31" frameWidth="458" frameHeight="871"/>
+	<SubTexture name="Shield Spin Agro0002" x="7515" y="5467" width="643" height="715" frameX="-77" frameY="-240" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0003" x="5951" y="1620" width="741" height="779" frameX="-100" frameY="-162" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0004" x="800" y="4722" width="778" height="864" frameX="-57" frameY="-17" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0005" x="3069" y="1690" width="724" height="829" rotated="true" frameX="-20" frameY="-10" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0006" x="1013" y="1861" width="705" height="880" rotated="true" frameX="-0" frameY="-0" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0007" x="1013" y="1861" width="705" height="880" rotated="true" frameX="-0" frameY="-0" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0008" x="3" y="7456" width="866" height="713" frameX="-11" frameY="-17" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0009" x="3" y="7456" width="866" height="713" frameX="-11" frameY="-17" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0010" x="3752" y="2522" width="753" height="822" rotated="true" frameX="-21" frameY="-58" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0011" x="3752" y="2522" width="753" height="822" rotated="true" frameX="-21" frameY="-58" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0012" x="3228" y="3402" width="403" height="828" frameX="-251" frameY="-139" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0013" x="3228" y="3402" width="403" height="828" frameX="-251" frameY="-139" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0014" x="3228" y="3402" width="403" height="828" frameX="-251" frameY="-139" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0015" x="3228" y="3402" width="403" height="828" frameX="-251" frameY="-139" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Shield Spin Agro0016" x="3228" y="3402" width="403" height="828" frameX="-251" frameY="-139" frameWidth="884" frameHeight="970"/>
+	<SubTexture name="Sing Down Agro0001" x="683" y="968" width="700" height="890" rotated="true" frameX="-0" frameY="-137" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0002" x="6428" y="7183" width="670" height="730" rotated="true" frameX="-167" frameY="-163" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0003" x="5546" y="4057" width="662" height="769" rotated="true" frameX="-161" frameY="-170" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0004" x="4373" y="6616" width="669" height="793" rotated="true" frameX="-153" frameY="-164" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0005" x="4373" y="6616" width="669" height="793" rotated="true" frameX="-153" frameY="-164" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0006" x="4379" y="4996" width="677" height="806" rotated="true" frameX="-148" frameY="-157" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0007" x="4379" y="4996" width="677" height="806" rotated="true" frameX="-148" frameY="-157" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0008" x="5564" y="817" width="702" height="800" rotated="true" frameX="-159" frameY="-135" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0009" x="5564" y="817" width="702" height="800" rotated="true" frameX="-159" frameY="-135" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0010" x="5078" y="3" width="730" height="811" rotated="true" frameX="-156" frameY="-112" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0011" x="5078" y="3" width="730" height="811" rotated="true" frameX="-156" frameY="-112" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0012" x="4296" y="1656" width="545" height="817" frameX="-428" frameY="-35" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0013" x="4296" y="1656" width="545" height="817" frameX="-428" frameY="-35" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0014" x="872" y="7288" width="470" height="846" frameX="-493" frameY="-2" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0015" x="872" y="7288" width="470" height="846" frameX="-493" frameY="-2" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0016" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0017" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0018" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0019" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0020" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0021" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0022" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0023" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Down Agro0024" x="2653" y="3" width="404" height="847" frameX="-494" frameY="-0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Sing Left Agro0001" x="6235" y="6436" width="603" height="744" frameX="-10" frameY="-61" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0002" x="5772" y="7191" width="653" height="745" frameX="-6" frameY="-60" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0003" x="6908" y="3996" width="660" height="739" frameX="-8" frameY="-66" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0004" x="7515" y="4738" width="652" height="726" frameX="-5" frameY="-79" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0005" x="7515" y="4738" width="652" height="726" frameX="-5" frameY="-79" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0006" x="7515" y="6185" width="576" height="714" frameX="-11" frameY="-94" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0007" x="7515" y="6185" width="576" height="714" frameX="-11" frameY="-94" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0008" x="7571" y="3504" width="556" height="716" frameX="-13" frameY="-91" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0009" x="7571" y="3504" width="556" height="716" frameX="-13" frameY="-91" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0010" x="5680" y="6436" width="552" height="752" frameX="-19" frameY="-81" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0011" x="5680" y="6436" width="552" height="752" frameX="-19" frameY="-81" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0012" x="5901" y="3233" width="510" height="769" frameX="-52" frameY="-68" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0013" x="5901" y="3233" width="510" height="769" frameX="-52" frameY="-68" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0014" x="6324" y="3" width="520" height="777" frameX="-46" frameY="-61" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0015" x="6324" y="3" width="520" height="777" frameX="-46" frameY="-61" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0016" x="2156" y="3466" width="460" height="838" frameX="-16" frameY="-4" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0017" x="2156" y="3466" width="460" height="838" frameX="-16" frameY="-4" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0018" x="1751" y="7281" width="477" height="842" frameX="-0" frameY="-0" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0019" x="1751" y="7281" width="477" height="842" frameX="-0" frameY="-0" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0020" x="2231" y="7281" width="463" height="842" frameX="-0" frameY="-0" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0021" x="2231" y="7281" width="463" height="842" frameX="-0" frameY="-0" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0022" x="1716" y="3598" width="437" height="842" frameX="-0" frameY="-0" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0023" x="1716" y="3598" width="437" height="842" frameX="-0" frameY="-0" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Left Agro0024" x="1716" y="3598" width="437" height="842" frameX="-0" frameY="-0" frameWidth="672" frameHeight="845"/>
+	<SubTexture name="Sing Right Agro0002" x="1118" y="3" width="640" height="883" rotated="true" frameX="-11" frameY="-195" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0003" x="1386" y="889" width="644" height="877" rotated="true" frameX="-2" frameY="-191" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0004" x="1056" y="3851" width="657" height="862" rotated="true" frameX="-6" frameY="-179" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0005" x="1056" y="3851" width="657" height="862" rotated="true" frameX="-6" frameY="-179" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0006" x="2033" y="880" width="698" height="849" rotated="true" frameX="-0" frameY="-143" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0007" x="2033" y="880" width="698" height="849" rotated="true" frameX="-0" frameY="-143" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0008" x="3634" y="3351" width="730" height="824" rotated="true" frameX="-1" frameY="-114" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0009" x="3634" y="3351" width="730" height="824" rotated="true" frameX="-1" frameY="-114" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0010" x="4508" y="2476" width="730" height="815" rotated="true" frameX="-0" frameY="-115" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0011" x="4508" y="2476" width="730" height="815" rotated="true" frameX="-0" frameY="-115" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0012" x="2734" y="853" width="739" height="834" rotated="true" frameX="-67" frameY="-108" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0013" x="2734" y="853" width="739" height="834" rotated="true" frameX="-67" frameY="-108" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0014" x="4327" y="7501" width="807" height="691" rotated="true" frameX="-272" frameY="-40" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0015" x="4353" y="5806" width="428" height="807" frameX="-535" frameY="-40" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0016" x="2655" y="1732" width="411" height="835" frameX="-569" frameY="-12" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0017" x="2655" y="1732" width="411" height="835" frameX="-569" frameY="-12" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0018" x="866" y="5589" width="403" height="847" frameX="-576" frameY="-0" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0019" x="866" y="5589" width="403" height="847" frameX="-576" frameY="-0" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0020" x="866" y="5589" width="403" height="847" frameX="-576" frameY="-0" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0021" x="866" y="5589" width="403" height="847" frameX="-576" frameY="-0" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0022" x="866" y="5589" width="403" height="847" frameX="-576" frameY="-0" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0023" x="866" y="5589" width="403" height="847" frameX="-576" frameY="-0" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Sing Right Agro0024" x="866" y="5589" width="403" height="847" frameX="-576" frameY="-0" frameWidth="982" frameHeight="850"/>
+	<SubTexture name="Up Agro0001" x="4450" y="4165" width="585" height="806" frameX="-44" frameY="-163" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0002" x="383" y="1955" width="627" height="947" frameX="-26" frameY="-25" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0003" x="3" y="3881" width="659" height="954" frameX="-9" frameY="-18" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0004" x="383" y="2905" width="675" height="943" frameX="-2" frameY="-28" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0005" x="383" y="2905" width="675" height="943" frameX="-2" frameY="-28" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0006" x="3" y="989" width="677" height="963" frameX="-0" frameY="-6" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0007" x="3" y="989" width="677" height="963" frameX="-0" frameY="-6" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0008" x="472" y="3" width="643" height="962" frameX="-13" frameY="-5" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0009" x="472" y="3" width="643" height="962" frameX="-13" frameY="-5" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0010" x="3" y="3" width="466" height="983" frameX="-171" frameY="-0" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0011" x="3" y="3" width="466" height="983" frameX="-171" frameY="-0" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0012" x="3" y="1955" width="377" height="960" frameX="-220" frameY="-26" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0013" x="3" y="2918" width="377" height="960" frameX="-220" frameY="-26" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0014" x="1721" y="1769" width="388" height="850" frameX="-218" frameY="-138" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0015" x="665" y="3851" width="388" height="868" frameX="-218" frameY="-120" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0016" x="3" y="4838" width="388" height="873" frameX="-218" frameY="-115" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0017" x="1761" y="3" width="388" height="874" frameX="-218" frameY="-114" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0018" x="3060" y="3" width="388" height="834" frameX="-218" frameY="-154" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0019" x="3060" y="3" width="388" height="834" frameX="-218" frameY="-154" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0020" x="3060" y="3" width="388" height="834" frameX="-218" frameY="-154" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0021" x="3060" y="3" width="388" height="834" frameX="-218" frameY="-154" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0022" x="3060" y="3" width="388" height="834" frameX="-218" frameY="-154" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0023" x="3060" y="3" width="388" height="834" frameX="-218" frameY="-154" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Up Agro0024" x="3060" y="3" width="388" height="834" frameX="-218" frameY="-154" frameWidth="680" frameHeight="991"/>
+	<SubTexture name="Whitty Agro Hit 30001" x="6252" y="5595" width="715" height="744" frameX="-10" frameY="-23" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30002" x="6414" y="3233" width="700" height="760" frameX="-0" frameY="-4" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30003" x="6580" y="2402" width="755" height="760" frameX="-0" frameY="-4" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30004" x="4784" y="5805" width="763" height="789" rotated="true" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30005" x="5550" y="5670" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30006" x="6269" y="802" width="763" height="778" rotated="true" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30007" x="5694" y="4829" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30008" x="5814" y="2443" width="763" height="787" rotated="true" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30009" x="7035" y="780" width="685" height="758" frameX="-15" frameY="-5" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30010" x="5694" y="4829" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30011" x="5694" y="4829" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30012" x="5694" y="4829" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30013" x="5694" y="4829" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30014" x="5694" y="4829" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30015" x="5694" y="4829" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Agro Hit 30016" x="5694" y="4829" width="699" height="763" frameX="-1" frameY="-0" frameWidth="799" frameHeight="770"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0002" x="7390" y="1541" width="758" height="635" frameX="-10" frameY="-23" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0003" x="7390" y="2179" width="758" height="639" frameX="-10" frameY="-23" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0004" x="6847" y="3" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0005" x="7482" y="3" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0006" x="5045" y="6597" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0007" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0008" x="5059" y="4893" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0009" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0010" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0011" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0012" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0013" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0014" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0015" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0016" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0017" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0018" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0019" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT DOWN0020" x="5137" y="7374" width="632" height="774" rotated="true" frameX="-0" frameY="-26" frameWidth="778" frameHeight="670"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0001" x="6841" y="6342" width="671" height="729" rotated="true" frameX="-29" frameY="-24" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0002" x="7515" y="6902" width="674" height="708" rotated="true" frameX="-53" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0003" x="6396" y="4770" width="674" height="744" rotated="true" frameX="-17" frameY="-21" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0004" x="7338" y="2821" width="754" height="680" frameX="-8" frameY="-15" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0006" x="6695" y="1583" width="692" height="759" rotated="true" frameX="-3" frameY="-3" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT LEFT0008" x="6211" y="4005" width="694" height="762" rotated="true" frameX="-0" frameY="-1" frameWidth="766" frameHeight="698"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0001" x="3476" y="839" width="479" height="829" frameX="-41" frameY="-28" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0002" x="5811" y="3" width="510" height="796" frameX="-41" frameY="-57" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0003" x="3796" y="1671" width="497" height="820" frameX="-43" frameY="-32" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0004" x="1516" y="2744" width="532" height="851" frameX="-9" frameY="-1" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0005" x="5038" y="4101" width="505" height="789" frameX="-36" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0006" x="2112" y="1732" width="540" height="840" frameX="-1" frameY="-12" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0007" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0008" x="2152" y="3" width="498" height="849" frameX="-43" frameY="-3" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0009" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0010" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0011" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0012" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0013" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0014" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0015" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+	<SubTexture name="Whitty Electrocuted HIT UP0016" x="5400" y="3265" width="498" height="789" frameX="-43" frameY="-63" frameWidth="555" frameHeight="861"/>
+</TextureAtlas>

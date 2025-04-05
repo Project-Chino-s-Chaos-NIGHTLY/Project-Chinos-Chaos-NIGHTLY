@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-week>
+<week name="Knife Fight" chars="chara" sprite="fight4">
+	<difficulty name="HARD"/>
+
+	<song>megalo-strike-back</song>
+</week>

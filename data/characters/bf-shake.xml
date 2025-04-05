@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="3" y="350" sprite="boyfriend/shake" flipX="true" camx="-46" camy="-56" isPlayer="true" icon="bf">
+	<anim name="shake" anim="BF head shake" x="-5" y="0" fps="24" loop="false"/>
+</character>

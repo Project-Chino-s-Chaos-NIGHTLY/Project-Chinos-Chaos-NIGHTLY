@@ -1,0 +1,544 @@
+import haxe.io.Path;
+
+import funkin.backend.system.framerate.Framerate;
+import funkin.options.type.TextOption;
+import funkin.options.type.PortraitOption;
+import funkin.options.type.IconOption;
+import funkin.options.type.NewOption;
+import funkin.options.OptionsScreen;
+import funkin.editors.ui.UISubstateWindow;
+import funkin.editors.ui.UIState;
+import flixel.addons.display.FlxBackdrop;
+import flixel.util.FlxGradient;
+import funkin.editors.EditorTreeMenu;
+import funkin.backend.utils.WindowUtils;
+
+import funkin.game.StrumLine;
+import flixel.math.FlxPoint;
+import funkin.game.Strum;
+import funkin.game.StrumLine;
+import funkin.game.Note;
+import funkin.game.Character;
+import funkin.editors.ui.UIButtonList;
+import funkin.editors.ui.UIDropDown;
+import funkin.editors.ui.UIText;
+import funkin.editors.ui.UIButton;
+import funkin.editors.ui.UITopMenu;
+import funkin.editors.ui.UIWindow;
+import funkin.editors.ui.UICheckbox;
+
+import sys.io.File;
+import sys.FileSystem;
+import haxe.Json;
+trace("Spawned");
+
+var camBackdrop:FlxCamera;
+var strumCamera:FlxCamera;
+var uiCamera:FlxCamera;
+
+public var strumLine:FlxTypedGroup<Strum> = new FlxTypedGroup();
+public var strumLineBG:FlxTypedGroup<Strum> = new FlxTypedGroup();
+public var noteLine:FlxTypedGroup<FlxSprite> = new FlxTypedGroup();
+var strumScale = 1;
+var startingPos:FlxPoint = FlxPoint.get(0,0);
+var animations = ['static', 'pressed', 'confirm', 'note'];
+var defaultPoses = [];
+var curAnim = 0;
+var jsonData;
+var topSpr:UITopMenu;
+
+var theList:Array = [];
+var theListNoPath:Array = [];
+
+
+
+function getImageListLower() {
+	var list = [
+		for (sprite in theListNoPath)
+			sprite.toLowerCase()
+	];
+	return list;
+}
+static function lowerCaseArray(array:Array) {
+	var list = [
+		for (sprite in array)
+			sprite.toLowerCase()
+	];
+	return list;
+}
+static function addExt(array:Array, ?ext:String) {
+	var list = [
+		for (item in array)
+			item + '.' + ext
+	];
+	return list;
+}
+static function saveSkinData(?exitAfter:Bool) {
+    WindowUtils.prefix = '';
+    var modRoot = StringTools.replace(Paths.getAssetsRoot(), "./", "") + "/";
+    File.saveContent(modRoot + 'images/game/notes/' + SkinEditor_noteSkin + '.json', Json.stringify(jsonData, null, '    '));
+    if (exitAfter ?? false) {
+        exitEditor();
+    }
+}
+static function exitEditor() {
+    var state = new EditorTreeMenu();
+    state.scriptName = "noteSkinEditor/selector/SkinSelector"; // OVERRIDING NEW AIANT GON STOP ME OPTIONS.TREEMENU
+    FlxG.switchState(state);
+}
+static function deleteSkin() {
+    WindowUtils.prefix = '';
+    var modRoot = StringTools.replace(Paths.getAssetsRoot(), "./", "") + "/";
+    FileSystem.deleteFile(modRoot + 'images/game/notes/' + SkinEditor_noteSkin + '.json');
+    var state = new EditorTreeMenu();
+    state.scriptName = "noteSkinEditor/selector/SkinSelector"; // OVERRIDING NEW AIANT GON STOP ME OPTIONS.TREEMENU
+    FlxG.switchState(state);
+}
+function reloadData() {
+    WindowUtils.prefix = '';
+    jsonData = Json.parse(Assets.getText('images/game/notes/' + SkinEditor_noteSkin + '.json'));
+}
+function create() {
+    var modList = getNoteListImages(true);
+	theList = (modList.length > 0 ? modList : getNoteListImages(false));
+
+	for (i=>asset in theList) {
+		theListNoPath.push(Path.withoutDirectory(Path.withoutExtension(asset)));
+    }
+
+
+
+    Framerate.debugMode = 0;
+    camBackdrop = new FlxCamera();
+    FlxG.cameras.add(camBackdrop, false);
+
+    strumCamera = new FlxCamera();
+    strumCamera.bgColor = FlxColor.TRANSPARENT;
+    FlxG.cameras.add(strumCamera, true);
+
+    uiCamera = new FlxCamera();
+    uiCamera.bgColor = FlxColor.TRANSPARENT;
+    FlxG.cameras.add(uiCamera, false);
+
+    var backdrop = new FlxBackdrop(Paths.image("menus/general/mainChecker"), FlxAxes.XY);
+    backdrop.velocity.set(20, 20);
+    backdrop.alpha = 0.8;
+    backdrop.scale.set(50, 50);
+	backdrop.scrollFactor.set();
+    add(backdrop);
+	backdrop.cameras = [camBackdrop];
+	//backDrop.origin.set(FlxG.width / 2, FlxG.height / 2);
+	//add(backDrop);
+	var gradient = FlxGradient.createGradientFlxSprite(FlxG.width, FlxG.height, [FlxColor.RED, FlxColor.BLUE], 1, 45);
+    gradient.blend = 0;
+    gradient.alpha = 0.5;
+	gradient.scrollFactor.set();
+	gradient.screenCenter();
+    add(gradient);
+    gradient.cameras = [camBackdrop];
+
+
+    startingPos.x = ((FlxG.width-200)/2) - (Note.swagWidth*2);
+    startingPos.y = (FlxG.height/2);
+    trace(SkinEditor_noteSkin);
+    WindowUtils.suffix = " | Editing Note Skin: \"" + StringTools.replace(SkinEditor_noteSkin, '-', ' ') + '\"';
+    jsonData = Json.parse(Assets.getText('images/game/notes/' + SkinEditor_noteSkin + '.json'));
+    topMenu = [
+		{
+			label: "File",
+			childs: [
+				{
+					label: "Save Skin",
+					keybind: [17, 83],
+					onSelect: function() {
+                        saveSkinData();
+					}
+                },
+                {
+					label: "Delete Skin",
+					onSelect: function() {
+                        openSubState(new UISubstateWindow(true, "noteSkinEditor/NotUndoable"));
+					}
+                },
+				null,
+				{
+					label: "Exit",
+					onSelect: function() {
+                        if (WindowUtils.prefix != "* ") {
+                            exitEditor();
+                        } else {
+                            openSubState(new UISubstateWindow(true, "noteSkinEditor/UnsavedChanges"));
+                        }
+					}
+				}
+			]
+		},
+		{
+			label: "JSON",
+			childs: [
+				{
+					label: "Reload JSON",
+                    keybind: [17, 82],
+					onSelect: function(_) {
+                        reloadData();
+					}
+				},
+                {
+					label: "Copy Offsets From JSON",
+					onSelect: function(_) {
+                        //jsonData = Json.parse(Assets.getText('images/game/notes/' + SkinEditor_noteSkin + '.json'));
+                        openSubState(new UISubstateWindow(true, "noteSkinEditor/CopyFrom"));
+					}
+				}
+			]
+		},
+        {
+			label: "About",
+			childs: [
+				{
+					label: "About Editor",
+					onSelect: function(_) {
+                        openSubState(new UISubstateWindow(true, "noteSkinEditor/about/aboutEditor"));
+					}
+				},
+                {
+					label: "Keybinds",
+					onSelect: function(_) {
+                        openSubState(new UISubstateWindow(true, "noteSkinEditor/about/keybinds"));
+					}
+				},
+                {
+					label: "Help",
+					onSelect: function(_) {
+                        openSubState(new UISubstateWindow(true, "noteSkinEditor/about/help"));
+					}
+				}
+			]
+		}
+	];
+    topSpr = new UITopMenu(topMenu);
+	topSpr.cameras = [uiCamera];
+	add(topSpr);
+}
+var offsetList:UIButtonList;
+function postCreate() {
+    generateStrums(4);
+
+    var animMenuSize = FlxPoint.get(200, 400);
+    var daHeighter = 25;
+    offsetList = new UIButtonList(FlxG.width-animMenuSize.x, (daHeighter), animMenuSize.x, animMenuSize.y, "Animations:", FlxPoint.get(animMenuSize.x, 30));
+    offsetList.addIcon.visible = false;
+    offsetList.addButton.visible = false;
+    offsetList.cameras = [uiCamera];
+    add(offsetList);
+
+    var otherSettingPanel:UIWindow = new UIWindow(FlxG.width-animMenuSize.x, (daHeighter) + animMenuSize.y, animMenuSize.x, FlxG.height - ((daHeighter) + animMenuSize.y), "Variables:");
+    otherSettingPanel.cameras = [uiCamera];
+    add(otherSettingPanel);
+
+    var resetOnNextBox:UICheckbox = new UICheckbox(FlxG.width-animMenuSize.x + 5, (daHeighter*2) + animMenuSize.y + 10, "defaultOnNextHit", jsonData.defaultAfterPress ?? true);
+    resetOnNextBox.cameras = [uiCamera];
+    resetOnNextBox.onChecked = function(checked) {
+        jsonData.defaultAfterPress = checked;
+        WindowUtils.prefix = '* ';
+    }
+    add(resetOnNextBox);
+    var splashText:UIText = new UIText(FlxG.width-animMenuSize.x + 5, resetOnNextBox.y + resetOnNextBox.field.height + 10, null, "Note Splash:");
+    splashText.cameras = [uiCamera];
+    add(splashText);
+
+    if (jsonData.splashSkin == null) {
+        jsonData.splashSkin = {
+
+            name: 'default',
+            overrideSongSkin: false
+        }
+    }
+    if (jsonData.splashSkin.name == "vanilla") jsonData.splashSkin.name = 'default';
+    var splashSkinDropdown:UIDropDown = new UIDropDown(FlxG.width-animMenuSize.x + 5, splashText.y + splashText.height + 5, animMenuSize.x, 25, getSplashList(), getSplashList().indexOf(jsonData.splashSkin.name));
+    splashSkinDropdown.cameras = [uiCamera];
+    splashSkinDropdown.onChange = function(to) {
+        jsonData.splashSkin.name = splashSkinDropdown.options[to];
+        WindowUtils.prefix = '* ';
+    }
+    add(splashSkinDropdown);
+
+    var overrideSongSplash:UICheckbox = new UICheckbox(FlxG.width-animMenuSize.x + 5, splashSkinDropdown.y + 10 + 25, "Set Song Splash", jsonData.splashSkin.overrideSongSkin ?? false);
+    overrideSongSplash.cameras = [uiCamera];
+    overrideSongSplash.onChecked = function(checked) {
+        jsonData.splashSkin.overrideSongSkin = checked;
+        WindowUtils.prefix = '* ';
+    }
+    add(overrideSongSplash);
+
+    var spriteDropdown = new UIDropDown(FlxG.width-animMenuSize.x + 5, overrideSongSplash.y+50, animMenuSize.x, 25, addExt(getImageListLower(), 'png'), getImageListLower().indexOf((jsonData.spriteName != null ? Path.withoutExtension(jsonData.spriteName) : SkinEditor_noteSkin)));
+    spriteDropdown.onChange = function(to) {
+        jsonData.spriteName = spriteDropdown.options[to];
+        trace(jsonData.spriteName);
+        for (i=>strum in strumLine.members) {
+            strum.destroy();
+            strumLineBG.members[i].destroy();
+            noteLine.members[i].destroy();
+        }
+        defaultPoses = [];
+        strumLine = new FlxTypedGroup();
+        strumLineBG = new FlxTypedGroup();
+        noteLine = new FlxTypedGroup();
+        generateStrums(4);
+        WindowUtils.prefix = '* ';
+		//updateSprite();
+    }
+    spriteDropdown.cameras = [uiCamera];
+    add(spriteDropdown);
+    var spriteText:UIText = new UIText(FlxG.width-animMenuSize.x + 5, spriteDropdown.y - 20, null, "Note Sprite:");
+    spriteText.cameras = [uiCamera];
+    add(spriteText);
+    for (anim in animations) {
+        offsetList.add(new UIButton(0, 0, anim, function(){
+            curAnim = animations.indexOf(anim);
+            updateAnim();
+            updateOff();
+            for (i=>strum in strumLine.members) {
+                strum.visible = strum.animation.name != 'note';
+                noteLine.members[i].visible = strum.animation.name == 'note';
+            }
+        }, offsetList.buttonSize.x, offsetList.buttonSize.y));
+    }
+
+    var versionText:UIText = new UIText(5, FlxG.height - 20, null, "Nova Note Skin System v1.2");
+    versionText.cameras = [uiCamera];
+    versionText.antialiasing = false;
+    add(versionText);
+}
+function generateStrums(?amount:Int = 4) {
+    if (amount > 4) amount = 4;
+    for (i in 0...amount) {
+        strumLine.add(createStrum(i, [0=>'left', 1=>'down', 2=>'up', 3=>'right'][i]));
+    }
+}
+
+function createStrum(i:Int, ?animPrefix:String) {
+    var event = { animPrefix: animPrefix, sprite: 'game/notes/' + (jsonData.spriteName != null ? Path.withoutExtension(jsonData.spriteName) : SkinEditor_noteSkin) };
+    var babyArrow = new Strum(startingPos.x + ((Note.swagWidth * strumScale) * i), startingPos.y);
+    babyArrow.frames = Paths.getFrames(event.sprite);
+    babyArrow.animation.addByPrefix('note', [0=>'purple', 1=>'blue', 2=>'green', 3=>'red'][i]+"0");
+
+    babyArrow.antialiasing = true;
+    var daWidth = babyArrow.width;
+    babyArrow.setGraphicSize(Std.int((babyArrow.width * 0.7) * strumScale));
+    babyArrow.y -= babyArrow.height/2;
+
+    babyArrow.animation.addByPrefix('static', 'arrow' + event.animPrefix.toUpperCase());
+    babyArrow.animation.addByPrefix('pressed', event.animPrefix + ' press', 24, false);
+    babyArrow.animation.addByPrefix('confirm', event.animPrefix + ' confirm', 24, false);
+
+    //babyArrow.cpu = true;
+    babyArrow.updateHitbox();
+    //babyArrow.scrollFactor.set();
+
+    babyArrow.playAnim('static');
+
+    var bgStrum = babyArrow.clone();
+    bgStrum.alpha = 0.5;
+    bgStrum.setGraphicSize(babyArrow.width, babyArrow.height);
+    //bgStrum.scrollFactor.set();
+    bgStrum.updateHitbox();
+    bgStrum.setPosition(babyArrow.x, babyArrow.y);
+    bgStrum.antialiasing = true;
+    //bgStrum.setGraphicSize(Std.int((daWidth * 0.7) * strumScale));
+    add(bgStrum);
+    strumLineBG.add(bgStrum);
+    //trace(babyArrow);
+    add(babyArrow);
+    defaultPoses.push({x: babyArrow.x, y: babyArrow.y});
+
+    var noteTest = new FlxSprite();
+    noteTest.frames = Paths.getFrames(event.sprite);
+    noteTest.animation.addByPrefix('note', [0=>'purple', 1=>'blue', 2=>'green', 3=>'red'][i]+"0");
+    noteTest.animation.play('note');
+    noteTest.scale.set(strumScale * 0.7, strumScale * 0.7);
+    noteTest.updateHitbox();
+    noteTest.setPosition(babyArrow.x, babyArrow.y);
+    noteTest.antialiasing = true;
+    noteTest.frameOffset.x = -jsonData.offsets.notes[0];
+    noteTest.frameOffset.y = jsonData.offsets.notes[1];
+    noteTest.alpha = 0.5;
+    add(noteTest);
+    noteLine.add(noteTest);
+    return babyArrow;
+}
+function updateAnim() {
+    for (i=>strum in strumLine.members) {
+        //trace(strum);
+        strum.playAnim(animations[curAnim], true);
+    }
+    //trace(animations[curAnim]);
+}
+var xOff;
+var yOff;
+function updateOff() {
+    switch (strumLine.members[0].animation.name) {
+        case 'static':
+            if (jsonData.offsets.statics == null) {
+                xOff = 0;
+                yOff = 0;
+                jsonData.offsets.statics = [0, 0];
+            } else {
+                xOff = jsonData.offsets?.statics[0] ?? 0;
+                yOff = jsonData.offsets?.statics[1] ?? 0;
+            }
+        case 'confirm':
+            if (jsonData.offsets.confirm == null) {
+                xOff = 0;
+                yOff = 0;
+                jsonData.offsets.confirm = [0, 0];
+            } else {
+                xOff = jsonData.offsets?.confirm[0] ?? 0;
+                yOff = jsonData.offsets?.confirm[1] ?? 0;
+            }
+        case 'pressed':
+            if (jsonData.offsets.pressed == null) {
+                xOff = 0;
+                yOff = 0;
+                jsonData.offsets.pressed = [0, 0];
+            } else {
+                xOff = jsonData.offsets?.pressed[0] ?? 0;
+                yOff = jsonData.offsets?.pressed[1] ?? 0;
+            }
+        case 'note':
+            xOff = 0;
+            yOff = 0;
+    }
+}
+function moveOffsets(offsets:FlxPoint) {
+    WindowUtils.prefix = '* ';
+    switch (strumLine.members[0].animation.name) {
+        case 'static':
+            jsonData.offsets?.statics[0] += offsets.x;
+            jsonData.offsets?.statics[1] += offsets.y;
+        case 'confirm':
+            jsonData.offsets?.confirm[0] += offsets.x;
+            jsonData.offsets?.confirm[1] += offsets.y;
+        case 'pressed':
+            jsonData.offsets?.pressed[0] += offsets.x;
+            jsonData.offsets?.pressed[1] += offsets.y;
+        case 'note':
+            jsonData.offsets?.notes[0] += offsets.x;
+            jsonData.offsets?.notes[1] += offsets.y;
+    }
+}
+var camOffset = FlxPoint.get(-45, -20);
+var camZoom = 1.8;
+import flixel.input.FlxInput;
+function update(e) {
+    if (FlxG.keys.pressed.CONTROL) {
+        if (FlxG.keys.justPressed.R) {
+            reloadData();
+        } else if (FlxG.keys.justPressed.S) {
+            saveSkinData();
+        }
+    }
+    //trace(keys);
+    if (FlxG.keys.justPressed.R && !FlxG.keys.pressed.CONTROL)
+		FlxG.switchState(new UIState(true, "noteSkinEditor/SkinEditor"));
+    if (controls.BACK) {
+        //FlxG.switchState(new MainMenuState());
+    }
+    //if (controls.LEFT)
+    strumCamera.scroll.x = lerp(strumCamera.scroll.x, camOffset.x, 0.2);
+    strumCamera.scroll.y = lerp(strumCamera.scroll.y, camOffset.y, 0.2);
+    strumCamera.zoom = lerp(strumCamera.zoom, camZoom, 0.2);
+    //strumCamera.targetPos.x -= lerp(strumCamera.scroll.x, camOffset.x, 0.4);
+    if (FlxG.keys.pressed.J && !FlxG.keys.pressed.CONTROL) {
+        camOffset.x -= FlxG.keys.pressed.SHIFT ? 1 : 5;
+    }
+    if (FlxG.keys.pressed.L && !FlxG.keys.pressed.CONTROL) {
+        camOffset.x += FlxG.keys.pressed.SHIFT ? 1 : 5;
+    }
+    if (FlxG.keys.pressed.I && !FlxG.keys.pressed.CONTROL) {
+        camOffset.y -= FlxG.keys.pressed.SHIFT ? 1 : 5;
+    }
+    if (FlxG.keys.pressed.K && !FlxG.keys.pressed.CONTROL) {
+        camOffset.y += FlxG.keys.pressed.SHIFT ? 1 : 5;
+    }
+    if (FlxG.keys.pressed.U && !FlxG.keys.pressed.CONTROL) {
+        var amt = FlxG.keys.pressed.SHIFT ? 1/100 : 5/100;
+        if (camZoom-amt > 0) {
+            camZoom -= amt;
+        }
+    }
+    if (FlxG.keys.pressed.O && !FlxG.keys.pressed.CONTROL) {
+        camZoom += FlxG.keys.pressed.SHIFT ? 1/100 : 5/100;
+    }
+    //trace(camZoom);
+    var mult = (strumLine.members[0].animation.name == 'note' ? 1 : -1);
+    if (FlxG.keys.justPressed.LEFT && !FlxG.keys.pressed.CONTROL) {
+        moveOffsets(FlxPoint.get((FlxG.keys.pressed.SHIFT ? -5 : -1) * mult, 0));
+    }
+    if (FlxG.keys.justPressed.RIGHT && !FlxG.keys.pressed.CONTROL) {
+        moveOffsets(FlxPoint.get((FlxG.keys.pressed.SHIFT ? 5 : 1) * mult, 0));
+    }
+    if (FlxG.keys.justPressed.DOWN && !FlxG.keys.pressed.CONTROL) {
+        moveOffsets(FlxPoint.get(0, (FlxG.keys.pressed.SHIFT ? -5 : -1) * mult));
+    }
+    if (FlxG.keys.justPressed.UP && !FlxG.keys.pressed.CONTROL) {
+        moveOffsets(FlxPoint.get(0, (FlxG.keys.pressed.SHIFT ? 5 : 1) * mult));
+    }
+    if (FlxG.keys.justPressed.W && !FlxG.keys.pressed.CONTROL) {
+        if (curAnim-1 >= 0) {
+            curAnim--;
+        } else {
+            curAnim = animations.length-1;
+        }
+        updateAnim();
+    }
+    if (FlxG.keys.justPressed.S && !FlxG.keys.pressed.CONTROL) {
+        if (curAnim+1 < animations.length) {
+            curAnim++;
+        } else {
+            curAnim = 0;
+        }
+        updateAnim();
+    }
+    if (FlxG.keys.justPressed.SPACE && !FlxG.keys.pressed.CONTROL) {
+        updateAnim();
+    }
+
+    for (i=>strum in strumLine.members) {
+        //trace(strum);
+        var offs = [
+            "static" => "statics",
+            "confirm" => "confirm",
+            "pressed" => "pressed"
+        ];
+
+        updateOff();
+        strum.x = defaultPoses[i].x - xOff;
+        strum.y = defaultPoses[i].y + yOff;
+        if (strum.animation.name == 'static') {
+            strumLineBG.members[i].x = defaultPoses[i].x - xOff;
+            strumLineBG.members[i].y = defaultPoses[i].y + yOff;
+        }
+        noteLine.members[i].frameOffset.x = -jsonData.offsets.notes[0];
+        noteLine.members[i].frameOffset.y = jsonData.offsets.notes[1];
+        strum.visible = strum.animation.name != 'note';
+        noteLine.members[i].visible = strum.animation.name == 'note';
+        //trace(jsonData.offsets);
+        //trace();
+    }
+    //trace();
+}
+static function getSplashList() {
+    var listAssets = [
+		for (path in Paths.getFolderContent('data/splashes/', true, null)) // BOTH: null | MODS: false
+			if (Path.extension(path) == "xml") Path.withoutDirectory(Path.withoutExtension(path))
+	];
+    //trace(listAssets);
+	return listAssets;
+}
+
+static function copyOffsets(name:String) {
+    WindowUtils.prefix = '* ';
+    var tempJsonData = Json.parse(Assets.getText('images/game/notes/' + name));
+    jsonData.offsets = tempJsonData.offsets;
+}

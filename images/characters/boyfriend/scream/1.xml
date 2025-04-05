@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture-0.png" width="8187" height="7976">
+	<SubTexture name="BF Ballistic Idle0001" x="557" y="7604" width="505" height="363" frameX="-18" frameY="-13" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0002" x="3" y="7604" width="551" height="363" frameX="-2" frameY="-13" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0003" x="6139" y="4113" width="565" height="362" frameX="-0" frameY="-14" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0004" x="6707" y="4113" width="565" height="362" frameX="-1" frameY="-14" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0005" x="7073" y="7502" width="559" height="365" frameX="-7" frameY="-12" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0006" x="1065" y="7604" width="504" height="365" frameX="-10" frameY="-12" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0007" x="1572" y="7604" width="503" height="369" frameX="-12" frameY="-8" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0008" x="2078" y="7604" width="454" height="369" frameX="-45" frameY="-8" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0009" x="7549" y="3918" width="457" height="374" frameX="-50" frameY="-3" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0010" x="7635" y="7502" width="457" height="374" frameX="-50" frameY="-3" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0011" x="7549" y="3159" width="452" height="377" frameX="-53" frameY="-0" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0012" x="7521" y="2107" width="448" height="377" frameX="-51" frameY="-0" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0013" x="7521" y="2487" width="453" height="376" frameX="-46" frameY="-1" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Idle0014" x="7549" y="3539" width="453" height="376" frameX="-46" frameY="-1" frameWidth="566" frameHeight="377"/>
+	<SubTexture name="BF Ballistic Powerup0001" x="6139" y="3" width="675" height="1049" frameX="-10" frameY="-0" frameWidth="701" frameHeight="1057"/>
+	<SubTexture name="BF Ballistic Powerup0002" x="6817" y="2107" width="701" height="951" frameX="-0" frameY="-106" frameWidth="701" frameHeight="1057"/>
+	<SubTexture name="BF Ballistic Powerup0003" x="7494" y="1055" width="690" height="1005" frameX="-4" frameY="-49" frameWidth="701" frameHeight="1057"/>
+	<SubTexture name="BF Ballistic Powerup0004" x="6139" y="1055" width="675" height="1049" frameX="-10" frameY="-0" frameWidth="701" frameHeight="1057"/>
+	<SubTexture name="BF Ballistic Powerup0006" x="7073" y="4478" width="690" height="1005" frameX="-4" frameY="-49" frameWidth="701" frameHeight="1057"/>
+	<SubTexture name="BF Ballistic Powerup0007" x="6139" y="2107" width="675" height="1049" frameX="-10" frameY="-0" frameWidth="701" frameHeight="1057"/>
+	<SubTexture name="BF Ballistic Scream0001" x="6817" y="3" width="674" height="1049" frameX="-2649" frameY="-1596" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0002" x="3" y="4728" width="3532" height="2873" frameX="-1206" frameY="-842" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0003" x="3" y="3" width="6133" height="4722" frameX="-0" frameY="-0" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0004" x="6817" y="1055" width="674" height="1049" frameX="-2649" frameY="-1596" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0005" x="6139" y="3159" width="702" height="951" frameX="-2638" frameY="-1702" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0006" x="3538" y="4728" width="3532" height="2873" frameX="-1206" frameY="-842" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0008" x="6844" y="3159" width="702" height="951" frameX="-2638" frameY="-1702" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0009" x="7073" y="5486" width="689" height="1005" frameX="-2643" frameY="-1645" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0012" x="7073" y="6494" width="689" height="1005" frameX="-2643" frameY="-1645" frameWidth="6133" frameHeight="4722"/>
+	<SubTexture name="BF Ballistic Scream0013" x="7494" y="3" width="674" height="1049" frameX="-2649" frameY="-1596" frameWidth="6133" frameHeight="4722"/>
+</TextureAtlas>

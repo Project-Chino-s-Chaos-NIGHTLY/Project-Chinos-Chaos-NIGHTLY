@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-62" y="203" sprite="robot" scale="1.06" flipX="true" camx="200" icon="robot" color="#00DAD8">
+	<anim name="idle" anim="LazerSkate Robo idle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="shoot" anim="LazerSkate Robo shoot" x="37" y="0" fps="24" loop="false"/>
+	<anim name="hit" anim="LazerSkate Robo hit0" x="62" y="0" fps="24" loop="false"/>
+	<anim name="yikes" anim="LazerSkate Robo hit strong " x="718" y="28" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="LazerSkate Robo hit strong " x="718" y="28" fps="24" loop="false" indices="15"/>
+</character>

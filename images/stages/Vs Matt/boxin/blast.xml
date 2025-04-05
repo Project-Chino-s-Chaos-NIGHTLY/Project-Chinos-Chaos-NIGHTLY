@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="blast.png" width="1150" height="1122">
+	<SubTexture name="Hit0000" x="3" y="847" width="566" height="135" frameX="-0" frameY="-174" frameWidth="799" frameHeight="427"/>
+	<SubTexture name="Hit0001" x="3" y="3" width="413" height="346" frameX="-272" frameY="-34" frameWidth="799" frameHeight="427"/>
+	<SubTexture name="Hit0002" x="748" y="3" width="246" height="392" frameX="-472" frameY="-12" frameWidth="799" frameHeight="427"/>
+	<SubTexture name="Hit0003" x="426" y="428" width="308" height="416" frameX="-467" frameY="-1" frameWidth="799" frameHeight="427"/>
+	<SubTexture name="Hit0004" x="426" y="3" width="319" height="422" frameX="-467" frameY="-5" frameWidth="799" frameHeight="427"/>
+	<SubTexture name="Hit0005" x="737" y="428" width="273" height="423" frameX="-526" frameY="-3" frameWidth="799" frameHeight="427"/>
+	<SubTexture name="Hit0006" x="3" y="352" width="420" height="330" rotated="true" frameX="-469" frameY="-4" frameWidth="799" frameHeight="427"/>
+	<SubTexture name="Hit0007" x="419" y="3" width="1" height="1" frameX="-0" frameY="-0" frameWidth="799" frameHeight="427"/>
+	<SubTexture name="Miss0000" x="3" y="985" width="565" height="134" frameX="-0" frameY="-0" frameWidth="1767" frameHeight="136"/>
+	<SubTexture name="Miss0001" x="571" y="985" width="565" height="134" frameX="-600" frameY="-0" frameWidth="1767" frameHeight="136"/>
+	<SubTexture name="Miss0002" x="1013" y="3" width="134" height="565" rotated="true" frameX="-1200" frameY="-0" frameWidth="1767" frameHeight="136"/>
+	<SubTexture name="Miss0003" x="419" y="3" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1767" frameHeight="136"/>
+</TextureAtlas>

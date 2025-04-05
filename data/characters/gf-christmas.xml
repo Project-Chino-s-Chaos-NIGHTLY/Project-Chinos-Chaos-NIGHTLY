@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="80" y="240" sprite="gf/christmas" camx="-140" camy="50" icon="gf" color="#A5004D" interval="1" isGF="true">
+	<anim name="danceLeft" anim="GF bop happy (ballistic timing)" x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7"/>
+	<anim name="danceRight" anim="GF bop happy (ballistic timing)" x="0" y="0" fps="24" loop="false" indices="7,8,9,10,11,12,13,14,15"/>
+</character>

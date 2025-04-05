@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "path": "gfStandHappy",
+            "x": 116,
+            "y": 251,
+            "scale": 0.67,
+            "animPrefix": "bop",
+            "frameRate": 14,
+            "loop": true
+        },
+        {
+            "path": "bfAgro",
+            "x": -94,
+            "y": 348,
+            "scale": 0.67,
+            "animPrefix": "idle",
+            "frameRate": 24,
+            "loop": true
+        },
+        {
+            "path": "whittyAgro",
+            "x": 218,
+            "y": 23,
+            "scale": 0.67,
+            "animPrefix": "idle",
+            "frameRate": 24,
+            "loop": true
+        }
+    ],
+    [
+        {
+            "path": "gfStandNerve",
+            "x": 116,
+            "y": 251,
+            "scale": 0.67,
+            "animPrefix": "bop",
+            "frameRate": 14,
+            "loop": true
+        },
+        {
+            "path": "bfIce",
+            "x": -140,
+            "y": 375,
+            "scale": 0.67,
+            "animPrefix": "idle",
+            "frameRate": 24,
+            "loop": true
+        },
+        {
+            "path": "whittyBallistic",
+            "x": 50,
+            "y": 55,
+            "scale": 0.67,
+            "animPrefix": "idle",
+            "frameRate": 24,
+            "loop": true
+        }
+    ],
+    [
+        {
+            "path": "gf",
+            "x": 175,
+            "y": 250,
+            "scale": 0.67,
+            "animPrefix": null
+        },
+        {
+            "path": "bf",
+            "x": -100,
+            "y": 300,
+            "scale": 0.67,
+            "animPrefix": null,
+            "flipX": true
+        }
+    ],
+    [
+        {
+            "path": "sonic",
+            "x": 125,
+            "y": 100,
+            "scale": 0.67,
+            "animPrefix": null
+        },
+        {
+            "path": "shadow",
+            "x": -150,
+            "y": 190,
+            "scale": 0.67,
+            "animPrefix": null
+        }
+    ],
+    [
+        {
+            "path": "charabf",
+            "x": -25,
+            "y": 350,
+            "scale":  1.1,
+            "animPrefix": "Chara Bf Clash Thingy",
+            "loop": true
+        }
+    ]
+]

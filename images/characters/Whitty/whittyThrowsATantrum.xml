@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="whittyThrowsATantrum.png" width="5947" height="6230">
+	<SubTexture name="Whitty Ballistic Powerup v20001" x="3" y="3182" width="1459" height="938" rotated="true" frameX="-14" frameY="-0" frameWidth="976" frameHeight="1471"/>
+	<SubTexture name="Whitty Ballistic Powerup v20002" x="4529" y="3" width="976" height="1324" frameX="-0" frameY="-147" frameWidth="976" frameHeight="1471"/>
+	<SubTexture name="Whitty Ballistic Powerup v20003" x="3039" y="2859" width="1399" height="960" rotated="true" frameX="-6" frameY="-68" frameWidth="976" frameHeight="1471"/>
+	<SubTexture name="Whitty Ballistic Powerup v20004" x="1465" y="3182" width="1459" height="938" rotated="true" frameX="-14" frameY="-0" frameWidth="976" frameHeight="1471"/>
+	<SubTexture name="Whitty Ballistic Powerup v20005" x="4529" y="3" width="976" height="1324" frameX="-0" frameY="-147" frameWidth="976" frameHeight="1471"/>
+	<SubTexture name="Whitty Ballistic Powerup v20006" x="2927" y="3822" width="1399" height="960" rotated="true" frameX="-6" frameY="-68" frameWidth="976" frameHeight="1471"/>
+	<SubTexture name="Whitty Ballistic Powerup0001" x="4529" y="1330" width="969" height="921" frameX="-0" frameY="-44" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0002" x="4528" y="2254" width="969" height="921" frameX="-0" frameY="-44" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0003" x="4441" y="3178" width="969" height="921" frameX="-0" frameY="-44" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0004" x="4329" y="4102" width="969" height="921" frameX="-0" frameY="-44" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0005" x="4529" y="1330" width="969" height="921" frameX="-0" frameY="-44" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0006" x="4528" y="2254" width="969" height="921" frameX="-0" frameY="-44" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0007" x="894" y="5501" width="882" height="726" rotated="true" frameX="-121" frameY="-26" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0008" x="3" y="5501" width="888" height="726" rotated="true" frameX="-121" frameY="-20" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0009" x="2655" y="5462" width="868" height="726" rotated="true" frameX="-121" frameY="-40" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0010" x="1779" y="5462" width="873" height="726" rotated="true" frameX="-121" frameY="-35" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0011" x="894" y="5501" width="882" height="726" rotated="true" frameX="-121" frameY="-26" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0012" x="3" y="5501" width="888" height="726" rotated="true" frameX="-121" frameY="-20" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0013" x="2655" y="5462" width="868" height="726" rotated="true" frameX="-121" frameY="-40" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0014" x="4482" y="5543" width="813" height="514" rotated="true" frameX="-229" frameY="-19" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0015" x="3526" y="5302" width="514" height="822" frameX="-229" frameY="-10" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0016" x="2750" y="4785" width="828" height="514" rotated="true" frameX="-229" frameY="-4" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0017" x="4482" y="5026" width="814" height="514" rotated="true" frameX="-229" frameY="-18" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0018" x="4482" y="5543" width="813" height="514" rotated="true" frameX="-229" frameY="-19" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0019" x="3526" y="5302" width="514" height="822" frameX="-229" frameY="-10" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0020" x="2750" y="4785" width="828" height="514" rotated="true" frameX="-229" frameY="-4" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0021" x="5500" y="2944" width="437" height="796" frameX="-235" frameY="-12" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0022" x="5301" y="4906" width="437" height="795" frameX="-235" frameY="-13" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0023" x="5501" y="2140" width="437" height="801" frameX="-235" frameY="-7" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0024" x="5501" y="1330" width="437" height="807" frameX="-235" frameY="-1" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0025" x="5508" y="3" width="436" height="813" frameX="-235" frameY="-19" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0026" x="4043" y="5026" width="436" height="822" frameX="-235" frameY="-10" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Powerup0027" x="5301" y="4102" width="599" height="801" frameX="-184" frameY="-97" frameWidth="969" frameHeight="965"/>
+	<SubTexture name="Whitty Ballistic Scream0001" x="1632" y="3" width="1407" height="1522" frameX="-159" frameY="-0" frameWidth="1771" frameHeight="1688"/>
+	<SubTexture name="Whitty Ballistic Scream0002" x="1632" y="1528" width="1404" height="1516" rotated="true" frameX="-118" frameY="-147" frameWidth="1771" frameHeight="1688"/>
+	<SubTexture name="Whitty Ballistic Scream0003" x="3" y="3" width="1626" height="1553" frameX="-77" frameY="-67" frameWidth="1771" frameHeight="1688"/>
+	<SubTexture name="Whitty Ballistic Scream0004" x="3042" y="1522" width="1483" height="1334" rotated="true" frameX="-233" frameY="-0" frameWidth="1771" frameHeight="1688"/>
+	<SubTexture name="Whitty Ballistic Scream0005" x="3" y="4123" width="1407" height="1375" frameX="-159" frameY="-147" frameWidth="1771" frameHeight="1688"/>
+	<SubTexture name="Whitty Ballistic Scream0006" x="3042" y="3" width="1484" height="1516" rotated="true" frameX="-118" frameY="-67" frameWidth="1771" frameHeight="1688"/>
+	<SubTexture name="Whitty Ballistic Scream0007" x="3" y="1559" width="1626" height="1620" frameX="-77" frameY="-0" frameWidth="1771" frameHeight="1688"/>
+	<SubTexture name="Whitty Ballistic Scream0008" x="1413" y="4123" width="1334" height="1336" frameX="-233" frameY="-147" frameWidth="1771" frameHeight="1688"/>
+</TextureAtlas>

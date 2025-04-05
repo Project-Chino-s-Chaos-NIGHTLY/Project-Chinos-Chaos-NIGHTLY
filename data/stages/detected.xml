@@ -1,0 +1,36 @@
+<!DOCTYPE codename-engine-stage>
+<stage lockCamPos="true" startCamPosX="630" startCamPosY="260" folder="stages/Vs Hex/detected/" name="detected" zoom="0.6">
+	<sprite x="0" sprite="hexBack" y="0" scale="2" type="none" name="wall"/>
+	<sprite x="0" sprite="hexFront" y="0" scale="2" type="none" name="ground"/>
+	<sprite x="424" y="582" sprite="ca" type="none" scale="1.35" name="caLogo"/>
+	<sprite x="331" y="265" sprite="speakerAnimated" scale="1.35" name="speakerBopBehind">
+		<anim x="0" loop="false" y="0" fps="24" anim="bop" type="beat" name="idle"/>
+	</sprite>
+	<gf x="644.5" scrolly="1" scrollx="1" y="-61.25"/>
+	<sprite x="331" y="265" sprite="speakerAnimated" scale="1.35" name="speakerBop">
+		<anim x="0" loop="false" y="0" fps="24" anim="bop" type="beat" name="idle"/>
+	</sprite>
+	<char x="900" y="-510" flip="true" name="carol"/>
+	<char x="820" y="-140" flip="true" name="robot"/>
+	<dad x="-113" y="64"/>
+	<char x="1195" y="-86" flip="true" name="whitty-hexfight"/>
+	<sprite x="0" sprite="speaker" y="0" alpha="0" type="beat" name="attackLayerRobot"/>
+	<sprite x="0" y="-100" sprite="visuals/finalAttack" type="none" name="finalAttack" scale="2.1" alpha="0">
+		<anim x="0" loop="false" y="0" fps="24" anim="exist" type="none" name="exist"/>
+	</sprite>
+	<boyfriend x="774" y="-89.25"/>
+	<sprite x="0" sprite="speaker" y="0" alpha="0" type="beat" name="attackLayer"/>
+	<sprite x="50" sprite="crowd" type="none" scale="2.1" name="crowd">
+		
+		
+		<anim loop="false" fps="24" anim="Symbol 1" type="beat" name="idle"/>
+		
+
+		
+		<property type="int" name="beatInterval" value="1"/>
+		
+	
+	</sprite>
+	<sprite x="0" sprite="topOverlay" y="0" scale="2" type="none" name="walkway"/>
+	<combo x="490" y="145.75"/>
+</stage>

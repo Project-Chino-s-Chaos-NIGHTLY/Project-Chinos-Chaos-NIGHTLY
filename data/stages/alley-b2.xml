@@ -1,0 +1,24 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs Whitty/b2/" zoom="0.4">
+	<sprite x="-474" scrolly="0.2" sprite="night sky" y="-86" scale="2" name="sky" scrollx="0.2"/>
+	<sprite x="0" scrolly="0.9" sprite="funny buildings in bg" y="0" scale="1.5" name="buildsBG" scrollx="0.5"/>
+	<sprite x="0" scrolly="1" sprite="more building bullshit" y="0" scale="1.5" name="bgBuilds" scrollx="0.7"/>
+	<sprite x="0" scrolly="0.9" sprite="even more funny building bullshit" y="0" scale="1.5" name="bgBuilds1" scrollx="0.9"/>
+	<sprite x="0" scrolly="0.9" sprite="even more funny building bullshit the second" y="0" scale="1.5" name="bgBuilds2" scrollx="0.9"/>
+	<sprite x="0" scrolly="0.9" sprite="even more funny building bullshit the third" y="0" scale="1.5" name="bgBuilds3" scrollx="0.9"/>
+	<sprite x="0" scrolly="0.9" sprite="even more funny building bullshit the fourth" y="0" scale="1.5" name="bgBuilds4" scrollx="0.9"/>
+	<sprite x="0" scrolly="1" sprite="tf" y="0" scale="1.5" name="road" scrollx="1"/>
+	<sprite x="0" scrolly="1" sprite="nice floor" y="0" scale="1.5" name="floor" scrollx="1"/>
+	<sprite x="0" scrolly="1" sprite="funny eyes" y="0" scale="1.5" name="doorway" scrollx="1"/>
+	<sprite x="0" scrolly="1" sprite="fence baby" y="0" scale="1.5" name="fence" scrollx="1"/>
+	<sprite x="0" scrolly="1" sprite="wire blur" y="0" scale="1.5" name="wiresBack" scrollx="1"/>
+	<sprite x="0" scrolly="1" sprite="rails" y="0" scale="1.5" name="rails" scrollx="1"/>
+	<sprite x="0" scrolly="1" sprite="wires big" y="0" scale="1.5" name="wiresFront" scrollx="1"/>
+	<gf alpha="0" x="1102" y="547"/>
+	<dad x="775" y="509"/>
+	<bf x="1630" y="500"/>
+	<combo/>
+	<sprite x="0" scrolly="1" sprite="light" y="0" scale="1.5" name="light" scrollx="1"/>
+	<sprite x="0" scrolly="1" sprite="walls" y="0" scale="1.5" name="walls" scrollx="1"/>
+	<sprite x="-1000" scrolly="1.5" sprite="trash" y="100" scale="1.5" name="trash" scrollx="1.5"/>
+</stage>

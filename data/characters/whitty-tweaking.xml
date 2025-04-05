@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-180" y="-25" sprite="whitty/tweaking/" icon="Vs Whitty/whitty-crazy" color="#CE002C">
+	<anim name="tweak" anim="Whitty Ballistic Tweaking" x="302" y="497" fps="24" loop="false"/>
+</character>

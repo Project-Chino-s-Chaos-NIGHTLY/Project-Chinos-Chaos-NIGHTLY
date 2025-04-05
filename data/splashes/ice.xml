@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-splashes>
+<splashes sprite="game/splashes/ice" alpha="0.6">
+	<strum id="0">
+		<anim name="splashleft1" anim="splash" fps="24" x="-35" y="10"/>
+	</strum>
+
+	<strum id="1">
+		<anim name="splashdown1" anim="splash" fps="24" x="-35" y="10"/>
+	</strum>
+
+	<strum id="2">
+		<anim name="splashup1" anim="splash" fps="24" x="-35" y="10"/>
+	</strum>
+
+	<strum id="3">
+		<anim name="splashright1" anim="splash" fps="24" x="-35" y="10"/>
+	</strum>
+</splashes>

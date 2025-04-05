@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-20" sprite="whitty/dabomb" icon="Vs Whitty/whitty" color="#1D1E35">
+	<anim name="idle" anim="Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Sing Left" x="10" y="-2" fps="24" loop="false" indices="0,1,2,3,3,3,3,3,4,5,6,7,8,9,10,11,12,13"/>
+	<anim name="singDOWN" anim="Sing Down" x="26" y="1" fps="24" loop="false" indices="0,1,2,3,3,3,3,3,4,5,6,7,8,9,10,11,12,13"/>
+	<anim name="singUP" anim="Sing Up" x="1" y="51" fps="24" loop="false" indices="0,1,2,3,3,3,3,3,4,5,6,7,8,9,10,11,12,13"/>
+	<anim name="singRIGHT" anim="Sing Right" x="0" y="27" fps="24" loop="false" indices="0,1,2,3,3,3,3,3,4,5,6,7,8,9,10,11,12,13"/>
+	<anim name="hit" anim=" Hit" x="28" y="7" fps="24" loop="false"/>
+</character>

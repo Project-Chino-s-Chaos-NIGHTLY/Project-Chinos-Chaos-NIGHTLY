@@ -1,0 +1,15 @@
+{
+    "noteSkin": {
+        "strumSpecific": [
+            {
+                "strums": "fire-crazy",
+                "notes": "fire-crazy"
+            },
+            {
+                "strums": "ice",
+                "notes": "ice"
+            }
+        ]
+    },
+    "splashSkin": "vanilla"
+}

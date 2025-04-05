@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="300" y="325" sprite="matt/festive" camx="-180" icon="Vs Matt/matt" color="#FDB003">
+	<anim name="blockDOWN" anim="Matt Block Down" x="-35" y="-9" fps="24" loop="false"/>
+	<anim name="blockRIGHT" anim="Matt Block Right" x="-35" y="-10" fps="24" loop="false"/>
+	<anim name="blockLEFT" anim="Matt Block Left" x="-35" y="-10" fps="24" loop="false"/>
+	<anim name="blockUP" anim="Matt Block Up" x="-21" y="-11" fps="24" loop="false"/>
+	<anim name="idle" anim="Matt Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Matt Attack Up" x="-41" y="22" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Matt Attack Left" x="106" y="-40" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Matt Attack Right" x="272" y="-37" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Matt Attack Down" x="-59" y="-8" fps="24" loop="false"/>
+</character>

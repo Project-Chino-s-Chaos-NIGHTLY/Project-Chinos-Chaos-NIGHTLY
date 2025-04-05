@@ -1,0 +1,24 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 144,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": false,
+	"parsedColor": -65536,
+	"displayName": "Megalo Strike Back",
+	"icon": "Vs Chara/chara",
+	"name": "megalo-strike-back",
+	"color": "#FF0000",
+	"customValues": {
+		"partText": "Vs Chara ~ Knife Fight",
+		"preventHealthGain": "true",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"charter": "unassigned",
+		"comingIn": "1.2"
+	}
+}

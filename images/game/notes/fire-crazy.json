@@ -1,0 +1,25 @@
+{
+    "defaultAfterPress": true,
+    "offsets": {
+        "pressed": [
+            0,
+            0
+        ],
+        "confirm": [
+            -2,
+            -35
+        ],
+        "statics": [
+            0,
+            0
+        ],
+        "notes": [
+            -14,
+            20
+        ]
+    },
+    "splashSkin": {
+        "overrideSongSkin": false,
+        "name": "default"
+    }
+}

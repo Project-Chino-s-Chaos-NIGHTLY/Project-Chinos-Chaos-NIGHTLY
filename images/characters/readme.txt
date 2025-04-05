@@ -1,0 +1,1 @@
+Some of these had to be spritesheets because of adobe filters not exporting onto atlases.

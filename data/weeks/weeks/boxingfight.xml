@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-week>
+<week name="Boxing Fight" chars="matt" sprite="fight5">
+	<difficulty name="HARD"/>
+
+	<song>sporting</song>
+</week>

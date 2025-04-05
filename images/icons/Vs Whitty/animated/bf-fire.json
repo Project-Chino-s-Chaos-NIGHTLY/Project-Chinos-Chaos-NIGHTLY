@@ -1,0 +1,35 @@
+{
+	"flip": true,
+	"states": [
+		{
+			"anim": "BF Flame even icon",
+			"offsets": [
+				3,
+				37
+			],
+			"indices": [],
+			"loop": true,
+			"fps": 24
+		},
+		{
+			"anim": "BF Flame dying icon",
+			"offsets": [
+				3,
+				35
+			],
+			"indices": [],
+			"loop": true,
+			"fps": 24
+		},
+		{
+			"anim": "BF Flame winning icon",
+			"offsets": [
+				3,
+				37
+			],
+			"indices": [],
+			"loop": true,
+			"fps": 24
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 200,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": false,
+	"parsedColor": -10878721,
+	"displayName": "Taste for Blood X",
+	"icon": "Vs Dark Sonic/sonic",
+	"name": "taste-for-blood-x",
+	"color": "#5A00FF",
+	"customValues": {
+		"partText": "Vs Dark Sonic ~ Blitz Fight",
+		"preventHealthGain": "true",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"charter": "Hooda The Antagonist",
+		"comingSoon": "true",
+		"comingIn": "1.5"
+	}
+}

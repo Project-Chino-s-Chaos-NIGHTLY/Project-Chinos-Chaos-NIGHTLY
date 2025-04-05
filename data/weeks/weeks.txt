@@ -1,0 +1,9 @@
+# THIS FILE ISN'T NECESSARY,
+# BUT YOU CAN USE IT TO SORT WEEKS
+
+firefight
+firefight2
+# firefight3, I hate this
+hexfight
+charafight
+boxingfight

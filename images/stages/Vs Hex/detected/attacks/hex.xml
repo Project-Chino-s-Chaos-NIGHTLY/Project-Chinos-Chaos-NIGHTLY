@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hex.png" width="3076" height="3076">
+	<SubTexture name="Hex Attack Down BF Shield0000" x="3" y="2966" width="338" height="95" frameX="-1" frameY="-24" frameWidth="363" frameHeight="126"/>
+	<SubTexture name="Hex Attack Down BF Shield0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="363" frameHeight="126"/>
+	<SubTexture name="Hex Attack Down BF Shield0002" x="831" y="2960" width="353" height="110" frameX="-4" frameY="-2" frameWidth="363" frameHeight="126"/>
+	<SubTexture name="Hex Attack Down BF Shield0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="363" frameHeight="126"/>
+	<SubTexture name="Hex Attack Down BF0000" x="2300" y="2913" width="472" height="99" frameX="-1" frameY="-24" frameWidth="505" frameHeight="130"/>
+	<SubTexture name="Hex Attack Down BF0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="130"/>
+	<SubTexture name="Hex Attack Down BF0002" x="2883" y="2216" width="123" height="496" rotated="true" frameX="-3" frameY="-1" frameWidth="505" frameHeight="130"/>
+	<SubTexture name="Hex Attack Down BF0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="130"/>
+	<SubTexture name="Hex Attack Down Carol0000" x="1882" y="603" width="545" height="320" frameX="-2" frameY="-22" frameWidth="589" frameHeight="353"/>
+	<SubTexture name="Hex Attack Down Carol0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="589" frameHeight="353"/>
+	<SubTexture name="Hex Attack Down Carol0002" x="3" y="1666" width="576" height="346" frameX="-7" frameY="-1" frameWidth="589" frameHeight="353"/>
+	<SubTexture name="Hex Attack Down Carol0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="589" frameHeight="353"/>
+	<SubTexture name="Hex Attack Down GF0000" x="2463" y="2219" width="241" height="437" rotated="true" frameX="-1" frameY="-24" frameWidth="472" frameHeight="284"/>
+	<SubTexture name="Hex Attack Down GF0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="472" frameHeight="284"/>
+	<SubTexture name="Hex Attack Down GF0002" x="3" y="2015" width="461" height="278" frameX="-5" frameY="-1" frameWidth="472" frameHeight="284"/>
+	<SubTexture name="Hex Attack Down GF0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="472" frameHeight="284"/>
+	<SubTexture name="Hex Attack Down Whitty0000" x="2098" y="926" width="208" height="713" rotated="true" frameX="-1" frameY="-25" frameWidth="757" frameHeight="255"/>
+	<SubTexture name="Hex Attack Down Whitty0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="757" frameHeight="255"/>
+	<SubTexture name="Hex Attack Down Whitty0002" x="582" y="1848" width="745" height="249" frameX="-5" frameY="-1" frameWidth="757" frameHeight="255"/>
+	<SubTexture name="Hex Attack Down Whitty0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="757" frameHeight="255"/>
+	<SubTexture name="Hex Attack Left BF Shield0000" x="1924" y="424" width="527" height="126" frameX="-1" frameY="-0" frameWidth="562" frameHeight="133"/>
+	<SubTexture name="Hex Attack Left BF Shield0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="562" frameHeight="133"/>
+	<SubTexture name="Hex Attack Left BF Shield0002" x="2921" y="3" width="121" height="552" rotated="true" frameX="-4" frameY="-3" frameWidth="562" frameHeight="133"/>
+	<SubTexture name="Hex Attack Left BF Shield0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="562" frameHeight="133"/>
+	<SubTexture name="Hex Attack Left BF0000" x="755" y="2739" width="715" height="133" frameX="-2" frameY="-1" frameWidth="761" frameHeight="140"/>
+	<SubTexture name="Hex Attack Left BF0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="761" frameHeight="140"/>
+	<SubTexture name="Hex Attack Left BF0002" x="3" y="2629" width="749" height="127" frameX="-5" frameY="-7" frameWidth="761" frameHeight="140"/>
+	<SubTexture name="Hex Attack Left BF0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="761" frameHeight="140"/>
+	<SubTexture name="Hex Attack Left Carol0000" x="2098" y="1642" width="190" height="762" rotated="true" frameX="-1" frameY="-24" frameWidth="813" frameHeight="236"/>
+	<SubTexture name="Hex Attack Left Carol0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="813" frameHeight="236"/>
+	<SubTexture name="Hex Attack Left Carol0002" x="1865" y="1376" width="230" height="800" rotated="true" frameX="-6" frameY="-1" frameWidth="813" frameHeight="236"/>
+	<SubTexture name="Hex Attack Left Carol0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="813" frameHeight="236"/>
+	<SubTexture name="Hex Attack Left GF0000" x="3" y="2759" width="649" height="112" frameX="-1" frameY="-23" frameWidth="694" frameHeight="144"/>
+	<SubTexture name="Hex Attack Left GF0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="694" frameHeight="144"/>
+	<SubTexture name="Hex Attack Left GF0002" x="2707" y="1928" width="138" height="682" rotated="true" frameX="-6" frameY="-1" frameWidth="694" frameHeight="144"/>
+	<SubTexture name="Hex Attack Left GF0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="694" frameHeight="144"/>
+	<SubTexture name="Hex Attack Left Whitty0000" x="1473" y="2774" width="942" height="97" frameX="-2" frameY="-23" frameWidth="1001" frameHeight="126"/>
+	<SubTexture name="Hex Attack Left Whitty0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1001" frameHeight="126"/>
+	<SubTexture name="Hex Attack Left Whitty0002" x="896" y="2499" width="989" height="118" frameX="-7" frameY="-1" frameWidth="1001" frameHeight="126"/>
+	<SubTexture name="Hex Attack Left Whitty0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1001" frameHeight="126"/>
+	<SubTexture name="Hex Attack Right BF Shield0000" x="2867" y="2971" width="136" height="86" rotated="true" frameX="-1" frameY="-35" frameWidth="97" frameHeight="180"/>
+	<SubTexture name="Hex Attack Right BF Shield0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="97" frameHeight="180"/>
+	<SubTexture name="Hex Attack Right BF Shield0002" x="2775" y="2913" width="89" height="158" frameX="-3" frameY="-3" frameWidth="97" frameHeight="180"/>
+	<SubTexture name="Hex Attack Right BF Shield0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="97" frameHeight="180"/>
+	<SubTexture name="Hex Attack Right BF0000" x="2883" y="2715" width="186" height="253" rotated="true" frameX="-4" frameY="-1" frameWidth="278" frameHeight="194"/>
+	<SubTexture name="Hex Attack Right BF0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="278" frameHeight="194"/>
+	<SubTexture name="Hex Attack Right BF0002" x="1882" y="926" width="180" height="271" rotated="true" frameX="-1" frameY="-3" frameWidth="278" frameHeight="194"/>
+	<SubTexture name="Hex Attack Right BF0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="278" frameHeight="194"/>
+	<SubTexture name="Hex Attack Right Carol0000" x="2059" y="2444" width="268" height="185" frameX="-1" frameY="-31" frameWidth="292" frameHeight="239"/>
+	<SubTexture name="Hex Attack Right Carol0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="292" frameHeight="239"/>
+	<SubTexture name="Hex Attack Right Carol0002" x="949" y="2100" width="281" height="231" frameX="-5" frameY="-2" frameWidth="292" frameHeight="239"/>
+	<SubTexture name="Hex Attack Right Carol0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="292" frameHeight="239"/>
+	<SubTexture name="Hex Attack Right GF0000" x="2330" y="2444" width="127" height="172" rotated="true" frameX="-2" frameY="-32" frameWidth="190" frameHeight="166"/>
+	<SubTexture name="Hex Attack Right GF0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="190" frameHeight="166"/>
+	<SubTexture name="Hex Attack Right GF0002" x="582" y="1666" width="151" height="174" rotated="true" frameX="-10" frameY="-2" frameWidth="190" frameHeight="166"/>
+	<SubTexture name="Hex Attack Right GF0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="190" frameHeight="166"/>
+	<SubTexture name="Hex Attack Right Whitty0000" x="2418" y="2767" width="448" height="143" frameX="-1" frameY="-36" frameWidth="483" frameHeight="186"/>
+	<SubTexture name="Hex Attack Right Whitty0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="483" frameHeight="186"/>
+	<SubTexture name="Hex Attack Right Whitty0002" x="1924" y="256" width="471" height="165" frameX="-7" frameY="-2" frameWidth="483" frameHeight="186"/>
+	<SubTexture name="Hex Attack Right Whitty0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="483" frameHeight="186"/>
+	<SubTexture name="Hex Attack Up BF Shield0000" x="1924" y="3" width="474" height="250" frameX="-6" frameY="-1" frameWidth="516" frameHeight="272"/>
+	<SubTexture name="Hex Attack Up BF Shield0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="516" frameHeight="272"/>
+	<SubTexture name="Hex Attack Up BF Shield0002" x="1330" y="1848" width="259" height="509" rotated="true" frameX="-1" frameY="-7" frameWidth="516" frameHeight="272"/>
+	<SubTexture name="Hex Attack Up BF Shield0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="516" frameHeight="272"/>
+	<SubTexture name="Hex Attack Up BF0000" x="1582" y="3" width="339" height="597" rotated="true" frameX="-7" frameY="-1" frameWidth="646" frameHeight="367"/>
+	<SubTexture name="Hex Attack Up BF0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="646" frameHeight="367"/>
+	<SubTexture name="Hex Attack Up BF0002" x="1525" y="735" width="354" height="638" rotated="true" frameX="-2" frameY="-7" frameWidth="646" frameHeight="367"/>
+	<SubTexture name="Hex Attack Up BF0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="646" frameHeight="367"/>
+	<SubTexture name="Hex Attack Up Carol0000" x="2824" y="707" width="128" height="662" rotated="true" frameX="-2" frameY="-1" frameWidth="708" frameHeight="135"/>
+	<SubTexture name="Hex Attack Up Carol0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="708" frameHeight="135"/>
+	<SubTexture name="Hex Attack Up Carol0002" x="2797" y="3" width="121" height="701" rotated="true" frameX="-1" frameY="-7" frameWidth="708" frameHeight="135"/>
+	<SubTexture name="Hex Attack Up Carol0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="708" frameHeight="135"/>
+	<SubTexture name="Hex Attack Up GF0000" x="1888" y="2179" width="168" height="592" rotated="true" frameX="-3" frameY="-1" frameWidth="634" frameHeight="184"/>
+	<SubTexture name="Hex Attack Up GF0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="634" frameHeight="184"/>
+	<SubTexture name="Hex Attack Up GF0002" x="2291" y="1814" width="169" height="627" rotated="true" frameX="-1" frameY="-9" frameWidth="634" frameHeight="184"/>
+	<SubTexture name="Hex Attack Up GF0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="634" frameHeight="184"/>
+	<SubTexture name="Hex Attack Up Whitty0000" x="1640" y="1376" width="222" height="850" rotated="true" frameX="-2" frameY="-1" frameWidth="905" frameHeight="245"/>
+	<SubTexture name="Hex Attack Up Whitty0001" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="905" frameHeight="245"/>
+	<SubTexture name="Hex Attack Up Whitty0002" x="740" y="1615" width="897" height="230" frameX="-2" frameY="-9" frameWidth="905" frameHeight="245"/>
+	<SubTexture name="Hex Attack Up Whitty0003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="905" frameHeight="245"/>
+	<SubTexture name="Hex Possess instance 10000" x="3" y="450" width="1083" height="335" frameX="-10" frameY="-66" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Hex Possess instance 10001" x="3" y="3" width="1169" height="444" frameX="-0" frameY="-0" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Hex Possess instance 10002" x="2469" y="1124" width="107" height="1092" rotated="true" frameX="-18" frameY="-128" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Hex Possess instance 10003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Hex Possess instance 10004" x="2469" y="3" width="105" height="1118" rotated="true" frameX="-35" frameY="-132" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Hex Possess instance 10005" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Hex Possess instance 10006" x="2577" y="3" width="101" height="1100" rotated="true" frameX="-56" frameY="-137" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Hex Possess instance 10007" x="2955" y="558" width="44" height="718" rotated="true" frameX="-97" frameY="-140" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Hex Possess instance 10008" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1174" frameHeight="450"/>
+	<SubTexture name="Possess BF instance 10000" x="775" y="1201" width="724" height="411" frameX="-11" frameY="-1" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess BF instance 10001" x="3" y="788" width="769" height="470" frameX="-2" frameY="-0" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess BF instance 10002" x="1175" y="3" width="404" height="729" rotated="true" frameX="-16" frameY="-8" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess BF instance 10003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess BF instance 10004" x="775" y="788" width="747" height="410" frameX="-27" frameY="-15" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess BF instance 10005" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess BF instance 10006" x="3" y="1261" width="734" height="402" frameX="-41" frameY="-24" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess BF instance 10007" x="467" y="2100" width="479" height="260" frameX="-72" frameY="-41" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess BF instance 10008" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="786" frameHeight="476"/>
+	<SubTexture name="Possess CAROL instance 10000" x="3" y="2501" width="819" height="125" frameX="-8" frameY="-10" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess CAROL instance 10001" x="3" y="2363" width="890" height="135" frameX="-1" frameY="-2" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess CAROL instance 10002" x="2710" y="827" width="111" height="823" rotated="true" frameX="-16" frameY="-21" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess CAROL instance 10003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess CAROL instance 10004" x="825" y="2620" width="841" height="116" frameX="-28" frameY="-16" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess CAROL instance 10005" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess CAROL instance 10006" x="2681" y="3" width="113" height="821" rotated="true" frameX="-50" frameY="-17" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess CAROL instance 10007" x="831" y="2875" width="538" height="82" frameX="-77" frameY="-45" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess CAROL instance 10008" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="898" frameHeight="141"/>
+	<SubTexture name="Possess GF instance 10000" x="2059" y="2659" width="821" height="105" frameX="-10" frameY="-17" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess GF instance 10001" x="949" y="2360" width="887" height="136" frameX="-3" frameY="-0" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess GF instance 10002" x="2942" y="1372" width="64" height="824" rotated="true" frameX="-19" frameY="-23" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess GF instance 10003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess GF instance 10004" x="3009" y="558" width="64" height="846" rotated="true" frameX="-30" frameY="-24" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess GF instance 10005" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess GF instance 10006" x="3009" y="1407" width="62" height="825" rotated="true" frameX="-51" frameY="-26" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess GF instance 10007" x="1187" y="2967" width="543" height="41" frameX="-77" frameY="-28" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess GF instance 10008" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="896" frameHeight="142"/>
+	<SubTexture name="Possess WHITTY instance 10000" x="2579" y="1106" width="128" height="819" rotated="true" frameX="-9" frameY="-11" frameWidth="893" frameHeight="161"/>
+	<SubTexture name="Possess WHITTY instance 10001" x="2309" y="926" width="157" height="885" rotated="true" frameX="-1" frameY="-0" frameWidth="893" frameHeight="161"/>
+	<SubTexture name="Possess WHITTY instance 10002" x="1473" y="2874" width="824" height="90" frameX="-17" frameY="-17" frameWidth="893" frameHeight="161"/>
+	<SubTexture name="Possess WHITTY instance 10003" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="893" frameHeight="161"/>
+	<SubTexture name="Possess WHITTY instance 10004" x="2848" y="1372" width="91" height="841" rotated="true" frameX="-31" frameY="-18" frameWidth="893" frameHeight="161"/>
+	<SubTexture name="Possess WHITTY instance 10005" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="893" frameHeight="161"/>
+	<SubTexture name="Possess WHITTY instance 10006" x="3" y="2875" width="825" height="88" frameX="-50" frameY="-21" frameWidth="893" frameHeight="161"/>
+	<SubTexture name="Possess WHITTY instance 10007" x="1187" y="3015" width="540" height="58" frameX="-77" frameY="-24" frameWidth="893" frameHeight="161"/>
+	<SubTexture name="Possess WHITTY instance 10008" x="736" y="1666" width="1" height="1" frameX="-0" frameY="-0" frameWidth="893" frameHeight="161"/>
+</TextureAtlas>

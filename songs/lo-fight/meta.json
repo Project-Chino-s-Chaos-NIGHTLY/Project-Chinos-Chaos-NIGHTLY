@@ -1,0 +1,23 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 120.5,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -14868939,
+	"displayName": "Lo-Fight",
+	"icon": "Vs Whitty/whitty",
+	"name": "lo-fight",
+	"color": "#1D1E35",
+	"customValues": {
+		"partText": "Vs Whitty ~ Fire Fight: Part 1",
+		"preventHealthGain": "false",
+		"preventCamZooming": "false",
+		"composer": "unassigned",
+		"charter": "SuperSonicFan2020 (Fixed up by Rodney)"
+	}
+}

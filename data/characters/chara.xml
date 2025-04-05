@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character y="250" sprite="chara/basic" icon="Vs Chara/chara">
+	<anim name="idle" anim="Chara Idle" x="0" y="0" fps="24" loop="true"/>
+	<!-- Default Poses -->
+	<anim name="singLEFT" anim="Chara Sing Left =)0" x="165" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Chara Sing Down =)" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Chara Sing Up =)" x="109" y="28" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Chara Sing Right =)" x="1" y="0" fps="24" loop="false"/>
+	<!-- ALT Reflegon -->
+	<anim name="singLEFT-heart" anim="Chara Sing Left =) (heart ref)" x="165" y="0" fps="24" loop="false"/>
+	<!-- Agro Poses -->
+	<anim name="singLEFT-alt" anim="Chara Sing Left Aggressive0" x="165" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="Chara Sing Down Aggresssive0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="Chara Sing Up Aggressive0" x="109" y="28" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="Chara Sing Right Aggressive0" x="1" y="0" fps="24" loop="false"/>
+</character>

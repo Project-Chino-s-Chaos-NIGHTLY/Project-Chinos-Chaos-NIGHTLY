@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="boyfriend/boxin" scale="1.1" flipX="true" camx="-100" isPlayer="true" icon="bf" color="#30B0D1">
+	<anim name="idle" anim="BF Idle" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF Attack Left" x="157" y="-11" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF Attack Down" x="137" y="-39" fps="24" loop="false"/>
+	<anim name="singUP" anim="BF Attack Up" x="149" y="-4" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF Attack Right" x="153" y="7" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="BF Miss Left " x="158" y="-7" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF Miss Down " x="145" y="-6" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="BF Miss Up" x="151" y="-2" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF Miss Right " x="156" y="4" fps="24" loop="false"/>
+	<anim name="blockLEFT" anim="BF Block Left" x="-9" y="-4" fps="24" loop="false"/>
+	<anim name="blockDOWN" anim="BF Block Down" x="-8" y="-4" fps="24" loop="false"/>
+	<anim name="blockUP" anim="BF Block Up" x="-9" y="-5" fps="24" loop="false"/>
+	<anim name="blockRIGHT" anim="BF Block Right" x="-9" y="-3" fps="24" loop="false"/>
+	<anim name="dodgeDOWN" anim="BF Dodge Down" x="-4" y="-58" fps="24" loop="false"/>
+	<anim name="dodgeUP" anim="BF Dodge Up" x="0" y="-12" fps="24" loop="false"/>
+	<anim name="bustsAtMatt" anim="BF Attack FistThrow" x="157" y="-8" fps="24" loop="false"/>
+	<anim name="bfBackshots" anim="BF hit in the back" x="-5" y="-7" fps="24" loop="false"/>
+</character>

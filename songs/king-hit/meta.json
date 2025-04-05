@@ -1,0 +1,25 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 270,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -24061,
+	"displayName": "King Hit",
+	"icon": "Vs Matt/matt",
+	"name": "king-hit",
+	"color": "#FFA203",
+	"customValues": {
+		"partText": "Vs Matt ~ Boxing Fight: Part 3",
+		"preventCamZooming": "true",
+		"composer": "unassigned",
+		"comingIn": "2.0",
+		"preventHealthGain": "true",
+		"charter": "unassigned",
+		"comingSoon": "true"
+	}
+}
