@@ -23,6 +23,7 @@ If you have a nightly build installed, on the bottom left of the main menu it wi
 6. Now open "CodenameEngine.exe"
 7. Once you are in the main menu press "TAB"
 8. (If Needed) Scroll down to "PROJECT CHINOS CHAOS NIGHTLY", then press enter.
+9. (OPTIONAL) Join the Nightly Discord server! https://discord.gg/UbEPe2vzg5
 
 That's it, you're done. Enjoy the nightly build.
 
