@@ -2,8 +2,8 @@
 <character sprite="updike/skate" icon="Vs Whitty/updike" color="#FFFFFF">
 	<anim name="idle" anim="UpSkate Idle0" x="0" y="0" fps="24" loop="false"/>
 	<anim name="singUP" anim="UpSkate up0" x="-2" y="10" fps="24" loop="false"/>
-	<anim name="singLEFT" anim="UpSkate right0" x="-23" y="-3" fps="24" loop="false"/>
-	<anim name="singRIGHT" anim="UpSkate left0" x="2" y="-6" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="UpSkate right0" x="-23" y="-3" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="UpSkate left0" x="2" y="-6" fps="24" loop="false"/>
 	<anim name="singDOWN" anim="UpSkate down0" x="-15" y="-13" fps="24" loop="false"/>
 	<anim name="shook" anim="UpSkate shook" x="2" y="-6" fps="24" loop="false"/>
 	<anim name="shoot" anim="UpSkate shoot" x="2" y="-5" fps="24" loop="false"/>

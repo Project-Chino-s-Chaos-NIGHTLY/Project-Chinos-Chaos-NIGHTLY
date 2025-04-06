@@ -3,7 +3,7 @@ import haxe.Xml;
 import haxe.xml.Access;
 import haxe.io.Path;
 
-var defaultNext:Array<Bool> = [false, false, false, false, false, false, false, false];
+var defaultNext:Array<Bool> = [false, false, false, false, false, false, false, false, false, false, false, false];
 
 var globalStrumOffsets:Array = [];
 
@@ -209,8 +209,6 @@ function onStartSong() {
 	}
 	for (si=> strumLine in strumLines.members) {
 		strumLines.members[si].onHit.add((e) -> {
-
-
 			var additiveNum = 4;
 			var dirs = ['left', 'down', 'up', 'right'];
 			if (e.noteType != null || checkSongSkinData(si) != null) {
@@ -226,7 +224,9 @@ function onStartSong() {
 					strumLines.members[si].members[e.direction].extra.set('type', daType);
 					if (!disablePositioning) strumLines.members[si].members[e.direction].x = defaultStrumPoses[e.direction + (additiveNum * si)].x;
 					strumLines.members[si].members[e.direction].y = defaultStrumPoses[e.direction + (additiveNum * si)].y;
+
 					defaultNext[e.direction + (additiveNum * si)] = skinData.defaultAfterPress;
+
 					strumLines.members[si].members[e.direction].updateHitbox();
 					if (!disablePositioning) strumLines.members[si].members[e.direction].x += skinData.offsets.confirm[0] ?? 0;
 					strumLines.members[si].members[e.direction].y += di(skinData.offsets.confirm[1] ?? 0);

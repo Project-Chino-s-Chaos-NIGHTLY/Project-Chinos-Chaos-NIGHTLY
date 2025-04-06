@@ -78,6 +78,12 @@ var stepEvents = [
 	744 => ()-> {
         sundayToggle();
 	},
+	818 => ()-> {
+        sundayToggle();
+	},
+	832 => ()-> {
+        sundayToggle();
+	},
 	856 => ()-> {
         sundayToggle();
 	},

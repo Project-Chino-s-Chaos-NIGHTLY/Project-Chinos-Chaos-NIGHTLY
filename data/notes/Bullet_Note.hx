@@ -6,8 +6,11 @@ function onNoteHit(event) {
 			dad.playAnim("shoot", true);
 		} else if (curStep < 848) {
 			gf.playAnim("shoot", true);
+		} else if (curStep < 1138) {
+			boyfriend.playAnim("shoot", true);
 		} else {
 			boyfriend.playAnim("shoot", true);
+			dad.playAnim("shoot", true);
 		}
 	}
 }
