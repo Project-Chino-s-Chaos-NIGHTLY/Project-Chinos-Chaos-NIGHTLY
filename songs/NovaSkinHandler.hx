@@ -8,8 +8,7 @@ var defaultNext:Array<Bool> = [false, false, false, false, false, false, false, 
 var globalStrumOffsets:Array = [];
 
 var songSplashes:Array<String> = [];
-static var disablePositioningX:Bool = false;
-static var disablePositioningY:Bool = false;
+static var disablePositioning:Bool = false;
 
 function onStrumCreation(e) {
 	globalStrumOffsets.push({
@@ -179,8 +178,8 @@ function postUpdate(elasped:Float) {
 	for (si=> strumLine in strumLines.members) {
 		for (i=> strumLine in strumLine.members) {
 			if (strumLine.animation.name == 'static') {
-				if (!disablePositioningX) strumLine.x = defaultStrumPoses[i + (4 * si)].x + globalStrumOffsets[i + (4 * si)].statics.x;
-				if (!disablePositioningY) strumLine.y = defaultStrumPoses[i + (4 * si)].y + globalStrumOffsets[i + (4 * si)].statics.y;
+				if (!disablePositioning) strumLine.x = defaultStrumPoses[i + (4 * si)].x + globalStrumOffsets[i + (4 * si)].statics.x;
+				strumLine.y = defaultStrumPoses[i + (4 * si)].y + globalStrumOffsets[i + (4 * si)].statics.y;
 			}
 		}
 	}
@@ -223,14 +222,14 @@ function onStartSong() {
 					strumLines.members[si].members[e.direction].animation.addByPrefix('confirm', dirs[e.direction] + ' confirm', 24, false);
 					strumLines.members[si].members[e.direction].animation.addByPrefix('pressed', dirs[e.direction] + ' press', 24, false);
 					strumLines.members[si].members[e.direction].extra.set('type', daType);
-					if (!disablePositioningX) strumLines.members[si].members[e.direction].x = defaultStrumPoses[e.direction + (additiveNum * si)].x;
-					if (!disablePositioningY) strumLines.members[si].members[e.direction].y = defaultStrumPoses[e.direction + (additiveNum * si)].y;
+					if (!disablePositioning) strumLines.members[si].members[e.direction].x = defaultStrumPoses[e.direction + (additiveNum * si)].x;
+					strumLines.members[si].members[e.direction].y = defaultStrumPoses[e.direction + (additiveNum * si)].y;
 
 					defaultNext[e.direction + (additiveNum * si)] = skinData.defaultAfterPress;
 
 					strumLines.members[si].members[e.direction].updateHitbox();
-					if (!disablePositioningX) strumLines.members[si].members[e.direction].x += skinData.offsets.confirm[0] ?? 0;
-					if (!disablePositioningY) strumLines.members[si].members[e.direction].y += di(skinData.offsets.confirm[1] ?? 0);
+					if (!disablePositioning) strumLines.members[si].members[e.direction].x += skinData.offsets.confirm[0] ?? 0;
+					strumLines.members[si].members[e.direction].y += di(skinData.offsets.confirm[1] ?? 0);
 				}
 				// e.cancelStrumGlow();
 			} else {
