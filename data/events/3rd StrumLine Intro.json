@@ -1,0 +1,19 @@
+{
+	"params": [
+		{
+			"name": "Reveal 3rd StrumLine?",
+			"type": "Bool",
+			"defaultValue": true
+		},
+		{
+			"name": "Speed Mult",
+			"type": "Float(0, 999999, 0.0001, 10)",
+			"defaultValue": 1
+		},
+		{
+			"name": "Show 3rd StrumLine on start?",
+			"type": "Bool",
+			"defaultValue": false
+		}
+	]
+}

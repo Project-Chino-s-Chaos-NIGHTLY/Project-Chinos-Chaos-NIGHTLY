@@ -1,0 +1,17 @@
+{
+    "debugMode": false,
+    "debugRef": "carolRef",
+    "debugChar": 4,
+    "debugCharAnim": "singLEFT",
+    "attackDebugAnim": "left",
+    "attackDebugFrame": 1,
+    "skew": [0, 0],
+    "debugHitChar": 0,
+    "debugHitCharAnim": "hit-middle",
+    "showHUD": false,
+    "stageAssetsToHide": ["speaker", "crowd", "walkway"],
+    "gridVisibilityForce": {
+        "left": false,
+        "right": false
+    }
+}

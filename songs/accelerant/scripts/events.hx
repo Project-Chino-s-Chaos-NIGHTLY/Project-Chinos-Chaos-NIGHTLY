@@ -22,48 +22,6 @@ function postUpdate() {
     camFollow.y = FlxG.height/2;
     camGame.scroll.x = 0;
     camGame.scroll.y = 0;
-    for (si => strumLine in strumLines.members) {
-        if (si == 2) {
-            for (i=>strum in strumLine.members) {
-                strum.alpha = lerp(strum.alpha, theAlpha, 0.1);
-            }
-        }
-        if (si == 0) {
-            for (i=>strum in strumLine.members) {
-                var pos = 0;
-                if (offset != 0) {
-                    pos = defPositions[si][i].x - offset - (10*i) + 35;
-                } else {
-                    pos = defPositions[si][i].x;
-                }
-                strum.x = lerp(strum.x, pos, 0.1);
-            }
-        }
-        if (si == 1) {
-            for (i=>strum in strumLine.members) {
-                var pos = 0;
-                if (offset != 0) {
-                    pos = defPositions[si][i].x + offset - (10*i);
-                } else {
-                    pos = defPositions[si][i].x;
-                }
-                strum.x = lerp(strum.x, pos, 0.1);
-            }
-        }
-        if (si == 2) {
-            for (i=>strum in strumLine.members) {
-                strum.x = defPositions[si][i].x - (10*(i-2));
-            }
-        }
-    }
-    if (sundayActive) {
-        disablePositioning = true;
-        theAlpha = 1;
-        offset = 125;
-    } else {
-        theAlpha = 0;
-        offset = 0;
-    }
 }
 function sundayToggle() { 
     sundayActive = !sundayActive;

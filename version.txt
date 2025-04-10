@@ -1,1 +1,1 @@
-1.2 | v0.0.2-nightly
+1.2 | v0.0.3-nightly
